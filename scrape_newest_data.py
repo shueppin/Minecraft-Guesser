@@ -22,10 +22,33 @@ def get_original_data(url: str) -> dict:
     return json.loads(data)
 
 
-def discover_element_value_list(element_value_list: list) -> list[str] | str | bool | int | float:
+def beautify_data_structure(original_structure: list | dict) -> dict | list | str | int | float | bool:
     """
-    This is a helper function, designed to unscramble the mess of the original data.
-    :param element_value_list: A list containing the value of the actual element of a certain key. This needs to be in the format:
+    This is a recursive function, designed to unscramble and beautify the mess of the original data.
+
+    :param original_structure: A list or dictionary containing one of the following formats:
+        {
+            "id": [
+                0,
+                "button"
+            ],              # Here we can also have a deeper list
+            ...
+        }
+        or
+        [
+            1,
+            [
+                [
+                    0,
+                    "Structure"
+                ],
+                [
+                    0,
+                    "Duplication"
+                ]
+            ]
+        ]                   # It is also allowed to have more or less than one entry
+        or
         [
             0,
             "Button"
@@ -40,38 +63,38 @@ def discover_element_value_list(element_value_list: list) -> list[str] | str | b
             0,
             "Yes"
         ]
-        or
-        [
-            1,
-            [
-                [
-                    0,
-                    "Structure"
-                ],
-                [
-                    0,
-                    "Duplication"
-                ]
-            ]
-        ]
-        (it is also allowed to have just one entry)
-    :return: String if given the first format, Int or float if given the second format, Boolean if given the third format, List of Strings if given the fourth format
-    """
-    if element_value_list[0] == 0:
-        element_value: str | int = element_value_list[1]
-        if type(element_value) == int or type(element_value) == float:
-            return element_value
-        elif element_value.lower() == "yes":
-            return True
-        elif element_value.lower() == "no":
-            return False
-        else:
-            return element_value
 
-    elif element_value_list[0] == 1:
+    :return: Dictionary with the beautified content if given the first format,
+        List with the beautified content if given the second format
+        String if given the third format,
+        Integer or Float if given the fourth format,
+        Boolean if given the fifth format,
+    """
+
+    if original_structure[0] == 0:
+        content: dict | str | int = original_structure[1]
+
+        if type(content) == dict:
+            output_dict = {}
+            for key in content.keys():
+                output_dict[key] = beautify_data_structure(content[key])  # Recursive call
+            return output_dict
+
+        elif type(content) == int or type(content) == float:
+            return content
+
+        elif content.lower() == "yes":
+            return True
+        elif content.lower() == "no":
+            return False
+
+        else:  # Simple string
+            return content
+
+    elif original_structure[0] == 1:  # This means we are using a list
         output_list = []
-        for item in element_value_list[1]:  # The actual list
-            output_list.append(discover_element_value_list(item))  # Recursive call, this should only be called one layer deeper.
+        for item in original_structure[1]:  # The actual list
+            output_list.append(beautify_data_structure(item))  # Recursive call
         return output_list
 
     else:
@@ -84,26 +107,22 @@ def create_clean_json_file(url: str, filepath: str) -> None:
     """
     data: dict = get_original_data(url)
 
-    original_elements: list[list] = data["entries"][1]  # The first element of "entries" is only "1", and the second is a list containing all the entries
+    beautified_original_elements: list[dict] = beautify_data_structure(data["entries"])
 
     new_elements = {}  # A dictionary where the id is the key, and the value is another dictionary with all the data
 
-    for element in original_elements:
-        original_element_dict: dict = element[1]  # Skip the first element, which is only "0"
+    for element in beautified_original_elements:
+        element_data = {}
 
-        minecraft_id = discover_element_value_list(original_element_dict.get("id"))
-        entry_data = {}
-
-        for key in original_element_dict.keys():
+        for key in element.keys():
             if key == "id":
                 continue
-
-            if key == "image_url":
-                entry_data[key] = BASE_IMAGE_URL + discover_element_value_list(original_element_dict[key])
+            elif key == "image_url":  # Update the image URL
+                element_data[key] = BASE_IMAGE_URL + element["image_url"]
             else:
-                entry_data[key] = discover_element_value_list(original_element_dict[key])
+                element_data[key] = element[key]
 
-        new_elements[minecraft_id] = entry_data
+        new_elements[element["id"]] = element_data
 
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(new_elements, f, indent=4)
@@ -111,8 +130,8 @@ def create_clean_json_file(url: str, filepath: str) -> None:
 
 if __name__ == "__main__":
     print("Getting mobs...")
-    create_clean_json_file(MOB_URL, 'mobs.json')
+    create_clean_json_file(MOB_URL, 'data/mobs.json')
     print("Getting blocks...")
-    create_clean_json_file(BLOCK_URL, 'blocks.json')
+    create_clean_json_file(BLOCK_URL, 'data/blocks.json')
     print("Getting items...")
-    create_clean_json_file(ITEM_URL, 'items.json')
+    create_clean_json_file(ITEM_URL, 'data/items.json')

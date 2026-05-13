@@ -1,0 +1,3729 @@
+{
+    "breeze_rod": {
+        "title": "Breeze Rod",
+        "url": "https://minecraft.wiki/w/Breeze_Rod",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/breeze_rod.webp",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.21",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "boat": {
+        "title": "Boat",
+        "url": "https://minecraft.wiki/w/Boat",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/boat.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.6",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "chest_boat": {
+        "title": "Boat with Chest",
+        "url": "https://minecraft.wiki/w/Boat_with_Chest",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/chest_boat.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.19",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities",
+            "redstone_blocks"
+        ]
+    },
+    "armor_stand": {
+        "title": "Armor Stand",
+        "url": "https://minecraft.wiki/w/Armor_Stand",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/armor_stand.png",
+        "renewable": true,
+        "stackable": 16,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "functional_blocks",
+            "redstone_blocks"
+        ]
+    },
+    "beetroot_seeds": {
+        "title": "Beetroot Seeds",
+        "url": "https://minecraft.wiki/w/Beetroot_Seeds",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/beetroot_seeds.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "natural_blocks"
+        ]
+    },
+    "bundle": {
+        "title": "Bundle",
+        "url": "https://minecraft.wiki/w/Bundle",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/bundle.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.21.2",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "experience_bottle": {
+        "title": "Bottle o' Enchanting",
+        "url": "https://minecraft.wiki/w/Bottle_o%27_Enchanting",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/experience_bottle.gif",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.2.1",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "bow": {
+        "title": "Bow",
+        "url": "https://minecraft.wiki/w/Bow",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/bow.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "mob",
+            "fishing",
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "bucket": {
+        "title": "Bucket",
+        "url": "https://minecraft.wiki/w/Bucket",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/bucket.png",
+        "renewable": true,
+        "stackable": 16,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "aquatic_mob_bucket": {
+        "title": "Bucket of Aquatic Mob",
+        "url": "https://minecraft.wiki/w/Bucket_of_Axolotl",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/aquatic_mob_bucket.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.13",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "carrot": {
+        "title": "Carrot",
+        "url": "https://minecraft.wiki/w/Carrot",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/carrot.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.4.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "cocoa_beans": {
+        "title": "Cocoa Beans",
+        "url": "https://minecraft.wiki/w/Cocoa_Beans",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cocoa_beans.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "natural_blocks"
+        ]
+    },
+    "crossbow": {
+        "title": "Crossbow",
+        "url": "https://minecraft.wiki/w/Crossbow",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/crossbow.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.14",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "egg": {
+        "title": "Egg",
+        "url": "https://minecraft.wiki/w/Egg",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/egg.png",
+        "renewable": true,
+        "stackable": 16,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.14",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "combat",
+            "ingredients"
+        ]
+    },
+    "end_crystal": {
+        "title": "End Crystal",
+        "url": "https://minecraft.wiki/w/End_Crystal",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/end_crystal.gif",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "functional_blocks",
+            "combat"
+        ]
+    },
+    "ender_pearl": {
+        "title": "Ender Pearl",
+        "url": "https://minecraft.wiki/w/Ender_Pearl",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/ender_pearl.png",
+        "renewable": true,
+        "stackable": 16,
+        "rarity": "common",
+        "initial_release": "Beta 1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities",
+            "ingredients"
+        ]
+    },
+    "ender_eye": {
+        "title": "Eye of Ender",
+        "url": "https://minecraft.wiki/w/Eye_of_Ender",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/ender_eye.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "functional_blocks",
+            "tools_and_utilities",
+            "ingredients"
+        ]
+    },
+    "fire_charge": {
+        "title": "Fire Charge",
+        "url": "https://minecraft.wiki/w/Fire_Charge",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/fire_charge.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.2.1",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities",
+            "ingredients"
+        ]
+    },
+    "firework_rocket": {
+        "title": "Firework Rocket",
+        "url": "https://minecraft.wiki/w/Firework_Rocket",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/firework_rocket.png",
+        "renewable": "Partial",
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.4.6",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities",
+            "combat"
+        ]
+    },
+    "fishing_rod": {
+        "title": "Fishing Rod",
+        "url": "https://minecraft.wiki/w/Fishing_Rod",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/fishing_rod.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "Alpha 1.1.1",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "flint_and_steel": {
+        "title": "Flint and Steel",
+        "url": "https://minecraft.wiki/w/Flint_and_Steel",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/flint_and_steel.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "glow_berries": {
+        "title": "Glow Berries",
+        "url": "https://minecraft.wiki/w/Glow_Berries",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/glow_berries.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.17",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "natural_blocks",
+            "food_and_drinks"
+        ]
+    },
+    "item_frame": {
+        "title": "Item Frame",
+        "url": "https://minecraft.wiki/w/Glow_Item_Frame",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/item_frame.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.4.2",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "trading"
+        ],
+        "inventory_categories": [
+            "functional_blocks"
+        ]
+    },
+    "kelp": {
+        "title": "Kelp",
+        "url": "https://minecraft.wiki/w/Kelp",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/kelp.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.13",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "trading"
+        ],
+        "inventory_categories": [
+            "natural_blocks"
+        ]
+    },
+    "lava_bucket": {
+        "title": "Lava Bucket",
+        "url": "https://minecraft.wiki/w/Lava_Bucket",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/lava_bucket.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "lead": {
+        "title": "Lead",
+        "url": "https://minecraft.wiki/w/Lead",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/lead.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.6.1",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "lingering_potion": {
+        "title": "Lingering Potion",
+        "url": "https://minecraft.wiki/w/Lingering_Potion",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/lingering_potion.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "brewing_stand"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "mace": {
+        "title": "Mace",
+        "url": "https://minecraft.wiki/w/Mace",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/mace.webp",
+        "renewable": false,
+        "stackable": 1,
+        "rarity": "epic",
+        "initial_release": "1.21",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "melon_seeds": {
+        "title": "Melon Seeds",
+        "url": "https://minecraft.wiki/w/Melon_Seeds",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/melon_seeds.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.8",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "natural_blocks"
+        ]
+    },
+    "minecart": {
+        "title": "Minecart",
+        "url": "https://minecraft.wiki/w/Minecart",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/minecart.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "redstone_blocks",
+            "tools_and_utilities"
+        ]
+    },
+    "chest_minecart": {
+        "title": "Minecart with Chest",
+        "url": "https://minecraft.wiki/w/Minecart_with_Chest",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/chest_minecart.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.14",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "redstone_blocks",
+            "tools_and_utilities"
+        ]
+    },
+    "command_block_minecart": {
+        "title": "Minecart with Command Block",
+        "url": "https://minecraft.wiki/w/Minecart_with_Command_Block",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/command_block_minecart.png",
+        "renewable": false,
+        "stackable": 1,
+        "rarity": "epic",
+        "initial_release": "1.7.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "operator_utilities"
+        ]
+    },
+    "furnace_minecart": {
+        "title": "Minecart with Furnace",
+        "url": "https://minecraft.wiki/w/Minecart_with_Furnace",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/furnace_minecart.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.14",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "redstone_blocks",
+            "tools_and_utilities"
+        ]
+    },
+    "hopper_minecart": {
+        "title": "Minecart with Hopper",
+        "url": "https://minecraft.wiki/w/Minecart_with_Hopper",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/hopper_minecart.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.5",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "redstone_blocks",
+            "tools_and_utilities"
+        ]
+    },
+    "tnt_minecart": {
+        "title": "Minecart with TNT",
+        "url": "https://minecraft.wiki/w/Minecart_with_TNT",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/tnt_minecart.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.5",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "redstone_blocks",
+            "tools_and_utilities"
+        ]
+    },
+    "nether_wart": {
+        "title": "Nether Wart",
+        "url": "https://minecraft.wiki/w/Nether_Wart",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/nether_wart.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "natural_blocks",
+            "ingredients"
+        ]
+    },
+    "ominous_bottle": {
+        "title": "Ominous Bottle",
+        "url": "https://minecraft.wiki/w/Ominous_Bottle",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/ominous_bottle.webp",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.21",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "painting": {
+        "title": "Painting",
+        "url": "https://minecraft.wiki/w/Painting",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/painting.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "trading"
+        ],
+        "inventory_categories": [
+            "functional_blocks",
+            "operator_utilities"
+        ]
+    },
+    "pitcher_pod": {
+        "title": "Pitcher Pod",
+        "url": "https://minecraft.wiki/w/Pitcher_Pod",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/pitcher_pod.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.20",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "natural_blocks"
+        ]
+    },
+    "potato": {
+        "title": "Potato",
+        "url": "https://minecraft.wiki/w/Potato",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/potato.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.4.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "powder_snow_bucket": {
+        "title": "Powder Snow Bucket",
+        "url": "https://minecraft.wiki/w/Powder_Snow_Bucket",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/powder_snow_bucket.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.17",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "pumpkin_seeds": {
+        "title": "Pumpkin Seeds",
+        "url": "https://minecraft.wiki/w/Pumpkin_Seeds",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/pumpkin_seeds.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.8",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "natural_blocks"
+        ]
+    },
+    "redstone": {
+        "title": "Redstone Dust",
+        "url": "https://minecraft.wiki/w/Redstone_Dust",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/redstone.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.1",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "redstone_blocks",
+            "ingredients"
+        ]
+    },
+    "resin_brick": {
+        "title": "Resin Brick",
+        "url": "https://minecraft.wiki/w/Resin_Brick",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/resin_brick.webp",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.21.4",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "snowball": {
+        "title": "Snowball",
+        "url": "https://minecraft.wiki/w/Snowball",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/snowball.png",
+        "renewable": true,
+        "stackable": 16,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.5",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "combat",
+            "ingredients"
+        ]
+    },
+    "splash_potion": {
+        "title": "Splash Potion",
+        "url": "https://minecraft.wiki/w/Splash_Potion",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/splash_potion.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "brewing_stand"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "string": {
+        "title": "String",
+        "url": "https://minecraft.wiki/w/String",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/string.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "redstone_blocks",
+            "ingredients"
+        ]
+    },
+    "sweet_berries": {
+        "title": "Sweet Berries",
+        "url": "https://minecraft.wiki/w/Sweet_Berries",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/sweet_berries.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.14",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "natural_blocks",
+            "food_and_drinks"
+        ]
+    },
+    "torchflower_seeds": {
+        "title": "Torchflower Seeds",
+        "url": "https://minecraft.wiki/w/Torchflower_Seeds",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/torchflower_seeds.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.20",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "natural_blocks"
+        ]
+    },
+    "trial_key": {
+        "title": "Trial Key",
+        "url": "https://minecraft.wiki/w/Trial_Key",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/trial_key.webp",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.21",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "trident": {
+        "title": "Trident",
+        "url": "https://minecraft.wiki/w/Trident",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/trident.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "rare",
+        "initial_release": "1.13",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "water_bucket": {
+        "title": "Water Bucket",
+        "url": "https://minecraft.wiki/w/Water_Bucket",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/water_bucket.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "wheat_seeds": {
+        "title": "Wheat Seeds",
+        "url": "https://minecraft.wiki/w/Wheat_Seeds",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/wheat_seeds.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "natural_blocks"
+        ]
+    },
+    "wind_charge": {
+        "title": "Wind Charge",
+        "url": "https://minecraft.wiki/w/Wind_Charge",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/wind_charge.webp",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.21",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities",
+            "combat"
+        ]
+    },
+    "amethyst_shard": {
+        "title": "Amethyst Shard",
+        "url": "https://minecraft.wiki/w/Amethyst_Shard",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/amethyst_shard.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.17",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "apple": {
+        "title": "Apple",
+        "url": "https://minecraft.wiki/w/Apple",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/apple.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "arrow": {
+        "title": "Arrow",
+        "url": "https://minecraft.wiki/w/Arrow",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/arrow.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "tipped_arrow": {
+        "title": "Tipped Arrow",
+        "url": "https://minecraft.wiki/w/Tipped_Arrow",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/tipped_arrow.webp",
+        "renewable": "Partial",
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "mob",
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "spectral_arrow": {
+        "title": "Spectral Arrow",
+        "url": "https://minecraft.wiki/w/Spectral_Arrow",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/spectral_arrow.webp",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "baked_potato": {
+        "title": "Baked Potato",
+        "url": "https://minecraft.wiki/w/Baked_Potato",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/baked_potato.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.4.2",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "beetroot": {
+        "title": "Beetroot",
+        "url": "https://minecraft.wiki/w/Beetroot",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/beetroot.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "beetroot_soup": {
+        "title": "Beetroot Soup",
+        "url": "https://minecraft.wiki/w/Beetroot_Soup",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/beetroot_soup.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "bone": {
+        "title": "Bone",
+        "url": "https://minecraft.wiki/w/Bone",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/bone.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "bone_meal": {
+        "title": "Bone Meal",
+        "url": "https://minecraft.wiki/w/Bone_Meal",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/bone_meal.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.2",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "mob",
+            "container"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities",
+            "ingredients"
+        ]
+    },
+    "book": {
+        "title": "Book",
+        "url": "https://minecraft.wiki/w/Book",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/book.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.11",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "writable_book": {
+        "title": "Book and Quill",
+        "url": "https://minecraft.wiki/w/Book_and_Quill",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/writable_book.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.3.1",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "bowl": {
+        "title": "Bowl",
+        "url": "https://minecraft.wiki/w/Bowl",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/bowl.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "mob",
+            "fishing"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "bread": {
+        "title": "Bread",
+        "url": "https://minecraft.wiki/w/Bread",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/bread.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "brush": {
+        "title": "Brush",
+        "url": "https://minecraft.wiki/w/Brush",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/brush.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.20",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "carrot_on_a_stick": {
+        "title": "Carrot on a Stick",
+        "url": "https://minecraft.wiki/w/Carrot_on_a_Stick",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/carrot_on_a_stick.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.4.2",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "boots": {
+        "title": "Boots",
+        "url": "https://minecraft.wiki/w/Boots",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/boots.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "mixed",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "chestplate": {
+        "title": "Chestplate",
+        "url": "https://minecraft.wiki/w/Chestplate",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/chestplate.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "mixed",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "helmet": {
+        "title": "Helmet",
+        "url": "https://minecraft.wiki/w/Helmet",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/helmet.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "mixed",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "leggings": {
+        "title": "Leggings",
+        "url": "https://minecraft.wiki/w/Leggings",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/leggings.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "mixed",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "chorus_fruit": {
+        "title": "Chorus Fruit",
+        "url": "https://minecraft.wiki/w/Chorus_Fruit",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/chorus_fruit.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "compass": {
+        "title": "Compass",
+        "url": "https://minecraft.wiki/w/Compass",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/compass.gif",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.1.0",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "cooked_chicken": {
+        "title": "Cooked Chicken",
+        "url": "https://minecraft.wiki/w/Cooked_Chicken",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cooked_chicken.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.8",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "cooked_cod": {
+        "title": "Cooked Cod",
+        "url": "https://minecraft.wiki/w/Cooked_Cod",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cooked_cod.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.2.0",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "cooked_mutton": {
+        "title": "Cooked Mutton",
+        "url": "https://minecraft.wiki/w/Cooked_Mutton",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cooked_mutton.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "cooked_porkchop": {
+        "title": "Cooked Porkchop",
+        "url": "https://minecraft.wiki/w/Cooked_Porkchop",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cooked_porkchop.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "cooked_rabbit": {
+        "title": "Cooked Rabbit",
+        "url": "https://minecraft.wiki/w/Cooked_Rabbit",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cooked_rabbit.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "cooked_salmon": {
+        "title": "Cooked Salmon",
+        "url": "https://minecraft.wiki/w/Cooked_Salmon",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cooked_salmon.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.7.2",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "cookie": {
+        "title": "Cookie",
+        "url": "https://minecraft.wiki/w/Cookie",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cookie.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.4",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "dye": {
+        "title": "Dye",
+        "url": "https://minecraft.wiki/w/Dye",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cyan_dye.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.2",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "debug_stick": {
+        "title": "Debug Stick",
+        "url": "https://minecraft.wiki/w/Debug_Stick",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/debug_stick.gif",
+        "renewable": false,
+        "stackable": 1,
+        "rarity": "epic",
+        "initial_release": "1.13",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "operator_utilities"
+        ]
+    },
+    "axe": {
+        "title": "Axe",
+        "url": "https://minecraft.wiki/w/Axe",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/axe.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities",
+            "combat"
+        ]
+    },
+    "hoe": {
+        "title": "Hoe",
+        "url": "https://minecraft.wiki/w/Hoe",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/hoe.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "horse_armor": {
+        "title": "Horse Armor",
+        "url": "https://minecraft.wiki/w/Horse_Armor",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/horse_armor.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.6.1",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "pickaxe": {
+        "title": "Pickaxe",
+        "url": "https://minecraft.wiki/w/Pickaxe",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/pickaxe.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "shovel": {
+        "title": "Shovel",
+        "url": "https://minecraft.wiki/w/Shovel",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/shovel.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "sword": {
+        "title": "Sword",
+        "url": "https://minecraft.wiki/w/Sword",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/sword.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "dried_kelp": {
+        "title": "Dried Kelp",
+        "url": "https://minecraft.wiki/w/Dried_Kelp",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/dried_kelp.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.13",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "elytra": {
+        "title": "Elytra",
+        "url": "https://minecraft.wiki/w/Elytra",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/elytra.png",
+        "renewable": false,
+        "stackable": 1,
+        "rarity": "epic",
+        "initial_release": "1.9",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "map": {
+        "title": "Map",
+        "url": "https://minecraft.wiki/w/Empty_Map",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/map.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.6",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "enchanted_book": {
+        "title": "Enchanted Book",
+        "url": "https://minecraft.wiki/w/Enchanted_Book",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/enchanted_book.gif",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "uncommon",
+        "initial_release": "1.4.6",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "enchanted_golden_apple": {
+        "title": "Enchanted Golden Apple",
+        "url": "https://minecraft.wiki/w/Enchanted_Golden_Apple",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/enchanted_golden_apple.gif",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "rare",
+        "initial_release": "1.3.1",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "goat_horn": {
+        "title": "Goat Horn",
+        "url": "https://minecraft.wiki/w/Goat_Horn",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/goat_horn.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "uncommon",
+        "initial_release": "1.19",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "glass_bottle": {
+        "title": "Glass Bottle",
+        "url": "https://minecraft.wiki/w/Glass_Bottle",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/glass_bottle.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "glow_ink_sac": {
+        "title": "Glow Ink Sac",
+        "url": "https://minecraft.wiki/w/Glow_Ink_Sac",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/glow_ink_sac.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.17",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "gold_ingot": {
+        "title": "Gold Ingot",
+        "url": "https://minecraft.wiki/w/Gold_Ingot",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/gold_ingot.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "golden_apple": {
+        "title": "Golden Apple",
+        "url": "https://minecraft.wiki/w/Golden_Apple",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/golden_apple.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "golden_carrot": {
+        "title": "Golden Carrot",
+        "url": "https://minecraft.wiki/w/Golden_Carrot",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/golden_carrot.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.4.2",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks",
+            "ingredients"
+        ]
+    },
+    "honeycomb": {
+        "title": "Honeycomb",
+        "url": "https://minecraft.wiki/w/Honeycomb",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/honeycomb.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.15",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "honey_bottle": {
+        "title": "Honey Bottle",
+        "url": "https://minecraft.wiki/w/Honey_Bottle",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/honey_bottle.png",
+        "renewable": true,
+        "stackable": 16,
+        "rarity": "common",
+        "initial_release": "1.15",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "ink_sac": {
+        "title": "Ink Sac",
+        "url": "https://minecraft.wiki/w/Ink_Sac",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/ink_sac.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob",
+            "fishing"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "iron_ingot": {
+        "title": "Iron Ingot",
+        "url": "https://minecraft.wiki/w/Iron_Ingot",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/iron_ingot.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "knowledge_book": {
+        "title": "Knowledge Book",
+        "url": "https://minecraft.wiki/w/Knowledge_Book",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/knowledge_book.png",
+        "renewable": false,
+        "stackable": 1,
+        "rarity": "epic",
+        "initial_release": "1.12",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "none"
+        ]
+    },
+    "lapis_lazuli": {
+        "title": "Lapis Lazuli",
+        "url": "https://minecraft.wiki/w/Lapis_Lazuli",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/lapis_lazuli.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.2",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "melon_slice": {
+        "title": "Melon Slice",
+        "url": "https://minecraft.wiki/w/Melon_Slice",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/melon_slice.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "milk_bucket": {
+        "title": "Milk Bucket",
+        "url": "https://minecraft.wiki/w/Milk_Bucket",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/milk_bucket.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities",
+            "food_and_drinks"
+        ]
+    },
+    "mushroom_stew": {
+        "title": "Mushroom Stew",
+        "url": "https://minecraft.wiki/w/Mushroom_Stew",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/mushroom_stew.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "music_disc": {
+        "title": "Music Disc",
+        "url": "https://minecraft.wiki/w/Music_Disc",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/music_disc.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "mixed",
+        "initial_release": "Alpha 1.0.14",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "name_tag": {
+        "title": "Name Tag",
+        "url": "https://minecraft.wiki/w/Name_Tag",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/name_tag.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.6.1",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "poisonous_potato": {
+        "title": "Poisonous Potato",
+        "url": "https://minecraft.wiki/w/Poisonous_Potato",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/poisonous_potato.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.4.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "potion": {
+        "title": "Potion",
+        "url": "https://minecraft.wiki/w/Potion",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/potion.png",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "brewing_stand"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "pufferfish": {
+        "title": "Pufferfish",
+        "url": "https://minecraft.wiki/w/Pufferfish_(item)",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/pufferfish.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.7.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob",
+            "fishing"
+        ],
+        "inventory_categories": [
+            "food_and_drinks",
+            "ingredients"
+        ]
+    },
+    "pumpkin_pie": {
+        "title": "Pumpkin Pie",
+        "url": "https://minecraft.wiki/w/Pumpkin_Pie",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/pumpkin_pie.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.4.2",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "rabbit_stew": {
+        "title": "Rabbit Stew",
+        "url": "https://minecraft.wiki/w/Rabbit_Stew",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/rabbit_stew.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "beef": {
+        "title": "Raw Beef",
+        "url": "https://minecraft.wiki/w/Raw_Beef",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/beef.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "chicken": {
+        "title": "Raw Chicken",
+        "url": "https://minecraft.wiki/w/Raw_Chicken",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/chicken.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "cod": {
+        "title": "Raw Cod",
+        "url": "https://minecraft.wiki/w/Raw_Cod",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cod.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.2.0",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "mutton": {
+        "title": "Raw Mutton",
+        "url": "https://minecraft.wiki/w/Raw_Mutton",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/mutton.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "porkchop": {
+        "title": "Raw Porkchop",
+        "url": "https://minecraft.wiki/w/Raw_Porkchop",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/porkchop.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "rabbit": {
+        "title": "Raw Rabbit",
+        "url": "https://minecraft.wiki/w/Raw_Rabbit",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/rabbit.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "salmon": {
+        "title": "Raw Salmon",
+        "url": "https://minecraft.wiki/w/Raw_Salmon",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/salmon.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.7.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "rotten_flesh": {
+        "title": "Rotten Flesh",
+        "url": "https://minecraft.wiki/w/Rotten_Flesh",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/rotten_flesh.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "saddle": {
+        "title": "Saddle",
+        "url": "https://minecraft.wiki/w/Saddle",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/saddle.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "shears": {
+        "title": "Shears",
+        "url": "https://minecraft.wiki/w/Shears",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/shears.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "Beta 1.7",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "shield": {
+        "title": "Shield",
+        "url": "https://minecraft.wiki/w/Shield",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/shield.webp",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "spider_eye": {
+        "title": "Spider Eye",
+        "url": "https://minecraft.wiki/w/Spider_Eye",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/spider_eye.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "food_and_drinks",
+            "ingredients"
+        ]
+    },
+    "spyglass": {
+        "title": "Spyglass",
+        "url": "https://minecraft.wiki/w/Spyglass",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/spyglass.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.17",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "cooked_beef": {
+        "title": "Steak",
+        "url": "https://minecraft.wiki/w/Steak",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/cooked_beef.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.8",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "sugar": {
+        "title": "Sugar",
+        "url": "https://minecraft.wiki/w/Sugar",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/sugar.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.2",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "suspicious_stew": {
+        "title": "Suspicious Stew",
+        "url": "https://minecraft.wiki/w/Suspicious_Stew",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/suspicious_stew.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.14",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "totem_of_undying": {
+        "title": "Totem of Undying",
+        "url": "https://minecraft.wiki/w/Totem_of_Undying",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/totem_of_undying.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "uncommon",
+        "initial_release": "1.11",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "tropical_fish": {
+        "title": "Tropical Fish",
+        "url": "https://minecraft.wiki/w/Tropical_Fish",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/tropical_fish.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.7.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob",
+            "fishing"
+        ],
+        "inventory_categories": [
+            "food_and_drinks"
+        ]
+    },
+    "warped_fungus_on_a_stick": {
+        "title": "Warped Fungus on a Stick",
+        "url": "https://minecraft.wiki/w/Warped_Fungus_on_a_Stick",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/warped_fungus_on_a_stick.png",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.16",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "wheat": {
+        "title": "Wheat",
+        "url": "https://minecraft.wiki/w/Wheat",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/wheat.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "written_book": {
+        "title": "Written Book",
+        "url": "https://minecraft.wiki/w/Written_Book",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/written_book.gif",
+        "renewable": true,
+        "stackable": 16,
+        "rarity": "common",
+        "initial_release": "1.3.1",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "none"
+        ]
+    },
+    "pottery_sherd": {
+        "title": "Pottery Sherd",
+        "url": "https://minecraft.wiki/w/Pottery_Sherd",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/pottery_sherd.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.20",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "banner_pattern": {
+        "title": "Banner Pattern",
+        "url": "https://minecraft.wiki/w/Banner_Pattern",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/banner_pattern.webp",
+        "renewable": "Partial",
+        "stackable": 1,
+        "rarity": "mixed",
+        "initial_release": "1.14",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "blaze_powder": {
+        "title": "Blaze Powder",
+        "url": "https://minecraft.wiki/w/Blaze_Powder",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/blaze_powder.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "blaze_rod": {
+        "title": "Blaze Rod",
+        "url": "https://minecraft.wiki/w/Blaze_Rod",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/blaze_rod.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "brick": {
+        "title": "Brick",
+        "url": "https://minecraft.wiki/w/Brick",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/brick.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.11",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "charcoal": {
+        "title": "Charcoal",
+        "url": "https://minecraft.wiki/w/Charcoal",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/charcoal.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Beta 1.2",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "clay_ball": {
+        "title": "Clay Ball",
+        "url": "https://minecraft.wiki/w/Clay_Ball",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/clay_ball.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.11",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "clock": {
+        "title": "Clock",
+        "url": "https://minecraft.wiki/w/Clock",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/clock.gif",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.2.0",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "coal": {
+        "title": "Coal",
+        "url": "https://minecraft.wiki/w/Coal",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/coal.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "armor_trim_smithing_template": {
+        "title": "Armor Trim",
+        "url": "https://minecraft.wiki/w/Armor_Trim",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/armor_trim_smithing_template.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "mixed",
+        "initial_release": "1.20",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "copper_ingot": {
+        "title": "Copper Ingot",
+        "url": "https://minecraft.wiki/w/Copper_Ingot",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/copper_ingot.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.17",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "diamond": {
+        "title": "Diamond",
+        "url": "https://minecraft.wiki/w/Diamond",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/diamond.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "disc_fragment": {
+        "title": "Disc Fragment",
+        "url": "https://minecraft.wiki/w/Disc_Fragment",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/disc_fragment.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.19",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "dragon_breath": {
+        "title": "Dragon's Breath",
+        "url": "https://minecraft.wiki/w/Dragon%27s_Breath",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/dragon_breath.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.9",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "echo_shard": {
+        "title": "Echo Shard",
+        "url": "https://minecraft.wiki/w/Echo_Shard",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/echo_shard.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.19",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "emerald": {
+        "title": "Emerald",
+        "url": "https://minecraft.wiki/w/Emerald",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/emerald.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.3.1",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "feather": {
+        "title": "Feather",
+        "url": "https://minecraft.wiki/w/Feather",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/feather.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "fermented_spider_eye": {
+        "title": "Fermented Spider Eye",
+        "url": "https://minecraft.wiki/w/Fermented_Spider_Eye",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/fermented_spider_eye.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "firework_star": {
+        "title": "Firework Star",
+        "url": "https://minecraft.wiki/w/Firework_Star",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/firework_star.png",
+        "renewable": "Partial",
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.4.6",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "flint": {
+        "title": "Flint",
+        "url": "https://minecraft.wiki/w/Flint",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/flint.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "ghast_tear": {
+        "title": "Ghast Tear",
+        "url": "https://minecraft.wiki/w/Ghast_Tear",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/ghast_tear.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "glistering_melon_slice": {
+        "title": "Glistering Melon Slice",
+        "url": "https://minecraft.wiki/w/Glistering_Melon_Slice",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/glistering_melon_slice.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "glowstone_dust": {
+        "title": "Glowstone Dust",
+        "url": "https://minecraft.wiki/w/Glowstone_Dust",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/glowstone_dust.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.2.0",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "gold_nugget": {
+        "title": "Gold Nugget",
+        "url": "https://minecraft.wiki/w/Gold_Nugget",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/gold_nugget.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "gunpowder": {
+        "title": "Gunpowder",
+        "url": "https://minecraft.wiki/w/Gunpowder",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/gunpowder.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "heart_of_the_sea": {
+        "title": "Heart of the Sea",
+        "url": "https://minecraft.wiki/w/Heart_of_the_Sea",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/heart_of_the_sea.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.13",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "iron_nugget": {
+        "title": "Iron Nugget",
+        "url": "https://minecraft.wiki/w/Iron_Nugget",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/iron_nugget.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.11.1",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "leather": {
+        "title": "Leather",
+        "url": "https://minecraft.wiki/w/Leather",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/leather.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.8",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "magma_cream": {
+        "title": "Magma Cream",
+        "url": "https://minecraft.wiki/w/Magma_Cream",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/magma_cream.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.0.0",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "nautilus_shell": {
+        "title": "Nautilus Shell",
+        "url": "https://minecraft.wiki/w/Nautilus_Shell",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/nautilus_shell.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.13",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob",
+            "fishing",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "nether_brick": {
+        "title": "Nether Brick",
+        "url": "https://minecraft.wiki/w/Nether_Brick",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/nether_brick.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.5",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "quartz": {
+        "title": "Nether Quartz",
+        "url": "https://minecraft.wiki/w/Nether_Quartz",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/quartz.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.5",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "nether_star": {
+        "title": "Nether Star",
+        "url": "https://minecraft.wiki/w/Nether_Star",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/nether_star.gif",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "rare",
+        "initial_release": "1.4.2",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "netherite_ingot": {
+        "title": "Netherite Ingot",
+        "url": "https://minecraft.wiki/w/Netherite_Ingot",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/netherite_ingot.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.16",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "netherite_scrap": {
+        "title": "Netherite Scrap",
+        "url": "https://minecraft.wiki/w/Netherite_Scrap",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/netherite_scrap.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.16",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "netherite_upgrade_smithing_template": {
+        "title": "Netherite Upgrade",
+        "url": "https://minecraft.wiki/w/Netherite_Upgrade",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/netherite_upgrade_smithing_template.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.20",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "paper": {
+        "title": "Paper",
+        "url": "https://minecraft.wiki/w/Paper",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/paper.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.11",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "phantom_membrane": {
+        "title": "Phantom Membrane",
+        "url": "https://minecraft.wiki/w/Phantom_Membrane",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/phantom_membrane.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.13",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "popped_chorus_fruit": {
+        "title": "Popped Chorus Fruit",
+        "url": "https://minecraft.wiki/w/Popped_Chorus_Fruit",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/popped_chorus_fruit.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.9",
+        "recipe": [
+            "furnace"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "prismarine_crystals": {
+        "title": "Prismarine Crystals",
+        "url": "https://minecraft.wiki/w/Prismarine_Crystals",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/prismarine_crystals.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "prismarine_shard": {
+        "title": "Prismarine Shard",
+        "url": "https://minecraft.wiki/w/Prismarine_Shard",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/prismarine_shard.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "rabbit_hide": {
+        "title": "Rabbit Hide",
+        "url": "https://minecraft.wiki/w/Rabbit_Hide",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/rabbit_hide.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "rabbit_foot": {
+        "title": "Rabbit's Foot",
+        "url": "https://minecraft.wiki/w/Rabbit%27s_Foot",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/rabbit_foot.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.8",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "raw_copper": {
+        "title": "Raw Copper",
+        "url": "https://minecraft.wiki/w/Raw_Copper",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/raw_copper.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.17",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "raw_gold": {
+        "title": "Raw Gold",
+        "url": "https://minecraft.wiki/w/Raw_Gold",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/raw_gold.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.17",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "raw_iron": {
+        "title": "Raw Iron",
+        "url": "https://minecraft.wiki/w/Raw_Iron",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/raw_iron.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.17",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "recovery_compass": {
+        "title": "Recovery Compass",
+        "url": "https://minecraft.wiki/w/Recovery_Compass",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/recovery_compass.gif",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "uncommon",
+        "initial_release": "1.19",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "turtle_scute": {
+        "title": "Turtle Scute",
+        "url": "https://minecraft.wiki/w/Turtle_Scute",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/scute.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.13",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "shulker_shell": {
+        "title": "Shulker Shell",
+        "url": "https://minecraft.wiki/w/Shulker_Shell",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/shulker_shell.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.11",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "slime_ball": {
+        "title": "Slimeball",
+        "url": "https://minecraft.wiki/w/Slimeball",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/slime_ball.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "Alpha 1.0.11",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "mob",
+            "trading"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "stick": {
+        "title": "Stick",
+        "url": "https://minecraft.wiki/w/Stick",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/stick.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "pre-alpha",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob",
+            "fishing"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "spawn_egg": {
+        "title": "Spawn Egg",
+        "url": "https://minecraft.wiki/w/Spawn_Egg",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/spawn_egg.png",
+        "renewable": false,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.1",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "spawn_eggs"
+        ]
+    },
+    "armadillo_scute": {
+        "title": "Armadillo Scute",
+        "url": "https://minecraft.wiki/w/Armadillo_Scute",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/armadillo_scute.webp",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.20.5",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "mob"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "wolf_armor": {
+        "title": "Wolf Armor",
+        "url": "https://minecraft.wiki/w/Wolf_Armor",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/wolf_armor.webp",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.20.5",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "harness": {
+        "title": "Harness",
+        "url": "https://minecraft.wiki/w/Harness",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/harness.webp",
+        "renewable": true,
+        "stackable": 1,
+        "rarity": "common",
+        "initial_release": "1.21.6",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "tools_and_utilities"
+        ]
+    },
+    "copper_nugget": {
+        "title": "Copper Nugget",
+        "url": "https://minecraft.wiki/w/Copper_Nugget",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/copper_nugget.png",
+        "renewable": true,
+        "stackable": 64,
+        "rarity": "common",
+        "initial_release": "1.21.9",
+        "recipe": [
+            "crafting_table",
+            "furnace"
+        ],
+        "loot": [
+            "none"
+        ],
+        "inventory_categories": [
+            "ingredients"
+        ]
+    },
+    "nautilus_armor": {
+        "title": "Nautilus Armor",
+        "url": "https://minecraft.wiki/w/Nautilus_Armor",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/nautilus_armor.png",
+        "renewable": false,
+        "stackable": "1",
+        "rarity": "common",
+        "initial_release": "1.21.11",
+        "recipe": [
+            "none"
+        ],
+        "loot": [
+            "container"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    },
+    "spear": {
+        "title": "Spear",
+        "url": "https://minecraft.wiki/w/Spear",
+        "image_url": "https://www.mcdle.net/gamedata/itemImages/spear.png",
+        "renewable": "Partial",
+        "stackable": "1",
+        "rarity": "common",
+        "initial_release": "1.21.11",
+        "recipe": [
+            "crafting_table"
+        ],
+        "loot": [
+            "container",
+            "mob"
+        ],
+        "inventory_categories": [
+            "combat"
+        ]
+    }
+}

@@ -1,0 +1,1634 @@
+{
+    "allay": {
+        "title": "Allay",
+        "url": "https://minecraft.wiki/w/Allay",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/allay.gif",
+        "health": 20,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Structure",
+            "Duplication"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 0.6,
+        "initial_release": "1.19"
+    },
+    "armadillo": {
+        "title": "Armadillo",
+        "url": "https://minecraft.wiki/w/Armadillo",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/armadillo.gif",
+        "health": 12,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.65,
+        "initial_release": "1.20.5"
+    },
+    "axolotl": {
+        "title": "Axolotl",
+        "url": "https://minecraft.wiki/w/Axolotl",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/axolotl.png",
+        "health": 14,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.42,
+        "initial_release": "1.17"
+    },
+    "bat": {
+        "title": "Bat",
+        "url": "https://minecraft.wiki/w/Bat",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/bat.gif",
+        "health": 6,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Light level"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.9,
+        "initial_release": "1.4.2"
+    },
+    "bee": {
+        "title": "Bee",
+        "url": "https://minecraft.wiki/w/Bee",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/bee.gif",
+        "health": 10,
+        "behavior": [
+            "Neutral"
+        ],
+        "spawn": [
+            "Block",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal",
+            "Arthropod"
+        ],
+        "height": 0.6,
+        "initial_release": "1.15"
+    },
+    "blaze": {
+        "title": "Blaze",
+        "url": "https://minecraft.wiki/w/Blaze",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/blaze.gif",
+        "health": 20,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Structure",
+            "Spawner"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 1.8,
+        "initial_release": "1.0.0"
+    },
+    "bogged": {
+        "title": "Bogged",
+        "url": "https://minecraft.wiki/w/Bogged",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/bogged.webp",
+        "health": 16,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Biome",
+            "Spawner"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 1.99,
+        "initial_release": "1.21"
+    },
+    "breeze": {
+        "title": "Breeze",
+        "url": "https://minecraft.wiki/w/Breeze",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/breeze.webp",
+        "health": 30,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Spawner"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 1.77,
+        "initial_release": "1.21"
+    },
+    "camel": {
+        "title": "Camel",
+        "url": "https://minecraft.wiki/w/Camel",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/camel.png",
+        "health": 32,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Structure",
+            "Breeding",
+            "Biome"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 2.375,
+        "initial_release": "1.20"
+    },
+    "cat": {
+        "title": "Cat",
+        "url": "https://minecraft.wiki/w/Cat",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/cat.png",
+        "health": 10,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Structure",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.7,
+        "initial_release": "1.14"
+    },
+    "cave_spider": {
+        "title": "Cave Spider",
+        "url": "https://minecraft.wiki/w/Cave_Spider",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/cave_spider.png",
+        "health": 12,
+        "behavior": [
+            "Hostile",
+            "Neutral"
+        ],
+        "spawn": [
+            "Spawner"
+        ],
+        "classification": [
+            "Arthropod"
+        ],
+        "height": 0.5,
+        "initial_release": "Beta 1.8"
+    },
+    "chicken": {
+        "title": "Chicken",
+        "url": "https://minecraft.wiki/w/Chicken",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/chicken.png",
+        "health": 4,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Grass",
+            "Jockey",
+            "Projectile",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.7,
+        "initial_release": "Alpha 1.0.14"
+    },
+    "cod": {
+        "title": "Cod",
+        "url": "https://minecraft.wiki/w/Cod",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/cod.gif",
+        "health": 3,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.3,
+        "initial_release": "1.13"
+    },
+    "cow": {
+        "title": "Cow",
+        "url": "https://minecraft.wiki/w/Cow",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/cow.png",
+        "health": 10,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Grass",
+            "Conversion",
+            "Breeding",
+            "Structure"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.4,
+        "initial_release": "Alpha 1.0.8"
+    },
+    "creaking": {
+        "title": "Creaking",
+        "url": "https://minecraft.wiki/w/Creaking",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/creaking.webp",
+        "health": 1,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Block",
+            "Summon"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 2.7,
+        "initial_release": "1.21.4"
+    },
+    "creeper": {
+        "title": "Creeper",
+        "url": "https://minecraft.wiki/w/Creeper",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/creeper.png",
+        "health": 20,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Light level"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 1.7,
+        "initial_release": "pre-alpha"
+    },
+    "dolphin": {
+        "title": "Dolphin",
+        "url": "https://minecraft.wiki/w/Dolphin",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/dolphin.gif",
+        "health": 10,
+        "behavior": [
+            "Neutral",
+            "Passive"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.6,
+        "initial_release": "1.13"
+    },
+    "donkey": {
+        "title": "Donkey",
+        "url": "https://minecraft.wiki/w/Donkey",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/donkey.png",
+        "health": 22,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.5,
+        "initial_release": "1.6.1"
+    },
+    "drowned": {
+        "title": "Drowned",
+        "url": "https://minecraft.wiki/w/Drowned",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/drowned.png",
+        "health": 20,
+        "behavior": [
+            "Hostile",
+            "Passive"
+        ],
+        "spawn": [
+            "Conversion",
+            "Biome",
+            "Jockey",
+            "Structure",
+            "Reinforcements"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 1.95,
+        "initial_release": "1.13"
+    },
+    "elder_guardian": {
+        "title": "Elder Guardian",
+        "url": "https://minecraft.wiki/w/Elder_Guardian",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/elder_guardian.gif",
+        "health": 80,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Structure"
+        ],
+        "classification": [
+            "Aquatic"
+        ],
+        "height": 1.9975,
+        "initial_release": "1.8"
+    },
+    "ender_dragon": {
+        "title": "Ender Dragon",
+        "url": "https://minecraft.wiki/w/Ender_Dragon",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/ender_dragon.gif",
+        "health": 200,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Structure",
+            "Summon"
+        ],
+        "classification": [
+            "Boss"
+        ],
+        "height": 8,
+        "initial_release": "1.0.0"
+    },
+    "enderman": {
+        "title": "Enderman",
+        "url": "https://minecraft.wiki/w/Enderman",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/enderman.png",
+        "health": 40,
+        "behavior": [
+            "Neutral"
+        ],
+        "spawn": [
+            "Light level",
+            "Biome"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 2.9,
+        "initial_release": "Beta 1.8"
+    },
+    "endermite": {
+        "title": "Endermite",
+        "url": "https://minecraft.wiki/w/Endermite",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/endermite.gif",
+        "health": 8,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Projectile"
+        ],
+        "classification": [
+            "Arthropod"
+        ],
+        "height": 0.3,
+        "initial_release": "1.8"
+    },
+    "evoker": {
+        "title": "Evoker",
+        "url": "https://minecraft.wiki/w/Evoker",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/evoker.png",
+        "health": 24,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Structure",
+            "Raids",
+            "Jockey"
+        ],
+        "classification": [
+            "Illager"
+        ],
+        "height": 1.95,
+        "initial_release": "1.11"
+    },
+    "fox": {
+        "title": "Fox",
+        "url": "https://minecraft.wiki/w/Fox",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/fox.png",
+        "health": 10,
+        "behavior": [
+            "Passive",
+            "Neutral"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.7,
+        "initial_release": "1.14"
+    },
+    "frog": {
+        "title": "Frog",
+        "url": "https://minecraft.wiki/w/Frog",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/frog.gif",
+        "health": 10,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Conversion"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.5,
+        "initial_release": "1.19"
+    },
+    "ghast": {
+        "title": "Ghast",
+        "url": "https://minecraft.wiki/w/Ghast",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/ghast.webp",
+        "health": 10,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 4,
+        "initial_release": "Alpha 1.2.0"
+    },
+    "happy_ghast": {
+        "title": "Happy Ghast",
+        "url": "https://minecraft.wiki/w/Happy_Ghast",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/happy_ghast.webp",
+        "health": 20,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Block"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 4,
+        "initial_release": "1.21.6"
+    },
+    "giant": {
+        "title": "Giant",
+        "url": "https://minecraft.wiki/w/Giant",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/giant.png",
+        "health": 100,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Light level",
+            "Command"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 12,
+        "initial_release": "pre-alpha"
+    },
+    "glow_squid": {
+        "title": "Glow Squid",
+        "url": "https://minecraft.wiki/w/Glow_Squid",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/glow_squid.gif",
+        "health": 10,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Light level"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.8,
+        "initial_release": "1.17"
+    },
+    "goat": {
+        "title": "Goat",
+        "url": "https://minecraft.wiki/w/Goat",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/goat.png",
+        "health": 10,
+        "behavior": [
+            "Neutral"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.3,
+        "initial_release": "1.17"
+    },
+    "guardian": {
+        "title": "Guardian",
+        "url": "https://minecraft.wiki/w/Guardian",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/guardian.gif",
+        "health": 30,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Structure"
+        ],
+        "classification": [
+            "Aquatic"
+        ],
+        "height": 0.85,
+        "initial_release": "1.8"
+    },
+    "horse": {
+        "title": "Horse",
+        "url": "https://minecraft.wiki/w/Horse",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/horse.gif",
+        "health": 22,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Structure",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.6,
+        "initial_release": "1.6.1"
+    },
+    "hoglin": {
+        "title": "Hoglin",
+        "url": "https://minecraft.wiki/w/Hoglin",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/hoglin.png",
+        "health": 40,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Biome",
+            "Structure",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.4,
+        "initial_release": "1.16"
+    },
+    "husk": {
+        "title": "Husk",
+        "url": "https://minecraft.wiki/w/Husk",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/husk.png",
+        "health": 20,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Biome",
+            "Jockey",
+            "Spawner",
+            "Light level",
+            "Reinforcements"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 1.95,
+        "initial_release": "1.10"
+    },
+    "illusioner": {
+        "title": "Illusioner",
+        "url": "https://minecraft.wiki/w/Illusioner",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/illusioner.png",
+        "health": 32,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Command"
+        ],
+        "classification": [
+            "Illager"
+        ],
+        "height": 1.95,
+        "initial_release": "1.12"
+    },
+    "iron_golem": {
+        "title": "Iron Golem",
+        "url": "https://minecraft.wiki/w/Iron_Golem",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/iron_golem.png",
+        "health": 100,
+        "behavior": [
+            "Neutral",
+            "Passive"
+        ],
+        "spawn": [
+            "Structure",
+            "Summon"
+        ],
+        "classification": [
+            "Golem"
+        ],
+        "height": 2.7,
+        "initial_release": "1.2.1"
+    },
+    "rabbit": {
+        "title": "Rabbit",
+        "url": "https://minecraft.wiki/w/Killer_Bunny",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/rabbit.gif",
+        "health": 3,
+        "behavior": [
+            "Passive",
+            "Hostile"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.5,
+        "initial_release": "1.8"
+    },
+    "llama": {
+        "title": "Llama",
+        "url": "https://minecraft.wiki/w/Llama",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/llama.png",
+        "health": 22,
+        "behavior": [
+            "Neutral"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding",
+            "Overworld"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.87,
+        "initial_release": "1.11"
+    },
+    "magma_cube": {
+        "title": "Magma Cube",
+        "url": "https://minecraft.wiki/w/Magma_Cube",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/magma_cube.png",
+        "health": 16,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Biome",
+            "Spawner",
+            "Structure"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 2.04,
+        "initial_release": "1.0.0"
+    },
+    "mooshroom": {
+        "title": "Mooshroom",
+        "url": "https://minecraft.wiki/w/Mooshroom",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/mooshroom.png",
+        "health": 10,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.4,
+        "initial_release": "1.0.0"
+    },
+    "mule": {
+        "title": "Mule",
+        "url": "https://minecraft.wiki/w/Mule",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/mule.png",
+        "health": 22,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.6,
+        "initial_release": "1.6.1"
+    },
+    "ocelot": {
+        "title": "Ocelot",
+        "url": "https://minecraft.wiki/w/Ocelot",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/ocelot.png",
+        "health": 10,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.7,
+        "initial_release": "1.2.1"
+    },
+    "panda": {
+        "title": "Panda",
+        "url": "https://minecraft.wiki/w/Panda",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/panda.png",
+        "health": 20,
+        "behavior": [
+            "Neutral"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.25,
+        "initial_release": "1.14"
+    },
+    "parrot": {
+        "title": "Parrot",
+        "url": "https://minecraft.wiki/w/Parrot",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/parrot.png",
+        "health": 6,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.9,
+        "initial_release": "1.12"
+    },
+    "phantom": {
+        "title": "Phantom",
+        "url": "https://minecraft.wiki/w/Phantom",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/phantom.gif",
+        "health": 20,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Summon",
+            "Light level"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 0.5,
+        "initial_release": "1.13"
+    },
+    "pig": {
+        "title": "Pig",
+        "url": "https://minecraft.wiki/w/Pig",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/pig.png",
+        "health": 10,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Grass",
+            "Breeding",
+            "Structure"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.9,
+        "initial_release": "pre-alpha"
+    },
+    "piglin": {
+        "title": "Piglin",
+        "url": "https://minecraft.wiki/w/Piglin",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/piglin.png",
+        "health": 16,
+        "behavior": [
+            "Neutral",
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Structure"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 1.95,
+        "initial_release": "1.16"
+    },
+    "piglin_brute": {
+        "title": "Piglin Brute",
+        "url": "https://minecraft.wiki/w/Piglin_Brute",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/piglin_brute.png",
+        "health": 50,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Structure"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 1.95,
+        "initial_release": "1.16.2"
+    },
+    "pillager": {
+        "title": "Pillager",
+        "url": "https://minecraft.wiki/w/Pillager",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/pillager.png",
+        "health": 24,
+        "behavior": [
+            "Hostile",
+            "Passive"
+        ],
+        "spawn": [
+            "Overworld",
+            "Structure",
+            "Raids",
+            "Jockey"
+        ],
+        "classification": [
+            "Illager"
+        ],
+        "height": 1.95,
+        "initial_release": "1.14"
+    },
+    "polar_bear": {
+        "title": "Polar Bear",
+        "url": "https://minecraft.wiki/w/Polar_Bear",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/polar_bear.png",
+        "health": 30,
+        "behavior": [
+            "Neutral",
+            "Passive"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.4,
+        "initial_release": "1.10"
+    },
+    "pufferfish": {
+        "title": "Pufferfish",
+        "url": "https://minecraft.wiki/w/Pufferfish",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/pufferfish.gif",
+        "health": 3,
+        "behavior": [
+            "Neutral"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.7,
+        "initial_release": "1.13"
+    },
+    "ravager": {
+        "title": "Ravager",
+        "url": "https://minecraft.wiki/w/Ravager",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/ravager.png",
+        "health": 100,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Raids"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 2.2,
+        "initial_release": "1.14"
+    },
+    "salmon": {
+        "title": "Salmon",
+        "url": "https://minecraft.wiki/w/Salmon",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/salmon.gif",
+        "health": 3,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.4,
+        "initial_release": "1.13"
+    },
+    "sheep": {
+        "title": "Sheep",
+        "url": "https://minecraft.wiki/w/Sheep",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/sheep.png",
+        "health": 8,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Grass",
+            "Breeding",
+            "Structure"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.3,
+        "initial_release": "pre-alpha"
+    },
+    "shulker": {
+        "title": "Shulker",
+        "url": "https://minecraft.wiki/w/Shulker",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/shulker.png",
+        "health": 30,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Structure",
+            "Duplication"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 1,
+        "initial_release": "1.9"
+    },
+    "silverfish": {
+        "title": "Silverfish",
+        "url": "https://minecraft.wiki/w/Silverfish",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/silverfish.gif",
+        "health": 8,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Block",
+            "Spawner",
+            "Magic"
+        ],
+        "classification": [
+            "Arthropod"
+        ],
+        "height": 0.3,
+        "initial_release": "Beta 1.8"
+    },
+    "skeleton": {
+        "title": "Skeleton",
+        "url": "https://minecraft.wiki/w/Skeleton",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/skeleton.png",
+        "health": 20,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Light level",
+            "Biome",
+            "Spawner",
+            "Lightning",
+            "Jockey",
+            "Structure"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 1.99,
+        "initial_release": "pre-alpha"
+    },
+    "skeleton_horse": {
+        "title": "Skeleton Horse",
+        "url": "https://minecraft.wiki/w/Skeleton_Horse",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/skeleton_horse.png",
+        "health": 15,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Lightning"
+        ],
+        "classification": [
+            "Undead",
+            "Animal"
+        ],
+        "height": 1.6,
+        "initial_release": "1.6.1"
+    },
+    "slime": {
+        "title": "Slime",
+        "url": "https://minecraft.wiki/w/Slime",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/slime.png",
+        "health": 16,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Biome",
+            "Magic",
+            "Spawner"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 2.04,
+        "initial_release": "Alpha 1.0.11"
+    },
+    "snow_golem": {
+        "title": "Snow Golem",
+        "url": "https://minecraft.wiki/w/Snow_Golem",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/snow_golem.png",
+        "health": 4,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Summon"
+        ],
+        "classification": [
+            "Golem"
+        ],
+        "height": 1.9,
+        "initial_release": "1.0.0"
+    },
+    "sniffer": {
+        "title": "Sniffer",
+        "url": "https://minecraft.wiki/w/Sniffer",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/sniffer.gif",
+        "health": 14,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Breeding",
+            "Hatching"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.75,
+        "initial_release": "1.20"
+    },
+    "spider": {
+        "title": "Spider",
+        "url": "https://minecraft.wiki/w/Spider",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/spider.png",
+        "health": 16,
+        "behavior": [
+            "Neutral",
+            "Hostile"
+        ],
+        "spawn": [
+            "Light level",
+            "Spawner",
+            "Jockey"
+        ],
+        "classification": [
+            "Arthropod"
+        ],
+        "height": 0.9,
+        "initial_release": "pre-alpha"
+    },
+    "squid": {
+        "title": "Squid",
+        "url": "https://minecraft.wiki/w/Squid",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/squid.gif",
+        "health": 10,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.8,
+        "initial_release": "Beta 1.2"
+    },
+    "stray": {
+        "title": "Stray",
+        "url": "https://minecraft.wiki/w/Stray",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/stray.png",
+        "health": 20,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Light level",
+            "Biome",
+            "Conversion",
+            "Spawner"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 1.99,
+        "initial_release": "1.10"
+    },
+    "strider": {
+        "title": "Strider",
+        "url": "https://minecraft.wiki/w/Strider",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/strider.gif",
+        "health": 20,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding",
+            "Jockey"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 1.7,
+        "initial_release": "1.16"
+    },
+    "tadpole": {
+        "title": "Tadpole",
+        "url": "https://minecraft.wiki/w/Tadpole",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/tadpole.gif",
+        "health": 6,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Hatching"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.3,
+        "initial_release": "1.19"
+    },
+    "tropical_fish": {
+        "title": "Tropical Fish",
+        "url": "https://minecraft.wiki/w/Tropical_Fish",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/tropical_fish.png",
+        "health": 3,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.4,
+        "initial_release": "1.13"
+    },
+    "turtle": {
+        "title": "Turtle",
+        "url": "https://minecraft.wiki/w/Turtle",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/turtle.png",
+        "health": 30,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding",
+            "Hatching"
+        ],
+        "classification": [
+            "Animal",
+            "Aquatic"
+        ],
+        "height": 0.4,
+        "initial_release": "1.13"
+    },
+    "vex": {
+        "title": "Vex",
+        "url": "https://minecraft.wiki/w/Vex",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/vex.gif",
+        "health": 14,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Summon"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 0.8,
+        "initial_release": "1.11"
+    },
+    "villager": {
+        "title": "Villager",
+        "url": "https://minecraft.wiki/w/Villager",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/villager.png",
+        "health": 20,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Structure",
+            "Breeding",
+            "Conversion"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 1.95,
+        "initial_release": "1.0.0"
+    },
+    "vindicator": {
+        "title": "Vindicator",
+        "url": "https://minecraft.wiki/w/Vindicator",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/vindicator.png",
+        "health": 24,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Structure",
+            "Raids",
+            "Jockey"
+        ],
+        "classification": [
+            "Illager"
+        ],
+        "height": 1.95,
+        "initial_release": "1.11"
+    },
+    "wandering_trader": {
+        "title": "Wandering Trader",
+        "url": "https://minecraft.wiki/w/Wandering_Trader",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/wandering_trader.png",
+        "health": 20,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Overworld"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 1.95,
+        "initial_release": "1.14"
+    },
+    "warden": {
+        "title": "Warden",
+        "url": "https://minecraft.wiki/w/Warden",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/warden.gif",
+        "health": 500,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Block",
+            "Summon"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 2.9,
+        "initial_release": "1.19"
+    },
+    "witch": {
+        "title": "Witch",
+        "url": "https://minecraft.wiki/w/Witch",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/witch.png",
+        "health": 26,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Light level",
+            "Structure",
+            "Raids",
+            "Conversion",
+            "Lightning"
+        ],
+        "classification": [
+            "None"
+        ],
+        "height": 1.95,
+        "initial_release": "1.4.2"
+    },
+    "wither": {
+        "title": "Wither",
+        "url": "https://minecraft.wiki/w/Wither",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/wither.png",
+        "health": 300,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Summon"
+        ],
+        "classification": [
+            "Undead",
+            "Boss"
+        ],
+        "height": 3.5,
+        "initial_release": "1.4.2"
+    },
+    "wither_skeleton": {
+        "title": "Wither Skeleton",
+        "url": "https://minecraft.wiki/w/Wither_Skeleton",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/wither_skeleton.png",
+        "health": 20,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Structure"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 2.4,
+        "initial_release": "1.4.2"
+    },
+    "wolf": {
+        "title": "Wolf",
+        "url": "https://minecraft.wiki/w/Wolf",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/wolf.png",
+        "health": 8,
+        "behavior": [
+            "Neutral",
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Breeding"
+        ],
+        "classification": [
+            "Animal"
+        ],
+        "height": 0.85,
+        "initial_release": "Beta 1.4"
+    },
+    "zoglin": {
+        "title": "Zoglin",
+        "url": "https://minecraft.wiki/w/Zoglin",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/zoglin.png",
+        "health": 40,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Conversion"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 1.4,
+        "initial_release": "1.16"
+    },
+    "zombie": {
+        "title": "Zombie",
+        "url": "https://minecraft.wiki/w/Zombie",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/zombie.png",
+        "health": 20,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Light level",
+            "Conversion",
+            "Spawner",
+            "Jockey",
+            "Reinforcements",
+            "Sieges"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 1.95,
+        "initial_release": "pre-alpha"
+    },
+    "zombie_horse": {
+        "title": "Zombie Horse",
+        "url": "https://minecraft.wiki/w/Zombie_Horse",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/zombie_horse.png",
+        "health": 15,
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Grass",
+            "Light level"
+        ],
+        "classification": [
+            "Undead",
+            "Animal"
+        ],
+        "height": 1.6,
+        "initial_release": "1.6.1"
+    },
+    "zombie_villager": {
+        "title": "Zombie Villager",
+        "url": "https://minecraft.wiki/w/Zombie_Villager",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/zombie_villager.png",
+        "health": 20,
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Light level",
+            "Conversion",
+            "Structure",
+            "Jockey",
+            "Reinforcements"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 1.95,
+        "initial_release": "1.4.2"
+    },
+    "zombified_piglin": {
+        "title": "Zombified Piglin",
+        "url": "https://minecraft.wiki/w/Zombified_Piglin",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/zombified_piglin.png",
+        "health": 20,
+        "behavior": [
+            "Neutral"
+        ],
+        "spawn": [
+            "Biome",
+            "Structure",
+            "Conversion",
+            "Lightning",
+            "Jockey",
+            "Reinforcements",
+            "Block"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": 1.95,
+        "initial_release": "Alpha 1.2.0"
+    },
+    "copper_golem": {
+        "title": "Copper Golem",
+        "url": "https://minecraft.wiki/w/Copper_Golem",
+        "health": "12",
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Summon"
+        ],
+        "classification": [
+            "Golem"
+        ],
+        "height": "0.98",
+        "initial_release": "1.21.9",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/copper_golem.gif"
+    },
+    "camel_husk": {
+        "title": "Camel Husk",
+        "url": "https://minecraft.wiki/w/Camel_Husk",
+        "health": "32",
+        "behavior": [
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Light level"
+        ],
+        "classification": [
+            "Undead",
+            "Animal"
+        ],
+        "height": "2.375",
+        "initial_release": "1.21.11",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/camel_husk.gif"
+    },
+    "nautilus": {
+        "title": "Nautilus",
+        "url": "https://minecraft.wiki/w/Nautilus",
+        "health": "15",
+        "behavior": [
+            "Passive",
+            "Neutral"
+        ],
+        "spawn": [
+            "Biome"
+        ],
+        "classification": [
+            "Aquatic",
+            "Animal"
+        ],
+        "height": "0.95",
+        "initial_release": "1.21.11",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/nautilus.gif"
+    },
+    "parched": {
+        "title": "Parched",
+        "url": "https://minecraft.wiki/w/Parched",
+        "health": "16",
+        "behavior": [
+            "Hostile"
+        ],
+        "spawn": [
+            "Biome",
+            "Jockey"
+        ],
+        "classification": [
+            "Undead"
+        ],
+        "height": "1.99",
+        "initial_release": "1.21.11",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/parched.png"
+    },
+    "zombie_nautilus": {
+        "title": "Zombie Nautilus",
+        "url": "https://minecraft.wiki/w/Zombie_Nautilus",
+        "health": "15",
+        "behavior": [
+            "Neutral",
+            "Passive"
+        ],
+        "spawn": [
+            "Biome",
+            "Structure"
+        ],
+        "classification": [
+            "Aquatic",
+            "Undead",
+            "Animal"
+        ],
+        "height": "0.95",
+        "initial_release": "1.21.11",
+        "image_url": "https://www.mcdle.net/gamedata/mobImages/zombie_nautilus.gif"
+    }
+}
