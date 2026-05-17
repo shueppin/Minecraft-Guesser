@@ -14,6 +14,7 @@
 
     <div class="search-wrapper">
         <input type="text" id="searchInput" placeholder="Search for an item...">
+        <div id="searchHeader"></div>
         <div id="searchResults"></div>
     </div>
 
@@ -27,10 +28,10 @@
                     <th>Release</th>
                     <th>Stack Size</th>
                     <th>Rarity</th>
+                    <th>Creative Inv. Category</th>
                     <th>Renewable</th>
                     <th>Recipe</th>
                     <th>Loot</th>
-                    <th>Inventory Categories</th>
                 </tr>
             </thead>
             <tbody id="guessTable"></tbody>
@@ -47,12 +48,22 @@ window.GAME_CONFIG = {
         'initial_release',
         'stackable',
         'rarity',
+        'inventory_categories',
         'renewable',
         'recipe',
-        'loot',
-        'inventory_categories'
+        'loot'
     ]
 };
+
+window.GAME_FIELDS_CONFIG = [
+    { key: 'initial_release', label: 'Release' },
+    { key: 'stackable', label: 'Stack Size' },
+    { key: 'rarity', label: 'Rarity' },
+    { key: 'inventory_categories', label: 'Creative Inv. Category' },
+    { key: 'renewable', label: 'Renewable' },
+    { key: 'recipe', label: 'Recipe' },
+    { key: 'loot', label: 'Loot' }
+];
 </script>
 <script src="script.js"></script>
 

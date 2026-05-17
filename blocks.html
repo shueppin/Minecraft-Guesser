@@ -14,6 +14,7 @@
 
     <div class="search-wrapper">
         <input type="text" id="searchInput" placeholder="Search for a block...">
+        <div id="searchHeader"></div>
         <div id="searchResults"></div>
     </div>
 
@@ -26,12 +27,11 @@
                     <th>Block</th>
                     <th>Release</th>
                     <th>Stack Size</th>
-                    <th>Tool</th>
+                    <th>Tool(s)</th>
                     <th>Blast Resistance</th>
                     <th>Hardness</th>
                     <th>Flammable</th>
                     <th>Full Block</th>
-                    <th>Transparent</th>
                 </tr>
             </thead>
             <tbody id="guessTable"></tbody>
@@ -51,10 +51,19 @@ window.GAME_CONFIG = {
         'blast_resistance',
         'hardness',
         'flammable',
-        'full_block',
-        'transparent'
+        'full_block'
     ]
 };
+
+window.GAME_FIELDS_CONFIG = [
+    { key: 'initial_release', label: 'Release' },
+    { key: 'stackable', label: 'Stack Size' },
+    { key: 'tool', label: 'Tool(s)' },
+    { key: 'blast_resistance', label: 'Blast Resistance' },
+    { key: 'hardness', label: 'Hardness' },
+    { key: 'flammable', label: 'Flammable' },
+    { key: 'full_block', label: 'Full Block' }
+];
 </script>
 <script src="script.js"></script>
 

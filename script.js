@@ -4,12 +4,14 @@ const searchInput = document.getElementById('searchInput');
 const searchResults = document.getElementById('searchResults');
 const guessTable = document.getElementById('guessTable');
 const scoreContainer = document.getElementById('scoreContainer');
+const searchHeader = document.getElementById('searchHeader');
 
 let allData = {};
 let mysteryKey = null;
 let mysteryObject = null;
 let guesses = [];
 let guessedKeys = [];
+let gameFinished = false;
 
 const MAX_SCORE = 100;
 const MIN_SCORE = 1;
@@ -22,6 +24,7 @@ async function init() {
     allData = await response.json();
 
     setupDailyObject();
+    renderSearchHeader();
     loadGuesses();
 
     searchInput.addEventListener('input', updateSearchResults);
@@ -67,10 +70,27 @@ function loadGuesses() {
         guessedKeys.push(key);
         renderGuess(key);
     });
+
+    if (guessedKeys.includes(mysteryKey)) {
+        gameFinished = true;
+        finishGame();
+    }
 }
 
 function saveGuesses() {
     localStorage.setItem(storageKey(), JSON.stringify(guesses));
+}
+
+function renderSearchHeader() {
+    const fieldConfig = window.GAME_FIELDS_CONFIG;
+
+    document.querySelector('.search-wrapper')
+        .style.setProperty('--field-count', fieldConfig.length);
+
+    searchHeader.innerHTML = `
+        <div></div>
+        ${fieldConfig.map(f => `<div>${f.label}</div>`).join('')}
+    `;
 }
 
 function updateSearchResults() {
@@ -78,7 +98,12 @@ function updateSearchResults() {
 
     searchResults.innerHTML = '';
 
-    if (!query) return;
+    if (!query) {
+        searchHeader.style.display = 'none';
+        return;
+    }
+
+    searchHeader.style.display = 'grid';
 
     const entries = Object.entries(allData)
         .filter(([key, obj]) => {
@@ -99,6 +124,11 @@ function updateSearchResults() {
         })
         .slice(0, 10);
 
+    if (entries.length === 0) {
+        searchHeader.style.display = 'none';
+        return;
+    }
+
     entries.forEach(([key, obj]) => {
 
         const div = document.createElement('div');
@@ -106,9 +136,11 @@ function updateSearchResults() {
 
         let previewFields = '';
 
-        config.fields.forEach(field => {
+        const fieldConfig = window.GAME_FIELDS_CONFIG;
 
-            let value = obj[field];
+        fieldConfig.forEach(({ key, label }) => {
+
+            let value = obj[key];
 
             if (Array.isArray(value)) {
                 value = value.join(', ');
@@ -133,13 +165,18 @@ function updateSearchResults() {
             ${previewFields}
         `;
 
-        div.addEventListener('click', () => makeGuess(key));
+        div.addEventListener('click', () => {
+            if (gameFinished) return;
+            makeGuess(key);
+        });
 
         searchResults.appendChild(div);
     });
 }
 
 function makeGuess(key) {
+
+    if (gameFinished) return;
 
     if (guessedKeys.includes(key)) return;
 
@@ -245,20 +282,33 @@ function compareField(field, value, target) {
 
     if (field === 'initial_release') {
 
-        const valueNumber = extractVersionNumber(value);
-        const targetNumber = extractVersionNumber(target);
+        const valueNumber = parseMinecraftVersion(value);
+        const targetNumber = parseMinecraftVersion(target);
 
-        if (valueNumber === targetNumber) {
+        if (valueNumber.join('.') === targetNumber.join('.')) {
             return {
                 status: 'correct',
                 display: value
             };
         }
 
+        let arrow = null;
+
+        for (let i = 0; i < 3; i++) {
+            if (valueNumber[i] < targetNumber[i]) {
+                arrow = 'arrow-up';
+                break;
+            }
+            if (valueNumber[i] > targetNumber[i]) {
+                arrow = 'arrow-down';
+                break;
+            }
+        }
+
         return {
             status: 'wrong',
             display: value,
-            arrow: valueNumber < targetNumber ? 'arrow-up' : 'arrow-down'
+            arrow
         };
     }
 
@@ -287,16 +337,35 @@ function compareField(field, value, target) {
     };
 }
 
-function extractVersionNumber(version) {
+function parseMinecraftVersion(version) {
+    if (!version) return [0, 0, 0];
 
-    const match = version.match(/\d+(\.\d+)*/);
+    version = version.toLowerCase();
 
-    if (!match) return 0;
+    // Beta / Alpha handling
+    if (version.includes("alpha")) {
+        const nums = version.match(/\d+/g) || [0, 0];
+        return [0, parseInt(nums[0]), parseInt(nums[1] || 0)];
+    }
 
-    return parseFloat(match[0]);
+    if (version.includes("beta")) {
+        const nums = version.match(/\d+/g) || [0, 0];
+        return [0, parseInt(nums[0]), parseInt(nums[1] || 0)];
+    }
+
+    // Normal versions like 1.20, 1.20.1
+    const parts = version.match(/\d+/g) || [0, 0, 0];
+
+    return [
+        parseInt(parts[0] || 0),
+        parseInt(parts[1] || 0),
+        parseInt(parts[2] || 0)
+    ];
 }
 
 function finishGame() {
+
+    gameFinished = true;
 
     const guessesNeeded = guesses.length;
 

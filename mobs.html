@@ -14,6 +14,7 @@
 
     <div class="search-wrapper">
         <input type="text" id="searchInput" placeholder="Search for a mob...">
+        <div id="searchHeader"></div>
         <div id="searchResults"></div>
     </div>
 
@@ -24,12 +25,12 @@
             <thead>
                 <tr>
                     <th>Mob</th>
+                    <th>Release</th>
                     <th>Health</th>
+                    <th>Height</th>
                     <th>Behavior</th>
                     <th>Spawn</th>
                     <th>Classification</th>
-                    <th>Height</th>
-                    <th>Initial Release</th>
                 </tr>
             </thead>
             <tbody id="guessTable"></tbody>
@@ -43,14 +44,23 @@ window.GAME_CONFIG = {
     type: 'mobs',
     dataFile: 'data/mobs.json',
     fields: [
+        'initial_release',
         'health',
+        'height',
         'behavior',
         'spawn',
-        'classification',
-        'height',
-        'initial_release'
+        'classification'
     ]
 };
+
+window.GAME_FIELDS_CONFIG = [
+    { key: 'initial_release', label: 'Release' },
+    { key: 'health', label: 'Health' },
+    { key: 'height', label: 'Height' },
+    { key: 'behavior', label: 'Behavior' },
+    { key: 'spawn', label: 'Spawn' },
+    { key: 'classification', label: 'Classification' }
+];
 </script>
 <script src="script.js"></script>
 
