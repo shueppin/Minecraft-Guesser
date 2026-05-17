@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mob Daily</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="game-container">
+
+    <h1>Mob Daily</h1>
+
+    <div class="search-wrapper">
+        <input type="text" id="searchInput" placeholder="Search for a mob...">
+        <div id="searchResults"></div>
+    </div>
+
+    <div id="scoreContainer"></div>
+
+    <div class="table-wrapper">
+        <table>
+            <thead>
+                <tr>
+                    <th>Mob</th>
+                    <th>Health</th>
+                    <th>Behavior</th>
+                    <th>Spawn</th>
+                    <th>Classification</th>
+                    <th>Height</th>
+                    <th>Initial Release</th>
+                </tr>
+            </thead>
+            <tbody id="guessTable"></tbody>
+        </table>
+    </div>
+
+</div>
+
+<script>
+window.GAME_CONFIG = {
+    type: 'mobs',
+    dataFile: 'data/mobs.json',
+    fields: [
+        'health',
+        'behavior',
+        'spawn',
+        'classification',
+        'height',
+        'initial_release'
+    ]
+};
+</script>
+<script src="script.js"></script>
+
+</body>
+</html>

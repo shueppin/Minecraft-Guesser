@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Item Daily</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="game-container">
+
+    <h1>Item Daily</h1>
+
+    <div class="search-wrapper">
+        <input type="text" id="searchInput" placeholder="Search for an item...">
+        <div id="searchResults"></div>
+    </div>
+
+    <div id="scoreContainer"></div>
+
+    <div class="table-wrapper">
+        <table>
+            <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Release</th>
+                    <th>Stack Size</th>
+                    <th>Rarity</th>
+                    <th>Renewable</th>
+                    <th>Recipe</th>
+                    <th>Loot</th>
+                    <th>Inventory Categories</th>
+                </tr>
+            </thead>
+            <tbody id="guessTable"></tbody>
+        </table>
+    </div>
+
+</div>
+
+<script>
+window.GAME_CONFIG = {
+    type: 'items',
+    dataFile: 'data/items.json',
+    fields: [
+        'initial_release',
+        'stackable',
+        'rarity',
+        'renewable',
+        'recipe',
+        'loot',
+        'inventory_categories'
+    ]
+};
+</script>
+<script src="script.js"></script>
+
+</body>
+</html>

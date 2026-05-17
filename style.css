@@ -1,0 +1,95 @@
+* {
+    overflow: hidden;
+    z-index: 10;
+}
+
+.result-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #333;
+}
+
+.result-item:hover {
+    background: #333;
+}
+
+.result-item img {
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 6px;
+}
+
+th {
+    padding: 10px;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+    padding: 12px;
+    min-width: 120px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.guess-image {
+    width: 48px;
+    height: 48px;
+    object-fit: contain;
+}
+
+.correct {
+    background: #2f9e44;
+}
+
+.partial {
+    background: #d97706;
+}
+
+.wrong {
+    background: #b91c1c;
+}
+
+.guess-cell {
+    background: #222;
+}
+
+.arrow-up::after {
+    content: ' ↑';
+}
+
+.arrow-down::after {
+    content: ' ↓';
+}
+
+.finished {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 24px;
+    color: #7CFC00;
+}
+
+.crossed-out {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+@media (max-width: 900px) {
+    td, th {
+        min-width: 90px;
+        font-size: 12px;
+    }
+}

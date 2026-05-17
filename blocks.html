@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block Daily</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="game-container">
+
+    <h1>Block Daily</h1>
+
+    <div class="search-wrapper">
+        <input type="text" id="searchInput" placeholder="Search for a block...">
+        <div id="searchResults"></div>
+    </div>
+
+    <div id="scoreContainer"></div>
+
+    <div class="table-wrapper">
+        <table>
+            <thead>
+                <tr>
+                    <th>Block</th>
+                    <th>Release</th>
+                    <th>Stack Size</th>
+                    <th>Tool</th>
+                    <th>Blast Resistance</th>
+                    <th>Hardness</th>
+                    <th>Flammable</th>
+                    <th>Full Block</th>
+                    <th>Transparent</th>
+                </tr>
+            </thead>
+            <tbody id="guessTable"></tbody>
+        </table>
+    </div>
+
+</div>
+
+<script>
+window.GAME_CONFIG = {
+    type: 'blocks',
+    dataFile: 'data/blocks.json',
+    fields: [
+        'initial_release',
+        'stackable',
+        'tool',
+        'blast_resistance',
+        'hardness',
+        'flammable',
+        'full_block',
+        'transparent'
+    ]
+};
+</script>
+<script src="script.js"></script>
+
+</body>
+</html>

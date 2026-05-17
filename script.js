@@ -1,0 +1,275 @@
+const config = window.GAME_CONFIG;
+
+const searchInput = document.getElementById('searchInput');
+const searchResults = document.getElementById('searchResults');
+const guessTable = document.getElementById('guessTable');
+const scoreContainer = document.getElementById('scoreContainer');
+
+let allData = {};
+let mysteryKey = null;
+let mysteryObject = null;
+let guesses = [];
+let guessedKeys = [];
+
+const MAX_SCORE = 100;
+const MIN_SCORE = 1;
+const SCORE_DEDUCTION_PER_GUESS = 8;
+
+init();
+
+async function init() {
+    const response = await fetch(config.dataFile);
+    allData = await response.json();
+
+    setupDailyObject();
+    loadGuesses();
+
+    searchInput.addEventListener('input', updateSearchResults);
+}
+
+function getDateSeed() {
+    const d = new Date();
+    return `${d.getUTCFullYear()}-${d.getUTCMonth()}-${d.getUTCDate()}-${config.type}`;
+}
+
+function seededRandom(seed) {
+    let h = 2166136261;
+
+    for (let i = 0; i < seed.length; i++) {
+        h ^= seed.charCodeAt(i);
+        h = Math.imul(h, 16777619);
+    }
+
+    return Math.abs(h);
+}
+
+function setupDailyObject() {
+    const keys = Object.keys(allData);
+
+    const seed = seededRandom(getDateSeed());
+
+    const index = seed % keys.length;
+
+    mysteryKey = keys[index];
+    mysteryObject = allData[mysteryKey];
+}
+
+function storageKey() {
+    return `${config.type}-${getDateSeed()}`;
+}
+
+function loadGuesses() {
+    const saved = JSON.parse(localStorage.getItem(storageKey()) || '[]');
+
+    guesses = saved;
+
+    guesses.forEach(key => {
+        guessedKeys.push(key);
+        renderGuess(key);
+    });
+}
+function saveGuesses() {
+    localStorage.setItem(storageKey(), JSON.stringify(guesses));
+}
+
+function updateSearchResults() {
+    const query = searchInput.value.toLowerCase().trim();
+
+    searchResults.innerHTML = '';
+
+    if (!query) return;
+
+    const matches = Object.entries(allData)
+        .filter(([key, obj]) => {
+            return obj.title.toLowerCase().includes(query)
+                && !guessedKeys.includes(key);
+        })
+        .slice(0, 10);
+
+    matches.forEach(([key, obj]) => {
+
+        const div = document.createElement('div');
+        div.className = 'result-item';
+
+        div.innerHTML = `
+            <img src="${obj.image_url}">
+            <span>${obj.title}</span>
+        `;
+
+        div.addEventListener('click', () => makeGuess(key));
+
+        searchResults.appendChild(div);
+    });
+}
+
+function makeGuess(key) {
+
+    if (guessedKeys.includes(key)) return;
+
+    guessedKeys.push(key);
+    guesses.push(key);
+
+    saveGuesses();
+
+    renderGuess(key);
+
+    searchInput.value = '';
+    searchResults.innerHTML = '';
+
+    if (key === mysteryKey) {
+        finishGame();
+    }
+}
+
+function renderGuess(key) {
+
+    const obj = allData[key];
+
+    const row = document.createElement('tr');
+
+    const imageCell = document.createElement('td');
+    imageCell.className = 'guess-cell';
+
+    imageCell.innerHTML = `
+        <img class="guess-image" src="${obj.image_url}">
+        <div>${obj.title}</div>
+    `;
+
+    row.appendChild(imageCell);
+
+    config.fields.forEach(field => {
+        const td = document.createElement('td');
+
+        const comparison = compareField(field, obj[field], mysteryObject[field]);
+
+        td.classList.add(comparison.status);
+
+        if (comparison.arrow) {
+            td.classList.add(comparison.arrow);
+        }
+
+        td.innerHTML = comparison.display;
+
+        row.appendChild(td);
+    });
+
+    guessTable.prepend(row);
+}
+
+function compareField(field, value, target) {
+
+    if (Array.isArray(value)) {
+
+        const overlap = value.filter(v => target.includes(v));
+
+        if (overlap.length === target.length && value.length === target.length) {
+            return {
+                status: 'correct',
+                display: value.join(', ')
+            };
+        }
+
+        if (overlap.length > 0) {
+            return {
+                status: 'partial',
+                display: value.join(', ')
+            };
+        }
+
+        return {
+            status: 'wrong',
+            display: value.join(', ')
+        };
+    }
+
+    if (typeof value === 'number') {
+
+        if (value === target) {
+            return {
+                status: 'correct',
+                display: value
+            };
+        }
+
+        return {
+            status: 'wrong',
+            display: value,
+            arrow: value < target ? 'arrow-up' : 'arrow-down'
+        };
+    }
+    if (typeof value === 'boolean') {
+
+        return {
+            status: value === target ? 'correct' : 'wrong',
+            display: value ? 'Yes' : 'No'
+        };
+    }
+
+    if (field === 'initial_release') {
+
+        const valueNumber = extractVersionNumber(value);
+        const targetNumber = extractVersionNumber(target);
+
+        if (valueNumber === targetNumber) {
+            return {
+                status: 'correct',
+                display: value
+            };
+        }
+
+        return {
+            status: 'wrong',
+            display: value,
+            arrow: valueNumber < targetNumber ? 'arrow-up' : 'arrow-down'
+        };
+    }
+
+    if (value === target) {
+        return {
+            status: 'correct',
+            display: value
+        };
+    }
+    const valParts = String(value).split(',').map(v => v.trim());
+    const targetParts = String(target).split(',').map(v => v.trim());
+
+    const overlap = valParts.filter(v => targetParts.includes(v));
+
+    if (overlap.length > 0) {
+        return {
+            status: 'partial',
+            display: value
+        };
+    }
+
+    return {
+        status: 'wrong',
+        display: value
+    };
+}
+
+function extractVersionNumber(version) {
+
+    const match = version.match(/\d+(\.\d+)*/);
+
+    if (!match) return 0;
+
+    return parseFloat(match[0]);
+}
+
+function finishGame() {
+
+    const guessesNeeded = guesses.length;
+
+    let score = MAX_SCORE - ((guessesNeeded - 1) * SCORE_DEDUCTION_PER_GUESS);
+
+    score = Math.max(MIN_SCORE, score);
+
+    scoreContainer.innerHTML = `
+        <div class="finished">
+            You found today's ${config.type.slice(0, -1)}!<br>
+            Score: ${score}/100<br>
+            Guesses: ${guessesNeeded}
+        </div>
+    `;
+}
