@@ -68,6 +68,7 @@ function loadGuesses() {
         renderGuess(key);
     });
 }
+
 function saveGuesses() {
     localStorage.setItem(storageKey(), JSON.stringify(guesses));
 }
@@ -79,21 +80,57 @@ function updateSearchResults() {
 
     if (!query) return;
 
-    const matches = Object.entries(allData)
+    const entries = Object.entries(allData)
         .filter(([key, obj]) => {
             return obj.title.toLowerCase().includes(query)
                 && !guessedKeys.includes(key);
         })
+        .sort((a, b) => {
+            const aTitle = a[1].title.toLowerCase();
+            const bTitle = b[1].title.toLowerCase();
+
+            const aStarts = aTitle.startsWith(query);
+            const bStarts = bTitle.startsWith(query);
+
+            if (aStarts && !bStarts) return -1;
+            if (!aStarts && bStarts) return 1;
+
+            return aTitle.localeCompare(bTitle);
+        })
         .slice(0, 10);
 
-    matches.forEach(([key, obj]) => {
+    entries.forEach(([key, obj]) => {
 
         const div = document.createElement('div');
         div.className = 'result-item';
 
+        let previewFields = '';
+
+        config.fields.forEach(field => {
+
+            let value = obj[field];
+
+            if (Array.isArray(value)) {
+                value = value.join(', ');
+            }
+
+            if (typeof value === 'boolean') {
+                value = value ? 'Yes' : 'No';
+            }
+
+            previewFields += `
+                <div class="preview-cell">
+                    ${value}
+                </div>
+            `;
+        });
+
         div.innerHTML = `
-            <img src="${obj.image_url}">
-            <span>${obj.title}</span>
+            <div class="result-main">
+                <img src="${obj.image_url}">
+                <span>${obj.title}</span>
+            </div>
+            ${previewFields}
         `;
 
         div.addEventListener('click', () => makeGuess(key));
@@ -197,6 +234,7 @@ function compareField(field, value, target) {
             arrow: value < target ? 'arrow-up' : 'arrow-down'
         };
     }
+
     if (typeof value === 'boolean') {
 
         return {
@@ -230,6 +268,7 @@ function compareField(field, value, target) {
             display: value
         };
     }
+
     const valParts = String(value).split(',').map(v => v.trim());
     const targetParts = String(target).split(',').map(v => v.trim());
 
