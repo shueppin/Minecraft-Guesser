@@ -20,10 +20,9 @@ Inspired by [mcdle.net](https://mcdle.net).
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the scraper: `python scrape_newest_data.py`
 
-### Run the testing server
-1. Go to the `website` directory
-2. Run the server: `python test_server.py`
-3. Open your browser and visit the game interface (with `http://localhost:8000`)
+### Run the testing server (not for production)
+1. Run the server: `python testing_server.py`
+2. Open your browser and visit the game interface (with `http://localhost:8000`)
 
 
 ## Attribution
