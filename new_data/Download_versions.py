@@ -1,3 +1,9 @@
+"""Download and parse Java Edition block/version rows from Minecraft Wiki.
+
+This module fetches the "List of blocks by version" page via MediaWiki API,
+parses only the Java Edition table, and exports a version dictionary skeleton.
+"""
+
 import json
 import re
 from html import unescape
@@ -12,6 +18,10 @@ BASE_URL = "https://minecraft.wiki"
 
 
 def _split_versions(cell_text: str) -> list[str]:
+    """Split a table cell that may contain multiple version labels.
+
+    Cells can contain comma-separated and/or "and"-separated values.
+    """
     text = unescape(cell_text).strip()
     if not text or text in {"-", "—"}:
         return []
@@ -21,15 +31,26 @@ def _split_versions(cell_text: str) -> list[str]:
 
 
 def _first_version(cell_text: str) -> str | None:
+    """Return the first version label found in a version cell."""
     versions = _split_versions(cell_text)
     return versions[0] if versions else None
 
 
 def _clean_text(text: str) -> str:
+    """Normalize whitespace and decode HTML entities."""
     return re.sub(r"\s+", " ", unescape(text)).strip()
 
 
 class JavaEditionVersionParser(HTMLParser):
+    """Extract block rows from the Java Edition table only.
+
+    Records are exported in this shape:
+    - Name
+    - LinkToWebsiteURL
+    - version
+    - removed_version
+    """
+
     def __init__(self) -> None:
         super().__init__()
         self.in_java_section = False
@@ -48,6 +69,7 @@ class JavaEditionVersionParser(HTMLParser):
         self.records: list[dict[str, str | None]] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        """Track section/table state and start collecting cell content."""
         attr_map = dict(attrs)
 
         if tag == "h2":
@@ -88,8 +110,8 @@ class JavaEditionVersionParser(HTMLParser):
             self.ignore_depth += 1
 
     def handle_endtag(self, tag: str) -> None:
+        """Finalize heading/cell/row parsing and append completed records."""
         if tag == "h2" and self.collect_heading_text:
-            heading_text = re.sub(r"\s+", " ", "".join(self.heading_text_parts)).strip()
             if self.current_heading_id == "Java_Edition":
                 self.in_java_section = True
                 self.in_bedrock_section = False
@@ -122,6 +144,7 @@ class JavaEditionVersionParser(HTMLParser):
 
         if tag == "tr":
             if self.row_has_data_cell and len(self.current_row) >= 4:
+                # Column layout: Block | ID | Added | Removed
                 name = self.current_row[0]
                 if name:
                     record = {
@@ -139,6 +162,7 @@ class JavaEditionVersionParser(HTMLParser):
             self.row_has_data_cell = False
 
     def handle_data(self, data: str) -> None:
+        """Collect textual payload for the currently open heading/cell."""
         if self.collect_heading_text:
             self.heading_text_parts.append(data)
             return
@@ -148,6 +172,7 @@ class JavaEditionVersionParser(HTMLParser):
 
 
 def download_versions() -> None:
+    """Fetch the list page, extract Java Edition rows, and save versions.json."""
     page_title = "List_of_blocks_by_version"
     html = ""
 
@@ -183,13 +208,13 @@ def download_versions() -> None:
 
 
     # Process versions
-    versions : list[str] = []
+    versions: list[str] = []
     for record in data:
         version = record.get("version")
         if version and version not in versions and record.get("removed_version") is None:
             versions.append(version)
 
-    version_formated : dict[str, str] = {}
+    version_formated: dict[str, str] = {}
     for version in versions:
         version_formated[version] = ""
 
