@@ -15,6 +15,8 @@ def _expand_and_clean_url(url: str) -> str:
 
 
 def get_from_api(page_title: str) -> str:
+    # TODO: Handle redirects and then maybe return the new url (or put this all in a different function)
+
     # Call API
     api_url = "https://minecraft.wiki/api.php"
     params = {
@@ -121,6 +123,7 @@ def dict_from_infobox(html: str) -> dict[str, str]:
         output[key] = value
 
     return output
+
 
 if __name__ == "__main__":
     # This is how to get the data from a table of exactly this style
