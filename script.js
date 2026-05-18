@@ -328,6 +328,18 @@ function compareField(field, value, target) {
         };
     }
 
+    if (field === 'rarity') {  // Compare the rarities, if they are not the same
+        const rarities = ["common", "uncommon", "rare", "epic"];
+        const value_index = rarities.indexOf(value);
+        const target_index = rarities.indexOf(target);
+
+        return {
+            status: 'wrong',
+            display: value,
+            arrow: value_index < target_index ? 'arrow-up' : 'arrow-down'
+        };
+    }
+
     const valParts = String(value).split(',').map(v => v.trim());
     const targetParts = String(target).split(',').map(v => v.trim());
 
