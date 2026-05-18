@@ -342,8 +342,10 @@ def download_blocks() -> None:
 
 
 
-if __name__ == "__main__":
-    download_blocks()
+# Don't run the function again, the block-dataset is generated already
+
+# if __name__ == "__main__":
+#     download_blocks()
 
 
 
