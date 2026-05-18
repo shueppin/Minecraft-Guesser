@@ -172,10 +172,31 @@ def _extract_first_status_word(text: str) -> str | None:
     return value.capitalize()
 
 
+def _extract_first_yes_no(text: str) -> str | None:
+    """Extract first status token among Yes/No."""
+    match = re.search(r"\b(Yes|No)\b", text, flags=re.IGNORECASE)
+    if not match:
+        return None
+
+    return match.group(1).capitalize()
+
+
 def _extract_first_number(text: str) -> str | None:
     """Extract first numeric token (int or float) from text."""
     match = re.search(r"\d+(?:\.\d+)?", text)
     return match.group(0) if match else None
+
+
+def _extract_blast_resistance(text: str) -> str:
+    """Extract blast resistance as a numeric string, defaulting unknown values to 0."""
+    number = _extract_first_number(text)
+    if number is not None:
+        return number
+
+    if "?" in text:
+        return "0"
+
+    return "0"
 
 
 def _extract_infobox_data(html: str, page_url: str) -> dict[str, Any]:
@@ -213,17 +234,17 @@ def _extract_infobox_data(html: str, page_url: str) -> dict[str, Any]:
         value_text = _clean_text(value_cell.get_text(" ", strip=True))
 
         if key == "renewable":
-            result["Renewable"] = value_text
+            result["Renewable"] = _extract_first_yes_no(value_text)
         elif key == "stackable":
             result["Stackable"] = _extract_stackable_number(value_text)
         elif key == "tool":
             result["tool"] = _extract_tool_name(value_cell)
         elif key == "blast resistance":
-            result["Blast resistance"] = value_text
+            result["Blast resistance"] = _extract_blast_resistance(value_text)
         elif key == "hardness":
             result["Hardness"] = _extract_first_number(value_text)
         elif key == "luminous":
-            result["Luminous"] = value_text
+            result["Luminous"] = _extract_first_yes_no(value_text) or "No"
         elif key == "transparent":
             result["Transparent"] = _extract_first_status_word(value_text)
         elif key == "flammable":
