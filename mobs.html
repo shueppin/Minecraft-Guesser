@@ -23,14 +23,8 @@
     <div class="table-wrapper">
         <table>
             <thead>
-                <tr>
-                    <th>Mob</th>
-                    <th>Release</th>
-                    <th>Health</th>
-                    <th>Height</th>
-                    <th>Behavior</th>
-                    <th>Spawn</th>
-                    <th>Classification</th>
+                <tr id="guessTableHead">
+                    <!-- Automatically filled by renderGuessTableHead -->
                 </tr>
             </thead>
             <tbody id="guessTable"></tbody>
@@ -43,14 +37,7 @@
 window.GAME_CONFIG = {
     type: 'mobs',
     dataFile: 'data/mobs.json',
-    fields: [
-        'initial_release',
-        'health',
-        'height',
-        'behavior',
-        'spawn',
-        'classification'
-    ]
+    displayName: 'Mob'
 };
 
 window.GAME_FIELDS_CONFIG = [

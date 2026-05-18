@@ -23,15 +23,8 @@
     <div class="table-wrapper">
         <table>
             <thead>
-                <tr>
-                    <th>Block</th>
-                    <th>Release</th>
-                    <th>Stack Size</th>
-                    <th>Tool(s)</th>
-                    <th>Blast Resistance</th>
-                    <th>Hardness</th>
-                    <th>Flammable</th>
-                    <th>Full Block</th>
+                <tr id="guessTableHead">
+                    <!-- Automatically filled by renderGuessTableHead -->
                 </tr>
             </thead>
             <tbody id="guessTable"></tbody>
@@ -44,15 +37,7 @@
 window.GAME_CONFIG = {
     type: 'blocks',
     dataFile: 'data/blocks.json',
-    fields: [
-        'initial_release',
-        'stackable',
-        'tool',
-        'blast_resistance',
-        'hardness',
-        'flammable',
-        'full_block'
-    ]
+    displayName: 'Block'
 };
 
 window.GAME_FIELDS_CONFIG = [

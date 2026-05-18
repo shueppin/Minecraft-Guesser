@@ -136,7 +136,6 @@ body {
     border-radius: 14px;
 
     overflow-x: auto;
-    white-space: nowrap;
 
     min-width: 900px; /* ensures alignment with search box */
 }
@@ -223,7 +222,6 @@ table {
 th {
     padding: 14px;
     color: #e2e8f0;
-    white-space: nowrap;
 }
 
 td {

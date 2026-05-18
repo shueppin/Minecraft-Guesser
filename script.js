@@ -1,4 +1,5 @@
 const config = window.GAME_CONFIG;
+const fieldConfig = window.GAME_FIELDS_CONFIG;
 
 const searchInput = document.getElementById('searchInput');
 const searchResults = document.getElementById('searchResults');
@@ -25,6 +26,7 @@ async function init() {
 
     setupDailyObject();
     renderSearchHeader();
+    renderGuessTableHead();
     loadGuesses();
 
     searchInput.addEventListener('input', updateSearchResults);
@@ -57,6 +59,15 @@ function setupDailyObject() {
     mysteryObject = allData[mysteryKey];
 }
 
+function renderGuessTableHead() {
+    const guessTableHead = document.getElementById('guessTableHead');
+
+    guessTableHead.innerHTML = `
+        <th>${config.displayName}</th>
+        ${fieldConfig.map(f => `<th>${f.label}</th>`).join('')}
+    `;
+}
+
 function storageKey() {
     return `${config.type}-${getDateSeed()}`;
 }
@@ -82,13 +93,11 @@ function saveGuesses() {
 }
 
 function renderSearchHeader() {
-    const fieldConfig = window.GAME_FIELDS_CONFIG;
-
     document.querySelector('.search-wrapper')
         .style.setProperty('--field-count', fieldConfig.length);
 
     searchHeader.innerHTML = `
-        <div></div>
+        <div>${config.displayName}</div>
         ${fieldConfig.map(f => `<div>${f.label}</div>`).join('')}
     `;
 }
@@ -135,8 +144,6 @@ function updateSearchResults() {
         div.className = 'result-item';
 
         let previewFields = '';
-
-        const fieldConfig = window.GAME_FIELDS_CONFIG;
 
         fieldConfig.forEach(({ key, label }) => {
 
@@ -190,6 +197,8 @@ function makeGuess(key) {
     searchInput.value = '';
     searchResults.innerHTML = '';
 
+    searchHeader.style.display = 'none';
+
     if (key === mysteryKey) {
         finishGame();
     }
@@ -211,10 +220,10 @@ function renderGuess(key) {
 
     row.appendChild(imageCell);
 
-    config.fields.forEach(field => {
+    fieldConfig.forEach(({ key, label }) => { // Iterate over all fields
         const td = document.createElement('td');
 
-        const comparison = compareField(field, obj[field], mysteryObject[field]);
+        const comparison = compareField(key, obj[key], mysteryObject[key]);
 
         td.classList.add(comparison.status);
 
@@ -338,19 +347,24 @@ function compareField(field, value, target) {
 }
 
 function parseMinecraftVersion(version) {
+    // Pre-alpha is [0, 0, 0], Alpha is [0.1, ..., ...], Beta is [0.2, ..., ...]
     if (!version) return [0, 0, 0];
 
     version = version.toLowerCase();
+ 
+    if (version === "pre-alpha") {
+        return [0, 0, 0]
+    }
 
     // Beta / Alpha handling
     if (version.includes("alpha")) {
-        const nums = version.match(/\d+/g) || [0, 0];
-        return [0, parseInt(nums[0]), parseInt(nums[1] || 0)];
+        const nums = version.match(/\d+/g) || [0, 0, 0];
+        return [0.1, parseInt(nums[1] || 0), parseInt(nums[2] || 0)];  // Replace the 1. with a 0.1
     }
 
     if (version.includes("beta")) {
-        const nums = version.match(/\d+/g) || [0, 0];
-        return [0, parseInt(nums[0]), parseInt(nums[1] || 0)];
+        const nums = version.match(/\d+/g) || [0, 0, 0];
+        return [0.2, parseInt(nums[1] || 0), parseInt(nums[2] || 0)];  // Replace the 1. with a 0.1
     }
 
     // Normal versions like 1.20, 1.20.1

@@ -1,26 +1,5 @@
-Add "Mob" / "Item" / "Block" to Search Header (probably using window.GAME_CONFIG)
+Make search header elements horizontally and vertically centered
 
-Make search Header elements not collide
-
-Autofill "<div class="table-wrapper">
-        <table>
-            <thead>
-                <tr>
-                    <th>Item</th>
-                    <th>Release</th>
-                    <th>Stack Size</th>
-                    <th>Rarity</th>
-                    <th>Creative Inv. Category</th>
-                    <th>Renewable</th>
-                    <th>Recipe</th>
-                    <th>Loot</th>
-                </tr>
-            </thead>
-            <tbody id="guessTable"></tbody>
-        </table>
-    </div>
-" in all files based on window.GAME_FIELDS_CONFIG
-
-Remove window.GAME_CONFIG.fields, and only use window.GAME_FIELDS_CONFIG
+In the data scraper, make the block tools to an array and don't leave them as comma separated values.
 
 Add images to categories, so we don't have things like "Creative Inv Category: functional_blocks, tools_and_utilities, ingredients"
