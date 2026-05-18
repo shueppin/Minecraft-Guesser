@@ -5,7 +5,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/button.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe, pickaxe",
+        "tool": [
+            "axe",
+            "pickaxe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -21,7 +24,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bush.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -37,7 +42,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cactus_flower.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -53,7 +60,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/creaking_heart.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 10,
         "hardness": 10,
         "luminous": "Partial",
@@ -69,7 +78,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/door.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -85,7 +96,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/eye_blossom.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -101,7 +114,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/fence.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe, pickaxe",
+        "tool": [
+            "axe",
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 2,
         "luminous": false,
@@ -117,7 +133,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/fence_gate.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 3,
         "hardness": 2,
         "luminous": false,
@@ -133,7 +151,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/firefly_bush.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": true,
@@ -149,7 +169,11 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/leaves.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe, shears, sword",
+        "tool": [
+            "hoe",
+            "shears",
+            "sword"
+        ],
         "blast_resistance": 0.2,
         "hardness": 0.2,
         "luminous": false,
@@ -165,7 +189,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/leaf_litter.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -181,7 +207,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/log.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2,
         "hardness": 2,
         "luminous": false,
@@ -197,7 +225,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/resin_clump.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -213,7 +243,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/resin_block.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -229,7 +261,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/resin_bricks.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -245,7 +279,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pale_hanging_moss.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -261,7 +297,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pale_moss_block.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 0.1,
         "hardness": 0.1,
         "luminous": false,
@@ -277,7 +315,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pale_moss_carpet.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 0.1,
         "hardness": 0.1,
         "luminous": false,
@@ -293,7 +333,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/planks.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 3,
         "hardness": 2,
         "luminous": false,
@@ -309,7 +351,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pressure_plate.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe, pickaxe",
+        "tool": [
+            "axe",
+            "pickaxe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -325,7 +370,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sapling.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -341,7 +388,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sign.png",
         "renewable": true,
         "stackable": 16,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": false,
@@ -357,7 +406,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dry_grass.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -373,7 +424,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/slab.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "axe, pickaxe",
+        "tool": [
+            "axe",
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -389,7 +443,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/stairs.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "axe, pickaxe",
+        "tool": [
+            "axe",
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -405,7 +462,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/test_block.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600000,
         "hardness": -1,
         "luminous": false,
@@ -421,7 +480,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/test_instance_block.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600000,
         "hardness": -1,
         "luminous": false,
@@ -437,7 +498,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/trapdoor.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -453,7 +516,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/wildflowers.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -469,7 +534,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/wood.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2,
         "hardness": 2,
         "luminous": false,
@@ -485,7 +552,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/activator_rail.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.7,
         "hardness": 0.7,
         "luminous": false,
@@ -501,7 +570,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/flower.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -517,7 +588,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/amethyst_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1.5,
         "hardness": 1.5,
         "luminous": false,
@@ -533,7 +606,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/amethyst_cluster.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1.5,
         "hardness": 1.5,
         "luminous": true,
@@ -549,7 +624,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/ancient_debris.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1200,
         "hardness": 30,
         "luminous": false,
@@ -565,7 +642,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/andesite.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -581,7 +660,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/wall.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -597,7 +678,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/anvil.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1200,
         "hardness": 5,
         "luminous": false,
@@ -613,7 +696,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/azalea.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -629,7 +714,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bamboo.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe, sword",
+        "tool": [
+            "axe",
+            "sword"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": false,
@@ -645,7 +733,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bamboo_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2,
         "hardness": 2,
         "luminous": false,
@@ -661,7 +751,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bamboo_mosaic.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 3,
         "hardness": 2,
         "luminous": false,
@@ -677,7 +769,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/barrel.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 2.5,
         "luminous": false,
@@ -693,7 +787,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/barrier.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600001,
         "hardness": -1,
         "luminous": false,
@@ -709,7 +805,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/basalt.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 4.2,
         "hardness": 1.25,
         "luminous": false,
@@ -725,7 +823,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/beacon.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": true,
@@ -741,7 +841,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bedrock.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600000,
         "hardness": -1,
         "luminous": false,
@@ -757,7 +859,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bee_nest.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.3,
         "hardness": 0.3,
         "luminous": false,
@@ -773,7 +877,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/beehive.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.6,
         "hardness": 0.6,
         "luminous": false,
@@ -789,7 +895,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/beetroots.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -805,7 +913,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bell.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 5,
         "hardness": 5,
         "luminous": false,
@@ -821,7 +931,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/big_dripleaf.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.1,
         "hardness": 0.1,
         "luminous": false,
@@ -837,7 +949,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/banner.gif",
         "renewable": true,
         "stackable": 16,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": false,
@@ -853,7 +967,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bed.png",
         "renewable": true,
         "stackable": 1,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.2,
         "hardness": 0.2,
         "luminous": false,
@@ -869,7 +985,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/candle.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.1,
         "hardness": 0.1,
         "luminous": "Partial",
@@ -885,7 +1003,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/carpet.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.1,
         "hardness": 0.1,
         "luminous": false,
@@ -901,7 +1021,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/concrete.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1.8,
         "hardness": 1.8,
         "luminous": false,
@@ -917,7 +1039,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/concrete_powder.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -933,7 +1057,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/crafter.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3.5,
         "hardness": 1.5,
         "luminous": false,
@@ -949,7 +1075,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/glazed_terracotta.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1.4,
         "hardness": 1.4,
         "luminous": false,
@@ -965,7 +1093,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/shulker_box.png",
         "renewable": true,
         "stackable": 1,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 2,
         "hardness": 2,
         "luminous": false,
@@ -981,7 +1111,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/glass.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.3,
         "hardness": 0.3,
         "luminous": false,
@@ -997,7 +1129,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/glass_pane.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.3,
         "hardness": 0.3,
         "luminous": false,
@@ -1013,7 +1147,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/terracotta.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 4.2,
         "hardness": 1.25,
         "luminous": false,
@@ -1029,7 +1165,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/wool.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0.8,
         "hardness": 0.8,
         "luminous": false,
@@ -1045,7 +1183,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/blackstone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -1061,7 +1201,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/blast_furnace.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3.5,
         "hardness": 3.5,
         "luminous": "Partial",
@@ -1077,7 +1219,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/blue_ice.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 2.8,
         "hardness": 2.8,
         "luminous": false,
@@ -1093,7 +1237,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bone_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 2,
         "hardness": 2,
         "luminous": false,
@@ -1109,7 +1255,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bookshelf.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 1.5,
         "hardness": 1.5,
         "luminous": false,
@@ -1125,7 +1273,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/coral.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -1141,7 +1291,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/coral_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -1157,7 +1309,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/coral_fan.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -1173,7 +1327,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/brewing_stand.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": true,
@@ -1189,7 +1345,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/bricks.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -1205,7 +1363,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/mushroom.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": "Partial",
@@ -1221,7 +1381,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/mushroom_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.2,
         "hardness": 0.2,
         "luminous": false,
@@ -1237,7 +1399,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cactus.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.4,
         "hardness": 0.4,
         "luminous": false,
@@ -1253,7 +1417,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cake.png",
         "renewable": true,
         "stackable": 1,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": "Partial",
@@ -1269,7 +1435,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/calcite.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.75,
         "hardness": 0.75,
         "luminous": false,
@@ -1285,7 +1453,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/calibrated_sculk_sensor.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 1.5,
         "hardness": 1.5,
         "luminous": true,
@@ -1301,7 +1471,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/campfire.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2,
         "hardness": 2,
         "luminous": "Partial",
@@ -1317,7 +1489,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/carrots.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": "pages.block.table.data.states.0",
@@ -1333,7 +1507,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cartography_table.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 2.5,
         "luminous": false,
@@ -1349,7 +1525,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cauldron.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 2,
         "hardness": 2,
         "luminous": "Partial",
@@ -1365,7 +1543,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cave_vines.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": true,
@@ -1381,7 +1561,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/chain.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -1397,7 +1579,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/chest.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 2.5,
         "luminous": false,
@@ -1413,7 +1597,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/chiseled_bookshelf.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 1.5,
         "hardness": 1.5,
         "luminous": false,
@@ -1429,7 +1615,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/chorus_flower.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.4,
         "hardness": 0.4,
         "luminous": false,
@@ -1445,7 +1633,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/chorus_plant.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.4,
         "hardness": 0.4,
         "luminous": false,
@@ -1461,7 +1651,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/clay.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.6,
         "hardness": 0.6,
         "luminous": false,
@@ -1477,7 +1669,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/coal_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -1493,7 +1687,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/coal_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -1509,7 +1705,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/coarse_dirt.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -1525,7 +1723,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cobbled_deepslate.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 3.5,
         "luminous": false,
@@ -1541,7 +1741,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cobblestone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -1557,7 +1759,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cobweb.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "shears, sword",
+        "tool": [
+            "shears",
+            "sword"
+        ],
         "blast_resistance": 4,
         "hardness": 4,
         "luminous": false,
@@ -1573,7 +1778,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/cocoa.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 3,
         "hardness": 0.2,
         "luminous": false,
@@ -1589,7 +1796,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/command_block.gif",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600000,
         "hardness": -1,
         "luminous": false,
@@ -1605,7 +1814,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/comparator.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -1621,7 +1832,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/composter.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.6,
         "hardness": 0.6,
         "luminous": false,
@@ -1637,7 +1850,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/conduit.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": true,
@@ -1653,7 +1868,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/copper_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 3,
         "luminous": false,
@@ -1669,7 +1886,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/copper_bulb.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 3,
         "luminous": "Partial",
@@ -1685,7 +1904,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/copper_door.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 3,
         "luminous": false,
@@ -1701,7 +1922,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/copper_grate.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 3,
         "luminous": false,
@@ -1717,7 +1940,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/copper_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -1733,7 +1958,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/copper_trapdoor.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 3,
         "luminous": false,
@@ -1749,7 +1976,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/crafting_table.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 2.5,
         "luminous": false,
@@ -1765,7 +1994,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/head.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": false,
@@ -1781,7 +2012,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/heavy_core.webp",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1200,
         "hardness": 10,
         "luminous": false,
@@ -1797,7 +2030,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/fungus.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -1813,7 +2048,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/nylium.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.4,
         "hardness": 0.4,
         "luminous": false,
@@ -1829,7 +2066,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/roots.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -1845,7 +2084,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/crying_obsidian.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1200,
         "hardness": 50,
         "luminous": true,
@@ -1861,7 +2102,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/daylight_detector.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.2,
         "hardness": 0.2,
         "luminous": false,
@@ -1877,7 +2120,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dead_bush.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -1893,7 +2138,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/decorated_pot.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -1909,7 +2156,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/deepslate.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 3,
         "luminous": false,
@@ -1925,7 +2174,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/detector_rail.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.7,
         "hardness": 0.7,
         "luminous": false,
@@ -1941,7 +2192,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/diamond_block.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -1957,7 +2210,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/diamond_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -1973,7 +2228,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/diorite.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -1989,7 +2246,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dirt.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -2005,7 +2264,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dirt_path.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.65,
         "hardness": 0.65,
         "luminous": false,
@@ -2021,7 +2282,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dispenser.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3.5,
         "hardness": 3.5,
         "luminous": false,
@@ -2037,7 +2300,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dragon_egg.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 9,
         "hardness": 3,
         "luminous": true,
@@ -2053,7 +2318,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dried_kelp_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 0.5,
         "luminous": false,
@@ -2069,7 +2336,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dripstone_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1,
         "hardness": 1.5,
         "luminous": false,
@@ -2085,7 +2354,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dropper.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3.5,
         "hardness": 3.5,
         "luminous": false,
@@ -2101,7 +2372,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/emerald_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -2117,7 +2390,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/emerald_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -2133,7 +2408,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/enchanting_table.gif",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1200,
         "hardness": 5,
         "luminous": true,
@@ -2149,7 +2426,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/end_portal_frame.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600000,
         "hardness": -1,
         "luminous": true,
@@ -2165,7 +2444,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/end_rod.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": true,
@@ -2181,7 +2462,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/end_stone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 9,
         "hardness": 3,
         "luminous": false,
@@ -2197,7 +2480,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/end_stone_bricks.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 9,
         "hardness": 3,
         "luminous": false,
@@ -2213,7 +2498,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/ender_chest.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 600,
         "hardness": 22.5,
         "luminous": true,
@@ -2229,7 +2516,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/farmland.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.6,
         "hardness": 0.6,
         "luminous": false,
@@ -2245,7 +2534,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/fern.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -2261,7 +2552,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/fire.gif",
         "renewable": false,
         "stackable": 0,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": true,
@@ -2277,7 +2570,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/fletching_table.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 2.5,
         "luminous": false,
@@ -2293,7 +2588,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/flower_pot.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -2309,7 +2606,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/frogspawn.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -2325,7 +2624,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/furnace.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3.5,
         "hardness": 3.5,
         "luminous": "Partial",
@@ -2341,7 +2642,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/glow_lichen.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe, shears",
+        "tool": [
+            "axe",
+            "shears"
+        ],
         "blast_resistance": 0.2,
         "hardness": 0.2,
         "luminous": true,
@@ -2357,7 +2661,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/glowstone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.3,
         "hardness": 0.3,
         "luminous": true,
@@ -2373,7 +2679,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/gold_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 3,
         "luminous": false,
@@ -2389,7 +2697,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/gold_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -2405,7 +2715,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/granite.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -2421,7 +2733,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/grass_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.6,
         "hardness": 0.6,
         "luminous": false,
@@ -2437,7 +2751,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/gravel.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.6,
         "hardness": 0.6,
         "luminous": false,
@@ -2453,7 +2769,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/grindstone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -2469,7 +2787,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/hanging_roots.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -2485,7 +2805,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/hay_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -2501,7 +2823,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/heavy_weighted_pressure_plate.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -2517,7 +2841,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/honey_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -2533,7 +2859,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/honeycomb_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.6,
         "hardness": 0.6,
         "luminous": false,
@@ -2549,7 +2877,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/hopper.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 4.8,
         "hardness": 3,
         "luminous": false,
@@ -2565,7 +2895,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/ice.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -2581,7 +2913,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/infested_block.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.75,
         "hardness": 0.75,
         "luminous": false,
@@ -2597,7 +2931,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/iron_bars.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -2613,7 +2949,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/iron_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -2629,7 +2967,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/iron_door.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 5,
         "hardness": 5,
         "luminous": false,
@@ -2645,7 +2985,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/iron_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -2661,7 +3003,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/iron_trapdoor.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 5,
         "hardness": 5,
         "luminous": false,
@@ -2677,7 +3021,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/jack_o_lantern.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": true,
@@ -2693,7 +3039,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/jigsaw.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600000,
         "hardness": -1,
         "luminous": false,
@@ -2709,7 +3057,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/jukebox.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -2725,7 +3075,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/kelp.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -2741,7 +3093,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/ladder.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.4,
         "hardness": 0.4,
         "luminous": false,
@@ -2757,7 +3111,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/lantern.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3.5,
         "hardness": 3.5,
         "luminous": true,
@@ -2773,7 +3129,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/lapis_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -2789,7 +3147,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/lapis_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -2805,7 +3165,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/lectern.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 2.5,
         "luminous": false,
@@ -2821,7 +3183,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/lever.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -2837,7 +3201,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/light.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600001,
         "hardness": -1,
         "luminous": "Partial",
@@ -2853,7 +3219,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/lightning_rod.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 3,
         "luminous": false,
@@ -2869,7 +3237,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/lily_pad.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -2885,7 +3255,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/lodestone.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3.5,
         "hardness": 3.5,
         "luminous": false,
@@ -2901,7 +3273,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/loom.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 2.5,
         "luminous": false,
@@ -2917,7 +3291,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/magma_block.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": true,
@@ -2933,7 +3309,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/mangrove_propagule.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -2949,7 +3327,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/mangrove_roots.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.7,
         "hardness": 0.7,
         "luminous": false,
@@ -2965,7 +3345,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/melon.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe, sword",
+        "tool": [
+            "axe",
+            "sword"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": false,
@@ -2981,7 +3364,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/melon_stem_block.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -2997,7 +3382,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/moss_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 0.1,
         "hardness": 0.1,
         "luminous": false,
@@ -3013,7 +3400,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/moss_carpet.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 0.1,
         "hardness": 0.1,
         "luminous": false,
@@ -3029,7 +3418,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/mossy_cobblestone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -3045,7 +3436,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/mud.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -3061,7 +3454,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/mud_bricks.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 1.5,
         "luminous": false,
@@ -3077,7 +3472,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/muddy_mangrove_roots.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.7,
         "hardness": 0.7,
         "luminous": false,
@@ -3093,7 +3490,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/mycelium.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.6,
         "hardness": 0.6,
         "luminous": false,
@@ -3109,7 +3508,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/nether_bricks.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -3125,7 +3526,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/nether_gold_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -3141,7 +3544,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/nether_quartz_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -3157,7 +3562,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/nether_sprouts.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3173,7 +3580,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/nether_wart.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3189,7 +3598,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/nether_wart_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": false,
@@ -3205,7 +3616,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/netherite_block.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1200,
         "hardness": 50,
         "luminous": false,
@@ -3221,7 +3634,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/netherrack.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.4,
         "hardness": 0.4,
         "luminous": false,
@@ -3237,7 +3652,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/note_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 0.8,
         "hardness": 0.8,
         "luminous": false,
@@ -3253,7 +3670,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/observer.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -3269,7 +3688,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/obsidian.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1200,
         "hardness": 50,
         "luminous": false,
@@ -3285,7 +3706,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/froglight.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.3,
         "hardness": 0.3,
         "luminous": true,
@@ -3301,7 +3724,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/packed_ice.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -3317,7 +3742,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/packed_mud.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 1,
         "luminous": false,
@@ -3333,7 +3760,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/petrified_oak_slab.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -3349,7 +3778,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pink_petals.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3365,7 +3796,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/piston.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 1.5,
         "luminous": false,
@@ -3381,7 +3814,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pitcher_crop.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": true,
@@ -3397,7 +3832,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pitcher_plant.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3413,7 +3850,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/podzol.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -3429,7 +3868,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pointed_dripstone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 1.5,
         "luminous": false,
@@ -3445,7 +3886,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/polished_blackstone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -3461,7 +3904,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/potatoes.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3477,7 +3922,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/powder_snow.png",
         "renewable": true,
         "stackable": 1,
-        "tool": "bucket",
+        "tool": [
+            "bucket"
+        ],
         "blast_resistance": 0.25,
         "hardness": 0.25,
         "luminous": false,
@@ -3493,7 +3940,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/powered_rail.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.7,
         "hardness": 0.7,
         "luminous": false,
@@ -3509,7 +3958,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/prismarine.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -3525,7 +3976,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pumpkin.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": false,
@@ -3541,7 +3994,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/pumpkin_stem_block.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3557,7 +4012,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/purpur_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -3573,7 +4030,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/quartz_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.8,
         "hardness": 0.8,
         "luminous": false,
@@ -3589,7 +4048,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/rail.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.7,
         "hardness": 0.7,
         "luminous": false,
@@ -3605,7 +4066,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/raw_copper_block.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -3621,7 +4084,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/raw_gold_block.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -3637,7 +4102,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/raw_iron_block.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -3653,7 +4120,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/redstone_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 5,
         "luminous": false,
@@ -3669,7 +4138,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/redstone_lamp.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.3,
         "hardness": 0.3,
         "luminous": "Partial",
@@ -3685,7 +4156,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/redstone_ore.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": "Partial",
@@ -3701,7 +4174,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/redstone_torch.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": "Partial",
@@ -3717,7 +4192,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/redstone_wire.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3733,7 +4210,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/reinforced_deepslate.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 1200,
         "hardness": 55,
         "luminous": false,
@@ -3749,7 +4228,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/repeater.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3765,7 +4246,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/respawn_anchor.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 1200,
         "hardness": 50,
         "luminous": "Partial",
@@ -3781,7 +4264,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/rooted_dirt.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -3797,7 +4282,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sand.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -3813,7 +4300,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sandstone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 0.8,
         "hardness": 0.8,
         "luminous": false,
@@ -3829,7 +4318,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/scaffolding.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3845,7 +4336,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sculk.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 0.2,
         "hardness": 0.2,
         "luminous": false,
@@ -3861,7 +4354,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sculk_catalyst.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": true,
@@ -3877,7 +4372,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sculk_sensor.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 1.5,
         "hardness": 1.5,
         "luminous": true,
@@ -3893,7 +4390,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sculk_shrieker.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 3,
         "hardness": 3,
         "luminous": false,
@@ -3909,7 +4408,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sculk_vein.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 0.2,
         "hardness": 0.2,
         "luminous": false,
@@ -3925,7 +4426,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sea_lantern.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.3,
         "hardness": 0.3,
         "luminous": true,
@@ -3941,7 +4444,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sea_pickle.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": "Partial",
@@ -3957,7 +4462,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/seagrass.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3973,7 +4480,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/short_grass.png",
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -3989,7 +4498,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/shroomlight.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": true,
@@ -4005,7 +4516,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/slime_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4021,7 +4534,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/small_dripleaf.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4037,7 +4552,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/smithing_table.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 2.5,
         "luminous": false,
@@ -4053,7 +4570,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/smoker.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3.5,
         "hardness": 3.5,
         "luminous": "Partial",
@@ -4069,7 +4588,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/smooth_quartz.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -4085,7 +4606,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/smooth_stone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 2,
         "luminous": false,
@@ -4101,7 +4624,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sniffer_egg.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -4117,7 +4642,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/snow.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.1,
         "hardness": 0.1,
         "luminous": false,
@@ -4133,7 +4660,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/snow_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.2,
         "hardness": 0.2,
         "luminous": false,
@@ -4149,7 +4678,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/soul_sand.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -4165,7 +4696,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/soul_soil.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shovel",
+        "tool": [
+            "shovel"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -4181,7 +4714,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/spawner.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 5,
         "hardness": 5,
         "luminous": false,
@@ -4197,7 +4732,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sponge.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 0.6,
         "hardness": 0.6,
         "luminous": false,
@@ -4213,7 +4750,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/spore_blossom.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4229,7 +4768,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/stone.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -4245,7 +4786,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/stone_bricks.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -4261,7 +4804,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/stonecutter.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 3.5,
         "hardness": 3.5,
         "luminous": false,
@@ -4277,7 +4822,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/structure_block.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600000,
         "hardness": -1,
         "luminous": false,
@@ -4293,7 +4840,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/structure_void.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 3600000,
         "hardness": -1,
         "luminous": false,
@@ -4309,7 +4858,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sugar_cane.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4325,7 +4876,10 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/suspicious_gravel.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "brush, shovel",
+        "tool": [
+            "brush",
+            "shovel"
+        ],
         "blast_resistance": 0.25,
         "hardness": 0.25,
         "luminous": false,
@@ -4341,7 +4895,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/sweet_berry_bush.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4357,7 +4913,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/target.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -4373,7 +4931,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/tinted_glass.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.3,
         "hardness": 0.3,
         "luminous": false,
@@ -4389,7 +4949,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/tnt.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4405,7 +4967,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/torch.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": true,
@@ -4421,7 +4985,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/torchflower.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4437,7 +5003,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/trapped_chest.gif",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": 2.5,
         "hardness": 2.5,
         "luminous": false,
@@ -4453,7 +5021,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/trial_spawner.webp",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 50,
         "hardness": 50,
         "luminous": "Partial",
@@ -4469,7 +5039,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/tripwire.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4485,7 +5057,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/tripwire_hook.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4501,7 +5075,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/tuff.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": 6,
         "hardness": 1.5,
         "luminous": false,
@@ -4517,7 +5093,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/turtle_egg.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0.5,
         "hardness": 0.5,
         "luminous": false,
@@ -4533,7 +5111,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/twisting_vines.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4549,7 +5129,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/vault.png",
         "renewable": false,
         "stackable": 64,
-        "tool": "none",
+        "tool": [
+            "none"
+        ],
         "blast_resistance": 50,
         "hardness": 50,
         "luminous": "Partial",
@@ -4565,7 +5147,11 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/vine.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears, sword, axe",
+        "tool": [
+            "shears",
+            "sword",
+            "axe"
+        ],
         "blast_resistance": 0.2,
         "hardness": 0.2,
         "luminous": false,
@@ -4581,7 +5167,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/warped_wart_block.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "hoe",
+        "tool": [
+            "hoe"
+        ],
         "blast_resistance": 1,
         "hardness": 1,
         "luminous": false,
@@ -4597,7 +5185,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/weeping_vines.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "shears",
+        "tool": [
+            "shears"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4613,7 +5203,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/wheat.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4629,7 +5221,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/wither_rose.png",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4645,7 +5239,9 @@
         "image_url": "https://www.mcdle.net/gamedata/blockImages/dried_ghast.webp",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,
@@ -4660,7 +5256,9 @@
         "url": "https://minecraft.wiki/w/Copper_Chest",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": "6",
         "hardness": "3",
         "luminous": false,
@@ -4676,7 +5274,9 @@
         "url": "https://minecraft.wiki/w/Copper_Golem_Statue",
         "renewable": true,
         "stackable": 64,
-        "tool": "pickaxe",
+        "tool": [
+            "pickaxe"
+        ],
         "blast_resistance": "6",
         "hardness": "3",
         "luminous": false,
@@ -4692,7 +5292,9 @@
         "url": "https://minecraft.wiki/w/Shelf",
         "renewable": true,
         "stackable": 64,
-        "tool": "axe",
+        "tool": [
+            "axe"
+        ],
         "blast_resistance": "3",
         "hardness": "2",
         "luminous": false,
@@ -4708,7 +5310,9 @@
         "url": "https://minecraft.wiki/w/Golden_Dandelion",
         "renewable": true,
         "stackable": 64,
-        "tool": "any_tool",
+        "tool": [
+            "any_tool"
+        ],
         "blast_resistance": 0,
         "hardness": 0,
         "luminous": false,

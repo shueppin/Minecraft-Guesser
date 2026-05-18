@@ -1,5 +1,3 @@
 Make search header elements horizontally and vertically centered
 
-In the data scraper, make the block tools to an array and don't leave them as comma separated values.
-
 Add images to categories, so we don't have things like "Creative Inv Category: functional_blocks, tools_and_utilities, ingredients"

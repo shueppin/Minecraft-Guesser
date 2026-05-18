@@ -119,6 +119,8 @@ def create_clean_json_file(url: str, filepath: str) -> None:
                 continue
             elif key == "image_url":  # Update the image URL
                 element_data[key] = BASE_IMAGE_URL + element["image_url"]
+            elif key == "tool" and url == BLOCK_URL:  # Fix the tool in Blocks to use a list instead of comma separated values
+                element_data[key] = element['tool'].split(", ")
             else:
                 element_data[key] = element[key]
 
@@ -130,8 +132,8 @@ def create_clean_json_file(url: str, filepath: str) -> None:
 
 if __name__ == "__main__":
     print("Getting mobs...")
-    create_clean_json_file(MOB_URL, 'data/mobs.json')
+    create_clean_json_file(MOB_URL, 'mobs.json')
     print("Getting blocks...")
-    create_clean_json_file(BLOCK_URL, 'data/blocks.json')
+    create_clean_json_file(BLOCK_URL, 'blocks.json')
     print("Getting items...")
-    create_clean_json_file(ITEM_URL, 'data/items.json')
+    create_clean_json_file(ITEM_URL, 'items.json')
