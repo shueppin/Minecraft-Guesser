@@ -15,10 +15,15 @@ REMOVED_BLOCKS = [
     "Lava",
     "Nether Portal",
     "End portal",
+    "End Gateway",
     "Carrot",
     "Potato",
     "Beetroot",
-    "End Gateway"
+    "Pitcher Pod",
+    "Melon Seeds",
+    "Wheat Seeds",
+    "Pumpkin Seeds",
+    "Torchflower Seeds",
 ]
 
 

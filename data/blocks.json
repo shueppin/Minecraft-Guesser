@@ -3667,20 +3667,6 @@
         "tool": "Axe",
         "transparent": false
     },
-    "melon_seeds": {
-        "name": "Melon Seeds",
-        "image_url": "https://minecraft.wiki/images/thumb/Stem_Age_0_JE6.png/150px-Stem_Age_0_JE6.png",
-        "blast_resistance": 0.0,
-        "flammable": false,
-        "fire_catch": false,
-        "hardness": 0.0,
-        "initial_release": "Beta 1.8",
-        "luminous": false,
-        "renewable": true,
-        "stackable": 64,
-        "tool": "Any",
-        "transparent": true
-    },
     "monster_spawner": {
         "name": "Monster Spawner",
         "image_url": "https://minecraft.wiki/images/thumb/Monster_Spawner_JE4.png/150px-Monster_Spawner_JE4.png",
@@ -4317,20 +4303,6 @@
         "blast_resistance": 0.0,
         "flammable": true,
         "fire_catch": true,
-        "hardness": 0.0,
-        "initial_release": "1.20.0",
-        "luminous": false,
-        "renewable": true,
-        "stackable": 64,
-        "tool": "Any",
-        "transparent": true
-    },
-    "pitcher_pod": {
-        "name": "Pitcher Pod",
-        "image_url": "https://minecraft.wiki/images/thumb/Pitcher_Crop_Age_0_JE1_BE1.png/150px-Pitcher_Crop_Age_0_JE1_BE1.png",
-        "blast_resistance": 0.0,
-        "flammable": false,
-        "fire_catch": false,
         "hardness": 0.0,
         "initial_release": "1.20.0",
         "luminous": false,
@@ -5066,20 +5038,6 @@
         "stackable": 64,
         "tool": "Axe",
         "transparent": "Partial"
-    },
-    "pumpkin_seeds": {
-        "name": "Pumpkin Seeds",
-        "image_url": "https://minecraft.wiki/images/thumb/Pumpkin_Stem_Age_0_JE7.png/150px-Pumpkin_Stem_Age_0_JE7.png",
-        "blast_resistance": 0.0,
-        "flammable": false,
-        "fire_catch": false,
-        "hardness": 0.0,
-        "initial_release": "Beta 1.8",
-        "luminous": false,
-        "renewable": true,
-        "stackable": 64,
-        "tool": "Any",
-        "transparent": true
     },
     "purpur_block": {
         "name": "Purpur Block",
@@ -6845,20 +6803,6 @@
         "tool": "Any",
         "transparent": true
     },
-    "torchflower_seeds": {
-        "name": "Torchflower Seeds",
-        "image_url": "https://minecraft.wiki/images/thumb/Torchflower_Age_0.png/150px-Torchflower_Age_0.png",
-        "blast_resistance": 0.0,
-        "flammable": false,
-        "fire_catch": false,
-        "hardness": 0.0,
-        "initial_release": "1.19.4",
-        "luminous": false,
-        "renewable": true,
-        "stackable": 64,
-        "tool": "Any",
-        "transparent": true
-    },
     "trapped_chest": {
         "name": "Trapped Chest",
         "image_url": "https://minecraft.wiki/images/thumb/Trapped_Chest.gif/150px-Trapped_Chest.gif",
@@ -7151,20 +7095,6 @@
         "renewable": true,
         "stackable": 64,
         "tool": "Shears",
-        "transparent": true
-    },
-    "wheat_seeds": {
-        "name": "Wheat Seeds",
-        "image_url": "https://minecraft.wiki/images/thumb/Wheat_Age_0_JE9.png/150px-Wheat_Age_0_JE9.png",
-        "blast_resistance": 0.0,
-        "flammable": false,
-        "fire_catch": false,
-        "hardness": 0.0,
-        "initial_release": "pre-alpha",
-        "luminous": false,
-        "renewable": true,
-        "stackable": 64,
-        "tool": "Any",
         "transparent": true
     },
     "wildflowers": {

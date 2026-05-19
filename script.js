@@ -12,6 +12,7 @@ let mysteryKey = null;
 let mysteryObject = null;
 let guesses = [];
 let guessedKeys = [];
+let ambiguousKeys = [];
 let gameFinished = false;
 
 const MAX_SCORE = 100;
@@ -143,6 +144,12 @@ function updateSearchResults() {
         const div = document.createElement('div');
         div.className = 'result-item';
 
+        const isAmbiguousDisabled = ambiguousKeys.includes(key);
+
+        if (isAmbiguousDisabled) {
+            div.classList.add('ambiguous-disabled');
+        }
+
         let previewFields = '';
 
         fieldConfig.forEach(({ key, label }) => {
@@ -174,6 +181,7 @@ function updateSearchResults() {
 
         div.addEventListener('click', () => {
             if (gameFinished) return;
+            if (ambiguousKeys.includes(key)) return;
             makeGuess(key);
         });
 
@@ -198,6 +206,21 @@ function makeGuess(key) {
     searchResults.innerHTML = '';
 
     searchHeader.style.display = 'none';
+
+    // Detect ambiguous matches
+    if (isAmbiguousMatch(allData[key], mysteryObject)) {
+
+        Object.entries(allData).forEach(([otherKey, otherObj]) => {
+
+            if (
+                otherKey !== mysteryKey &&
+                otherKey !== key &&
+                isAmbiguousMatch(otherObj, mysteryObject)
+            ) {
+                ambiguousKeys.push(otherKey);
+            }
+        });
+    }
 
     if (key === mysteryKey) {
         finishGame();
@@ -356,6 +379,16 @@ function compareField(field, value, target) {
         status: 'wrong',
         display: value
     };
+}
+
+function isAmbiguousMatch(objA, objB) {
+
+    return fieldConfig.every(({ key }) => {
+
+        const comparison = compareField(key, objA[key], objB[key]);
+
+        return comparison.status === 'correct';
+    });
 }
 
 function parseMinecraftVersion(version) {

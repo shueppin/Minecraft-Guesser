@@ -33,12 +33,12 @@ class DataParser:
             return 0.0
 
     def get_int(self, key = "", complex_extraction_dict: dict = None) -> int:
-        value = self.get_raw(key).replace(",", "")  # Fixes values like 1,200
+        original_value = self.get_raw(key).replace(",", "")  # Fixes values like 1,200
         try:
-            return int(value)
+            return int(original_value)
         except ValueError:
             if complex_extraction_dict is not None:
-                return complex_extraction_dict.get(key, 0)
+                return complex_extraction_dict.get(original_value, 0)
             return 0
 
     def get_normalized_string(self, key = "") -> str:

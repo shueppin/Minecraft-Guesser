@@ -193,6 +193,67 @@ a:hover {
     transform: scale(1.01);
     border-color: rgba(255,255,255,0.2);
 }
+.result-item.ambiguous-disabled {
+    position: relative;
+
+    filter: grayscale(100%);
+    opacity: 0.55;
+
+    cursor: not-allowed;
+    pointer-events: none;
+
+    overflow: hidden;
+}
+
+/* Red line */
+.result-item.ambiguous-disabled::before {
+    content: "";
+
+    position: absolute;
+
+    left: -10%;
+    top: 50%;
+
+    width: 120%;
+    height: 6px;
+
+    background: #ff2b2b;
+
+    transform: rotate(-3deg);
+
+    z-index: 5;
+}
+
+/* Ambiguous label */
+.result-item.ambiguous-disabled::after {
+    content: "AMBIGUOUS";
+
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+
+    background: rgba(0, 0, 0, 0.85);
+
+    color: #ff4d4d;
+
+    font-weight: 900;
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+
+    padding: 6px 14px;
+    border-radius: 12px;
+
+    border: 2px solid #ff2b2b;
+
+    text-transform: uppercase;
+
+    z-index: 10;
+
+    pointer-events: none;
+}
 
 .result-main {
     display: flex;
