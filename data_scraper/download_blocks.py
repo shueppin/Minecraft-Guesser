@@ -44,13 +44,13 @@ for block_name, version in existing_blocks.items():
 
         # If it was redirected then store the data under the redirected name
         if redirected_page:
-            if redirected_page in blocks.keys():
+            if redirected_page in blocks:
                 logging.info(f'Skipping block "{block_name}" as it was redirected to "{redirected_page}" and this already exists')
                 progress_bar.update(1)
                 continue
             block_name = redirected_page  # Change the name
 
-        if block_name in blocks.keys():
+        if block_name in blocks:
             logging.warning(f'Skipping block "{block_name}" as it already exists')
             continue
 

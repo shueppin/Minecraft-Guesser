@@ -13,7 +13,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "allium": {
         "name": "Allium",
@@ -26,8 +27,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "amethyst_cluster": {
         "name": "Amethyst Cluster",
@@ -43,7 +47,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_PURPLE"
     },
     "ancient_debris": {
         "name": "Ancient Debris",
@@ -59,7 +64,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "andesite": {
         "name": "Andesite",
@@ -75,7 +81,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "andesite_slab": {
         "name": "Andesite Slab",
@@ -91,7 +98,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "andesite_stairs": {
         "name": "Andesite Stairs",
@@ -107,7 +115,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "andesite_wall": {
         "name": "Andesite Wall",
@@ -123,7 +132,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "STONE"
     },
     "anvil": {
         "name": "Anvil",
@@ -139,7 +149,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "METAL"
     },
     "azalea": {
         "name": "Azalea",
@@ -152,8 +163,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "azure_bluet": {
         "name": "Azure Bluet",
@@ -166,8 +180,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "bamboo": {
         "name": "Bamboo",
@@ -184,7 +201,8 @@
             "Axe",
             "Sword"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "bamboo_mosaic": {
         "name": "Bamboo Mosaic",
@@ -200,7 +218,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "bamboo_mosaic_slab": {
         "name": "Bamboo Mosaic Slab",
@@ -216,7 +235,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_YELLOW"
     },
     "bamboo_mosaic_stairs": {
         "name": "Bamboo Mosaic Stairs",
@@ -232,7 +252,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_YELLOW"
     },
     "banner": {
         "name": "Banner",
@@ -248,7 +269,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "WOOD"
     },
     "barrel": {
         "name": "Barrel",
@@ -264,7 +286,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "barrier": {
         "name": "Barrier",
@@ -272,13 +295,16 @@
         "blast_resistance": 3600000.75,
         "flammable": false,
         "fire_catch": false,
-        "hardness": -1.0,
+        "hardness": 1.0,
         "initial_release": "1.8.0",
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": "Partial"
+        "tool": [
+            "None"
+        ],
+        "transparent": "Partial",
+        "map_color": "NO"
     },
     "basalt": {
         "name": "Basalt",
@@ -294,7 +320,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "beacon": {
         "name": "Beacon",
@@ -307,8 +334,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "DIAMOND"
     },
     "bed": {
         "name": "Bed",
@@ -321,8 +351,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 1,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "WOOL"
     },
     "bedrock": {
         "name": "Bedrock",
@@ -330,13 +363,16 @@
         "blast_resistance": 3600000.0,
         "flammable": false,
         "fire_catch": false,
-        "hardness": -1.0,
+        "hardness": 1.0,
         "initial_release": "pre-alpha",
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": false
+        "tool": [
+            "None"
+        ],
+        "transparent": false,
+        "map_color": "STONE"
     },
     "bee_nest": {
         "name": "Bee Nest",
@@ -352,7 +388,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "beehive": {
         "name": "Beehive",
@@ -368,7 +405,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "bell": {
         "name": "Bell",
@@ -384,7 +422,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "GOLD"
     },
     "big_dripleaf": {
         "name": "Big Dripleaf",
@@ -400,7 +439,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "blackstone": {
         "name": "Blackstone",
@@ -416,7 +456,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "blackstone_slab": {
         "name": "Blackstone Slab",
@@ -432,7 +473,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_BLACK"
     },
     "blackstone_stairs": {
         "name": "Blackstone Stairs",
@@ -448,7 +490,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_BLACK"
     },
     "blackstone_wall": {
         "name": "Blackstone Wall",
@@ -464,7 +507,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_BLACK"
     },
     "blast_furnace": {
         "name": "Blast Furnace",
@@ -480,7 +524,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "block_of_amethyst": {
         "name": "Block of Amethyst",
@@ -496,7 +541,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_PURPLE"
     },
     "block_of_bamboo": {
         "name": "Block of Bamboo",
@@ -512,7 +558,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "block_of_coal": {
         "name": "Block of Coal",
@@ -528,7 +575,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "block_of_copper": {
         "name": "Block of Copper",
@@ -544,7 +592,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "block_of_diamond": {
         "name": "Block of Diamond",
@@ -560,7 +609,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIAMOND"
     },
     "block_of_emerald": {
         "name": "Block of Emerald",
@@ -576,7 +626,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "EMERALD"
     },
     "block_of_gold": {
         "name": "Block of Gold",
@@ -592,7 +643,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "GOLD"
     },
     "block_of_iron": {
         "name": "Block of Iron",
@@ -608,7 +660,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "METAL"
     },
     "block_of_lapis_lazuli": {
         "name": "Block of Lapis Lazuli",
@@ -624,7 +677,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "LAPIS"
     },
     "block_of_netherite": {
         "name": "Block of Netherite",
@@ -640,7 +694,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "block_of_quartz": {
         "name": "Block of Quartz",
@@ -656,7 +711,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "QUARTZ"
     },
     "block_of_raw_copper": {
         "name": "Block of Raw Copper",
@@ -672,7 +728,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "block_of_raw_gold": {
         "name": "Block of Raw Gold",
@@ -688,7 +745,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "GOLD"
     },
     "block_of_raw_iron": {
         "name": "Block of Raw Iron",
@@ -704,7 +762,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "block_of_redstone": {
         "name": "Block of Redstone",
@@ -720,7 +779,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "FIRE"
     },
     "block_of_resin": {
         "name": "Block of Resin",
@@ -733,8 +793,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": false
+        "tool": [
+            "Any"
+        ],
+        "transparent": false,
+        "map_color": ""
     },
     "block_of_stripped_bamboo": {
         "name": "Block of Stripped Bamboo",
@@ -750,7 +813,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "blue_ice": {
         "name": "Blue Ice",
@@ -766,7 +830,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "ICE"
     },
     "blue_orchid": {
         "name": "Blue Orchid",
@@ -779,8 +844,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "bone_block": {
         "name": "Bone Block",
@@ -796,7 +864,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SAND"
     },
     "bookshelf": {
         "name": "Bookshelf",
@@ -812,7 +881,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "brewing_stand": {
         "name": "Brewing Stand",
@@ -828,7 +898,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "METAL"
     },
     "brick_slab": {
         "name": "Brick Slab",
@@ -844,7 +915,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_RED"
     },
     "brick_stairs": {
         "name": "Brick Stairs",
@@ -860,7 +932,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_RED"
     },
     "brick_wall": {
         "name": "Brick Wall",
@@ -876,7 +949,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_RED"
     },
     "bricks": {
         "name": "Bricks",
@@ -892,7 +966,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_RED"
     },
     "brown_mushroom": {
         "name": "Brown Mushroom",
@@ -905,22 +980,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
-    },
-    "bubble_column": {
-        "name": "Bubble Column",
-        "image_url": "https://minecraft.wiki/images/thumb/Bubble_Column_JE1_BE1.png/150px-Bubble_Column_JE1_BE1.png",
-        "blast_resistance": 100.0,
-        "flammable": false,
-        "fire_catch": false,
-        "hardness": 0.0,
-        "initial_release": "1.13.0",
-        "luminous": false,
-        "renewable": true,
-        "stackable": 64,
-        "tool": "None",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_BROWN"
     },
     "budding_amethyst": {
         "name": "Budding Amethyst",
@@ -936,7 +1000,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_PURPLE"
     },
     "bush": {
         "name": "Bush",
@@ -952,7 +1017,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "cactus": {
         "name": "Cactus",
@@ -965,8 +1031,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "cactus_flower": {
         "name": "Cactus Flower",
@@ -979,8 +1048,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_PINK"
     },
     "cake": {
         "name": "Cake",
@@ -993,8 +1065,11 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 1,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "calcite": {
         "name": "Calcite",
@@ -1010,7 +1085,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "calibrated_sculk_sensor": {
         "name": "Calibrated Sculk Sensor",
@@ -1026,7 +1102,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_CYAN"
     },
     "campfire": {
         "name": "Campfire",
@@ -1042,7 +1119,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PODZOL"
     },
     "candle": {
         "name": "Candle",
@@ -1055,8 +1133,11 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "VARIES"
     },
     "carpet": {
         "name": "Carpet",
@@ -1069,8 +1150,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLORS"
     },
     "cartography_table": {
         "name": "Cartography Table",
@@ -1086,7 +1170,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "carved_pumpkin": {
         "name": "Carved Pumpkin",
@@ -1102,7 +1187,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "cauldron": {
         "name": "Cauldron",
@@ -1118,7 +1204,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "STONE"
     },
     "chest": {
         "name": "Chest",
@@ -1134,14 +1221,15 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "WOOD"
     },
     "chiseled_bookshelf": {
         "name": "Chiseled Bookshelf",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Bookshelf_%28S_0%29_JE2.png/150px-Chiseled_Bookshelf_%28S_0%29_JE2.png",
         "blast_resistance": 1.5,
         "flammable": false,
-        "fire_catch": true,
+        "fire_catch": "Partial",
         "hardness": 1.5,
         "initial_release": "1.19.3",
         "luminous": false,
@@ -1150,7 +1238,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "chiseled_cinnabar": {
         "name": "Chiseled Cinnabar",
@@ -1166,7 +1255,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_RED"
     },
     "chiseled_copper": {
         "name": "Chiseled Copper",
@@ -1182,7 +1272,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "chiseled_deepslate": {
         "name": "Chiseled Deepslate",
@@ -1198,7 +1289,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "chiseled_nether_bricks": {
         "name": "Chiseled Nether Bricks",
@@ -1214,7 +1306,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "NETHER"
     },
     "chiseled_polished_blackstone": {
         "name": "Chiseled Polished Blackstone",
@@ -1230,7 +1323,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "chiseled_quartz_block": {
         "name": "Chiseled Quartz Block",
@@ -1246,7 +1340,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "QUARTZ"
     },
     "chiseled_red_sandstone": {
         "name": "Chiseled Red Sandstone",
@@ -1262,7 +1357,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "chiseled_resin_bricks": {
         "name": "Chiseled Resin Bricks",
@@ -1278,7 +1374,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "chiseled_sandstone": {
         "name": "Chiseled Sandstone",
@@ -1294,7 +1391,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SAND"
     },
     "chiseled_stone_bricks": {
         "name": "Chiseled Stone Bricks",
@@ -1310,7 +1408,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "chiseled_sulfur": {
         "name": "Chiseled Sulfur",
@@ -1326,7 +1425,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "chiseled_tuff": {
         "name": "Chiseled Tuff",
@@ -1342,7 +1442,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "chiseled_tuff_bricks": {
         "name": "Chiseled Tuff Bricks",
@@ -1358,7 +1459,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "chorus_flower": {
         "name": "Chorus Flower",
@@ -1374,7 +1476,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_PURPLE"
     },
     "chorus_plant": {
         "name": "Chorus Plant",
@@ -1390,7 +1493,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_PURPLE"
     },
     "cinnabar": {
         "name": "Cinnabar",
@@ -1406,7 +1510,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_RED"
     },
     "cinnabar_brick_slab": {
         "name": "Cinnabar Brick Slab",
@@ -1422,7 +1527,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_RED"
     },
     "cinnabar_brick_stairs": {
         "name": "Cinnabar Brick Stairs",
@@ -1438,7 +1544,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_RED"
     },
     "cinnabar_brick_wall": {
         "name": "Cinnabar Brick Wall",
@@ -1454,7 +1561,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_RED"
     },
     "cinnabar_bricks": {
         "name": "Cinnabar Bricks",
@@ -1470,7 +1578,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_RED"
     },
     "cinnabar_slab": {
         "name": "Cinnabar Slab",
@@ -1486,7 +1595,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_RED"
     },
     "cinnabar_stairs": {
         "name": "Cinnabar Stairs",
@@ -1502,7 +1612,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_RED"
     },
     "cinnabar_wall": {
         "name": "Cinnabar Wall",
@@ -1518,7 +1629,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_RED"
     },
     "clay": {
         "name": "Clay",
@@ -1534,7 +1646,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "CLAY"
     },
     "coal_ore": {
         "name": "Coal Ore",
@@ -1550,7 +1663,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "coarse_dirt": {
         "name": "Coarse Dirt",
@@ -1566,7 +1680,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIRT"
     },
     "cobbled_deepslate": {
         "name": "Cobbled Deepslate",
@@ -1582,7 +1697,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "cobbled_deepslate_slab": {
         "name": "Cobbled Deepslate Slab",
@@ -1598,7 +1714,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DEEPSLATE"
     },
     "cobbled_deepslate_stairs": {
         "name": "Cobbled Deepslate Stairs",
@@ -1614,7 +1731,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DEEPSLATE"
     },
     "cobbled_deepslate_wall": {
         "name": "Cobbled Deepslate Wall",
@@ -1630,7 +1748,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "DEEPSLATE"
     },
     "cobblestone": {
         "name": "Cobblestone",
@@ -1646,7 +1765,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "cobblestone_slab": {
         "name": "Cobblestone Slab",
@@ -1662,7 +1782,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "cobblestone_stairs": {
         "name": "Cobblestone Stairs",
@@ -1678,7 +1799,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "cobblestone_wall": {
         "name": "Cobblestone Wall",
@@ -1694,7 +1816,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "STONE"
     },
     "cobweb": {
         "name": "Cobweb",
@@ -1711,7 +1834,8 @@
             "Shears",
             "Sword"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "WOOL"
     },
     "cocoa_beans": {
         "name": "Cocoa Beans",
@@ -1727,7 +1851,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "command_block": {
         "name": "Command Block",
@@ -1735,13 +1860,16 @@
         "blast_resistance": 3600000.0,
         "flammable": false,
         "fire_catch": false,
-        "hardness": -1.0,
+        "hardness": 1.0,
         "initial_release": "1.4.2",
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": false
+        "tool": [
+            "None"
+        ],
+        "transparent": false,
+        "map_color": "COLOR_BROWN"
     },
     "composter": {
         "name": "Composter",
@@ -1757,7 +1885,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "WOOD"
     },
     "concrete": {
         "name": "Concrete",
@@ -1773,7 +1902,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLORS"
     },
     "concrete_powder": {
         "name": "Concrete Powder",
@@ -1789,7 +1919,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLORS"
     },
     "conduit": {
         "name": "Conduit",
@@ -1805,7 +1936,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "DIAMOND"
     },
     "copper_bars": {
         "name": "Copper Bars",
@@ -1821,7 +1953,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "copper_bulb": {
         "name": "Copper Bulb",
@@ -1837,7 +1970,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "copper_chain": {
         "name": "Copper Chain",
@@ -1853,7 +1987,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "copper_chest": {
         "name": "Copper Chest",
@@ -1869,7 +2004,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_ORANGE"
     },
     "copper_door": {
         "name": "Copper Door",
@@ -1885,7 +2021,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "copper_golem_statue": {
         "name": "Copper Golem Statue",
@@ -1898,8 +2035,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_ORANGE"
     },
     "copper_grate": {
         "name": "Copper Grate",
@@ -1915,7 +2055,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_ORANGE"
     },
     "copper_lantern": {
         "name": "Copper Lantern",
@@ -1931,7 +2072,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "METAL"
     },
     "copper_ore": {
         "name": "Copper Ore",
@@ -1947,7 +2089,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "copper_torch": {
         "name": "Copper Torch",
@@ -1960,8 +2103,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "copper_trapdoor": {
         "name": "Copper Trapdoor",
@@ -1977,7 +2123,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_ORANGE"
     },
     "coral": {
         "name": "Coral",
@@ -1990,8 +2137,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLORS"
     },
     "coral_block": {
         "name": "Coral Block",
@@ -2007,7 +2157,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLUE"
     },
     "coral_fan": {
         "name": "Coral Fan",
@@ -2020,8 +2171,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_BLUE"
     },
     "cornflower": {
         "name": "Cornflower",
@@ -2034,8 +2188,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "cracked_deepslate_bricks": {
         "name": "Cracked Deepslate Bricks",
@@ -2051,7 +2208,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "cracked_deepslate_tiles": {
         "name": "Cracked Deepslate Tiles",
@@ -2067,7 +2225,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "cracked_nether_bricks": {
         "name": "Cracked Nether Bricks",
@@ -2083,7 +2242,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "NETHER"
     },
     "cracked_polished_blackstone_bricks": {
         "name": "Cracked Polished Blackstone Bricks",
@@ -2099,7 +2259,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "cracked_stone_bricks": {
         "name": "Cracked Stone Bricks",
@@ -2115,7 +2276,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "crafter": {
         "name": "Crafter",
@@ -2131,7 +2293,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "crafting_table": {
         "name": "Crafting Table",
@@ -2147,7 +2310,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "creaking_heart": {
         "name": "Creaking Heart",
@@ -2163,7 +2327,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "creeper_head": {
         "name": "Creeper Head",
@@ -2176,8 +2341,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "crimson_fungus": {
         "name": "Crimson Fungus",
@@ -2190,8 +2358,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NETHER"
     },
     "crimson_nylium": {
         "name": "Crimson Nylium",
@@ -2207,7 +2378,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "crimson_roots": {
         "name": "Crimson Roots",
@@ -2220,8 +2392,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NETHER"
     },
     "crying_obsidian": {
         "name": "Crying Obsidian",
@@ -2237,7 +2412,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "cut_copper": {
         "name": "Cut Copper",
@@ -2253,7 +2429,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "cut_copper_slab": {
         "name": "Cut Copper Slab",
@@ -2269,7 +2446,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "cut_copper_stairs": {
         "name": "Cut Copper Stairs",
@@ -2285,7 +2463,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "cut_red_sandstone": {
         "name": "Cut Red Sandstone",
@@ -2301,7 +2480,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "cut_red_sandstone_slab": {
         "name": "Cut Red Sandstone Slab",
@@ -2317,7 +2497,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "cut_sandstone": {
         "name": "Cut Sandstone",
@@ -2333,7 +2514,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SAND"
     },
     "cut_sandstone_slab": {
         "name": "Cut Sandstone Slab",
@@ -2349,7 +2531,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "SAND"
     },
     "dandelion": {
         "name": "Dandelion",
@@ -2362,8 +2545,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "dark_prismarine": {
         "name": "Dark Prismarine",
@@ -2379,7 +2565,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIAMOND"
     },
     "dark_prismarine_slab": {
         "name": "Dark Prismarine Slab",
@@ -2395,7 +2582,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DIAMOND"
     },
     "dark_prismarine_stairs": {
         "name": "Dark Prismarine Stairs",
@@ -2411,7 +2599,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DIAMOND"
     },
     "daylight_detector": {
         "name": "Daylight Detector",
@@ -2427,7 +2616,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "WOOD"
     },
     "dead_bush": {
         "name": "Dead Bush",
@@ -2443,7 +2633,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "WOOD"
     },
     "dead_coral": {
         "name": "Dead Coral",
@@ -2456,8 +2647,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_GRAY"
     },
     "dead_coral_block": {
         "name": "Dead Coral Block",
@@ -2473,7 +2667,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_GRAY"
     },
     "dead_coral_fan": {
         "name": "Dead Coral Fan",
@@ -2486,8 +2681,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_GRAY"
     },
     "decorated_pot": {
         "name": "Decorated Pot",
@@ -2500,8 +2698,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": ""
     },
     "deepslate": {
         "name": "Deepslate",
@@ -2517,7 +2718,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "deepslate_brick_slab": {
         "name": "Deepslate Brick Slab",
@@ -2533,7 +2735,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DEEPSLATE"
     },
     "deepslate_brick_stairs": {
         "name": "Deepslate Brick Stairs",
@@ -2549,7 +2752,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DEEPSLATE"
     },
     "deepslate_brick_wall": {
         "name": "Deepslate Brick Wall",
@@ -2565,7 +2769,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "DEEPSLATE"
     },
     "deepslate_bricks": {
         "name": "Deepslate Bricks",
@@ -2581,7 +2786,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "deepslate_tile_slab": {
         "name": "Deepslate Tile Slab",
@@ -2597,7 +2803,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DEEPSLATE"
     },
     "deepslate_tile_stairs": {
         "name": "Deepslate Tile Stairs",
@@ -2613,7 +2820,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DEEPSLATE"
     },
     "deepslate_tile_wall": {
         "name": "Deepslate Tile Wall",
@@ -2629,7 +2837,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "DEEPSLATE"
     },
     "deepslate_tiles": {
         "name": "Deepslate Tiles",
@@ -2645,7 +2854,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "detector_rail": {
         "name": "Detector Rail",
@@ -2661,7 +2871,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "diamond_ore": {
         "name": "Diamond Ore",
@@ -2677,7 +2888,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "diorite": {
         "name": "Diorite",
@@ -2693,7 +2905,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "QUARTZ"
     },
     "diorite_slab": {
         "name": "Diorite Slab",
@@ -2709,7 +2922,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "QUARTZ"
     },
     "diorite_stairs": {
         "name": "Diorite Stairs",
@@ -2725,7 +2939,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "QUARTZ"
     },
     "diorite_wall": {
         "name": "Diorite Wall",
@@ -2741,7 +2956,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "QUARTZ"
     },
     "dirt": {
         "name": "Dirt",
@@ -2757,7 +2973,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIRT"
     },
     "dirt_path": {
         "name": "Dirt Path",
@@ -2773,7 +2990,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "DIRT"
     },
     "dispenser": {
         "name": "Dispenser",
@@ -2789,7 +3007,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "dragon_egg": {
         "name": "Dragon Egg",
@@ -2802,8 +3021,11 @@
         "luminous": true,
         "renewable": false,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_BLACK"
     },
     "dragon_head": {
         "name": "Dragon Head",
@@ -2816,8 +3038,11 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "dried_ghast": {
         "name": "Dried Ghast",
@@ -2830,8 +3055,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_GRAY"
     },
     "dried_kelp_block": {
         "name": "Dried Kelp Block",
@@ -2847,7 +3075,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_GREEN"
     },
     "dripstone_block": {
         "name": "Dripstone Block",
@@ -2863,7 +3092,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "dropper": {
         "name": "Dropper",
@@ -2879,7 +3109,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "emerald_ore": {
         "name": "Emerald Ore",
@@ -2895,7 +3126,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "enchanting_table": {
         "name": "Enchanting Table",
@@ -2911,7 +3143,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_RED"
     },
     "end_portal_frame": {
         "name": "End Portal Frame",
@@ -2919,13 +3152,16 @@
         "blast_resistance": 3600000.0,
         "flammable": false,
         "fire_catch": false,
-        "hardness": -1.0,
+        "hardness": 1.0,
         "initial_release": "1.0.0",
         "luminous": true,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": "Partial"
+        "tool": [
+            "None"
+        ],
+        "transparent": "Partial",
+        "map_color": "COLOR_GREEN"
     },
     "end_rod": {
         "name": "End Rod",
@@ -2938,8 +3174,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "end_stone": {
         "name": "End Stone",
@@ -2955,7 +3194,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SAND"
     },
     "end_stone_brick_slab": {
         "name": "End Stone Brick Slab",
@@ -2971,7 +3211,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "SAND"
     },
     "end_stone_brick_stairs": {
         "name": "End Stone Brick Stairs",
@@ -2987,7 +3228,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "SAND"
     },
     "end_stone_brick_wall": {
         "name": "End Stone Brick Wall",
@@ -3003,7 +3245,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "SAND"
     },
     "end_stone_bricks": {
         "name": "End Stone Bricks",
@@ -3019,7 +3262,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SAND"
     },
     "ender_chest": {
         "name": "Ender Chest",
@@ -3035,7 +3279,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "STONE"
     },
     "eyeblossom": {
         "name": "Eyeblossom",
@@ -3048,8 +3293,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "METAL"
     },
     "farmland": {
         "name": "Farmland",
@@ -3065,14 +3313,15 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DIRT"
     },
     "fence_gate": {
         "name": "Fence Gate",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Fence_Gate_JE4_BE3.png/150px-Oak_Fence_Gate_JE4_BE3.png",
         "blast_resistance": 3.0,
         "flammable": true,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "Beta 1.8",
         "luminous": false,
@@ -3081,7 +3330,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "VARIES"
     },
     "fern": {
         "name": "Fern",
@@ -3097,21 +3347,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
-    },
-    "fire": {
-        "name": "Fire",
-        "image_url": "https://minecraft.wiki/images/thumb/Fire.gif/150px-Fire.gif",
-        "blast_resistance": 0.0,
-        "flammable": false,
-        "fire_catch": false,
-        "hardness": 0.0,
-        "initial_release": "pre-alpha",
-        "luminous": true,
-        "renewable": true,
-        "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "firefly_bush": {
         "name": "Firefly Bush",
@@ -3124,8 +3361,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "fletching_table": {
         "name": "Fletching Table",
@@ -3141,7 +3381,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "flower_pot": {
         "name": "Flower Pot",
@@ -3154,8 +3395,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "flowering_azalea": {
         "name": "Flowering Azalea",
@@ -3168,8 +3412,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "froglight": {
         "name": "Froglight",
@@ -3182,8 +3429,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": false
+        "tool": [
+            "Any"
+        ],
+        "transparent": false,
+        "map_color": "PEARLESCENT"
     },
     "frogspawn": {
         "name": "Frogspawn",
@@ -3196,22 +3446,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
-    },
-    "frosted_ice": {
-        "name": "Frosted Ice",
-        "image_url": "https://minecraft.wiki/images/thumb/Frosted_Ice_JE2_BE2.png/150px-Frosted_Ice_JE2_BE2.png",
-        "blast_resistance": 0.5,
-        "flammable": false,
-        "fire_catch": false,
-        "hardness": 0.5,
-        "initial_release": "1.9.0",
-        "luminous": false,
-        "renewable": true,
-        "stackable": 64,
-        "tool": "Any",
-        "transparent": "Partial"
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "SAND"
     },
     "furnace": {
         "name": "Furnace",
@@ -3227,7 +3466,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "gilded_blackstone": {
         "name": "Gilded Blackstone",
@@ -3243,7 +3483,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "glass": {
         "name": "Glass",
@@ -3256,8 +3497,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "glass_pane": {
         "name": "Glass Pane",
@@ -3270,8 +3514,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "glazed_terracotta": {
         "name": "Glazed Terracotta",
@@ -3287,7 +3534,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLORS"
     },
     "glow_berries": {
         "name": "Glow Berries",
@@ -3300,8 +3548,11 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "glow_lichen": {
         "name": "Glow Lichen",
@@ -3315,10 +3566,11 @@
         "renewable": true,
         "stackable": 64,
         "tool": [
-            "Shears",
-            "Axe"
+            "Axe",
+            "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": ""
     },
     "glowstone": {
         "name": "Glowstone",
@@ -3331,8 +3583,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "SAND"
     },
     "gold_ore": {
         "name": "Gold Ore",
@@ -3348,7 +3603,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "golden_dandelion": {
         "name": "Golden Dandelion",
@@ -3361,8 +3617,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "granite": {
         "name": "Granite",
@@ -3378,7 +3637,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIRT"
     },
     "granite_slab": {
         "name": "Granite Slab",
@@ -3394,7 +3654,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DIRT"
     },
     "granite_stairs": {
         "name": "Granite Stairs",
@@ -3410,7 +3671,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DIRT"
     },
     "granite_wall": {
         "name": "Granite Wall",
@@ -3426,7 +3688,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "DIRT"
     },
     "grass_block": {
         "name": "Grass Block",
@@ -3442,7 +3705,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "PLANT"
     },
     "gravel": {
         "name": "Gravel",
@@ -3458,7 +3722,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "grindstone": {
         "name": "Grindstone",
@@ -3474,7 +3739,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "METAL"
     },
     "hanging_roots": {
         "name": "Hanging Roots",
@@ -3490,14 +3756,15 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "DIRT"
     },
     "hanging_sign": {
         "name": "Hanging Sign",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Hanging_Sign_JE1_BE1.png/150px-Oak_Hanging_Sign_JE1_BE1.png",
         "blast_resistance": 1.0,
         "flammable": false,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 1.0,
         "initial_release": "1.19.3",
         "luminous": false,
@@ -3506,7 +3773,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "VARIES"
     },
     "hay_bale": {
         "name": "Hay Bale",
@@ -3522,7 +3790,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "heavy_core": {
         "name": "Heavy Core",
@@ -3538,7 +3807,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "METAL"
     },
     "heavy_weighted_pressure_plate": {
         "name": "Heavy Weighted Pressure Plate",
@@ -3554,7 +3824,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "METAL"
     },
     "honey_block": {
         "name": "Honey Block",
@@ -3567,8 +3838,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": "Partial"
+        "tool": [
+            "Any"
+        ],
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "honeycomb_block": {
         "name": "Honeycomb Block",
@@ -3581,8 +3855,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": false
+        "tool": [
+            "Any"
+        ],
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "hopper": {
         "name": "Hopper",
@@ -3598,7 +3875,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "STONE"
     },
     "ice": {
         "name": "Ice",
@@ -3614,7 +3892,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "ICE"
     },
     "infested_block": {
         "name": "Infested Block",
@@ -3630,7 +3909,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "iron_bars": {
         "name": "Iron Bars",
@@ -3646,7 +3926,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "iron_chain": {
         "name": "Iron Chain",
@@ -3662,7 +3943,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "iron_door": {
         "name": "Iron Door",
@@ -3678,7 +3960,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "METAL"
     },
     "iron_ore": {
         "name": "Iron Ore",
@@ -3694,7 +3977,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "iron_trapdoor": {
         "name": "Iron Trapdoor",
@@ -3710,7 +3994,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "METAL"
     },
     "jack_o'lantern": {
         "name": "Jack o'Lantern",
@@ -3726,7 +4011,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "jigsaw_block": {
         "name": "Jigsaw Block",
@@ -3734,13 +4020,16 @@
         "blast_resistance": 3600000.0,
         "flammable": false,
         "fire_catch": false,
-        "hardness": -1.0,
+        "hardness": 1.0,
         "initial_release": "1.14.9",
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": false
+        "tool": [
+            "None"
+        ],
+        "transparent": false,
+        "map_color": "COLOR_LIGHT_GRAY"
     },
     "jukebox": {
         "name": "Jukebox",
@@ -3756,7 +4045,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIRT"
     },
     "kelp": {
         "name": "Kelp",
@@ -3769,8 +4059,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "WATER"
     },
     "ladder": {
         "name": "Ladder",
@@ -3786,7 +4079,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "lantern": {
         "name": "Lantern",
@@ -3802,7 +4096,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "METAL"
     },
     "lapis_lazuli_ore": {
         "name": "Lapis Lazuli Ore",
@@ -3818,7 +4113,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "large_fern": {
         "name": "Large Fern",
@@ -3834,7 +4130,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "leaf_litter": {
         "name": "Leaf Litter",
@@ -3847,8 +4144,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_BROWN"
     },
     "leaves": {
         "name": "Leaves",
@@ -3862,11 +4162,12 @@
         "renewable": true,
         "stackable": 64,
         "tool": [
-            "Shears",
             "Hoe",
+            "Shears",
             "Sword"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "PLANT"
     },
     "lectern": {
         "name": "Lectern",
@@ -3882,7 +4183,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "lever": {
         "name": "Lever",
@@ -3895,8 +4197,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "light_weighted_pressure_plate": {
         "name": "Light Weighted Pressure Plate",
@@ -3912,7 +4217,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "GOLD"
     },
     "lightning_rod": {
         "name": "Lightning Rod",
@@ -3928,7 +4234,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_ORANGE"
     },
     "lilac": {
         "name": "Lilac",
@@ -3941,8 +4248,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "lily_pad": {
         "name": "Lily Pad",
@@ -3955,8 +4265,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "lily_of_the_valley": {
         "name": "Lily of the Valley",
@@ -3969,8 +4282,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "lodestone": {
         "name": "Lodestone",
@@ -3986,14 +4302,15 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "METAL"
     },
     "log": {
         "name": "Log",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Log_%28UD%29_JE8_BE3.png/150px-Oak_Log_%28UD%29_JE8_BE3.png",
         "blast_resistance": 2.0,
         "flammable": true,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "pre-alpha",
         "luminous": false,
@@ -4002,7 +4319,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "VARIES"
     },
     "loom": {
         "name": "Loom",
@@ -4018,7 +4336,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "magma_block": {
         "name": "Magma Block",
@@ -4034,7 +4353,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "NETHER"
     },
     "mangrove_propagule": {
         "name": "Mangrove Propagule",
@@ -4047,8 +4367,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "mangrove_roots": {
         "name": "Mangrove Roots",
@@ -4064,7 +4387,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "PODZOL"
     },
     "melon": {
         "name": "Melon",
@@ -4081,7 +4405,8 @@
             "Axe",
             "Sword"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_LIGHT_GREEN"
     },
     "monster_spawner": {
         "name": "Monster Spawner",
@@ -4097,7 +4422,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "moss_block": {
         "name": "Moss Block",
@@ -4113,7 +4439,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_GREEN"
     },
     "moss_carpet": {
         "name": "Moss Carpet",
@@ -4129,7 +4456,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_GREEN"
     },
     "mossy_cobblestone": {
         "name": "Mossy Cobblestone",
@@ -4145,7 +4473,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "mossy_cobblestone_slab": {
         "name": "Mossy Cobblestone Slab",
@@ -4161,7 +4490,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "mossy_cobblestone_stairs": {
         "name": "Mossy Cobblestone Stairs",
@@ -4177,7 +4507,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "mossy_cobblestone_wall": {
         "name": "Mossy Cobblestone Wall",
@@ -4193,7 +4524,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "STONE"
     },
     "mossy_stone_brick_slab": {
         "name": "Mossy Stone Brick Slab",
@@ -4209,7 +4541,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "mossy_stone_brick_stairs": {
         "name": "Mossy Stone Brick Stairs",
@@ -4225,7 +4558,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "mossy_stone_brick_wall": {
         "name": "Mossy Stone Brick Wall",
@@ -4241,7 +4575,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "STONE"
     },
     "mossy_stone_bricks": {
         "name": "Mossy Stone Bricks",
@@ -4257,7 +4592,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "mud": {
         "name": "Mud",
@@ -4273,7 +4609,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "mud_brick_slab": {
         "name": "Mud Brick Slab",
@@ -4289,7 +4626,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "mud_brick_stairs": {
         "name": "Mud Brick Stairs",
@@ -4305,7 +4643,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "mud_brick_wall": {
         "name": "Mud Brick Wall",
@@ -4321,7 +4660,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": ""
     },
     "mud_bricks": {
         "name": "Mud Bricks",
@@ -4337,7 +4677,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "muddy_mangrove_roots": {
         "name": "Muddy Mangrove Roots",
@@ -4353,7 +4694,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "PODZOL"
     },
     "mushroom_block": {
         "name": "Mushroom Block",
@@ -4369,7 +4711,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_RED"
     },
     "mycelium": {
         "name": "Mycelium",
@@ -4385,7 +4728,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_PURPLE"
     },
     "nether_brick_fence": {
         "name": "Nether Brick Fence",
@@ -4401,7 +4745,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NETHER"
     },
     "nether_brick_slab": {
         "name": "Nether Brick Slab",
@@ -4417,7 +4762,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "NETHER"
     },
     "nether_brick_stairs": {
         "name": "Nether Brick Stairs",
@@ -4433,7 +4779,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "NETHER"
     },
     "nether_brick_wall": {
         "name": "Nether Brick Wall",
@@ -4449,7 +4796,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NETHER"
     },
     "nether_bricks": {
         "name": "Nether Bricks",
@@ -4465,7 +4813,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "NETHER"
     },
     "nether_gold_ore": {
         "name": "Nether Gold Ore",
@@ -4481,7 +4830,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "NETHER"
     },
     "nether_quartz_ore": {
         "name": "Nether Quartz Ore",
@@ -4497,7 +4847,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "NETHER"
     },
     "nether_sprouts": {
         "name": "Nether Sprouts",
@@ -4513,7 +4864,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_CYAN"
     },
     "nether_wart": {
         "name": "Nether Wart",
@@ -4526,8 +4878,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_RED"
     },
     "nether_wart_block": {
         "name": "Nether Wart Block",
@@ -4543,7 +4898,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_RED"
     },
     "netherrack": {
         "name": "Netherrack",
@@ -4559,7 +4915,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "NETHER"
     },
     "note_block": {
         "name": "Note Block",
@@ -4575,7 +4932,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "observer": {
         "name": "Observer",
@@ -4591,7 +4949,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "obsidian": {
         "name": "Obsidian",
@@ -4607,7 +4966,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "oxeye_daisy": {
         "name": "Oxeye Daisy",
@@ -4620,8 +4980,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "packed_ice": {
         "name": "Packed Ice",
@@ -4637,7 +5000,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "ICE"
     },
     "packed_mud": {
         "name": "Packed Mud",
@@ -4653,7 +5017,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIRT"
     },
     "pale_hanging_moss": {
         "name": "Pale Hanging Moss",
@@ -4669,7 +5034,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_LIGHT_GRAY"
     },
     "pale_moss_block": {
         "name": "Pale Moss Block",
@@ -4685,7 +5051,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_LIGHT_GRAY"
     },
     "pale_moss_carpet": {
         "name": "Pale Moss Carpet",
@@ -4701,7 +5068,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_LIGHT_GRAY"
     },
     "peony": {
         "name": "Peony",
@@ -4714,24 +5082,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
-    },
-    "petrified_oak_slab": {
-        "name": "Petrified Oak Slab",
-        "image_url": "https://minecraft.wiki/images/thumb/Oak_Slab_JE3_BE2.png/150px-Oak_Slab_JE3_BE2.png",
-        "blast_resistance": 6.0,
-        "flammable": false,
-        "fire_catch": false,
-        "hardness": 2.0,
-        "initial_release": "Beta 1.3",
-        "luminous": false,
-        "renewable": false,
-        "stackable": 64,
         "tool": [
-            "Pickaxe"
+            "Any"
         ],
-        "transparent": "Partial"
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "piglin_head": {
         "name": "Piglin Head",
@@ -4744,8 +5099,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "pink_petals": {
         "name": "Pink Petals",
@@ -4758,8 +5116,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "piston": {
         "name": "Piston",
@@ -4775,23 +5136,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
-    },
-    "piston/technical_components": {
-        "name": "Piston/Technical components",
-        "image_url": "https://minecraft.wiki/images/thumb/Piston_Head_%28U%29_JE4.png/150px-Piston_Head_%28U%29_JE4.png",
-        "blast_resistance": 1.5,
-        "flammable": false,
-        "fire_catch": false,
-        "hardness": 1.5,
-        "initial_release": "Beta 1.7",
-        "luminous": false,
-        "renewable": true,
-        "stackable": 1,
-        "tool": [
-            "Pickaxe"
-        ],
-        "transparent": true
+        "transparent": false,
+        "map_color": "STONE"
     },
     "pitcher_plant": {
         "name": "Pitcher Plant",
@@ -4804,15 +5150,18 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "planks": {
         "name": "Planks",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Planks.png/150px-Oak_Planks.png",
         "blast_resistance": 3.0,
         "flammable": true,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "pre-alpha",
         "luminous": false,
@@ -4821,7 +5170,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "VARIES"
     },
     "player_head": {
         "name": "Player Head",
@@ -4834,8 +5184,11 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "podzol": {
         "name": "Podzol",
@@ -4851,7 +5204,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "PODZOL"
     },
     "pointed_dripstone": {
         "name": "Pointed Dripstone",
@@ -4867,7 +5221,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "polished_andesite": {
         "name": "Polished Andesite",
@@ -4883,7 +5238,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "polished_andesite_slab": {
         "name": "Polished Andesite Slab",
@@ -4899,7 +5255,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "polished_andesite_stairs": {
         "name": "Polished Andesite Stairs",
@@ -4915,7 +5272,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "polished_basalt": {
         "name": "Polished Basalt",
@@ -4931,7 +5289,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "polished_blackstone": {
         "name": "Polished Blackstone",
@@ -4947,7 +5306,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "polished_blackstone_brick_slab": {
         "name": "Polished Blackstone Brick Slab",
@@ -4963,7 +5323,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_BLACK"
     },
     "polished_blackstone_brick_stairs": {
         "name": "Polished Blackstone Brick Stairs",
@@ -4979,7 +5340,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_BLACK"
     },
     "polished_blackstone_brick_wall": {
         "name": "Polished Blackstone Brick Wall",
@@ -4995,7 +5357,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_BLACK"
     },
     "polished_blackstone_bricks": {
         "name": "Polished Blackstone Bricks",
@@ -5011,7 +5374,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "polished_blackstone_button": {
         "name": "Polished Blackstone Button",
@@ -5027,7 +5391,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "polished_blackstone_pressure_plate": {
         "name": "Polished Blackstone Pressure Plate",
@@ -5043,7 +5408,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_BLACK"
     },
     "polished_blackstone_slab": {
         "name": "Polished Blackstone Slab",
@@ -5059,7 +5425,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_BLACK"
     },
     "polished_blackstone_stairs": {
         "name": "Polished Blackstone Stairs",
@@ -5075,7 +5442,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_BLACK"
     },
     "polished_blackstone_wall": {
         "name": "Polished Blackstone Wall",
@@ -5091,7 +5459,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_BLACK"
     },
     "polished_cinnabar": {
         "name": "Polished Cinnabar",
@@ -5107,7 +5476,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_RED"
     },
     "polished_cinnabar_slab": {
         "name": "Polished Cinnabar Slab",
@@ -5123,7 +5493,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_RED"
     },
     "polished_cinnabar_stairs": {
         "name": "Polished Cinnabar Stairs",
@@ -5139,7 +5510,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_RED"
     },
     "polished_cinnabar_wall": {
         "name": "Polished Cinnabar Wall",
@@ -5155,7 +5527,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_RED"
     },
     "polished_deepslate": {
         "name": "Polished Deepslate",
@@ -5171,7 +5544,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "polished_deepslate_slab": {
         "name": "Polished Deepslate Slab",
@@ -5187,7 +5561,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DEEPSLATE"
     },
     "polished_deepslate_stairs": {
         "name": "Polished Deepslate Stairs",
@@ -5203,7 +5578,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DEEPSLATE"
     },
     "polished_deepslate_wall": {
         "name": "Polished Deepslate Wall",
@@ -5219,7 +5595,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "DEEPSLATE"
     },
     "polished_diorite": {
         "name": "Polished Diorite",
@@ -5235,7 +5612,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "QUARTZ"
     },
     "polished_diorite_slab": {
         "name": "Polished Diorite Slab",
@@ -5251,7 +5629,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "QUARTZ"
     },
     "polished_diorite_stairs": {
         "name": "Polished Diorite Stairs",
@@ -5267,7 +5646,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "QUARTZ"
     },
     "polished_granite": {
         "name": "Polished Granite",
@@ -5283,7 +5663,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIRT"
     },
     "polished_granite_slab": {
         "name": "Polished Granite Slab",
@@ -5299,7 +5680,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DIRT"
     },
     "polished_granite_stairs": {
         "name": "Polished Granite Stairs",
@@ -5315,7 +5697,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DIRT"
     },
     "polished_sulfur": {
         "name": "Polished Sulfur",
@@ -5331,7 +5714,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "polished_sulfur_slab": {
         "name": "Polished Sulfur Slab",
@@ -5347,7 +5731,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_YELLOW"
     },
     "polished_sulfur_stairs": {
         "name": "Polished Sulfur Stairs",
@@ -5363,7 +5748,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_YELLOW"
     },
     "polished_sulfur_wall": {
         "name": "Polished Sulfur Wall",
@@ -5379,7 +5765,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_YELLOW"
     },
     "polished_tuff": {
         "name": "Polished Tuff",
@@ -5395,7 +5782,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "polished_tuff_slab": {
         "name": "Polished Tuff Slab",
@@ -5411,7 +5799,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "polished_tuff_stairs": {
         "name": "Polished Tuff Stairs",
@@ -5427,7 +5816,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "polished_tuff_wall": {
         "name": "Polished Tuff Wall",
@@ -5443,7 +5833,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": ""
     },
     "poppy": {
         "name": "Poppy",
@@ -5456,8 +5847,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "potent_sulfur": {
         "name": "Potent Sulfur",
@@ -5473,7 +5867,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "powder_snow": {
         "name": "Powder Snow",
@@ -5489,7 +5884,8 @@
         "tool": [
             "Bucket"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "SNOW"
     },
     "powered_rail": {
         "name": "Powered Rail",
@@ -5505,7 +5901,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "prismarine": {
         "name": "Prismarine",
@@ -5521,7 +5918,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_CYAN"
     },
     "prismarine_brick_slab": {
         "name": "Prismarine Brick Slab",
@@ -5537,7 +5935,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DIAMOND"
     },
     "prismarine_brick_stairs": {
         "name": "Prismarine Brick Stairs",
@@ -5553,7 +5952,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "DIAMOND"
     },
     "prismarine_bricks": {
         "name": "Prismarine Bricks",
@@ -5569,7 +5969,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIAMOND"
     },
     "prismarine_slab": {
         "name": "Prismarine Slab",
@@ -5585,7 +5986,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_CYAN"
     },
     "prismarine_stairs": {
         "name": "Prismarine Stairs",
@@ -5601,7 +6003,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_CYAN"
     },
     "prismarine_wall": {
         "name": "Prismarine Wall",
@@ -5617,7 +6020,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_CYAN"
     },
     "pumpkin": {
         "name": "Pumpkin",
@@ -5633,7 +6037,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "purpur_block": {
         "name": "Purpur Block",
@@ -5649,7 +6054,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_MAGENTA"
     },
     "purpur_pillar": {
         "name": "Purpur Pillar",
@@ -5665,7 +6071,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_MAGENTA"
     },
     "purpur_slab": {
         "name": "Purpur Slab",
@@ -5681,7 +6088,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_MAGENTA"
     },
     "purpur_stairs": {
         "name": "Purpur Stairs",
@@ -5697,7 +6105,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_MAGENTA"
     },
     "quartz_bricks": {
         "name": "Quartz Bricks",
@@ -5713,7 +6122,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "QUARTZ"
     },
     "quartz_pillar": {
         "name": "Quartz Pillar",
@@ -5729,7 +6139,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "QUARTZ"
     },
     "quartz_slab": {
         "name": "Quartz Slab",
@@ -5745,7 +6156,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "QUARTZ"
     },
     "quartz_stairs": {
         "name": "Quartz Stairs",
@@ -5761,7 +6173,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "QUARTZ"
     },
     "rail": {
         "name": "Rail",
@@ -5777,7 +6190,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "red_mushroom": {
         "name": "Red Mushroom",
@@ -5790,8 +6204,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_RED"
     },
     "red_nether_brick_slab": {
         "name": "Red Nether Brick Slab",
@@ -5807,7 +6224,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "NETHER"
     },
     "red_nether_brick_stairs": {
         "name": "Red Nether Brick Stairs",
@@ -5823,7 +6241,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "NETHER"
     },
     "red_nether_brick_wall": {
         "name": "Red Nether Brick Wall",
@@ -5839,7 +6258,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NETHER"
     },
     "red_nether_bricks": {
         "name": "Red Nether Bricks",
@@ -5855,7 +6275,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "NETHER"
     },
     "red_sand": {
         "name": "Red Sand",
@@ -5871,7 +6292,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "red_sandstone": {
         "name": "Red Sandstone",
@@ -5887,7 +6309,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "red_sandstone_slab": {
         "name": "Red Sandstone Slab",
@@ -5903,7 +6326,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "red_sandstone_stairs": {
         "name": "Red Sandstone Stairs",
@@ -5919,7 +6343,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "red_sandstone_wall": {
         "name": "Red Sandstone Wall",
@@ -5935,7 +6360,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_ORANGE"
     },
     "redstone_comparator": {
         "name": "Redstone Comparator",
@@ -5948,8 +6374,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "redstone_dust": {
         "name": "Redstone Dust",
@@ -5962,8 +6391,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "redstone_lamp": {
         "name": "Redstone Lamp",
@@ -5976,8 +6408,11 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": false
+        "tool": [
+            "Any"
+        ],
+        "transparent": false,
+        "map_color": "NONE"
     },
     "redstone_ore": {
         "name": "Redstone Ore",
@@ -5993,7 +6428,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "redstone_repeater": {
         "name": "Redstone Repeater",
@@ -6006,8 +6442,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "redstone_torch": {
         "name": "Redstone Torch",
@@ -6020,8 +6459,11 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "reinforced_deepslate": {
         "name": "Reinforced Deepslate",
@@ -6034,8 +6476,11 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": false
+        "tool": [
+            "None"
+        ],
+        "transparent": false,
+        "map_color": "DEEPSLATE"
     },
     "resin_brick_slab": {
         "name": "Resin Brick Slab",
@@ -6051,7 +6496,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "resin_brick_stairs": {
         "name": "Resin Brick Stairs",
@@ -6067,7 +6513,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "resin_brick_wall": {
         "name": "Resin Brick Wall",
@@ -6083,7 +6530,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": ""
     },
     "resin_bricks": {
         "name": "Resin Bricks",
@@ -6099,7 +6547,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "resin_clump": {
         "name": "Resin Clump",
@@ -6112,8 +6561,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": ""
     },
     "respawn_anchor": {
         "name": "Respawn Anchor",
@@ -6129,7 +6581,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "rooted_dirt": {
         "name": "Rooted Dirt",
@@ -6145,7 +6598,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "DIRT"
     },
     "rose_bush": {
         "name": "Rose Bush",
@@ -6158,8 +6612,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "sand": {
         "name": "Sand",
@@ -6175,7 +6632,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SAND"
     },
     "sandstone": {
         "name": "Sandstone",
@@ -6191,7 +6649,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SAND"
     },
     "sandstone_slab": {
         "name": "Sandstone Slab",
@@ -6207,7 +6666,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "SAND"
     },
     "sandstone_stairs": {
         "name": "Sandstone Stairs",
@@ -6223,7 +6683,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "SAND"
     },
     "sandstone_wall": {
         "name": "Sandstone Wall",
@@ -6239,7 +6700,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "SAND"
     },
     "sapling": {
         "name": "Sapling",
@@ -6252,8 +6714,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "scaffolding": {
         "name": "Scaffolding",
@@ -6266,8 +6731,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": "Partial"
+        "tool": [
+            "Any"
+        ],
+        "transparent": "Partial",
+        "map_color": "SAND"
     },
     "sculk": {
         "name": "Sculk",
@@ -6283,7 +6751,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "sculk_catalyst": {
         "name": "Sculk Catalyst",
@@ -6299,7 +6768,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "sculk_sensor": {
         "name": "Sculk Sensor",
@@ -6315,7 +6785,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_CYAN"
     },
     "sculk_shrieker": {
         "name": "Sculk Shrieker",
@@ -6331,7 +6802,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "sculk_vein": {
         "name": "Sculk Vein",
@@ -6347,7 +6819,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_BLACK"
     },
     "sea_lantern": {
         "name": "Sea Lantern",
@@ -6360,8 +6833,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": "Partial"
+        "tool": [
+            "Any"
+        ],
+        "transparent": "Partial",
+        "map_color": "QUARTZ"
     },
     "sea_pickle": {
         "name": "Sea Pickle",
@@ -6374,8 +6850,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_GREEN"
     },
     "seagrass": {
         "name": "Seagrass",
@@ -6391,14 +6870,15 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "WATER"
     },
     "shelf": {
         "name": "Shelf",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Shelf_JE1_BE2.png/150px-Oak_Shelf_JE1_BE2.png",
         "blast_resistance": 3.0,
         "flammable": true,
-        "fire_catch": true,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "1.21.9",
         "luminous": false,
@@ -6407,7 +6887,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "VARIES"
     },
     "short_dry_grass": {
         "name": "Short Dry Grass",
@@ -6423,7 +6904,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_YELLOW"
     },
     "short_grass": {
         "name": "Short Grass",
@@ -6439,7 +6921,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "shroomlight": {
         "name": "Shroomlight",
@@ -6455,7 +6938,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_RED"
     },
     "shulker_box": {
         "name": "Shulker Box",
@@ -6471,7 +6955,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_PURPLE"
     },
     "sign": {
         "name": "Sign",
@@ -6487,7 +6972,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "VARIES"
     },
     "skeleton_skull": {
         "name": "Skeleton Skull",
@@ -6500,8 +6986,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "slime_block": {
         "name": "Slime Block",
@@ -6514,8 +7003,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": "Partial"
+        "tool": [
+            "Any"
+        ],
+        "transparent": "Partial",
+        "map_color": "GRASS"
     },
     "small_dripleaf": {
         "name": "Small Dripleaf",
@@ -6531,7 +7023,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "smithing_table": {
         "name": "Smithing Table",
@@ -6547,7 +7040,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "WOOD"
     },
     "smoker": {
         "name": "Smoker",
@@ -6563,7 +7057,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "smooth_basalt": {
         "name": "Smooth Basalt",
@@ -6579,7 +7074,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BLACK"
     },
     "smooth_quartz_block": {
         "name": "Smooth Quartz Block",
@@ -6595,7 +7091,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "QUARTZ"
     },
     "smooth_quartz_slab": {
         "name": "Smooth Quartz Slab",
@@ -6611,7 +7108,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "QUARTZ"
     },
     "smooth_quartz_stairs": {
         "name": "Smooth Quartz Stairs",
@@ -6627,7 +7125,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "QUARTZ"
     },
     "smooth_red_sandstone": {
         "name": "Smooth Red Sandstone",
@@ -6643,7 +7142,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "smooth_red_sandstone_slab": {
         "name": "Smooth Red Sandstone Slab",
@@ -6659,7 +7159,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "smooth_red_sandstone_stairs": {
         "name": "Smooth Red Sandstone Stairs",
@@ -6675,7 +7176,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_ORANGE"
     },
     "smooth_sandstone": {
         "name": "Smooth Sandstone",
@@ -6691,7 +7193,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SAND"
     },
     "smooth_sandstone_slab": {
         "name": "Smooth Sandstone Slab",
@@ -6707,7 +7210,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "SAND"
     },
     "smooth_sandstone_stairs": {
         "name": "Smooth Sandstone Stairs",
@@ -6723,7 +7227,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "SAND"
     },
     "smooth_stone": {
         "name": "Smooth Stone",
@@ -6739,7 +7244,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "smooth_stone_slab": {
         "name": "Smooth Stone Slab",
@@ -6755,7 +7261,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "sniffer_egg": {
         "name": "Sniffer Egg",
@@ -6768,8 +7275,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": false
+        "tool": [
+            "Any"
+        ],
+        "transparent": false,
+        "map_color": "COLOR_RED"
     },
     "snow": {
         "name": "Snow",
@@ -6785,7 +7295,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "SNOW"
     },
     "snow_block": {
         "name": "Snow Block",
@@ -6801,7 +7312,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SNOW"
     },
     "soul_campfire": {
         "name": "Soul Campfire",
@@ -6817,7 +7329,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PODZOL"
     },
     "soul_fire": {
         "name": "Soul Fire",
@@ -6830,8 +7343,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": "Partial"
+        "tool": [
+            "Any"
+        ],
+        "transparent": "Partial",
+        "map_color": "COLOR_LIGHT_BLUE"
     },
     "soul_lantern": {
         "name": "Soul Lantern",
@@ -6847,7 +7363,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "METAL"
     },
     "soul_sand": {
         "name": "Soul Sand",
@@ -6863,7 +7380,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BROWN"
     },
     "soul_soil": {
         "name": "Soul Soil",
@@ -6879,7 +7397,8 @@
         "tool": [
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_BROWN"
     },
     "soul_torch": {
         "name": "Soul Torch",
@@ -6892,8 +7411,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "sponge": {
         "name": "Sponge",
@@ -6909,7 +7431,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "spore_blossom": {
         "name": "Spore Blossom",
@@ -6922,8 +7445,11 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": false
+        "tool": [
+            "Any"
+        ],
+        "transparent": false,
+        "map_color": "PLANT"
     },
     "stained_glass": {
         "name": "Stained Glass",
@@ -6936,8 +7462,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLORS"
     },
     "stained_glass_pane": {
         "name": "Stained Glass Pane",
@@ -6950,8 +7479,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "stained_terracotta": {
         "name": "Stained Terracotta",
@@ -6967,7 +7499,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "TERRACOTTA"
     },
     "sticky_piston": {
         "name": "Sticky Piston",
@@ -6983,7 +7516,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "stone": {
         "name": "Stone",
@@ -6999,7 +7533,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "stone_brick_slab": {
         "name": "Stone Brick Slab",
@@ -7015,7 +7550,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "stone_brick_stairs": {
         "name": "Stone Brick Stairs",
@@ -7031,7 +7567,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "stone_brick_wall": {
         "name": "Stone Brick Wall",
@@ -7047,7 +7584,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "STONE"
     },
     "stone_bricks": {
         "name": "Stone Bricks",
@@ -7063,7 +7601,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "stone_button": {
         "name": "Stone Button",
@@ -7079,7 +7618,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "stone_pressure_plate": {
         "name": "Stone Pressure Plate",
@@ -7095,7 +7635,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "STONE"
     },
     "stone_slab": {
         "name": "Stone Slab",
@@ -7111,7 +7652,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "stone_stairs": {
         "name": "Stone Stairs",
@@ -7127,7 +7669,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "stonecutter": {
         "name": "Stonecutter",
@@ -7143,7 +7686,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "string": {
         "name": "String",
@@ -7156,15 +7700,18 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "stripped_log": {
         "name": "Stripped Log",
         "image_url": "https://minecraft.wiki/images/thumb/Stripped_Oak_Log_%28UD%29_JE2_BE2.png/150px-Stripped_Oak_Log_%28UD%29_JE2_BE2.png",
         "blast_resistance": 2.0,
         "flammable": true,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "1.13.0",
         "luminous": false,
@@ -7173,14 +7720,15 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "VARIES"
     },
     "stripped_wood": {
         "name": "Stripped Wood",
         "image_url": "https://minecraft.wiki/images/thumb/Stripped_Oak_Wood_%28UD%29_JE1_BE1.png/150px-Stripped_Oak_Wood_%28UD%29_JE1_BE1.png",
         "blast_resistance": 2.0,
         "flammable": true,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "1.13.0",
         "luminous": false,
@@ -7189,7 +7737,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "VARIES"
     },
     "structure_block": {
         "name": "Structure Block",
@@ -7197,13 +7746,16 @@
         "blast_resistance": 3600000.0,
         "flammable": false,
         "fire_catch": false,
-        "hardness": -1.0,
+        "hardness": 1.0,
         "initial_release": "1.9.0",
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": false
+        "tool": [
+            "None"
+        ],
+        "transparent": false,
+        "map_color": "COLOR_LIGHT_GRAY"
     },
     "structure_void": {
         "name": "Structure Void",
@@ -7216,8 +7768,11 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": true
+        "tool": [
+            "None"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "sugar_cane": {
         "name": "Sugar Cane",
@@ -7230,8 +7785,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "sulfur": {
         "name": "Sulfur",
@@ -7247,7 +7805,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "sulfur_brick_slab": {
         "name": "Sulfur Brick Slab",
@@ -7263,7 +7822,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_YELLOW"
     },
     "sulfur_brick_stairs": {
         "name": "Sulfur Brick Stairs",
@@ -7279,7 +7839,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_YELLOW"
     },
     "sulfur_brick_wall": {
         "name": "Sulfur Brick Wall",
@@ -7295,7 +7856,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_YELLOW"
     },
     "sulfur_bricks": {
         "name": "Sulfur Bricks",
@@ -7311,7 +7873,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_YELLOW"
     },
     "sulfur_slab": {
         "name": "Sulfur Slab",
@@ -7327,7 +7890,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_YELLOW"
     },
     "sulfur_spike": {
         "name": "Sulfur Spike",
@@ -7343,7 +7907,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": ""
     },
     "sulfur_stairs": {
         "name": "Sulfur Stairs",
@@ -7359,7 +7924,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "COLOR_YELLOW"
     },
     "sulfur_wall": {
         "name": "Sulfur Wall",
@@ -7375,7 +7941,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_YELLOW"
     },
     "sunflower": {
         "name": "Sunflower",
@@ -7388,8 +7955,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "suspicious_gravel": {
         "name": "Suspicious Gravel",
@@ -7406,7 +7976,8 @@
             "Brush",
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "STONE"
     },
     "suspicious_sand": {
         "name": "Suspicious Sand",
@@ -7423,7 +7994,8 @@
             "Brush",
             "Shovel"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "SAND"
     },
     "sweet_berries": {
         "name": "Sweet Berries",
@@ -7436,8 +8008,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "tnt": {
         "name": "TNT",
@@ -7450,8 +8025,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": false
+        "tool": [
+            "Any"
+        ],
+        "transparent": false,
+        "map_color": "FIRE"
     },
     "tall_dry_grass": {
         "name": "Tall Dry Grass",
@@ -7467,7 +8045,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_YELLOW"
     },
     "tall_grass": {
         "name": "Tall Grass",
@@ -7483,7 +8062,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "target": {
         "name": "Target",
@@ -7499,7 +8079,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "QUARTZ"
     },
     "terracotta": {
         "name": "Terracotta",
@@ -7515,7 +8096,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLOR_ORANGE"
     },
     "test_block": {
         "name": "Test Block",
@@ -7523,13 +8105,16 @@
         "blast_resistance": 3600000.0,
         "flammable": false,
         "fire_catch": false,
-        "hardness": -1.0,
+        "hardness": 1.0,
         "initial_release": "1.21.5",
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": false
+        "tool": [
+            "None"
+        ],
+        "transparent": false,
+        "map_color": ""
     },
     "test_instance_block": {
         "name": "Test Instance Block",
@@ -7537,13 +8122,16 @@
         "blast_resistance": 3600000.0,
         "flammable": false,
         "fire_catch": false,
-        "hardness": -1.0,
+        "hardness": 1.0,
         "initial_release": "1.21.5",
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "None",
-        "transparent": false
+        "tool": [
+            "None"
+        ],
+        "transparent": false,
+        "map_color": "NONE"
     },
     "tinted_glass": {
         "name": "Tinted Glass",
@@ -7556,8 +8144,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": "Partial"
+        "tool": [
+            "Any"
+        ],
+        "transparent": "Partial",
+        "map_color": "COLOR_GRAY"
     },
     "torch": {
         "name": "Torch",
@@ -7570,8 +8161,11 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "torchflower": {
         "name": "Torchflower",
@@ -7584,8 +8178,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "trapped_chest": {
         "name": "Trapped Chest",
@@ -7601,7 +8198,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "WOOD"
     },
     "trial_spawner": {
         "name": "Trial Spawner",
@@ -7614,8 +8212,11 @@
         "luminous": "Depends",
         "renewable": false,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": "Partial"
+        "tool": [
+            "Any"
+        ],
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "tripwire_hook": {
         "name": "Tripwire Hook",
@@ -7628,8 +8229,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     },
     "tuff": {
         "name": "Tuff",
@@ -7645,7 +8249,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "tuff_brick_slab": {
         "name": "Tuff Brick Slab",
@@ -7661,7 +8266,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "tuff_brick_stairs": {
         "name": "Tuff Brick Stairs",
@@ -7677,7 +8283,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "tuff_brick_wall": {
         "name": "Tuff Brick Wall",
@@ -7693,7 +8300,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": ""
     },
     "tuff_bricks": {
         "name": "Tuff Bricks",
@@ -7709,7 +8317,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "tuff_slab": {
         "name": "Tuff Slab",
@@ -7725,7 +8334,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "tuff_stairs": {
         "name": "Tuff Stairs",
@@ -7741,7 +8351,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": ""
     },
     "tuff_wall": {
         "name": "Tuff Wall",
@@ -7757,7 +8368,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": ""
     },
     "tulip": {
         "name": "Tulip",
@@ -7770,8 +8382,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "turtle_egg": {
         "name": "Turtle Egg",
@@ -7784,8 +8399,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "SAND"
     },
     "twisting_vines": {
         "name": "Twisting Vines",
@@ -7801,7 +8419,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "COLOR_CYAN"
     },
     "vault": {
         "name": "Vault",
@@ -7814,8 +8433,11 @@
         "luminous": true,
         "renewable": false,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": "Partial"
+        "tool": [
+            "Any"
+        ],
+        "transparent": "Partial",
+        "map_color": "STONE"
     },
     "vines": {
         "name": "Vines",
@@ -7831,7 +8453,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "warped_fungus": {
         "name": "Warped Fungus",
@@ -7844,8 +8467,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_CYAN"
     },
     "warped_nylium": {
         "name": "Warped Nylium",
@@ -7861,7 +8487,8 @@
         "tool": [
             "Pickaxe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "warped_roots": {
         "name": "Warped Roots",
@@ -7874,8 +8501,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "COLOR_CYAN"
     },
     "warped_wart_block": {
         "name": "Warped Wart Block",
@@ -7891,7 +8521,8 @@
         "tool": [
             "Hoe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": ""
     },
     "weeping_vines": {
         "name": "Weeping Vines",
@@ -7907,7 +8538,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NETHER"
     },
     "wildflowers": {
         "name": "Wildflowers",
@@ -7920,8 +8552,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "wither_rose": {
         "name": "Wither Rose",
@@ -7934,8 +8569,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "PLANT"
     },
     "wither_skeleton_skull": {
         "name": "Wither Skeleton Skull",
@@ -7948,15 +8586,18 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": false
+        "tool": [
+            "Any"
+        ],
+        "transparent": false,
+        "map_color": "NONE"
     },
     "wood": {
         "name": "Wood",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Wood_%28UD%29_JE7_BE2.png/150px-Oak_Wood_%28UD%29_JE7_BE2.png",
         "blast_resistance": 2.0,
         "flammable": true,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "1.3.1",
         "luminous": false,
@@ -7965,7 +8606,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "VARIES"
     },
     "wooden_button": {
         "name": "Wooden Button",
@@ -7981,14 +8623,15 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "NONE"
     },
     "wooden_door": {
         "name": "Wooden Door",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Door_JE8.png/150px-Oak_Door_JE8.png",
         "blast_resistance": 3.0,
         "flammable": false,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 3.0,
         "initial_release": "pre-alpha",
         "luminous": false,
@@ -7997,14 +8640,15 @@
         "tool": [
             "Axe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "VARIES"
     },
     "wooden_fence": {
         "name": "Wooden Fence",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Fence_%28EW%29_JE9.png/150px-Oak_Fence_%28EW%29_JE9.png",
         "blast_resistance": 3.0,
         "flammable": true,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "Alpha 1.0.17",
         "luminous": false,
@@ -8013,14 +8657,15 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "VARIES"
     },
     "wooden_pressure_plate": {
         "name": "Wooden Pressure Plate",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Pressure_Plate_JE5_BE2.png/150px-Oak_Pressure_Plate_JE5_BE2.png",
         "blast_resistance": 0.5,
         "flammable": false,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 0.5,
         "initial_release": "Alpha 1.0.1",
         "luminous": false,
@@ -8029,14 +8674,15 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "VARIES"
     },
     "wooden_slab": {
         "name": "Wooden Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Slab_JE3_BE2.png/150px-Oak_Slab_JE3_BE2.png",
         "blast_resistance": 3.0,
         "flammable": true,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "1.3.1",
         "luminous": false,
@@ -8045,14 +8691,15 @@
         "tool": [
             "Axe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "VARIES"
     },
     "wooden_stairs": {
         "name": "Wooden Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Stairs_%28N%29_JE7_BE6.png/150px-Oak_Stairs_%28N%29_JE7_BE6.png",
         "blast_resistance": 3.0,
         "flammable": true,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 2.0,
         "initial_release": "pre-alpha",
         "luminous": false,
@@ -8061,14 +8708,15 @@
         "tool": [
             "Axe"
         ],
-        "transparent": "Partial"
+        "transparent": "Partial",
+        "map_color": "VARIES"
     },
     "wooden_trapdoor": {
         "name": "Wooden Trapdoor",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Trapdoor_JE4_BE2.png/150px-Oak_Trapdoor_JE4_BE2.png",
         "blast_resistance": 3.0,
         "flammable": false,
-        "fire_catch": false,
+        "fire_catch": "Partial",
         "hardness": 3.0,
         "initial_release": "Beta 1.6",
         "luminous": false,
@@ -8077,7 +8725,8 @@
         "tool": [
             "Axe"
         ],
-        "transparent": true
+        "transparent": true,
+        "map_color": "VARIES"
     },
     "wool": {
         "name": "Wool",
@@ -8093,7 +8742,8 @@
         "tool": [
             "Shears"
         ],
-        "transparent": false
+        "transparent": false,
+        "map_color": "COLORS"
     },
     "zombie_head": {
         "name": "Zombie Head",
@@ -8106,7 +8756,10 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Any",
-        "transparent": true
+        "tool": [
+            "Any"
+        ],
+        "transparent": true,
+        "map_color": "NONE"
     }
 }
