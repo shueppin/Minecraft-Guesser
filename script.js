@@ -116,12 +116,12 @@ function updateSearchResults() {
 
     const entries = Object.entries(allData)
         .filter(([key, obj]) => {
-            return obj.title.toLowerCase().includes(query)
+            return obj.name.toLowerCase().includes(query)
                 && !guessedKeys.includes(key);
         })
         .sort((a, b) => {
-            const aTitle = a[1].title.toLowerCase();
-            const bTitle = b[1].title.toLowerCase();
+            const aTitle = a[1].name.toLowerCase();
+            const bTitle = b[1].name.toLowerCase();
 
             const aStarts = aTitle.startsWith(query);
             const bStarts = bTitle.startsWith(query);
@@ -167,7 +167,7 @@ function updateSearchResults() {
         div.innerHTML = `
             <div class="result-main">
                 <img src="${obj.image_url}">
-                <span>${obj.title}</span>
+                <span>${obj.name}</span>
             </div>
             ${previewFields}
         `;
@@ -215,7 +215,7 @@ function renderGuess(key) {
 
     imageCell.innerHTML = `
         <img class="guess-image" src="${obj.image_url}">
-        <div>${obj.title}</div>
+        <div>${obj.name}</div>
     `;
 
     row.appendChild(imageCell);
