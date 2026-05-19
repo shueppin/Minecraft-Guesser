@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Any
 import re
 
-from normalization_helper import DataParser, clean_text, get_java_edition_part
+from normalization_helper import DataParser, clean_text
 
 
 INPUT_PATH = Path(__file__).resolve().parent / "blocks_raw.json"
@@ -145,21 +145,6 @@ def extract_map_color(text: str) -> str:
     return ""
 
 
-def extract_stack_size(text: str) -> int:
-    java_edition_part = get_java_edition_part(clean_text(text)).lower()
-
-    if "64" in java_edition_part:
-        return 64
-    if "16" in java_edition_part:
-        return 16
-    if "1" in java_edition_part:
-        return 1
-    if "no" in java_edition_part:
-        return 1
-
-    return 0
-
-
 def normalize_blocks() -> None:
     with INPUT_PATH.open("r", encoding="utf-8") as f:
         blocks = json.load(f)
@@ -180,16 +165,16 @@ def normalize_blocks() -> None:
                 "name": block_name,
                 "image_url": p.get_raw("image"),
 
-                "blast_resistance": p.get_first_float("blast resistance"),
-                "flammable": p.get_first_yes_no_partial("flammable", hardcoded_values_dict=FIXED_FLAMMABLE_VALUES),
-                "fire_catch": p.get_first_yes_no_partial("catches fire from lava", hardcoded_values_dict=FIXED_FIRE_CATCH_VALUES),
-                "hardness": p.get_first_float("hardness"),
+                "blast_resistance": p.extract_first_number("blast resistance"),
+                "flammable": p.extract_first_yes_no_partial("flammable", hardcoded_values_dict=FIXED_FLAMMABLE_VALUES),
+                "fire_catch": p.extract_first_yes_no_partial("catches fire from lava", hardcoded_values_dict=FIXED_FIRE_CATCH_VALUES),
+                "hardness": p.extract_first_number("hardness"),
                 "initial_release": p.get_raw("version"),
                 "luminous": LUMINOUS_VALUES[p.get_raw("luminous")],
-                "renewable": p.get_first_yes_no_partial("renewable", hardcoded_values_dict=FIXED_RENEWABLE_VALUES),
-                "stackable": extract_stack_size(p.get_raw("stackable")),
-                "tool": p.get_all_from_word_list(TOOL_VALUES, "tool") or p.get_all_from_word_list(TOOL_VALUES, "tools"),
-                "transparent": p.get_first_yes_no_partial("transparent", hardcoded_values_dict=FIXED_TRANSPARENT_VALUES),
+                "renewable": p.extract_first_yes_no_partial("renewable", hardcoded_values_dict=FIXED_RENEWABLE_VALUES),
+                "stackable": p.extract_stack_size("stackable"),
+                "tool": p.extract_all_from_word_list("tool", word_list=TOOL_VALUES) or p.extract_all_from_word_list("tools", word_list=TOOL_VALUES),
+                "transparent": p.extract_first_yes_no_partial("transparent", hardcoded_values_dict=FIXED_TRANSPARENT_VALUES),
                 "map_color": extract_map_color(p.get_raw("map color")),
             }
         except KeyError as e:

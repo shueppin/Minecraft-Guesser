@@ -22,64 +22,53 @@ def get_java_edition_part(text: str) -> str:
 
     Example:
         "JE: No\nBE: Yes" --> "No"
-        "Java Edition: No\nBedrock Edition: Yes" --> No
+        "Java Edition: No\nBedrock Edition: Yes" --> "No"
         "Only in Java Edition" --> "Only in"
         "Only in Bedrock Edition" --> ""
         "Yes\n  JE: No\nBE: Yes" --> "No"
         "No (Java Edition)\nYes (Bedrock Edition)" --> "No"
     """
-    # Check whether we have an index for a Java word and a Bedrock word
     checking_text = text.strip().lower()
 
-    java_edition_index = -1
-    bedrock_edition_index = -1
+    before_java = ["JE:", "Java Edition:", "Java:"]
+    before_bedrock = ["BE:", "Bedrock Edition:", "Bedrock:"]
 
-    # Check if any of the words that are BEFORE THE VALUE exist
-    for word in ["JE:", "Java Edition:", "Java:"]:  # Words are checked with this priority
-        if word.lower() in checking_text:
-            java_edition_index = checking_text.index(word.lower())
-            break
+    after_java = ["(JE)", "(Java Edition)", "(Java)", "Java Edition", "Java"]
+    after_bedrock = ["(BE)", "(Bedrock Edition)", "(Bedrock)", "Bedrock Edition", "Bedrock"]
 
-    for word in ["BE:", "Bedrock Edition:", "Bedrock:"]:
-        if word.lower() in checking_text:
-            bedrock_edition_index = checking_text.index(word.lower())
-            break
+    def find_index(words: list[str]) -> int:
+        """Return index of first matching keyword, or -1."""
+        for word in words:
+            index = checking_text.find(word.lower())
+            if index != -1:
+                return index
+        return -1
 
-    # If both are not -1, then take the value
-    if java_edition_index != -1 and bedrock_edition_index != -1:
-        if java_edition_index < bedrock_edition_index:
-            return _remove_edition_keywords(text[java_edition_index:bedrock_edition_index])
-        else:
-            return _remove_edition_keywords(text[java_edition_index:])
+    java_index = find_index(before_java)
+    bedrock_index = find_index(before_bedrock)
 
-    # Check if any of the words that are AFTER THE VALUE exist
-    for word in ["(JE)", "(Java Edition)", "(Java)", "Java Edition", "Java"]:  # Words are checked with this priority
-        if word.lower() in checking_text:
-            java_edition_index = checking_text.index(word.lower())
-            break
+    # Keywords appear before the value (e.g. "JE: Yes")
+    if java_index != -1 and bedrock_index != -1:
+        end = bedrock_index if java_index < bedrock_index else len(text)
+        return _remove_edition_keywords(text[java_index:end])
 
-    for word in ["(BE)", "(Bedrock Edition)", "(Bedrock)", "Bedrock Edition", "Bedrock"]:
-        if word.lower() in checking_text:
-            bedrock_edition_index = checking_text.index(word.lower())
-            break
+    java_index = find_index(after_java)
+    bedrock_index = find_index(after_bedrock)
 
-    # Consider that the values probably appear after the index
-    if java_edition_index < bedrock_edition_index:
-        if java_edition_index == -1:
-            return _remove_edition_keywords(text[bedrock_edition_index:])
-        else:
-            return _remove_edition_keywords(text[:java_edition_index])
+    # Keywords appear after the value (e.g. "Yes (Java Edition)")
+    if java_index < bedrock_index:
+        start = 0 if java_index != -1 else bedrock_index
+        end = java_index if java_index != -1 else len(text)
+        return _remove_edition_keywords(text[start:end])
 
-    elif java_edition_index > bedrock_edition_index:
-        if bedrock_edition_index == -1:
-            return _remove_edition_keywords(text[:java_edition_index])
-        else:
-            return _remove_edition_keywords(text[bedrock_edition_index:java_edition_index])
+    if java_index > bedrock_index:
+        start = 0 if bedrock_index == -1 else bedrock_index
+        return _remove_edition_keywords(text[start:java_index])
 
     return text
 
 
-def get_first_yes_no_partial(text: str, hardcoded_values_dict: dict=None) -> str | bool:
+def extract_first_yes_no_partial(text: str, hardcoded_values_dict: dict=None) -> str | bool:
     """
     Try to use this through the parser
     """
@@ -91,21 +80,42 @@ def get_first_yes_no_partial(text: str, hardcoded_values_dict: dict=None) -> str
 
     java_edition_part = get_java_edition_part(clean_text(text)).lower()
 
-    # Go through all words and find the word that occurs first
-    first_occurrence_index = -1
-    first_occurred_word = "unknown"
+    """Extract first status token among Yes/No/Partial."""
+    match = re.search(r"(Yes|No|Partial)", java_edition_part, flags=re.IGNORECASE)
+    if not match:
+        return "Unknown"
 
-    for word in ["yes", "no", "partial"]:
-        if word in java_edition_part:
-            index = java_edition_part.index(word)
-
-            if index < first_occurrence_index or first_occurrence_index == -1:
-                first_occurrence_index = index
-                first_occurred_word = word
-
-    # Return the value of the first occurred word
-    output_values = {"yes": True, "no": False, "partial": "Partial", "unknown": "Unknown"}
+    first_occurred_word = match.group(1).lower()
+    output_values = {"yes": True, "no": False, "partial": "Partial"}
     return output_values[first_occurred_word]
+
+
+def extract_first_number(text: str) -> float:
+    text = text.replace(",", "")  # Fixes values like 1,200 to be 1200
+    match = re.search(r"\d+(?:\.\d+)?", text)
+    return float(match.group(0)) if match else 0.0
+
+
+def extract_all_from_word_list(text: str, word_list: list, case_sensitive=True) -> list:
+    output = []
+
+    if case_sensitive:
+        for word in word_list:
+            if word in text:
+                output.append(word)
+    else:
+        for word in word_list:
+            if word.lower() in text.lower():
+                output.append(word)
+
+    return output
+
+
+def extract_stack_size(text: str) -> int:
+    """Extract stack size from patterns like 'Yes (64)' -> 64."""
+    java_edition_part = get_java_edition_part(clean_text(text))
+    match = re.search(r"\((\d+)\)", java_edition_part)
+    return int(match.group(1)) if match else 1
 
 
 def clean_text(text: str) -> str:
@@ -116,6 +126,9 @@ def clean_text(text: str) -> str:
 
 
 class DataParser:
+    """
+    This is a wrapper for important functions that can now be accessed simply using the key
+    """
     def __init__(self, data_dict: dict):
         self.data_dict = data_dict
 
@@ -128,52 +141,14 @@ class DataParser:
             return ""
         return str(output)
 
-    def get_boolean(self, key = "") -> bool:
-        value = self.get_raw(key)
-        if value.lower() == "yes":
-            return True
-        elif value.lower() == "no":
-            return False
-        else:
-            return False
+    def extract_all_from_word_list(self, key: str, word_list: list, case_sensitive=True) -> list:
+        return extract_all_from_word_list(self.get_raw(key), word_list, case_sensitive=case_sensitive)
 
-    def get_first_float(self, key = "") -> float:
-        value = self.get_raw(key).replace(",", "")  # Fixes values like 1,200 to be 1200
+    def extract_first_number(self, key: str) -> float:
+        return extract_first_number(self.get_raw(key))
 
-        match = re.search(r"\d+(?:\.\d+)?", value)
+    def extract_first_yes_no_partial(self, key: str, hardcoded_values_dict: dict = None) -> str:
+        return extract_first_yes_no_partial(self.get_raw(key), hardcoded_values_dict)
 
-        return float(match.group(0)) if match else 0.0
-
-    def get_first_int(self, key = "", complex_extraction_dict: dict = None) -> int:
-        value = self.get_raw(key).replace(",", "")  # Fixes values like 1,200 to be 1200
-
-        match = re.search(r"\d+(?:\.\d+)?", value)
-
-        return round(float(match.group(0))) if match else 0
-
-    def get_normalized_string(self, key = "") -> str:
-        value = self.get_raw(key)
-        return value.strip().lower()
-
-    def get_all_from_word_list(self, word_list: list, key = "", case_sensitive=True) -> list:
-        value = self.get_raw(key)
-
-        output = []
-
-        if case_sensitive:
-            for word in word_list:
-                if word in value:
-                    output.append(word)
-        else:
-            for word in word_list:
-                if word.lower() in value.lower():
-                    output.append(word)
-
-        return output
-
-    def get_first_yes_no_partial(self, key: str, hardcoded_values_dict: dict = None) -> str:
-        if hardcoded_values_dict is None:
-            hardcoded_values_dict = {}
-        value = self.get_raw(key)
-
-        return get_first_yes_no_partial(value, hardcoded_values_dict)
+    def extract_stack_size(self, key: str) -> int:
+        return extract_stack_size(self.get_raw(key))

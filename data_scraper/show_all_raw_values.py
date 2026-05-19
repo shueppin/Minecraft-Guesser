@@ -25,9 +25,8 @@ for name, data in raw_data.items():
         all_values_per_key[key].add(value)
 
         # To check individual parameters and where they come from
-        if key == "luminance" and value == "No":
-            print(name)
-
+        #if key == "luminance" and value == "No":
+            #print(name)
 
 
 # Output them all
