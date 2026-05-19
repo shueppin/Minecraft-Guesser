@@ -5,6 +5,10 @@ from typing import Any
 from normalization_helper import *
 
 
+INPUT_PATH = Path(__file__).resolve().parent / "blocks_raw.json"
+OUTPUT_PATH = Path(__file__).resolve().parent.parent / "data" / "blocks.json"
+
+
 REMOVED_BLOCKS = [
     "Air",
     "Water",
@@ -177,10 +181,7 @@ FIRE_CATCH_VALUES = {
 
 
 def normalize_blocks() -> None:
-    input_path = Path(__file__).resolve().parent / "blocks_raw.json"
-    output_path = Path(__file__).resolve().parent.parent / "blocks.json"
-
-    with input_path.open("r", encoding="utf-8") as f:
+    with INPUT_PATH.open("r", encoding="utf-8") as f:
         blocks = json.load(f)
 
     normalized_blocks = {}
@@ -217,10 +218,10 @@ def normalize_blocks() -> None:
 
         normalized_blocks[normalized_name] = new_block_data
 
-    with output_path.open("w", encoding="utf-8") as f:
+    with OUTPUT_PATH.open("w", encoding="utf-8") as f:
         json.dump(normalized_blocks, f, indent=4)
 
-    print(f"Normalized blocks saved to: {output_path}")
+    print(f"Normalized blocks saved to: {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":
