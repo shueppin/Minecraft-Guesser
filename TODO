@@ -1,3 +1,7 @@
 Change the window, so the whole window has a minimum size, and the whole window is scrollable if the browser is too small
 
 Add images to categories, so we don't have things like "Creative Inv Category: functional_blocks, tools_and_utilities, ingredients"
+
+Add Daily Mode and random Mode
+
+Change the score, so you get less point deduction for an ambiguous element

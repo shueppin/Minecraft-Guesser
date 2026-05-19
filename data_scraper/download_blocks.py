@@ -2,12 +2,21 @@ from typing import Any
 import logging
 import tqdm
 import json
+import os
+from pathlib import Path
 
 from download_helper import get_from_api, list_of_dict_from_table, dict_from_infobox, resolve_existing_elements_with_versions_from_list_of_dict
 
 
-OUTPUT_FILE = "blocks_raw.json"
+OUTPUT_FILE = Path(__file__).resolve().parent / "blocks_raw.json"
 SAVE_EVERY = 20
+
+
+# Check if the file already exists and is not empty and if you want to overwrite it
+if os.path.exists(OUTPUT_FILE) and os.path.getsize(OUTPUT_FILE) > 0:
+    if input('The file already exists. Write "yes" to overwrite it: ').lower() != 'yes':
+        print("Exiting...")
+        exit()
 
 
 # Get the available blocks
@@ -29,6 +38,9 @@ progress_bar = tqdm.tqdm(total=len(existing_blocks.keys()))
 for block_name, version in existing_blocks.items():
     try:
         block_html, redirected_page = get_from_api(block_name)
+
+        if not block_html:
+            logging.warning(f"Could not get data for {block_name}")
 
         # If it was redirected then store the data under the redirected name
         if redirected_page:

@@ -10,7 +10,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "allium": {
@@ -38,7 +40,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "ancient_debris": {
@@ -52,7 +56,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "andesite": {
@@ -66,7 +72,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "andesite_slab": {
@@ -80,7 +88,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "andesite_stairs": {
@@ -94,7 +104,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "andesite_wall": {
@@ -108,7 +120,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "anvil": {
@@ -122,7 +136,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "azalea": {
@@ -164,7 +180,10 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Sword",
+        "tool": [
+            "Axe",
+            "Sword"
+        ],
         "transparent": true
     },
     "bamboo_mosaic": {
@@ -178,7 +197,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "bamboo_mosaic_slab": {
@@ -192,7 +213,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": "Partial"
     },
     "bamboo_mosaic_stairs": {
@@ -206,7 +229,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": "Partial"
     },
     "banner": {
@@ -220,7 +245,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 16,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "barrel": {
@@ -234,7 +261,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "barrier": {
@@ -262,7 +291,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "beacon": {
@@ -318,7 +349,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "beehive": {
@@ -332,7 +365,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "bell": {
@@ -346,7 +381,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "big_dripleaf": {
@@ -360,7 +397,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "blackstone": {
@@ -374,7 +413,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "blackstone_slab": {
@@ -388,7 +429,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "blackstone_stairs": {
@@ -402,7 +445,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "blackstone_wall": {
@@ -416,7 +461,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "blast_furnace": {
@@ -430,7 +477,9 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "block_of_amethyst": {
@@ -444,7 +493,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "block_of_bamboo": {
@@ -458,7 +509,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "block_of_coal": {
@@ -472,7 +525,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_copper": {
@@ -486,7 +541,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_diamond": {
@@ -500,7 +557,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_emerald": {
@@ -514,7 +573,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_gold": {
@@ -528,7 +589,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_iron": {
@@ -542,7 +605,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_lapis_lazuli": {
@@ -556,7 +621,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_netherite": {
@@ -570,7 +637,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_quartz": {
@@ -584,7 +653,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_raw_copper": {
@@ -598,7 +669,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_raw_gold": {
@@ -612,7 +685,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_raw_iron": {
@@ -626,7 +701,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "block_of_redstone": {
@@ -640,7 +717,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "block_of_resin": {
@@ -668,7 +747,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "blue_ice": {
@@ -682,7 +763,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "blue_orchid": {
@@ -710,7 +793,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "bookshelf": {
@@ -724,7 +809,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "brewing_stand": {
@@ -738,7 +825,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "brick_slab": {
@@ -752,7 +841,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "brick_stairs": {
@@ -766,7 +857,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "brick_wall": {
@@ -780,7 +873,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "bricks": {
@@ -794,7 +889,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "brown_mushroom": {
@@ -836,7 +933,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "bush": {
@@ -850,7 +949,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "cactus": {
@@ -906,7 +1007,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "calibrated_sculk_sensor": {
@@ -920,7 +1023,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": true
     },
     "campfire": {
@@ -934,7 +1039,9 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "candle": {
@@ -976,7 +1083,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "carved_pumpkin": {
@@ -990,7 +1099,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "cauldron": {
@@ -1004,7 +1115,9 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "chest": {
@@ -1018,7 +1131,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "chiseled_bookshelf": {
@@ -1032,7 +1147,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "chiseled_cinnabar": {
@@ -1046,7 +1163,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_copper": {
@@ -1060,7 +1179,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_deepslate": {
@@ -1074,7 +1195,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_nether_bricks": {
@@ -1088,7 +1211,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_polished_blackstone": {
@@ -1102,7 +1227,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_quartz_block": {
@@ -1116,7 +1243,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_red_sandstone": {
@@ -1130,7 +1259,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_resin_bricks": {
@@ -1144,7 +1275,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_sandstone": {
@@ -1158,7 +1291,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_stone_bricks": {
@@ -1172,7 +1307,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_sulfur": {
@@ -1186,7 +1323,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_tuff": {
@@ -1200,7 +1339,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chiseled_tuff_bricks": {
@@ -1214,7 +1355,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "chorus_flower": {
@@ -1228,7 +1371,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "chorus_plant": {
@@ -1242,7 +1387,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "cinnabar": {
@@ -1256,7 +1403,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cinnabar_brick_slab": {
@@ -1270,7 +1419,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cinnabar_brick_stairs": {
@@ -1284,7 +1435,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cinnabar_brick_wall": {
@@ -1298,7 +1451,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "cinnabar_bricks": {
@@ -1312,7 +1467,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cinnabar_slab": {
@@ -1326,7 +1483,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cinnabar_stairs": {
@@ -1340,7 +1499,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cinnabar_wall": {
@@ -1354,7 +1515,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "clay": {
@@ -1368,7 +1531,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "coal_ore": {
@@ -1382,7 +1547,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "coarse_dirt": {
@@ -1396,7 +1563,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "cobbled_deepslate": {
@@ -1410,7 +1579,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cobbled_deepslate_slab": {
@@ -1424,7 +1595,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cobbled_deepslate_stairs": {
@@ -1438,7 +1611,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cobbled_deepslate_wall": {
@@ -1452,7 +1627,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "cobblestone": {
@@ -1466,7 +1643,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cobblestone_slab": {
@@ -1480,7 +1659,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cobblestone_stairs": {
@@ -1494,7 +1675,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cobblestone_wall": {
@@ -1508,7 +1691,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "cobweb": {
@@ -1522,7 +1707,10 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears",
+            "Sword"
+        ],
         "transparent": "Partial"
     },
     "cocoa_beans": {
@@ -1536,7 +1724,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "command_block": {
@@ -1564,7 +1754,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "concrete": {
@@ -1578,7 +1770,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "concrete_powder": {
@@ -1592,7 +1786,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "conduit": {
@@ -1606,7 +1802,9 @@
         "luminous": true,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "copper_bars": {
@@ -1620,7 +1818,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "copper_bulb": {
@@ -1634,7 +1834,9 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "copper_chain": {
@@ -1648,7 +1850,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "copper_chest": {
@@ -1662,7 +1866,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "copper_door": {
@@ -1676,7 +1882,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "copper_golem_statue": {
@@ -1704,7 +1912,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "copper_lantern": {
@@ -1718,7 +1928,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "copper_ore": {
@@ -1732,7 +1944,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "copper_torch": {
@@ -1760,7 +1974,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "coral": {
@@ -1788,7 +2004,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "coral_fan": {
@@ -1830,7 +2048,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cracked_deepslate_tiles": {
@@ -1844,7 +2064,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cracked_nether_bricks": {
@@ -1858,7 +2080,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cracked_polished_blackstone_bricks": {
@@ -1872,7 +2096,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cracked_stone_bricks": {
@@ -1886,7 +2112,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "crafter": {
@@ -1900,7 +2128,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "crafting_table": {
@@ -1914,7 +2144,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "creaking_heart": {
@@ -1928,7 +2160,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "creeper_head": {
@@ -1970,7 +2204,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "crimson_roots": {
@@ -1998,7 +2234,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cut_copper": {
@@ -2012,7 +2250,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cut_copper_slab": {
@@ -2026,7 +2266,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cut_copper_stairs": {
@@ -2040,7 +2282,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cut_red_sandstone": {
@@ -2054,7 +2298,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cut_red_sandstone_slab": {
@@ -2068,7 +2314,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "cut_sandstone": {
@@ -2082,7 +2330,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "cut_sandstone_slab": {
@@ -2096,7 +2346,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "dandelion": {
@@ -2124,7 +2376,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "dark_prismarine_slab": {
@@ -2138,7 +2392,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "dark_prismarine_stairs": {
@@ -2152,7 +2408,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "daylight_detector": {
@@ -2166,7 +2424,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "dead_bush": {
@@ -2180,7 +2440,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "dead_coral": {
@@ -2208,7 +2470,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "dead_coral_fan": {
@@ -2250,7 +2514,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "deepslate_brick_slab": {
@@ -2264,7 +2530,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "deepslate_brick_stairs": {
@@ -2278,7 +2546,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "deepslate_brick_wall": {
@@ -2292,7 +2562,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "deepslate_bricks": {
@@ -2306,7 +2578,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "deepslate_tile_slab": {
@@ -2320,7 +2594,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "deepslate_tile_stairs": {
@@ -2334,7 +2610,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "deepslate_tile_wall": {
@@ -2348,7 +2626,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "deepslate_tiles": {
@@ -2362,7 +2642,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "detector_rail": {
@@ -2376,7 +2658,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "diamond_ore": {
@@ -2390,7 +2674,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "diorite": {
@@ -2404,7 +2690,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "diorite_slab": {
@@ -2418,7 +2706,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "diorite_stairs": {
@@ -2432,7 +2722,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "diorite_wall": {
@@ -2446,7 +2738,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "dirt": {
@@ -2460,7 +2754,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "dirt_path": {
@@ -2474,7 +2770,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": true
     },
     "dispenser": {
@@ -2488,7 +2786,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "dragon_egg": {
@@ -2544,7 +2844,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "dripstone_block": {
@@ -2558,7 +2860,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "dropper": {
@@ -2572,7 +2876,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "emerald_ore": {
@@ -2586,7 +2892,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "enchanting_table": {
@@ -2600,7 +2908,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "end_portal_frame": {
@@ -2642,7 +2952,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "end_stone_brick_slab": {
@@ -2656,7 +2968,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "end_stone_brick_stairs": {
@@ -2670,7 +2984,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "end_stone_brick_wall": {
@@ -2684,7 +3000,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "end_stone_bricks": {
@@ -2698,7 +3016,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "ender_chest": {
@@ -2712,7 +3032,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "eyeblossom": {
@@ -2740,7 +3062,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": "Partial"
     },
     "fence_gate": {
@@ -2754,7 +3078,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "fern": {
@@ -2768,7 +3094,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "fire": {
@@ -2810,7 +3138,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "flower_pot": {
@@ -2894,7 +3224,9 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "gilded_blackstone": {
@@ -2908,7 +3240,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "glass": {
@@ -2950,7 +3284,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "glow_berries": {
@@ -2978,7 +3314,10 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears",
+            "Axe"
+        ],
         "transparent": true
     },
     "glowstone": {
@@ -3006,7 +3345,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "golden_dandelion": {
@@ -3034,7 +3375,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "granite_slab": {
@@ -3048,7 +3391,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "granite_stairs": {
@@ -3062,7 +3407,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "granite_wall": {
@@ -3076,7 +3423,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "grass_block": {
@@ -3090,7 +3439,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "gravel": {
@@ -3104,7 +3455,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "grindstone": {
@@ -3118,7 +3471,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "hanging_roots": {
@@ -3132,7 +3487,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "hanging_sign": {
@@ -3146,7 +3503,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 16,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "hay_bale": {
@@ -3160,7 +3519,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "heavy_core": {
@@ -3174,7 +3535,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "heavy_weighted_pressure_plate": {
@@ -3188,7 +3551,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "honey_block": {
@@ -3230,7 +3595,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "ice": {
@@ -3244,7 +3611,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "infested_block": {
@@ -3258,7 +3627,9 @@
         "luminous": false,
         "renewable": "Partial",
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "iron_bars": {
@@ -3272,7 +3643,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "iron_chain": {
@@ -3286,7 +3659,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "iron_door": {
@@ -3300,7 +3675,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "iron_ore": {
@@ -3314,7 +3691,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "iron_trapdoor": {
@@ -3328,7 +3707,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "jack_o'lantern": {
@@ -3342,7 +3723,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": "Partial"
     },
     "jigsaw_block": {
@@ -3370,7 +3753,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "kelp": {
@@ -3398,7 +3783,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "lantern": {
@@ -3412,7 +3799,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "lapis_lazuli_ore": {
@@ -3426,7 +3815,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "large_fern": {
@@ -3440,7 +3831,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "leaf_litter": {
@@ -3468,7 +3861,11 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears",
+            "Hoe",
+            "Sword"
+        ],
         "transparent": "Partial"
     },
     "lectern": {
@@ -3482,7 +3879,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "lever": {
@@ -3510,7 +3909,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "lightning_rod": {
@@ -3524,7 +3925,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "lilac": {
@@ -3580,7 +3983,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "log": {
@@ -3594,7 +3999,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "loom": {
@@ -3608,7 +4015,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "magma_block": {
@@ -3622,7 +4031,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "mangrove_propagule": {
@@ -3650,7 +4061,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": "Partial"
     },
     "melon": {
@@ -3664,7 +4077,10 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe",
+            "Sword"
+        ],
         "transparent": false
     },
     "monster_spawner": {
@@ -3678,7 +4094,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "moss_block": {
@@ -3692,7 +4110,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "moss_carpet": {
@@ -3706,7 +4126,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": true
     },
     "mossy_cobblestone": {
@@ -3720,7 +4142,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "mossy_cobblestone_slab": {
@@ -3734,7 +4158,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "mossy_cobblestone_stairs": {
@@ -3748,7 +4174,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "mossy_cobblestone_wall": {
@@ -3762,7 +4190,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "mossy_stone_brick_slab": {
@@ -3776,7 +4206,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "mossy_stone_brick_stairs": {
@@ -3790,7 +4222,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "mossy_stone_brick_wall": {
@@ -3804,7 +4238,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "mossy_stone_bricks": {
@@ -3818,7 +4254,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "mud": {
@@ -3832,7 +4270,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "mud_brick_slab": {
@@ -3846,7 +4286,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "mud_brick_stairs": {
@@ -3860,7 +4302,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "mud_brick_wall": {
@@ -3874,7 +4318,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "mud_bricks": {
@@ -3888,7 +4334,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "muddy_mangrove_roots": {
@@ -3902,7 +4350,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "mushroom_block": {
@@ -3916,7 +4366,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "mycelium": {
@@ -3930,7 +4382,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "nether_brick_fence": {
@@ -3944,7 +4398,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "nether_brick_slab": {
@@ -3958,7 +4414,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "nether_brick_stairs": {
@@ -3972,7 +4430,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "nether_brick_wall": {
@@ -3986,7 +4446,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "nether_bricks": {
@@ -4000,7 +4462,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "nether_gold_ore": {
@@ -4014,7 +4478,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "nether_quartz_ore": {
@@ -4028,7 +4494,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "nether_sprouts": {
@@ -4042,7 +4510,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "nether_wart": {
@@ -4070,7 +4540,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "netherrack": {
@@ -4084,7 +4556,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "note_block": {
@@ -4098,7 +4572,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "observer": {
@@ -4112,7 +4588,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "obsidian": {
@@ -4126,7 +4604,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "oxeye_daisy": {
@@ -4154,7 +4634,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "packed_mud": {
@@ -4168,7 +4650,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "pale_hanging_moss": {
@@ -4182,7 +4666,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "pale_moss_block": {
@@ -4196,7 +4682,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "pale_moss_carpet": {
@@ -4210,7 +4698,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": true
     },
     "peony": {
@@ -4238,7 +4728,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "piglin_head": {
@@ -4280,7 +4772,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "piston/technical_components": {
@@ -4294,7 +4788,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 1,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "pitcher_plant": {
@@ -4322,7 +4818,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "player_head": {
@@ -4350,7 +4848,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "pointed_dripstone": {
@@ -4364,7 +4864,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "polished_andesite": {
@@ -4378,7 +4880,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_andesite_slab": {
@@ -4392,7 +4896,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_andesite_stairs": {
@@ -4406,7 +4912,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_basalt": {
@@ -4420,7 +4928,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_blackstone": {
@@ -4434,7 +4944,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_blackstone_brick_slab": {
@@ -4448,7 +4960,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_blackstone_brick_stairs": {
@@ -4462,7 +4976,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_blackstone_brick_wall": {
@@ -4476,7 +4992,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "polished_blackstone_bricks": {
@@ -4490,7 +5008,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_blackstone_button": {
@@ -4504,7 +5024,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "polished_blackstone_pressure_plate": {
@@ -4518,7 +5040,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "polished_blackstone_slab": {
@@ -4532,7 +5056,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_blackstone_stairs": {
@@ -4546,7 +5072,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_blackstone_wall": {
@@ -4560,7 +5088,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "polished_cinnabar": {
@@ -4574,7 +5104,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_cinnabar_slab": {
@@ -4588,7 +5120,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_cinnabar_stairs": {
@@ -4602,7 +5136,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_cinnabar_wall": {
@@ -4616,7 +5152,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "polished_deepslate": {
@@ -4630,7 +5168,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_deepslate_slab": {
@@ -4644,7 +5184,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_deepslate_stairs": {
@@ -4658,7 +5200,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_deepslate_wall": {
@@ -4672,7 +5216,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "polished_diorite": {
@@ -4686,7 +5232,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_diorite_slab": {
@@ -4700,7 +5248,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_diorite_stairs": {
@@ -4714,7 +5264,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_granite": {
@@ -4728,7 +5280,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_granite_slab": {
@@ -4742,7 +5296,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_granite_stairs": {
@@ -4756,7 +5312,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_sulfur": {
@@ -4770,7 +5328,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_sulfur_slab": {
@@ -4784,7 +5344,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_sulfur_stairs": {
@@ -4798,7 +5360,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_sulfur_wall": {
@@ -4812,7 +5376,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "polished_tuff": {
@@ -4826,7 +5392,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "polished_tuff_slab": {
@@ -4840,7 +5408,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_tuff_stairs": {
@@ -4854,7 +5424,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "polished_tuff_wall": {
@@ -4868,7 +5440,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "poppy": {
@@ -4896,7 +5470,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "powder_snow": {
@@ -4910,7 +5486,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 1,
-        "tool": "Bucket",
+        "tool": [
+            "Bucket"
+        ],
         "transparent": true
     },
     "powered_rail": {
@@ -4924,7 +5502,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "prismarine": {
@@ -4938,7 +5518,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "prismarine_brick_slab": {
@@ -4952,7 +5534,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "prismarine_brick_stairs": {
@@ -4966,7 +5550,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "prismarine_bricks": {
@@ -4980,7 +5566,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "prismarine_slab": {
@@ -4994,7 +5582,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "prismarine_stairs": {
@@ -5008,7 +5598,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "prismarine_wall": {
@@ -5022,7 +5614,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "pumpkin": {
@@ -5036,7 +5630,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": "Partial"
     },
     "purpur_block": {
@@ -5050,7 +5646,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "purpur_pillar": {
@@ -5064,7 +5662,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "purpur_slab": {
@@ -5078,7 +5678,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "purpur_stairs": {
@@ -5092,7 +5694,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "quartz_bricks": {
@@ -5106,7 +5710,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "quartz_pillar": {
@@ -5120,7 +5726,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "quartz_slab": {
@@ -5134,7 +5742,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "quartz_stairs": {
@@ -5148,7 +5758,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "rail": {
@@ -5162,7 +5774,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "red_mushroom": {
@@ -5190,7 +5804,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "red_nether_brick_stairs": {
@@ -5204,7 +5820,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "red_nether_brick_wall": {
@@ -5218,7 +5836,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "red_nether_bricks": {
@@ -5232,7 +5852,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "red_sand": {
@@ -5246,7 +5868,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "red_sandstone": {
@@ -5260,7 +5884,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "red_sandstone_slab": {
@@ -5274,7 +5900,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "red_sandstone_stairs": {
@@ -5288,7 +5916,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "red_sandstone_wall": {
@@ -5302,7 +5932,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "redstone_comparator": {
@@ -5358,7 +5990,9 @@
         "luminous": "Depends",
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "redstone_repeater": {
@@ -5414,7 +6048,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "resin_brick_stairs": {
@@ -5428,7 +6064,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "resin_brick_wall": {
@@ -5442,7 +6080,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "resin_bricks": {
@@ -5456,7 +6096,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "resin_clump": {
@@ -5484,7 +6126,9 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "rooted_dirt": {
@@ -5498,7 +6142,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "rose_bush": {
@@ -5526,7 +6172,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "sandstone": {
@@ -5540,7 +6188,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "sandstone_slab": {
@@ -5554,7 +6204,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "sandstone_stairs": {
@@ -5568,7 +6220,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "sandstone_wall": {
@@ -5582,7 +6236,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "sapling": {
@@ -5624,7 +6280,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "sculk_catalyst": {
@@ -5638,7 +6296,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "sculk_sensor": {
@@ -5652,7 +6312,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": true
     },
     "sculk_shrieker": {
@@ -5666,7 +6328,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "sculk_vein": {
@@ -5680,7 +6344,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": true
     },
     "sea_lantern": {
@@ -5722,7 +6388,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "shelf": {
@@ -5736,7 +6404,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "short_dry_grass": {
@@ -5750,7 +6420,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "short_grass": {
@@ -5764,7 +6436,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "shroomlight": {
@@ -5778,7 +6452,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "shulker_box": {
@@ -5792,7 +6468,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 1,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "sign": {
@@ -5806,7 +6484,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 16,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "skeleton_skull": {
@@ -5848,7 +6528,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "smithing_table": {
@@ -5862,7 +6544,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "smoker": {
@@ -5876,7 +6560,9 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "smooth_basalt": {
@@ -5890,7 +6576,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "smooth_quartz_block": {
@@ -5904,7 +6592,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "smooth_quartz_slab": {
@@ -5918,7 +6608,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "smooth_quartz_stairs": {
@@ -5932,7 +6624,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "smooth_red_sandstone": {
@@ -5946,7 +6640,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "smooth_red_sandstone_slab": {
@@ -5960,7 +6656,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "smooth_red_sandstone_stairs": {
@@ -5974,7 +6672,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "smooth_sandstone": {
@@ -5988,7 +6688,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "smooth_sandstone_slab": {
@@ -6002,7 +6704,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "smooth_sandstone_stairs": {
@@ -6016,7 +6720,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "smooth_stone": {
@@ -6030,7 +6736,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "smooth_stone_slab": {
@@ -6044,7 +6752,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "sniffer_egg": {
@@ -6072,7 +6782,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": true
     },
     "snow_block": {
@@ -6086,7 +6798,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "soul_campfire": {
@@ -6100,7 +6814,9 @@
         "luminous": "Depends",
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "soul_fire": {
@@ -6128,7 +6844,9 @@
         "luminous": true,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "soul_sand": {
@@ -6142,7 +6860,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "soul_soil": {
@@ -6156,7 +6876,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shovel",
+        "tool": [
+            "Shovel"
+        ],
         "transparent": false
     },
     "soul_torch": {
@@ -6184,7 +6906,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "spore_blossom": {
@@ -6240,7 +6964,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "sticky_piston": {
@@ -6254,7 +6980,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "stone": {
@@ -6268,7 +6996,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "stone_brick_slab": {
@@ -6282,7 +7012,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "stone_brick_stairs": {
@@ -6296,7 +7028,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "stone_brick_wall": {
@@ -6310,7 +7044,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "stone_bricks": {
@@ -6324,7 +7060,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "stone_button": {
@@ -6338,7 +7076,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "stone_pressure_plate": {
@@ -6352,7 +7092,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "stone_slab": {
@@ -6366,7 +7108,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "stone_stairs": {
@@ -6380,7 +7124,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "stonecutter": {
@@ -6394,7 +7140,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "string": {
@@ -6422,7 +7170,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "stripped_wood": {
@@ -6436,7 +7186,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "structure_block": {
@@ -6492,7 +7244,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "sulfur_brick_slab": {
@@ -6506,7 +7260,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "sulfur_brick_stairs": {
@@ -6520,7 +7276,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "sulfur_brick_wall": {
@@ -6534,7 +7292,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "sulfur_bricks": {
@@ -6548,7 +7308,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "sulfur_slab": {
@@ -6562,7 +7324,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "sulfur_spike": {
@@ -6576,7 +7340,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "sulfur_stairs": {
@@ -6590,7 +7356,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "sulfur_wall": {
@@ -6604,7 +7372,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "sunflower": {
@@ -6623,7 +7393,7 @@
     },
     "suspicious_gravel": {
         "name": "Suspicious Gravel",
-        "image_url": "https://minecraft.wiki/images/thumb/Suspicious_Gravel_BE1_%28dusted_0%29.png/150px-Suspicious_Gravel_BE1_%28dusted_0%29.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Suspicious_Gravel_JE1_BE1_%28dusted_0%29.png/150px-Suspicious_Gravel_JE1_BE1_%28dusted_0%29.png",
         "blast_resistance": 0.25,
         "flammable": false,
         "fire_catch": false,
@@ -6632,7 +7402,10 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Brush",
+        "tool": [
+            "Brush",
+            "Shovel"
+        ],
         "transparent": false
     },
     "suspicious_sand": {
@@ -6646,7 +7419,10 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Brush",
+        "tool": [
+            "Brush",
+            "Shovel"
+        ],
         "transparent": false
     },
     "sweet_berries": {
@@ -6688,7 +7464,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "tall_grass": {
@@ -6702,7 +7480,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "target": {
@@ -6716,7 +7496,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "terracotta": {
@@ -6730,7 +7512,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "test_block": {
@@ -6814,7 +7598,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "trial_spawner": {
@@ -6856,7 +7642,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "tuff_brick_slab": {
@@ -6870,7 +7658,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "tuff_brick_stairs": {
@@ -6884,7 +7674,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "tuff_brick_wall": {
@@ -6898,7 +7690,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "tuff_bricks": {
@@ -6912,7 +7706,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "tuff_slab": {
@@ -6926,7 +7722,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "tuff_stairs": {
@@ -6940,7 +7738,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": "Partial"
     },
     "tuff_wall": {
@@ -6954,7 +7754,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": true
     },
     "tulip": {
@@ -6996,7 +7798,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "vault": {
@@ -7024,7 +7828,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "warped_fungus": {
@@ -7052,7 +7858,9 @@
         "luminous": false,
         "renewable": false,
         "stackable": 64,
-        "tool": "Pickaxe",
+        "tool": [
+            "Pickaxe"
+        ],
         "transparent": false
     },
     "warped_roots": {
@@ -7080,7 +7888,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Hoe",
+        "tool": [
+            "Hoe"
+        ],
         "transparent": false
     },
     "weeping_vines": {
@@ -7094,7 +7904,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": true
     },
     "wildflowers": {
@@ -7150,7 +7962,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": false
     },
     "wooden_button": {
@@ -7164,7 +7978,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "wooden_door": {
@@ -7178,7 +7994,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": "Partial"
     },
     "wooden_fence": {
@@ -7192,7 +8010,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "wooden_pressure_plate": {
@@ -7206,7 +8026,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "wooden_slab": {
@@ -7220,7 +8042,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": "Partial"
     },
     "wooden_stairs": {
@@ -7234,7 +8058,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": "Partial"
     },
     "wooden_trapdoor": {
@@ -7248,7 +8074,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Axe",
+        "tool": [
+            "Axe"
+        ],
         "transparent": true
     },
     "wool": {
@@ -7262,7 +8090,9 @@
         "luminous": false,
         "renewable": true,
         "stackable": 64,
-        "tool": "Shears",
+        "tool": [
+            "Shears"
+        ],
         "transparent": false
     },
     "zombie_head": {

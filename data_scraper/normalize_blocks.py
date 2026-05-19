@@ -6,7 +6,7 @@ from normalization_helper import *
 
 
 INPUT_PATH = Path(__file__).resolve().parent / "blocks_raw.json"
-OUTPUT_PATH = Path(__file__).resolve().parent.parent / "data" / "blocks.json"
+OUTPUT_PATH = Path(__file__).resolve().parent / ".." / "data" / "blocks.json"
 
 
 REMOVED_BLOCKS = [
@@ -60,19 +60,25 @@ STACKABLE_VALUES = {
 TOOL_VALUES = {
     'Any tool': "Any",
     'None': "None",
-    'https://minecraft.wiki/images/Invicon_Diamond_Pickaxe.png': "Pickaxe",
-    'https://minecraft.wiki/images/Invicon_Iron_Pickaxe.png': "Pickaxe",
-    'https://minecraft.wiki/images/Invicon_Shears.png': "Shears",
-    'https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png': "Pickaxe",
-    'https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png': "Pickaxe",
-    'https://minecraft.wiki/images/Invicon_Wooden_Shovel.png': "Shovel",
-    'https://minecraft.wiki/images/SlotSprite_Axe_Required.png': "Axe",
-    'https://minecraft.wiki/images/SlotSprite_Bucket_Required.png': "Bucket",
-    'https://minecraft.wiki/images/SlotSprite_Hoe_Required.png': "Hoe",
-    'https://minecraft.wiki/images/SlotSprite_Pickaxe_Required.png': "Pickaxe",
-    'https://minecraft.wiki/images/SlotSprite_Shovel_Required.png': "Shovel",
-    'https://minecraft.wiki/images/Invicon_Brush.png': "Brush",
-    'https://minecraft.wiki/images/SlotSprite_Sword_Required.png': "Sword",
+    'https://minecraft.wiki/images/Invicon_Diamond_Pickaxe.png': ["Pickaxe"],
+    'https://minecraft.wiki/images/Invicon_Iron_Pickaxe.png': ["Pickaxe"],
+    'https://minecraft.wiki/images/Invicon_Shears.png': ["Shears"],
+    'https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png': ["Pickaxe"],
+    'https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png': ["Pickaxe"],
+    'https://minecraft.wiki/images/Invicon_Wooden_Shovel.png': ["Shovel"],
+    'https://minecraft.wiki/images/SlotSprite_Axe_Required.png': ["Axe"],
+    'https://minecraft.wiki/images/SlotSprite_Bucket_Required.png': ["Bucket"],
+    'https://minecraft.wiki/images/SlotSprite_Hoe_Required.png': ["Hoe"],
+    'https://minecraft.wiki/images/SlotSprite_Pickaxe_Required.png': ["Pickaxe"],
+    'https://minecraft.wiki/images/SlotSprite_Shovel_Required.png': ["Shovel"],
+    'https://minecraft.wiki/images/Invicon_Brush.png': ["Brush"],
+    'https://minecraft.wiki/images/SlotSprite_Sword_Required.png': ["Sword"],
+    'https://minecraft.wiki/images/Invicon_Brush.png\nhttps://minecraft.wiki/images/SlotSprite_Shovel_Required.png': ["Brush", "Shovel"],
+    'https://minecraft.wiki/images/Invicon_Shears.png\nhttps://minecraft.wiki/images/SlotSprite_Axe_Required.png': ["Shears", "Axe"],
+    'https://minecraft.wiki/images/Invicon_Shears.png\nhttps://minecraft.wiki/images/SlotSprite_Hoe_Required.png\nhttps://minecraft.wiki/images/SlotSprite_Sword_Required.png': ["Shears", "Hoe", "Sword"],
+    'https://minecraft.wiki/images/Invicon_Shears.png\nhttps://minecraft.wiki/images/SlotSprite_Sword_Required.png': ["Shears", "Sword"],
+    'https://minecraft.wiki/images/SlotSprite_Axe_Required.png\nhttps://minecraft.wiki/images/SlotSprite_Sword_Required.png': ["Axe", "Sword"],
+    'https://minecraft.wiki/images/SlotSprite_Sword_Required.png\nhttps://minecraft.wiki/images/SlotSprite_Axe_Required.png': ["Axe", "Sword"],
 }
 
 HARDNESS_VALUES = {

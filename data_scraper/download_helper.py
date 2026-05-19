@@ -3,10 +3,11 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import re
+from pathlib import Path
 
 
 BASE_URL = "https://minecraft.wiki"
-VERSIONS_JSON_PATH = "versions.json"
+VERSIONS_JSON_PATH = Path(__file__).resolve().parent / "versions.json"
 
 
 def _expand_and_clean_url(url: str) -> str:
@@ -37,7 +38,7 @@ def get_from_api(page_title: str) -> tuple[str, str | None]:
     html: str = payload.get("parse", {}).get("text", "")
 
     if not html:
-        print("API request succeeded but no HTML was returned.")
+        logging.warning("API request succeeded but no HTML was returned.")
         return "", ""
 
     # Primitive check to see if it is a redirect
@@ -145,6 +146,10 @@ def dict_from_infobox(html: str) -> dict[str, str]:
 
     infobox = soup.find("div", class_="infobox")
 
+    if not infobox:
+        logging.warning(f'Infobox was not found')
+        return output
+
     # Remove all sup and sub of the whole table
     for element in infobox.find_all(["sup", "sub"]):
         element.decompose()
@@ -175,8 +180,12 @@ def dict_from_infobox(html: str) -> dict[str, str]:
         if value_field.text.strip():
             value = value_field.text.strip()
 
-        elif value_field.find("img"):
-            value = _expand_and_clean_url(value_field.find("img").get("src"))
+        elif value_field.find("img"):  # If there is at least one image, then go through all of them
+            all_img_src = []
+            for img in value_field.find_all("img"):
+                all_img_src.append(_expand_and_clean_url(img.get("src")))
+
+            value = "\n".join(all_img_src)
 
         else:
             logging.warning(f"Could not decode a value for {key}")
@@ -197,7 +206,7 @@ if __name__ == "__main__":
 
     # Now you would loop through all dictionaries
     # Here we just use some test values
-    for _name in ["Grass Block", "Stone", "Allay", "Ancient City", "Mushroom Fields", "Red Bed"]:
+    for _name in ["Grass Block", "Stone", "Allay", "Ancient City", "Mushroom Fields", "Red Bed", "Bamboo", "Light"]:
         _html, _redirected_page = get_from_api(_name)
         _output = dict_from_infobox(_html)
 
