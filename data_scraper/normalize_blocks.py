@@ -26,10 +26,21 @@ REMOVED_BLOCKS = [
     "Pumpkin Seeds",
     "Torchflower Seeds",
     "Frosted Ice",
-    "Fire",
-    "Petrified Oak Slab",
     "Piston/Technical components",
-    "Bubble Column"
+    "Bubble Column",
+    "Allium",
+    "Azure Bluet",
+    "Blue Orchid",
+    "Cornflower",
+    "Lily of the Valley",
+    "Oxeye Daisy",
+    "Lilac",
+    "Peony",
+    "Large Fern",
+    "Short Grass",
+    "Short Dry Grass",
+    "Tall Grass",
+    "Tall Dry Grass"
 ]
 
 
