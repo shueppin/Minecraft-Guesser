@@ -6,8 +6,9 @@ import re
 from normalization_helper import DataParser, clean_text
 
 
-INPUT_PATH = Path(__file__).resolve().parent / "blocks_raw.json"
-OUTPUT_PATH = Path(__file__).resolve().parent / ".." / "data" / "blocks.json"
+actual_dir = Path(__file__).resolve().parent
+INPUT_PATH = (actual_dir / ".." / "json_files" / "blocks_raw.json").resolve()
+OUTPUT_PATH = (actual_dir / ".." / ".." / "data" / "blocks.json").resolve()
 
 
 REMOVED_BLOCKS = [

@@ -8,7 +8,9 @@ from pathlib import Path
 from download_helper import get_from_api, list_of_dict_from_table, dict_from_infobox, resolve_existing_elements_with_versions_from_list_of_dict
 
 
-OUTPUT_FILE = Path(__file__).resolve().parent / "blocks_raw.json"
+actual_dir = Path(__file__).resolve().parent
+OUTPUT_FILE = (actual_dir / ".." / "json_files" / "blocks_raw.json").resolve()
+
 SAVE_EVERY = 20
 
 

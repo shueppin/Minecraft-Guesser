@@ -6,9 +6,10 @@ import re
 from pathlib import Path
 
 
-BASE_URL = "https://minecraft.wiki"
-VERSIONS_JSON_PATH = Path(__file__).resolve().parent / "versions.json"
+actual_dir = Path(__file__).resolve().parent
+VERSIONS_JSON_PATH = (actual_dir / ".." / "json_files" / "versions.json").resolve()
 
+BASE_URL = "https://minecraft.wiki"
 
 def _expand_and_clean_url(url: str) -> str:
     url = BASE_URL + url

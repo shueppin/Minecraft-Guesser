@@ -1,7 +1,9 @@
 import json
+from pathlib import Path
 
 
-INPUT_FILE = "blocks_raw.json"
+actual_dir = Path(__file__).resolve().parent
+INPUT_FILE = actual_dir / "json_files" / "blocks_raw.json"
 
 
 with open(INPUT_FILE) as f:
