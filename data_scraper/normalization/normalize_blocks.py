@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Any
 import re
 
-from normalization_helper import DataParser, clean_text
+from normalization_helper import DataParser, remove_escaped_chars
 
 
 actual_dir = Path(__file__).resolve().parent
@@ -120,7 +120,7 @@ def extract_map_color(text: str) -> str:
     - Prefer COLOR_* tokens when present
     - Otherwise return first meaningful uppercase color-like token
     """
-    cleaned = clean_text(text)
+    cleaned = remove_escaped_chars(text)
     upper = cleaned.upper()
 
     upper = re.sub(r"\bCOLOR\s+_\s*([A-Z]+)\b", r"COLOR_\1", upper)

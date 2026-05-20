@@ -88,7 +88,7 @@ def list_of_dict_from_table(html: str, wanted_table_number=0) -> list[dict[str, 
     return output
 
 
-def resolve_existing_elements_with_versions_from_list_of_dict(input_list: list[dict[str, str]], name_key: str, added_key="added", removed_key="removed") -> tuple[dict[str, str], bool]:
+def resolve_existing_elements_with_versions_from_list_of_dict(input_list: list[dict[str, str]], name_key: str, added_key="added", removed_key="removed") -> tuple[dict[str, str], set[str]]:
     """
     Given a list of dictionaries, check whether the element (Mob / Item / Block / ...) still exists based on the version history and if so,
     return it with the corresponding minecraft full release version when it was added.
@@ -97,13 +97,13 @@ def resolve_existing_elements_with_versions_from_list_of_dict(input_list: list[d
     :param name_key: For each element of the dictionary, this is the key where the name is stored. The name will then be used in the output as key. Example: "block", "item", "mob", ...
     :param added_key: For each element of the dictionary, this is the key where the minecraft version when this element was added is stored.
     :param removed_key: For each element of the dictionary, this is the key where the minecraft version when this element was removed is stored.
-    :return: Dictionary with the name as the key and the minecraft full release version as the value. Also returns whether all Versions could be resolved (True) or not (False).
+    :return: Dictionary with the name as the key and the minecraft full release version as the value. Also returns a list of all unresolved versions.
     """
 
     with open(VERSIONS_JSON_PATH) as f:
         version_resolver = json.load(f)
 
-    could_resolve_everything = True
+    unresolved_versions = set()
     output = {}
 
     for dictionary in input_list:
@@ -123,13 +123,13 @@ def resolve_existing_elements_with_versions_from_list_of_dict(input_list: list[d
         if added_dates[-1] in version_resolver:
             version = version_resolver[added_dates[-1]]
         else:
-            logging.warning(f"Version {added_dates[-1]} was not found in the database")
-            could_resolve_everything = False
+            logging.warning(f'Version "{added_dates[-1]}" was not found in the database')
+            unresolved_versions.add(added_dates[-1])
             continue
 
         output[name] = version
 
-    return output, could_resolve_everything
+    return output, unresolved_versions
 
 
 def dict_from_infobox(html: str) -> dict[str, str]:

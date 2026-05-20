@@ -1,6 +1,6 @@
 import logging
 import re
-from html import unescape
+from data_scraper.cleanup_text import remove_escaped_chars
 
 
 def _remove_edition_keywords(text: str) -> str:
@@ -78,7 +78,7 @@ def extract_first_yes_no_partial(text: str, hardcoded_values_dict: dict=None) ->
     if text in hardcoded_values_dict:
         return hardcoded_values_dict[text]
 
-    java_edition_part = get_java_edition_part(clean_text(text)).lower()
+    java_edition_part = get_java_edition_part(remove_escaped_chars(text)).lower()
 
     """Extract first status token among Yes/No/Partial."""
     match = re.search(r"(Yes|No|Partial)", java_edition_part, flags=re.IGNORECASE)
@@ -113,16 +113,9 @@ def extract_all_from_word_list(text: str, word_list: list, case_sensitive=True) 
 
 def extract_stack_size(text: str) -> int:
     """Extract stack size from patterns like 'Yes (64)' -> 64."""
-    java_edition_part = get_java_edition_part(clean_text(text))
+    java_edition_part = get_java_edition_part(remove_escaped_chars(text))
     match = re.search(r"\((\d+)\)", java_edition_part)
     return int(match.group(1)) if match else 1
-
-
-def clean_text(text: str) -> str:
-    """Normalize whitespace and decode HTML entities."""
-    text = text.replace('\u200c', ' ')
-    text = text.replace('\xa0', ' ')
-    return re.sub(r"\s+", " ", unescape(text)).strip()
 
 
 class DataParser:
