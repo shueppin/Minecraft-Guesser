@@ -12,6 +12,7 @@ OUTPUT_PATH = (actual_dir / ".." / ".." / "data" / "blocks.json").resolve()
 
 
 REMOVED_BLOCKS = [
+    "Light",
     "Air",
     "Water",
     "Lava",
@@ -198,7 +199,7 @@ def normalize_blocks() -> None:
     with OUTPUT_PATH.open("w", encoding="utf-8") as f:
         json.dump(normalized_blocks, f, indent=4)
 
-    print(f"Normalized blocks saved to: {OUTPUT_PATH}")
+    print(f"Saved {len(normalized_blocks.keys())} normalized blocks to: {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

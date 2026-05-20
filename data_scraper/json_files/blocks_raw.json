@@ -1215,7 +1215,7 @@
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Sandstone_Slab_JE5_BE6.png/150px-Sandstone_Slab_JE5_BE6.png",
@@ -2342,7 +2342,7 @@
         "catches fire from lava": "No",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Light Weighted Pressure Plate": {
         "image": "https://minecraft.wiki/images/thumb/Light_Weighted_Pressure_Plate_JE3_BE2.png/150px-Light_Weighted_Pressure_Plate_JE3_BE2.png",
@@ -2358,7 +2358,7 @@
         "catches fire from lava": "No",
         "map color": "30 GOLD",
         "note block instrument": "Default (Harp)",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Heavy Weighted Pressure Plate": {
         "image": "https://minecraft.wiki/images/thumb/Heavy_Weighted_Pressure_Plate_JE2_BE2.png/150px-Heavy_Weighted_Pressure_Plate_JE2_BE2.png",
@@ -2374,7 +2374,7 @@
         "catches fire from lava": "No",
         "map color": "6 METAL",
         "note block instrument": "Default (Harp)",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Redstone Comparator": {
         "image": "https://minecraft.wiki/images/thumb/Redstone_Comparator_%28S%29_JE5.png/150px-Redstone_Comparator_%28S%29_JE5.png",
@@ -2390,7 +2390,7 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Default (Harp)",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Daylight Detector": {
         "image": "https://minecraft.wiki/images/thumb/Daylight_Detector_JE1_BE1.png/150px-Daylight_Detector_JE1_BE1.png",
@@ -2406,7 +2406,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Block of Redstone": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Redstone_JE2_BE2.png/150px-Block_of_Redstone_JE2_BE2.png",
@@ -2422,7 +2422,7 @@
         "map color": "4 FIRE",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Regular",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Nether Quartz Ore": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Quartz_Ore_JE3_BE2.png/150px-Nether_Quartz_Ore_JE3_BE2.png",
@@ -2438,7 +2438,7 @@
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Hopper": {
         "image": "https://minecraft.wiki/images/thumb/Hopper_%28D%29_JE8.png/150px-Hopper_%28D%29_JE8.png",
@@ -2454,7 +2454,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Default (Harp)",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Quartz Slab": {
         "image": "https://minecraft.wiki/images/thumb/Quartz_Slab_JE3_BE3.png/150px-Quartz_Slab_JE3_BE3.png",
@@ -2470,7 +2470,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Block of Quartz": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Quartz_JE4_BE4.png/150px-Block_of_Quartz_JE4_BE4.png",
@@ -2486,7 +2486,7 @@
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Chiseled Quartz Block": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Quartz_Block_%28UD%29_JE2_BE2.png/150px-Chiseled_Quartz_Block_%28UD%29_JE2_BE2.png",
@@ -2502,7 +2502,7 @@
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Quartz Pillar": {
         "image": "https://minecraft.wiki/images/thumb/Quartz_Pillar_%28UD%29_JE3_BE2.png/150px-Quartz_Pillar_%28UD%29_JE3_BE2.png",
@@ -2518,7 +2518,7 @@
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Quartz Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Quartz_Stairs_%28N%29_JE3.png/150px-Quartz_Stairs_%28N%29_JE3.png",
@@ -2534,7 +2534,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Activator Rail": {
         "image": "https://minecraft.wiki/images/thumb/Activator_Rail_%28NS%29_JE2_BE2.png/150px-Activator_Rail_%28NS%29_JE2_BE2.png",
@@ -2550,7 +2550,7 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Default (Harp)",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Dropper": {
         "image": "https://minecraft.wiki/images/thumb/Dropper_%28S%29_JE3.png/150px-Dropper_%28S%29_JE3.png",
@@ -2565,7 +2565,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Smooth Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Sandstone_JE7_BE2.png/150px-Smooth_Sandstone_JE7_BE2.png",
@@ -2581,7 +2581,7 @@
         "map color": "2 SAND",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Smooth Quartz Block": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Quartz_Block_JE3_BE2.png/150px-Smooth_Quartz_Block_JE3_BE2.png",
@@ -2597,7 +2597,7 @@
         "map color": "14 QUARTZ",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Hay Bale": {
         "image": "https://minecraft.wiki/images/thumb/Hay_Bale_%28UD%29_JE2_BE2.png/150px-Hay_Bale_%28UD%29_JE2_BE2.png",
@@ -2956,7 +2956,7 @@
         "map color": "10 DIRT",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Polished Granite": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Granite_JE2_BE2.png/150px-Polished_Granite_JE2_BE2.png",
@@ -2971,7 +2971,7 @@
         "catches fire from lava": "No",
         "map color": "10 DIRT",
         "note block instrument": "Bass Drum",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Diorite": {
         "image": "https://minecraft.wiki/images/thumb/Diorite.png/150px-Diorite.png",
@@ -2987,7 +2987,7 @@
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Polished Diorite": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Diorite_JE2_BE2.png/150px-Polished_Diorite_JE2_BE2.png",
@@ -3002,7 +3002,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Andesite": {
         "image": "https://minecraft.wiki/images/thumb/Andesite.png/150px-Andesite.png",
@@ -3018,7 +3018,7 @@
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Polished Andesite": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Andesite_JE2_BE2.png/150px-Polished_Andesite_JE2_BE2.png",
@@ -3033,7 +3033,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Slime Block": {
         "image": "https://minecraft.wiki/images/thumb/Slime_Block_JE2_BE3.png/150px-Slime_Block_JE2_BE3.png",
@@ -3049,7 +3049,7 @@
         "map color": "1 GRASS",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Fast Flat",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Barrier": {
         "image": "https://minecraft.wiki/images/thumb/Barrier_%28held%29_JE2_BE2.png/150px-Barrier_%28held%29_JE2_BE2.png",
@@ -3066,7 +3066,7 @@
         "catches fire from lava": "No",
         "map color": "No waterlogging: \n\u00a00 NONE\nWaterlogging:: \n\u00a012 WATER",
         "note block instrument": "Default (Harp)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Iron Trapdoor": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Trapdoor_JE3_BE2.png/150px-Iron_Trapdoor_JE3_BE2.png",
@@ -3082,7 +3082,7 @@
         "catches fire from lava": "No",
         "map color": "6 METAL",
         "note block instrument": "Default (Harp)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Prismarine": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_JE2_BE2.gif/150px-Prismarine_JE2_BE2.gif",
@@ -3098,7 +3098,7 @@
         "map color": "23 COLOR_CYAN",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Prismarine Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Bricks_JE2_BE2.png/150px-Prismarine_Bricks_JE2_BE2.png",
@@ -3114,7 +3114,7 @@
         "map color": "31 DIAMOND",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Dark Prismarine": {
         "image": "https://minecraft.wiki/images/thumb/Dark_Prismarine_JE2_BE2.png/150px-Dark_Prismarine_JE2_BE2.png",
@@ -3130,7 +3130,7 @@
         "map color": "31 DIAMOND",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Sea Lantern": {
         "image": "https://minecraft.wiki/images/thumb/Sea_Lantern_JE1.gif/150px-Sea_Lantern_JE1.gif",
@@ -3146,7 +3146,7 @@
         "map color": "14 QUARTZ",
         "note block instrument": "Hat",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Banner": {
         "image": "https://minecraft.wiki/images/thumb/White_Banner_JE2_BE2.gif/150px-White_Banner_JE2_BE2.gif",
@@ -3163,7 +3163,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Red Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Red_Sandstone_JE4_BE2.png/150px-Red_Sandstone_JE4_BE2.png",
@@ -3179,7 +3179,7 @@
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Chiseled Red Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Red_Sandstone_JE4_BE2.png/150px-Chiseled_Red_Sandstone_JE4_BE2.png",
@@ -3195,7 +3195,7 @@
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Cut Red Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Red_Sandstone_JE4_BE2.png/150px-Cut_Red_Sandstone_JE4_BE2.png",
@@ -3211,7 +3211,7 @@
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Red Sandstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Red_Sandstone_Stairs_%28N%29_JE4_BE2.png/150px-Red_Sandstone_Stairs_%28N%29_JE4_BE2.png",
@@ -3227,7 +3227,7 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Smooth Red Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Red_Sandstone_JE4_BE2.png/150px-Smooth_Red_Sandstone_JE4_BE2.png",
@@ -3243,7 +3243,7 @@
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Red Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Red_Sandstone_Slab_JE4_BE2.png/150px-Red_Sandstone_Slab_JE4_BE2.png",
@@ -3259,7 +3259,7 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Dragon Head": {
         "image": "https://minecraft.wiki/images/thumb/Dragon_Head_%28S%29_JE1.png/150px-Dragon_Head_%28S%29_JE1.png",
@@ -3277,7 +3277,7 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Ender dragon roar",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "End Rod": {
         "image": "https://minecraft.wiki/images/thumb/End_Rod_%28U%29_JE2_BE2.png/150px-End_Rod_%28U%29_JE2_BE2.png",
@@ -3293,7 +3293,7 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Default (Harp)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Chorus Plant": {
         "image": "https://minecraft.wiki/images/thumb/Chorus_Plant_JE2_BE2.png/150px-Chorus_Plant_JE2_BE2.png",
@@ -3308,7 +3308,7 @@
         "catches fire from lava": "No",
         "map color": "24 COLOR_PURPLE",
         "note block instrument": "Default (Harp)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Chorus Flower": {
         "image": "https://minecraft.wiki/images/thumb/Chorus_Flower_JE2_BE2.png/150px-Chorus_Flower_JE2_BE2.png",
@@ -3323,7 +3323,7 @@
         "catches fire from lava": "No",
         "map color": "24 COLOR_PURPLE",
         "note block instrument": "Default (Harp)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Purpur Block": {
         "image": "https://minecraft.wiki/images/thumb/Purpur_Block_JE2_BE2.png/150px-Purpur_Block_JE2_BE2.png",
@@ -3339,7 +3339,7 @@
         "map color": "16 COLOR_MAGENTA",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Purpur Pillar": {
         "image": "https://minecraft.wiki/images/thumb/Purpur_Pillar_%28UD%29_JE3_BE2.png/150px-Purpur_Pillar_%28UD%29_JE3_BE2.png",
@@ -3355,7 +3355,7 @@
         "map color": "16 COLOR_MAGENTA",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Purpur Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Purpur_Stairs_%28N%29_JE2_BE2.png/150px-Purpur_Stairs_%28N%29_JE2_BE2.png",
@@ -3371,7 +3371,7 @@
         "catches fire from lava": "No",
         "map color": "16 COLOR_MAGENTA",
         "note block instrument": "Bass Drum",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Purpur Slab": {
         "image": "https://minecraft.wiki/images/thumb/Purpur_Slab_JE2_BE2.png/150px-Purpur_Slab_JE2_BE2.png",
@@ -3387,7 +3387,7 @@
         "catches fire from lava": "No",
         "map color": "16 COLOR_MAGENTA",
         "note block instrument": "Bass Drum",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "End Stone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/End_Stone_Bricks_JE2_BE2.png/150px-End_Stone_Bricks_JE2_BE2.png",
@@ -3403,7 +3403,7 @@
         "map color": "2 SAND",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Beetroot": {
         "image": "https://minecraft.wiki/images/Beetroot_JE2_BE2.png",
@@ -3416,7 +3416,7 @@
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Dirt Path": {
         "image": "https://minecraft.wiki/images/thumb/Dirt_Path_JE4_BE3.png/150px-Dirt_Path_JE4_BE3.png",
@@ -3431,14 +3431,14 @@
         "catches fire from lava": "No",
         "map color": "10 DIRT",
         "note block instrument": "Default (Harp)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "End Gateway": {
         "image": "https://minecraft.wiki/images/thumb/End_gateway_JE3_BE2.png/157px-End_gateway_JE3_BE2.png",
         "biomes": "Any End biome",
         "generates in existing chunks": "Yes, when an ender dragon is defeated, or when a gateway on the central island is used for the first time",
         "consists of": "Bedrock\nEnd Gateway",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Structure Block": {
         "image": "https://minecraft.wiki/images/thumb/Structure_Block_JE2_BE1.png/150px-Structure_Block_JE2_BE1.png",
@@ -3454,7 +3454,7 @@
         "catches fire from lava": "No",
         "map color": "22 COLOR_LIGHT_GRAY",
         "note block instrument": "Default (Harp)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Frosted Ice": {
         "image": "https://minecraft.wiki/images/thumb/Frosted_Ice_JE2_BE2.png/150px-Frosted_Ice_JE2_BE2.png",
@@ -3469,7 +3469,7 @@
         "catches fire from lava": "No",
         "map color": "5 ICE",
         "note block instrument": "Default (Harp)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Magma Block": {
         "image": "https://minecraft.wiki/images/thumb/Magma_Block_JE2.gif/150px-Magma_Block_JE2.gif",
@@ -3485,7 +3485,7 @@
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Hot\nRegular",
-        "version": "1.10.0"
+        "version": "1.10"
     },
     "Nether Wart Block": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Wart_Block_JE3.png/160px-Nether_Wart_Block_JE3.png",
@@ -3501,7 +3501,7 @@
         "map color": "28 COLOR_RED",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Slow Sliding",
-        "version": "1.10.0"
+        "version": "1.10"
     },
     "Red Nether Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Red_Nether_Bricks_JE4_BE3.png/150px-Red_Nether_Bricks_JE4_BE3.png",
@@ -3516,7 +3516,7 @@
         "catches fire from lava": "No",
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
-        "version": "1.10.0"
+        "version": "1.10"
     },
     "Bone Block": {
         "image": "https://minecraft.wiki/images/thumb/Bone_Block_%28UD%29_JE2_BE2.png/150px-Bone_Block_%28UD%29_JE2_BE2.png",
@@ -3532,7 +3532,7 @@
         "map color": "2 SAND",
         "note block instrument": "Xylophone",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.10.0"
+        "version": "1.10"
     },
     "Structure Void": {
         "image": "https://minecraft.wiki/images/thumb/Structure_Void_%28item%29_JE2.png/150px-Structure_Void_%28item%29_JE2.png",
@@ -3548,7 +3548,7 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Default (Harp)",
-        "version": "1.10.0"
+        "version": "1.10"
     },
     "Observer": {
         "image": "https://minecraft.wiki/images/thumb/Observer_JE4_BE3.png/150px-Observer_JE4_BE3.png",
@@ -3564,7 +3564,7 @@
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy",
-        "version": "1.11.0"
+        "version": "1.11"
     },
     "Shulker Box": {
         "image": "https://minecraft.wiki/images/thumb/Shulker_Box_JE1_BE1.png/150px-Shulker_Box_JE1_BE1.png",
@@ -3580,7 +3580,7 @@
         "catches fire from lava": "No",
         "map color": "24 COLOR_PURPLE\n\n  16 colors\n \n\u00a08 SNOW\n\n \n\u00a022 COLOR_LIGHT_GRAY\n\n \n\u00a021 COLOR_GRAY\n\n \n\u00a029 COLOR_BLACK\n\n \n\u00a026 COLOR_BROWN\n\n \n\u00a028 COLOR_RED\n\n \n\u00a015 COLOR_ORANGE\n\n \n\u00a018 COLOR_YELLOW\n\n \n\u00a019 COLOR_LIGHT_GREEN\n\n \n\u00a027 COLOR_GREEN\n\n \n\u00a023 COLOR_CYAN\n\n \n\u00a017 COLOR_LIGHT_BLUE\n\n \n\u00a025 COLOR_BLUE\n\n \n\u00a024 COLOR_PURPLE\n\n \n\u00a016 COLOR_MAGENTA\n\n \n\u00a020 COLOR_PINK",
         "note block instrument": "Default (Harp)",
-        "version": "1.11.0"
+        "version": "1.11"
     },
     "Glazed Terracotta": {
         "image": "https://minecraft.wiki/images/thumb/White_Glazed_Terracotta_%28S%29_JE2_BE2.png/150px-White_Glazed_Terracotta_%28S%29_JE2_BE2.png",
@@ -3596,7 +3596,7 @@
         "map color": "16 colors\n \n\u00a08 SNOW\n\n \n\u00a022 COLOR_LIGHT_GRAY\n\n \n\u00a021 COLOR_GRAY\n\n \n\u00a029 COLOR_BLACK\n\n \n\u00a026 COLOR_BROWN\n\n \n\u00a028 COLOR_RED\n\n \n\u00a015 COLOR_ORANGE\n\n \n\u00a018 COLOR_YELLOW\n\n \n\u00a019 COLOR_LIGHT_GREEN\n\n \n\u00a027 COLOR_GREEN\n\n \n\u00a023 COLOR_CYAN\n\n \n\u00a017 COLOR_LIGHT_BLUE\n\n \n\u00a025 COLOR_BLUE\n\n \n\u00a024 COLOR_PURPLE\n\n \n\u00a016 COLOR_MAGENTA\n\n \n\u00a020 COLOR_PINK",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.12.0"
+        "version": "1.12"
     },
     "Concrete": {
         "image": "https://minecraft.wiki/images/thumb/White_Concrete.png/150px-White_Concrete.png",
@@ -3612,7 +3612,7 @@
         "map color": "16 colors\n \n\u00a08 SNOW\n\n \n\u00a022 COLOR_LIGHT_GRAY\n\n \n\u00a021 COLOR_GRAY\n\n \n\u00a029 COLOR_BLACK\n\n \n\u00a026 COLOR_BROWN\n\n \n\u00a028 COLOR_RED\n\n \n\u00a015 COLOR_ORANGE\n\n \n\u00a018 COLOR_YELLOW\n\n \n\u00a019 COLOR_LIGHT_GREEN\n\n \n\u00a027 COLOR_GREEN\n\n \n\u00a023 COLOR_CYAN\n\n \n\u00a017 COLOR_LIGHT_BLUE\n\n \n\u00a025 COLOR_BLUE\n\n \n\u00a024 COLOR_PURPLE\n\n \n\u00a016 COLOR_MAGENTA\n\n \n\u00a020 COLOR_PINK",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.12.0"
+        "version": "1.12"
     },
     "Concrete Powder": {
         "image": "https://minecraft.wiki/images/thumb/White_Concrete_Powder.png/150px-White_Concrete_Powder.png",
@@ -3628,7 +3628,7 @@
         "map color": "16 colors\n \n\u00a08 SNOW\n\n \n\u00a022 COLOR_LIGHT_GRAY\n\n \n\u00a021 COLOR_GRAY\n\n \n\u00a029 COLOR_BLACK\n\n \n\u00a026 COLOR_BROWN\n\n \n\u00a028 COLOR_RED\n\n \n\u00a015 COLOR_ORANGE\n\n \n\u00a018 COLOR_YELLOW\n\n \n\u00a019 COLOR_LIGHT_GREEN\n\n \n\u00a027 COLOR_GREEN\n\n \n\u00a023 COLOR_CYAN\n\n \n\u00a017 COLOR_LIGHT_BLUE\n\n \n\u00a025 COLOR_BLUE\n\n \n\u00a024 COLOR_PURPLE\n\n \n\u00a016 COLOR_MAGENTA\n\n \n\u00a020 COLOR_PINK",
         "note block instrument": "Snare Drum",
         "sulfur cube archetype": "Regular",
-        "version": "1.12.0"
+        "version": "1.12"
     },
     "Pumpkin": {
         "image": "https://minecraft.wiki/images/thumb/Pumpkin_JE3.png/150px-Pumpkin_JE3.png",
@@ -3644,7 +3644,7 @@
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Didgeridoo",
         "sulfur cube archetype": "Fast Flat",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Stripped Log": {
         "image": "https://minecraft.wiki/images/thumb/Stripped_Oak_Log_%28UD%29_JE2_BE2.png/150px-Stripped_Oak_Log_%28UD%29_JE2_BE2.png",
@@ -3660,7 +3660,7 @@
         "map color": "Varies\n \n\u00a013 WOOD\n\n \n\u00a034 PODZOL\n\n \n\u00a02 SAND\n\n \n\u00a010 DIRT\n\n \n\u00a015 COLOR_ORANGE\n\n \n\u00a026 COLOR_BROWN\n\n \n\u00a028 COLOR_RED\n\n \n\u00a036 TERRACOTTA_WHITE\n\n \n\u00a08 SNOW\n\n \n\u00a053 CRIMSON_STEM\n\n \n\u00a056 WARPED_STEM",
         "note block instrument": "Bass",
         "sulfur cube archetype": "Bouncy (Rubber Ball)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Prismarine Slab": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Slab_JE2_BE2.png/150px-Prismarine_Slab_JE2_BE2.png",
@@ -3676,7 +3676,7 @@
         "catches fire from lava": "No",
         "map color": "23 COLOR_CYAN",
         "note block instrument": "Bass Drum",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Prismarine Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Brick_Slab_JE2_BE2.png/150px-Prismarine_Brick_Slab_JE2_BE2.png",
@@ -3692,7 +3692,7 @@
         "catches fire from lava": "No",
         "map color": "31 DIAMOND",
         "note block instrument": "Bass Drum",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Dark Prismarine Slab": {
         "image": "https://minecraft.wiki/images/thumb/Dark_Prismarine_Slab_JE2_BE2.png/150px-Dark_Prismarine_Slab_JE2_BE2.png",
@@ -3708,7 +3708,7 @@
         "catches fire from lava": "No",
         "map color": "31 DIAMOND",
         "note block instrument": "Bass Drum",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Prismarine Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Stairs_%28N%29_JE2_BE2.gif/150px-Prismarine_Stairs_%28N%29_JE2_BE2.gif",
@@ -3724,7 +3724,7 @@
         "catches fire from lava": "No",
         "map color": "23 COLOR_CYAN",
         "note block instrument": "Bass Drum",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Prismarine Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Brick_Stairs_%28N%29_JE2_BE2.png/150px-Prismarine_Brick_Stairs_%28N%29_JE2_BE2.png",
@@ -3740,7 +3740,7 @@
         "catches fire from lava": "No",
         "map color": "31 DIAMOND",
         "note block instrument": "Bass Drum",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Dark Prismarine Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Dark_Prismarine_Stairs_%28N%29_JE2_BE2.png/150px-Dark_Prismarine_Stairs_%28N%29_JE2_BE2.png",
@@ -3756,7 +3756,7 @@
         "catches fire from lava": "No",
         "map color": "31 DIAMOND",
         "note block instrument": "Bass Drum",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Dried Kelp Block": {
         "image": "https://minecraft.wiki/images/thumb/Dried_Kelp_Block_JE1_BE2.png/150px-Dried_Kelp_Block_JE1_BE2.png",
@@ -3772,7 +3772,7 @@
         "map color": "27 COLOR_GREEN",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Fast Flat",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Seagrass": {
         "image": "https://minecraft.wiki/images/thumb/Seagrass_JE1_BE2.gif/150px-Seagrass_JE1_BE2.gif",
@@ -3787,7 +3787,7 @@
         "catches fire from lava": "No",
         "map color": "12 WATER",
         "note block instrument": "Default (Harp)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Turtle Egg": {
         "image": "https://minecraft.wiki/images/thumb/Turtle_Egg_1_JE2.png/150px-Turtle_Egg_1_JE2.png",
@@ -3803,7 +3803,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Default (Harp)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Kelp": {
         "image": "https://minecraft.wiki/images/Kelp_JE3_BE2.gif",
@@ -3818,7 +3818,7 @@
         "catches fire from lava": "No",
         "map color": "12 WATER",
         "note block instrument": "Default (Harp)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Bubble Column": {
         "image": "https://minecraft.wiki/images/thumb/Bubble_Column_JE1_BE1.png/150px-Bubble_Column_JE1_BE1.png",
@@ -3833,7 +3833,7 @@
         "catches fire from lava": "No",
         "map color": "12 WATER",
         "note block instrument": "Default (Harp)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Coral Block": {
         "image": "https://minecraft.wiki/images/thumb/Tube_Coral_Block_JE2_BE1.png/150px-Tube_Coral_Block_JE2_BE1.png",
@@ -3849,7 +3849,7 @@
         "map color": "25 COLOR_BLUE\n \n\u00a020 COLOR_PINK\n \n\u00a024 COLOR_PURPLE\n \n\u00a028 COLOR_RED\n \n\u00a018 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Fast Flat",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Coral": {
         "image": "https://minecraft.wiki/images/thumb/Tube_Coral_JE1_BE1.png/150px-Tube_Coral_JE1_BE1.png",
@@ -3865,7 +3865,7 @@
         "catches fire from lava": "No",
         "map color": "JE: 5 colors\n \n\u00a025 COLOR_BLUE\n\n \n\u00a020 COLOR_PINK\n\n \n\u00a024 COLOR_PURPLE\n\n \n\u00a028 COLOR_RED\n\n \n\u00a018 COLOR_YELLOW\n\n\n\nBE:  (Grass tint)",
         "note block instrument": "Bass Drum",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Dead Coral Block": {
         "image": "https://minecraft.wiki/images/thumb/Dead_Tube_Coral_Block_JE1_BE1.png/150px-Dead_Tube_Coral_Block_JE1_BE1.png",
@@ -3881,7 +3881,7 @@
         "map color": "21 COLOR_GRAY",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Fast Flat",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Coral Fan": {
         "image": "https://minecraft.wiki/images/thumb/Tube_Coral_Fan_JE1.png/150px-Tube_Coral_Fan_JE1.png",
@@ -3897,7 +3897,7 @@
         "catches fire from lava": "No",
         "map color": "25 COLOR_BLUE\u200c\n \n\u00a020 COLOR_PINK\u200c\n \n\u00a024 COLOR_PURPLE\u200c\n \n\u00a028 COLOR_RED\u200c\n \n\u00a018 COLOR_YELLOW\u200c\n  \u2013 Grass tint\u200c",
         "note block instrument": "Default (Harp)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Sea Pickle": {
         "image": "https://minecraft.wiki/images/thumb/Sea_Pickle_1_JE1_BE1.png/150px-Sea_Pickle_1_JE1_BE1.png",
@@ -3913,7 +3913,7 @@
         "catches fire from lava": "No",
         "map color": "27 COLOR_GREEN",
         "note block instrument": "Default (Harp)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Blue Ice": {
         "image": "https://minecraft.wiki/images/thumb/Blue_Ice_JE1.png/150px-Blue_Ice_JE1.png",
@@ -3929,7 +3929,7 @@
         "map color": "5 ICE",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Fast Sliding",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Conduit": {
         "image": "https://minecraft.wiki/images/thumb/Conduit_JE1_BE1.png/150px-Conduit_JE1_BE1.png",
@@ -3946,7 +3946,7 @@
         "catches fire from lava": "No",
         "map color": "31 DIAMOND",
         "note block instrument": "Hat",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Stripped Wood": {
         "image": "https://minecraft.wiki/images/thumb/Stripped_Oak_Wood_%28UD%29_JE1_BE1.png/150px-Stripped_Oak_Wood_%28UD%29_JE1_BE1.png",
@@ -3962,7 +3962,7 @@
         "map color": "Varies\n \n\u00a013 WOOD\n\n \n\u00a034 PODZOL\n\n \n\u00a02 SAND\n\n \n\u00a010 DIRT\n\n JE: \n\u00a015 COLOR_ORANGE\n\nBE: \n\u00a021 COLOR_GRAY\n \n\u00a026 COLOR_BROWN\n\n \n\u00a028 COLOR_RED\n\n \n\u00a036 TERRACOTTA_WHITE\n\n \n\u00a08 SNOW\n\n \n\u00a054 CRIMSON_HYPHAE\n\n \n\u00a057 WARPED_HYPHAE",
         "note block instrument": "Bass",
         "sulfur cube archetype": "Bouncy (Rubber Ball)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Dead Coral Fan": {
         "image": "https://minecraft.wiki/images/thumb/Dead_Tube_Coral_Fan_JE1.png/150px-Dead_Tube_Coral_Fan_JE1.png",
@@ -3978,7 +3978,7 @@
         "catches fire from lava": "No",
         "map color": "21 COLOR_GRAY",
         "note block instrument": "Bass Drum",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Dead Coral": {
         "image": "https://minecraft.wiki/images/thumb/Dead_Tube_Coral_JE1_BE1.png/150px-Dead_Tube_Coral_JE1_BE1.png",
@@ -4010,7 +4010,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Polished Granite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Granite_Stairs_%28N%29_JE1_BE1.png/150px-Polished_Granite_Stairs_%28N%29_JE1_BE1.png",
@@ -4026,7 +4026,7 @@
         "catches fire from lava": "No",
         "map color": "10 DIRT",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Smooth Red Sandstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Red_Sandstone_Stairs_%28N%29_JE3_BE1.png/150px-Smooth_Red_Sandstone_Stairs_%28N%29_JE3_BE1.png",
@@ -4042,7 +4042,7 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Mossy Stone Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Stone_Brick_Stairs_%28N%29_JE2_BE1.png/150px-Mossy_Stone_Brick_Stairs_%28N%29_JE2_BE1.png",
@@ -4058,7 +4058,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Polished Diorite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Diorite_Stairs_%28N%29_JE2_BE2.png/150px-Polished_Diorite_Stairs_%28N%29_JE2_BE2.png",
@@ -4074,7 +4074,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Mossy Cobblestone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_Stairs_%28N%29_JE2_BE1.png/150px-Mossy_Cobblestone_Stairs_%28N%29_JE2_BE1.png",
@@ -4090,7 +4090,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "End Stone Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/End_Stone_Brick_Stairs_%28N%29_JE1_BE2.png/150px-End_Stone_Brick_Stairs_%28N%29_JE1_BE2.png",
@@ -4106,7 +4106,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Stone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Stairs_%28N%29_JE2_BE2.png/150px-Stone_Stairs_%28N%29_JE2_BE2.png",
@@ -4122,7 +4122,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Smooth Sandstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Sandstone_Stairs_%28N%29_JE4_BE2.png/150px-Smooth_Sandstone_Stairs_%28N%29_JE4_BE2.png",
@@ -4138,7 +4138,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Smooth Quartz Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Quartz_Stairs_%28N%29_JE2_BE1.png/150px-Smooth_Quartz_Stairs_%28N%29_JE2_BE1.png",
@@ -4154,7 +4154,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Granite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Granite_Stairs_%28N%29_JE1_BE1.png/150px-Granite_Stairs_%28N%29_JE1_BE1.png",
@@ -4170,7 +4170,7 @@
         "catches fire from lava": "No",
         "map color": "10 DIRT",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Andesite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Andesite_Stairs_%28N%29_JE2_BE1.png/150px-Andesite_Stairs_%28N%29_JE2_BE1.png",
@@ -4186,7 +4186,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Red Nether Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Red_Nether_Brick_Stairs_%28N%29_JE3_BE3.png/150px-Red_Nether_Brick_Stairs_%28N%29_JE3_BE3.png",
@@ -4202,7 +4202,7 @@
         "catches fire from lava": "No",
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Polished Andesite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Andesite_Stairs_%28N%29_JE2_BE1.png/150px-Polished_Andesite_Stairs_%28N%29_JE2_BE1.png",
@@ -4218,7 +4218,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Diorite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Diorite_Stairs_%28N%29_JE3_BE2.png/150px-Diorite_Stairs_%28N%29_JE3_BE2.png",
@@ -4234,7 +4234,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Polished Granite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Granite_Slab_JE1_BE1.png/150px-Polished_Granite_Slab_JE1_BE1.png",
@@ -4250,7 +4250,7 @@
         "catches fire from lava": "No",
         "map color": "10 DIRT",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Smooth Red Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Red_Sandstone_Slab_JE3_BE2.png/150px-Smooth_Red_Sandstone_Slab_JE3_BE2.png",
@@ -4266,7 +4266,7 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Mossy Stone Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Stone_Brick_Slab_JE2_BE2.png/150px-Mossy_Stone_Brick_Slab_JE2_BE2.png",
@@ -4282,7 +4282,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Polished Diorite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Diorite_Slab_JE2_BE2.png/150px-Polished_Diorite_Slab_JE2_BE2.png",
@@ -4298,7 +4298,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Mossy Cobblestone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_Slab_JE2_BE2.png/150px-Mossy_Cobblestone_Slab_JE2_BE2.png",
@@ -4314,7 +4314,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "End Stone Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/End_Stone_Brick_Slab_JE1_BE2.png/150px-End_Stone_Brick_Slab_JE1_BE2.png",
@@ -4330,7 +4330,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Smooth Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Sandstone_Slab_JE3_BE2.png/150px-Smooth_Sandstone_Slab_JE3_BE2.png",
@@ -4346,7 +4346,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Smooth Quartz Slab": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Quartz_Slab_JE2_BE2.png/150px-Smooth_Quartz_Slab_JE2_BE2.png",
@@ -4362,7 +4362,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Granite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Granite_Slab_JE1_BE1.png/150px-Granite_Slab_JE1_BE1.png",
@@ -4378,7 +4378,7 @@
         "catches fire from lava": "No",
         "map color": "10 DIRT",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Andesite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Andesite_Slab_JE2_BE2.png/150px-Andesite_Slab_JE2_BE2.png",
@@ -4394,7 +4394,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Red Nether Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Red_Nether_Brick_Slab_JE3_BE3.png/150px-Red_Nether_Brick_Slab_JE3_BE3.png",
@@ -4410,7 +4410,7 @@
         "catches fire from lava": "No",
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Polished Andesite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Andesite_Slab_JE2_BE2.png/150px-Polished_Andesite_Slab_JE2_BE2.png",
@@ -4426,7 +4426,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Diorite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Diorite_Slab_JE3_BE2.png/150px-Diorite_Slab_JE3_BE2.png",
@@ -4442,7 +4442,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Brick_Wall_%28ewU%29_JE1.png/150px-Brick_Wall_%28ewU%29_JE1.png",
@@ -4458,7 +4458,7 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Prismarine Wall": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Wall_%28ewU%29_JE1.png/150px-Prismarine_Wall_%28ewU%29_JE1.png",
@@ -4474,7 +4474,7 @@
         "catches fire from lava": "No",
         "map color": "23 COLOR_CYAN",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Red Sandstone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Red_Sandstone_Wall_%28ewU%29_JE2.png/150px-Red_Sandstone_Wall_%28ewU%29_JE2.png",
@@ -4490,7 +4490,7 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Mossy Stone Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Stone_Brick_Wall_%28ewU%29_JE2.png/150px-Mossy_Stone_Brick_Wall_%28ewU%29_JE2.png",
@@ -4506,7 +4506,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Granite Wall": {
         "image": "https://minecraft.wiki/images/thumb/Granite_Wall_%28ewU%29_JE1.png/150px-Granite_Wall_%28ewU%29_JE1.png",
@@ -4522,7 +4522,7 @@
         "catches fire from lava": "No",
         "map color": "10 DIRT",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Stone Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Brick_Wall_%28ewU%29_JE2.png/150px-Stone_Brick_Wall_%28ewU%29_JE2.png",
@@ -4538,7 +4538,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Nether Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Brick_Wall_%28ewU%29_JE3.png/150px-Nether_Brick_Wall_%28ewU%29_JE3.png",
@@ -4554,7 +4554,7 @@
         "catches fire from lava": "No",
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Andesite Wall": {
         "image": "https://minecraft.wiki/images/thumb/Andesite_Wall_%28ewU%29_JE2.png/150px-Andesite_Wall_%28ewU%29_JE2.png",
@@ -4570,7 +4570,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Red Nether Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Red_Nether_Brick_Wall_%28ewU%29_JE3.png/150px-Red_Nether_Brick_Wall_%28ewU%29_JE3.png",
@@ -4586,7 +4586,7 @@
         "catches fire from lava": "No",
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Sandstone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Sandstone_Wall_%28ewU%29_JE2.png/150px-Sandstone_Wall_%28ewU%29_JE2.png",
@@ -4602,7 +4602,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "End Stone Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/End_Stone_Brick_Wall_%28ewU%29_JE1.png/150px-End_Stone_Brick_Wall_%28ewU%29_JE1.png",
@@ -4618,7 +4618,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Diorite Wall": {
         "image": "https://minecraft.wiki/images/thumb/Diorite_Wall_%28ewU%29_JE3.png/150px-Diorite_Wall_%28ewU%29_JE3.png",
@@ -4634,7 +4634,7 @@
         "catches fire from lava": "No",
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Cornflower": {
         "image": "https://minecraft.wiki/images/thumb/Cornflower_JE1_BE1.png/150px-Cornflower_JE1_BE1.png",
@@ -4649,7 +4649,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Lily of the Valley": {
         "image": "https://minecraft.wiki/images/thumb/Lily_of_the_Valley_JE1_BE1.png/150px-Lily_of_the_Valley_JE1_BE1.png",
@@ -4664,7 +4664,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Wither Rose": {
         "image": "https://minecraft.wiki/images/thumb/Wither_Rose_JE1_BE3.png/150px-Wither_Rose_JE1_BE3.png",
@@ -4679,7 +4679,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Loom": {
         "image": "https://minecraft.wiki/images/thumb/Loom_%28S%29_JE1_BE1.png/150px-Loom_%28S%29_JE1_BE1.png",
@@ -4694,7 +4694,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Bamboo": {
         "image": "https://minecraft.wiki/images/thumb/Leafless_Old_Bamboo_JE1_BE1.png/150px-Leafless_Old_Bamboo_JE1_BE1.png",
@@ -4709,7 +4709,7 @@
         "catches fire from lava": "Yes",
         "map color": "7 PLANT\n \n\u00a013 WOOD",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Barrel": {
         "image": "https://minecraft.wiki/images/thumb/Barrel_%28U%29_JE1_BE1.png/150px-Barrel_%28U%29_JE1_BE1.png",
@@ -4724,7 +4724,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Smoker": {
         "image": "https://minecraft.wiki/images/thumb/Smoker_%28S%29_JE2.png/150px-Smoker_%28S%29_JE2.png",
@@ -4739,7 +4739,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Blast Furnace": {
         "image": "https://minecraft.wiki/images/thumb/Blast_Furnace_%28S%29_JE1.png/150px-Blast_Furnace_%28S%29_JE1.png",
@@ -4754,7 +4754,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Cartography Table": {
         "image": "https://minecraft.wiki/images/thumb/Cartography_Table_JE3_BE2.png/150px-Cartography_Table_JE3_BE2.png",
@@ -4769,7 +4769,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Fletching Table": {
         "image": "https://minecraft.wiki/images/thumb/Fletching_Table_JE2_BE1.png/150px-Fletching_Table_JE2_BE1.png",
@@ -4784,7 +4784,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Grindstone": {
         "image": "https://minecraft.wiki/images/thumb/Grindstone_%28floor%29_%28N%29.png/150px-Grindstone_%28floor%29_%28N%29.png",
@@ -4799,7 +4799,7 @@
         "catches fire from lava": "No",
         "map color": "6 METAL",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Smithing Table": {
         "image": "https://minecraft.wiki/images/thumb/Smithing_Table_JE2_BE2.png/150px-Smithing_Table_JE2_BE2.png",
@@ -4814,7 +4814,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Stonecutter": {
         "image": "https://minecraft.wiki/images/thumb/Stonecutter_JE2_BE1.gif/150px-Stonecutter_JE2_BE1.gif",
@@ -4830,7 +4830,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Bell": {
         "image": "https://minecraft.wiki/images/thumb/Bell_%28N%29.png/150px-Bell_%28N%29.png",
@@ -4846,7 +4846,7 @@
         "catches fire from lava": "No",
         "map color": "30 GOLD",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Lectern": {
         "image": "https://minecraft.wiki/images/thumb/Lectern_%28S%29.png/150px-Lectern_%28S%29.png",
@@ -4862,7 +4862,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Scaffolding": {
         "image": "https://minecraft.wiki/images/thumb/Standing_Scaffolding_JE3.png/150px-Standing_Scaffolding_JE3.png",
@@ -4878,7 +4878,7 @@
         "catches fire from lava": "Yes",
         "map color": "2 SAND",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Lantern": {
         "image": "https://minecraft.wiki/images/thumb/Lantern_JE1_BE1.gif/150px-Lantern_JE1_BE1.gif",
@@ -4931,7 +4931,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Campfire": {
         "image": "https://minecraft.wiki/images/thumb/Campfire_%28S%29_JE2_BE2.gif/150px-Campfire_%28S%29_JE2_BE2.gif",
@@ -4947,7 +4947,7 @@
         "catches fire from lava": "Yes",
         "map color": "34 PODZOL",
         "note block instrument": "Bass",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Composter": {
         "image": "https://minecraft.wiki/images/thumb/Composter_JE1.png/150px-Composter_JE1.png",
@@ -4963,7 +4963,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Cut Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Sandstone_Slab_JE1_BE1.png/150px-Cut_Sandstone_Slab_JE1_BE1.png",
@@ -4979,7 +4979,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Cut Red Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Red_Sandstone_Slab_JE1_BE1.png/150px-Cut_Red_Sandstone_Slab_JE1_BE1.png",
@@ -4995,7 +4995,7 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Bee Nest": {
         "image": "https://minecraft.wiki/images/thumb/Bee_Nest_%28S%29_JE1.png/150px-Bee_Nest_%28S%29_JE1.png",
@@ -5010,7 +5010,7 @@
         "catches fire from lava": "Yes",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass",
-        "version": "1.15.0"
+        "version": "1.15"
     },
     "Beehive": {
         "image": "https://minecraft.wiki/images/thumb/Beehive_%28S%29_JE1.png/150px-Beehive_%28S%29_JE1.png",
@@ -5025,7 +5025,7 @@
         "catches fire from lava": "Yes",
         "map color": "13 WOOD",
         "note block instrument": "Bass",
-        "version": "1.15.0"
+        "version": "1.15"
     },
     "Honey Block": {
         "image": "https://minecraft.wiki/images/thumb/Honey_Block_JE1_BE2.png/150px-Honey_Block_JE1_BE2.png",
@@ -5041,7 +5041,7 @@
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Fast Flat",
-        "version": "1.15.0"
+        "version": "1.15"
     },
     "Honeycomb Block": {
         "image": "https://minecraft.wiki/images/thumb/Honeycomb_Block_JE1_BE1.png/150px-Honeycomb_Block_JE1_BE1.png",
@@ -5057,7 +5057,7 @@
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Default (Harp)\nFlute",
         "sulfur cube archetype": "Sticky",
-        "version": "1.15.0"
+        "version": "1.15"
     },
     "Crimson Nylium": {
         "image": "https://minecraft.wiki/images/thumb/Crimson_Nylium_JE1_BE1.png/150px-Crimson_Nylium_JE1_BE1.png",
@@ -5073,7 +5073,7 @@
         "map color": "52 CRIMSON_NYLIUM",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Warped Nylium": {
         "image": "https://minecraft.wiki/images/thumb/Warped_Nylium_JE1_BE1.png/150px-Warped_Nylium_JE1_BE1.png",
@@ -5089,7 +5089,7 @@
         "map color": "55 WARPED_NYLIUM",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Soul Soil": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Soil_JE1_BE1.png/150px-Soul_Soil_JE1_BE1.png",
@@ -5105,7 +5105,7 @@
         "map color": "26 COLOR_BROWN",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "High Resistance",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Basalt": {
         "image": "https://minecraft.wiki/images/thumb/Basalt_%28UD%29_JE1_BE1.png/150px-Basalt_%28UD%29_JE1_BE1.png",
@@ -5121,7 +5121,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Warped Wart Block": {
         "image": "https://minecraft.wiki/images/thumb/Warped_Wart_Block_JE1_BE1.png/160px-Warped_Wart_Block_JE1_BE1.png",
@@ -5137,7 +5137,7 @@
         "map color": "58 WARPED_WART_BLOCK",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Slow Sliding",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Block of Netherite": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Netherite_JE1_BE1.png/150px-Block_of_Netherite_JE1_BE1.png",
@@ -5153,7 +5153,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Slow Flat",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Ancient Debris": {
         "image": "https://minecraft.wiki/images/thumb/Ancient_Debris_JE1_BE1.png/150px-Ancient_Debris_JE1_BE1.png",
@@ -5170,7 +5170,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Slow Flat\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Crimson Fungus": {
         "image": "https://minecraft.wiki/images/thumb/Crimson_Fungus_JE1_BE1.png/150px-Crimson_Fungus_JE1_BE1.png",
@@ -5185,7 +5185,7 @@
         "catches fire from lava": "No",
         "map color": "35 NETHER",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Warped Fungus": {
         "image": "https://minecraft.wiki/images/thumb/Warped_Fungus_JE1_BE1.png/150px-Warped_Fungus_JE1_BE1.png",
@@ -5200,7 +5200,7 @@
         "catches fire from lava": "No",
         "map color": "23 COLOR_CYAN",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Crimson Roots": {
         "image": "https://minecraft.wiki/images/thumb/Crimson_Roots_JE1_BE1.png/150px-Crimson_Roots_JE1_BE1.png",
@@ -5216,7 +5216,7 @@
         "catches fire from lava": "Yes",
         "map color": "35 NETHER",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Warped Roots": {
         "image": "https://minecraft.wiki/images/thumb/Warped_Roots_JE1_BE1.png/150px-Warped_Roots_JE1_BE1.png",
@@ -5232,7 +5232,7 @@
         "catches fire from lava": "Yes",
         "map color": "23 COLOR_CYAN",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Nether Sprouts": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Sprouts_JE2_BE2.png/150px-Nether_Sprouts_JE2_BE2.png",
@@ -5247,7 +5247,7 @@
         "catches fire from lava": "Yes",
         "map color": "23 COLOR_CYAN",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Weeping Vines": {
         "image": "https://minecraft.wiki/images/thumb/Weeping_Vines_Plant_JE1.png/150px-Weeping_Vines_Plant_JE1.png",
@@ -5262,7 +5262,7 @@
         "catches fire from lava": "No",
         "map color": "35 NETHER",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Soul Torch": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Torch.gif/150px-Soul_Torch.gif",
@@ -5277,7 +5277,7 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Soul Lantern": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Lantern_JE2_BE1.gif/150px-Soul_Lantern_JE2_BE1.gif",
@@ -5293,7 +5293,7 @@
         "catches fire from lava": "No",
         "map color": "6 METAL",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Shroomlight": {
         "image": "https://minecraft.wiki/images/thumb/Shroomlight_JE1.png/150px-Shroomlight_JE1.png",
@@ -5309,7 +5309,7 @@
         "map color": "28 COLOR_RED",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Slow Sliding",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Soul Fire": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Fire_JE1.gif/150px-Soul_Fire_JE1.gif",
@@ -5324,7 +5324,7 @@
         "catches fire from lava": "No",
         "map color": "17 COLOR_LIGHT_BLUE",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Crying Obsidian": {
         "image": "https://minecraft.wiki/images/thumb/Crying_Obsidian_JE1_BE1.png/150px-Crying_Obsidian_JE1_BE1.png",
@@ -5340,7 +5340,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Target": {
         "image": "https://minecraft.wiki/images/thumb/Target_JE1_BE1.png/150px-Target_JE1_BE1.png",
@@ -5355,7 +5355,7 @@
         "catches fire from lava": "JE: Yes\nBE: No",
         "map color": "14 QUARTZ",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Nether Gold Ore": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Gold_Ore_JE2_BE1.png/150px-Nether_Gold_Ore_JE2_BE1.png",
@@ -5371,7 +5371,7 @@
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Flat",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Twisting Vines": {
         "image": "https://minecraft.wiki/images/thumb/Twisting_Vines_JE1_BE1.png/150px-Twisting_Vines_JE1_BE1.png",
@@ -5386,7 +5386,7 @@
         "catches fire from lava": "No",
         "map color": "23 COLOR_CYAN",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Basalt": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Basalt_%28UD%29_JE1_BE1.png/150px-Polished_Basalt_%28UD%29_JE1_BE1.png",
@@ -5402,7 +5402,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Respawn Anchor": {
         "image": "https://minecraft.wiki/images/thumb/Respawn_Anchor_%280%29_JE1.png/150px-Respawn_Anchor_%280%29_JE1.png",
@@ -5417,7 +5417,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Lodestone": {
         "image": "https://minecraft.wiki/images/thumb/Lodestone_JE1_BE1.png/150px-Lodestone_JE1_BE1.png",
@@ -5432,7 +5432,7 @@
         "catches fire from lava": "No",
         "map color": "6 METAL\u200c\n\n\u00a08 SNOW\u200c",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Cracked Nether Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Cracked_Nether_Bricks_JE2_BE2.png/150px-Cracked_Nether_Bricks_JE2_BE2.png",
@@ -5447,7 +5447,7 @@
         "catches fire from lava": "No",
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Chiseled Nether Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Nether_Bricks_JE3_BE3.png/150px-Chiseled_Nether_Bricks_JE3_BE3.png",
@@ -5462,7 +5462,7 @@
         "catches fire from lava": "No",
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Quartz Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Quartz_Bricks_JE2.png/150px-Quartz_Bricks_JE2.png",
@@ -5478,7 +5478,7 @@
         "map color": "14 QUARTZ",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Blackstone": {
         "image": "https://minecraft.wiki/images/thumb/Blackstone_JE3_BE2.png/150px-Blackstone_JE3_BE2.png",
@@ -5494,7 +5494,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Blackstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Blackstone_Slab_JE3.png/150px-Blackstone_Slab_JE3.png",
@@ -5510,7 +5510,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Blackstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Blackstone_Stairs_JE3.png/150px-Blackstone_Stairs_JE3.png",
@@ -5526,7 +5526,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Blackstone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Blackstone_Wall_%28ewU%29_JE3.png/150px-Blackstone_Wall_%28ewU%29_JE3.png",
@@ -5542,7 +5542,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Gilded Blackstone": {
         "image": "https://minecraft.wiki/images/thumb/Gilded_Blackstone_JE2_BE2.png/150px-Gilded_Blackstone_JE2_BE2.png",
@@ -5558,7 +5558,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_JE1_BE1.png/150px-Polished_Blackstone_JE1_BE1.png",
@@ -5574,7 +5574,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Slab_JE1_BE1.png/150px-Polished_Blackstone_Slab_JE1_BE1.png",
@@ -5590,7 +5590,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Stairs_%28N%29_JE1_BE1.png/150px-Polished_Blackstone_Stairs_%28N%29_JE1_BE1.png",
@@ -5606,7 +5606,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Wall_%28ewU%29_JE1.png/150px-Polished_Blackstone_Wall_%28ewU%29_JE1.png",
@@ -5622,7 +5622,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Chiseled Polished Blackstone": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Polished_Blackstone_JE1_BE1.png/150px-Chiseled_Polished_Blackstone_JE1_BE1.png",
@@ -5637,7 +5637,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Bricks_JE2_BE2.png/150px-Polished_Blackstone_Bricks_JE2_BE2.png",
@@ -5652,7 +5652,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Brick_Slab_JE1_BE1.png/150px-Polished_Blackstone_Brick_Slab_JE1_BE1.png",
@@ -5668,7 +5668,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Brick_Stairs_%28N%29_JE1_BE1.png/150px-Polished_Blackstone_Brick_Stairs_%28N%29_JE1_BE1.png",
@@ -5684,7 +5684,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Brick_Wall_%28ewU%29_JE2.png/150px-Polished_Blackstone_Brick_Wall_%28ewU%29_JE2.png",
@@ -5700,7 +5700,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Cracked Polished Blackstone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Cracked_Polished_Blackstone_Bricks_JE2_BE2.png/150px-Cracked_Polished_Blackstone_Bricks_JE2_BE2.png",
@@ -5715,7 +5715,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Soul Campfire": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Campfire_JE1_BE1.gif/150px-Soul_Campfire_JE1_BE1.gif",
@@ -5731,7 +5731,7 @@
         "catches fire from lava": "Yes",
         "map color": "34 PODZOL",
         "note block instrument": "Bass",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone Button": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Button_JE2.png/150px-Polished_Blackstone_Button_JE2.png",
@@ -5747,7 +5747,7 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Default (Harp)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Polished Blackstone Pressure Plate": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Pressure_Plate_JE1_BE1.png/150px-Polished_Blackstone_Pressure_Plate_JE1_BE1.png",
@@ -5763,7 +5763,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Iron Chain": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Chain_%28UD%29_JE2.png/150px-Iron_Chain_%28UD%29_JE2.png",
@@ -5779,7 +5779,7 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.16"
     },
     "Calcite": {
         "image": "https://minecraft.wiki/images/thumb/Calcite_JE4_BE1.png/150px-Calcite_JE4_BE1.png",
@@ -5795,7 +5795,7 @@
         "map color": "36 TERRACOTTA_WHITE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Tuff": {
         "image": "https://minecraft.wiki/images/thumb/Tuff.png/150px-Tuff.png",
@@ -5811,7 +5811,7 @@
         "map color": "43 TERRACOTTA_GRAY",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Copper Ore": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Ore_JE2_BE2.png/150px-Copper_Ore_JE2_BE2.png",
@@ -5827,7 +5827,7 @@
         "map color": "11 STONE\n \n\u00a059 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Flat",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Tinted Glass": {
         "image": "https://minecraft.wiki/images/thumb/Tinted_Glass_JE2_BE1.png/150px-Tinted_Glass_JE2_BE1.png",
@@ -5842,7 +5842,7 @@
         "catches fire from lava": "No",
         "map color": "21 COLOR_GRAY",
         "note block instrument": "Hat",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Block of Amethyst": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Amethyst_JE3_BE1.png/150px-Block_of_Amethyst_JE3_BE1.png",
@@ -5859,7 +5859,7 @@
         "map color": "24 COLOR_PURPLE",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Budding Amethyst": {
         "image": "https://minecraft.wiki/images/thumb/Budding_Amethyst_JE3_BE1.png/150px-Budding_Amethyst_JE3_BE1.png",
@@ -5874,7 +5874,7 @@
         "catches fire from lava": "No",
         "map color": "24 COLOR_PURPLE",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Block of Copper": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Copper_JE1_BE1.png/150px-Block_of_Copper_JE1_BE1.png",
@@ -5890,7 +5890,7 @@
         "map color": "15 COLOR_ORANGE\n \n\u00a044 TERRACOTTA_LIGHT_GRAY\n \n\u00a056 WARPED_STEM\n \n\u00a055 WARPED_NYLIUM",
         "note block instrument": "Harp\n Exposed Trumpet\n Weathered Trumpet\n Oxidized Trumpet",
         "sulfur cube archetype": "Slow Flat",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Cut Copper": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Copper_JE2_BE1.png/150px-Cut_Copper_JE2_BE1.png",
@@ -5906,7 +5906,7 @@
         "map color": "15 COLOR_ORANGE\n \n\u00a044 TERRACOTTA_LIGHT_GRAY\n \n\u00a056 WARPED_STEM\n \n\u00a055 WARPED_NYLIUM",
         "note block instrument": "Trumpet",
         "sulfur cube archetype": "Slow Flat",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Cut Copper Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Copper_Stairs_%28N%29_JE2_BE1.png/150px-Cut_Copper_Stairs_%28N%29_JE2_BE1.png",
@@ -5922,7 +5922,7 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE\n \n\u00a044 TERRACOTTA_LIGHT_GRAY\n \n\u00a056 WARPED_STEM\n \n\u00a055 WARPED_NYLIUM",
         "note block instrument": "Trumpet",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Cut Copper Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Copper_Slab_JE2_BE1.png/150px-Cut_Copper_Slab_JE2_BE1.png",
@@ -5938,7 +5938,7 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE\n \n\u00a044 TERRACOTTA_LIGHT_GRAY\n \n\u00a056 WARPED_STEM\n \n\u00a055 WARPED_NYLIUM",
         "note block instrument": "Trumpet",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Candle": {
         "image": "https://minecraft.wiki/images/thumb/Candle_JE1.png/150px-Candle_JE1.png",
@@ -5955,7 +5955,7 @@
         "catches fire from lava": "No",
         "map color": "Varies\n \n\u00a02 SAND\n\n \n\u00a08 SNOW\n\n \n\u00a022 COLOR_LIGHT_GRAY\n\n \n\u00a021 COLOR_GRAY\n\n \n\u00a029 COLOR_BLACK\n\n \n\u00a026 COLOR_BROWN\n\n \n\u00a028 COLOR_RED\n\n \n\u00a015 COLOR_ORANGE\n\n \n\u00a018 COLOR_YELLOW\n\n \n\u00a019 COLOR_LIGHT_GREEN\n\n \n\u00a027 COLOR_GREEN\n\n \n\u00a023 COLOR_CYAN\n\n \n\u00a017 COLOR_LIGHT_BLUE\n\n \n\u00a025 COLOR_BLUE\n\n \n\u00a024 COLOR_PURPLE\n\n \n\u00a016 COLOR_MAGENTA\n\n \n\u00a020 COLOR_PINK",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Amethyst Cluster": {
         "image": "https://minecraft.wiki/images/thumb/Small_Amethyst_Bud_%28U%29_JE1_BE2.png/150px-Small_Amethyst_Bud_%28U%29_JE1_BE2.png",
@@ -5971,7 +5971,7 @@
         "catches fire from lava": "No",
         "map color": "24 COLOR_PURPLE",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Lightning Rod": {
         "image": "https://minecraft.wiki/images/thumb/Lightning_Rod_%28U%29_JE3.png/150px-Lightning_Rod_%28U%29_JE3.png",
@@ -5987,7 +5987,7 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE\n \n\u00a044 TERRACOTTA_LIGHT_GRAY\n \n\u00a056 WARPED_STEM\n \n\u00a055 WARPED_NYLIUM",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Powder Snow": {
         "image": "https://minecraft.wiki/images/thumb/Powder_Snow_JE1_BE1.png/150px-Powder_Snow_JE1_BE1.png",
@@ -6002,7 +6002,7 @@
         "catches fire from lava": "No",
         "map color": "8 SNOW",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Dripstone Block": {
         "image": "https://minecraft.wiki/images/thumb/Dripstone_Block_JE1_BE1.png/150px-Dripstone_Block_JE1_BE1.png",
@@ -6018,7 +6018,7 @@
         "map color": "48 TERRACOTTA_BROWN",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Pointed Dripstone": {
         "image": "https://minecraft.wiki/images/thumb/Pointed_Dripstone_Base_%28D%29_JE1_BE1.png/150px-Pointed_Dripstone_Base_%28D%29_JE1_BE1.png",
@@ -6034,7 +6034,7 @@
         "catches fire from lava": "No",
         "map color": "48 TERRACOTTA_BROWN\u200c\n\n\u00a00 NONE\u200c",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Sculk Sensor": {
         "image": "https://minecraft.wiki/images/thumb/Sculk_Sensor_JE1.gif/150px-Sculk_Sensor_JE1.gif",
@@ -6050,7 +6050,7 @@
         "catches fire from lava": "No",
         "map color": "23 COLOR_CYAN\u200c\n\n\u00a029 COLOR_BLACK\u200c",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Glow Lichen": {
         "image": "https://minecraft.wiki/images/thumb/Glow_Lichen_%28D%29_JE2.png/150px-Glow_Lichen_%28D%29_JE2.png",
@@ -6066,7 +6066,7 @@
         "catches fire from lava": "Yes",
         "map color": "61 GLOW_LICHEN",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Azalea": {
         "image": "https://minecraft.wiki/images/thumb/Azalea_JE2_BE2.png/150px-Azalea_JE2_BE2.png",
@@ -6083,7 +6083,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Flowering Azalea": {
         "image": "https://minecraft.wiki/images/thumb/Flowering_Azalea_JE2_BE2.png/150px-Flowering_Azalea_JE2_BE2.png",
@@ -6100,7 +6100,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Spore Blossom": {
         "image": "https://minecraft.wiki/images/thumb/Spore_Blossom_JE1.png/150px-Spore_Blossom_JE1.png",
@@ -6115,7 +6115,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Moss Carpet": {
         "image": "https://minecraft.wiki/images/thumb/Moss_Carpet.png/150px-Moss_Carpet.png",
@@ -6130,7 +6130,7 @@
         "catches fire from lava": "No",
         "map color": "27 COLOR_GREEN",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Moss Block": {
         "image": "https://minecraft.wiki/images/thumb/Moss_Block_JE1_BE1.png/150px-Moss_Block_JE1_BE1.png",
@@ -6147,7 +6147,7 @@
         "map color": "27 COLOR_GREEN",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Fast Flat",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Rooted Dirt": {
         "image": "https://minecraft.wiki/images/thumb/Rooted_Dirt_JE1_BE1.png/150px-Rooted_Dirt_JE1_BE1.png",
@@ -6164,7 +6164,7 @@
         "map color": "10 DIRT",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Regular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Hanging Roots": {
         "image": "https://minecraft.wiki/images/thumb/Hanging_Roots_JE2_BE2.png/150px-Hanging_Roots_JE2_BE2.png",
@@ -6181,7 +6181,7 @@
         "catches fire from lava": "Yes",
         "map color": "10 DIRT\u200c\n\n\u00a07 PLANT\u200c",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Big Dripleaf": {
         "image": "https://minecraft.wiki/images/thumb/Big_Dripleaf_%28S%29_JE2.png/150px-Big_Dripleaf_%28S%29_JE2.png",
@@ -6198,7 +6198,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Small Dripleaf": {
         "image": "https://minecraft.wiki/images/thumb/Small_Dripleaf_%28two_blocks_tall%29_%28E%29_JE4.png/150px-Small_Dripleaf_%28two_blocks_tall%29_%28E%29_JE4.png",
@@ -6214,7 +6214,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Glow Berries": {
         "image": "https://minecraft.wiki/images/thumb/Cave_Vines_%28head%29_JE1_BE1.png/150px-Cave_Vines_%28head%29_JE1_BE1.png",
@@ -6234,7 +6234,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Deepslate": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_%28UD%29_JE3_BE2.png/150px-Deepslate_%28UD%29_JE3_BE2.png",
@@ -6251,7 +6251,7 @@
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Polished Deepslate": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Deepslate_JE2_BE1.png/150px-Polished_Deepslate_JE2_BE1.png",
@@ -6268,7 +6268,7 @@
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Deepslate Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Bricks_JE2_BE1.png/150px-Deepslate_Bricks_JE2_BE1.png",
@@ -6284,7 +6284,7 @@
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Deepslate Tiles": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Tiles_JE2_BE1.png/150px-Deepslate_Tiles_JE2_BE1.png",
@@ -6300,7 +6300,7 @@
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Chiseled Deepslate": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Deepslate_JE2_BE1.png/150px-Chiseled_Deepslate_JE2_BE1.png",
@@ -6316,7 +6316,7 @@
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Cobbled Deepslate Wall": {
         "image": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate_Wall_%28ewU%29_JE3.png/150px-Cobbled_Deepslate_Wall_%28ewU%29_JE3.png",
@@ -6332,7 +6332,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Polished Deepslate Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Deepslate_Wall_%28ewU%29_JE2.png/150px-Polished_Deepslate_Wall_%28ewU%29_JE2.png",
@@ -6348,7 +6348,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Deepslate Tile Wall": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Tile_Wall_%28ewU%29_JE2.png/150px-Deepslate_Tile_Wall_%28ewU%29_JE2.png",
@@ -6364,7 +6364,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Deepslate Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Brick_Wall_%28ewU%29_JE2.png/150px-Deepslate_Brick_Wall_%28ewU%29_JE2.png",
@@ -6380,7 +6380,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Cobbled Deepslate Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate_Stairs_JE3_BE1.png/150px-Cobbled_Deepslate_Stairs_JE3_BE1.png",
@@ -6396,7 +6396,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Polished Deepslate Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Deepslate_Stairs_JE2.png/150px-Polished_Deepslate_Stairs_JE2.png",
@@ -6412,7 +6412,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Deepslate Tile Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Tile_Stairs_JE2_BE1.png/150px-Deepslate_Tile_Stairs_JE2_BE1.png",
@@ -6428,7 +6428,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Deepslate Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Brick_Stairs_JE2.png/150px-Deepslate_Brick_Stairs_JE2.png",
@@ -6444,7 +6444,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Cobbled Deepslate Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate_Slab_JE3_BE1.png/150px-Cobbled_Deepslate_Slab_JE3_BE1.png",
@@ -6460,7 +6460,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Polished Deepslate Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Deepslate_Slab_JE2.png/150px-Polished_Deepslate_Slab_JE2.png",
@@ -6476,7 +6476,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Deepslate Tile Slab": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Tile_Slab_JE2.png/150px-Deepslate_Tile_Slab_JE2.png",
@@ -6492,7 +6492,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Deepslate Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Brick_Slab_JE2.png/150px-Deepslate_Brick_Slab_JE2.png",
@@ -6508,7 +6508,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Cobbled Deepslate": {
         "image": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate.png/150px-Cobbled_Deepslate.png",
@@ -6525,7 +6525,7 @@
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Smooth Basalt": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Basalt_JE1_BE1.png/150px-Smooth_Basalt_JE1_BE1.png",
@@ -6541,7 +6541,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Cracked Deepslate Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Cracked_Deepslate_Bricks_JE1_BE1.png/150px-Cracked_Deepslate_Bricks_JE1_BE1.png",
@@ -6556,7 +6556,7 @@
         "catches fire from lava": "No",
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Cracked Deepslate Tiles": {
         "image": "https://minecraft.wiki/images/thumb/Cracked_Deepslate_Tiles_JE1_BE1.png/150px-Cracked_Deepslate_Tiles_JE1_BE1.png",
@@ -6572,7 +6572,10 @@
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17.0"
+        "version": "1.17"
+    },
+    "Light": {
+        "version": "1.17"
     },
     "Block of Raw Iron": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Raw_Iron_JE3_BE2.png/150px-Block_of_Raw_Iron_JE3_BE2.png",
@@ -6588,7 +6591,7 @@
         "map color": "60 RAW_IRON",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Flat",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Block of Raw Copper": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Raw_Copper_JE2_BE2.png/150px-Block_of_Raw_Copper_JE2_BE2.png",
@@ -6604,7 +6607,7 @@
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Flat",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Block of Raw Gold": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Raw_Gold_JE3_BE2.png/150px-Block_of_Raw_Gold_JE3_BE2.png",
@@ -6620,7 +6623,7 @@
         "map color": "30 GOLD",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Flat",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Reinforced Deepslate": {
         "image": "https://minecraft.wiki/images/thumb/Reinforced_Deepslate_JE1_BE1.png/150px-Reinforced_Deepslate_JE1_BE1.png",
@@ -6636,7 +6639,7 @@
         "map color": "59 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Regular",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Sculk": {
         "image": "https://minecraft.wiki/images/thumb/Sculk_JE1_BE1.gif/150px-Sculk_JE1_BE1.gif",
@@ -6652,7 +6655,7 @@
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Fast Flat",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Sculk Vein": {
         "image": "https://minecraft.wiki/images/thumb/Sculk_Vein_JE1_BE1.gif/150px-Sculk_Vein_JE1_BE1.gif",
@@ -6668,7 +6671,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Default (Harp)",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Sculk Catalyst": {
         "image": "https://minecraft.wiki/images/thumb/Sculk_Catalyst_JE1.png/150px-Sculk_Catalyst_JE1.png",
@@ -6683,7 +6686,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Default (Harp)",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Sculk Shrieker": {
         "image": "https://minecraft.wiki/images/thumb/Sculk_Shrieker_JE2_BE3.gif/150px-Sculk_Shrieker_JE2_BE3.gif",
@@ -6699,7 +6702,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Default (Harp)",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Mud": {
         "image": "https://minecraft.wiki/images/thumb/Mud_JE1_BE1.png/150px-Mud_JE1_BE1.png",
@@ -6715,7 +6718,7 @@
         "map color": "45 TERRACOTTA_CYAN",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Regular",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Mangrove Roots": {
         "image": "https://minecraft.wiki/images/thumb/Mangrove_Roots_JE2.png/150px-Mangrove_Roots_JE2.png",
@@ -6731,7 +6734,7 @@
         "catches fire from lava": "Yes",
         "map color": "34 PODZOL",
         "note block instrument": "Bass",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Muddy Mangrove Roots": {
         "image": "https://minecraft.wiki/images/thumb/Muddy_Mangrove_Roots_JE1_BE1.png/150px-Muddy_Mangrove_Roots_JE1_BE1.png",
@@ -6747,7 +6750,7 @@
         "map color": "34 PODZOL",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Regular",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Mud Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Mud_Brick_Slab_JE1_BE1.png/150px-Mud_Brick_Slab_JE1_BE1.png",
@@ -6763,7 +6766,7 @@
         "catches fire from lava": "No",
         "map color": "44 TERRACOTTA_LIGHT_GRAY",
         "note block instrument": "Bass Drum",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Packed Mud": {
         "image": "https://minecraft.wiki/images/thumb/Packed_Mud_JE1_BE1.png/150px-Packed_Mud_JE1_BE1.png",
@@ -6779,7 +6782,7 @@
         "map color": "10 DIRT",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Regular",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Mud Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Mud_Bricks_JE1_BE1.png/150px-Mud_Bricks_JE1_BE1.png",
@@ -6795,7 +6798,7 @@
         "map color": "44 TERRACOTTA_LIGHT_GRAY",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Mud Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Mud_Brick_Stairs_JE1_BE1.png/150px-Mud_Brick_Stairs_JE1_BE1.png",
@@ -6811,7 +6814,7 @@
         "catches fire from lava": "No",
         "map color": "44 TERRACOTTA_LIGHT_GRAY",
         "note block instrument": "Bass Drum",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Mangrove Propagule": {
         "image": "https://minecraft.wiki/images/thumb/Mangrove_Propagule_JE1_BE1.png/150px-Mangrove_Propagule_JE1_BE1.png",
@@ -6826,7 +6829,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Mud Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Mud_Brick_Wall_%28ewU%29_JE1.png/150px-Mud_Brick_Wall_%28ewU%29_JE1.png",
@@ -6842,7 +6845,7 @@
         "catches fire from lava": "No",
         "map color": "44 TERRACOTTA_LIGHT_GRAY",
         "note block instrument": "Bass Drum",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Froglight": {
         "image": "https://minecraft.wiki/images/thumb/Pearlescent_Froglight_%28UD%29_JE1.png/150px-Pearlescent_Froglight_%28UD%29_JE1.png",
@@ -6859,7 +6862,7 @@
         "map color": "Pearlescent:\n\n\u00a020 COLOR_PINK\n\nVerdant:\n\n\u00a061 GLOW_LICHEN\n\nOchre:\n\n\u00a02 SAND",
         "note block instrument": "Default (Harp)",
         "sulfur cube archetype": "Fast Flat",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Frogspawn": {
         "image": "https://minecraft.wiki/images/thumb/Frogspawn_JE2.png/150px-Frogspawn_JE2.png",
@@ -6874,7 +6877,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Default (Harp)",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Bamboo Mosaic": {
         "image": "https://minecraft.wiki/images/thumb/Bamboo_Mosaic_JE1_BE1.png/150px-Bamboo_Mosaic_JE1_BE1.png",
@@ -7095,7 +7098,7 @@
         "catches fire from lava": "Yes",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Pitcher Pod": {
         "image": "https://minecraft.wiki/images/thumb/Pitcher_Crop_Age_0_JE1_BE1.png/150px-Pitcher_Crop_Age_0_JE1_BE1.png",
@@ -7110,7 +7113,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Sniffer Egg": {
         "image": "https://minecraft.wiki/images/thumb/Sniffer_Egg_JE1_BE1.png/150px-Sniffer_Egg_JE1_BE1.png",
@@ -7126,7 +7129,7 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Default (Harp)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Suspicious Gravel": {
         "image": "https://minecraft.wiki/images/thumb/Suspicious_Gravel_JE1_BE1_%28dusted_0%29.png/150px-Suspicious_Gravel_JE1_BE1_%28dusted_0%29.png",
@@ -7142,7 +7145,7 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Snare Drum",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Calibrated Sculk Sensor": {
         "image": "https://minecraft.wiki/images/thumb/Calibrated_Sculk_Sensor_JE2.gif/150px-Calibrated_Sculk_Sensor_JE2.gif",
@@ -7158,7 +7161,7 @@
         "catches fire from lava": "No",
         "map color": "23 COLOR_CYAN",
         "note block instrument": "Default (Harp)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Crafter": {
         "image": "https://minecraft.wiki/images/thumb/Crafter_JE4_BE3.png/150px-Crafter_JE4_BE3.png",
@@ -7997,7 +8000,7 @@
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Cinnabar Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Stairs_%28N%29_JE1_BE1.png/150px-Cinnabar_Stairs_%28N%29_JE1_BE1.png",
@@ -8013,7 +8016,7 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Cinnabar Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Slab_JE1_BE1.png/150px-Cinnabar_Slab_JE1_BE1.png",
@@ -8029,7 +8032,7 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Cinnabar Wall": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Wall_%28ewU%29_JE1.png/150px-Cinnabar_Wall_%28ewU%29_JE1.png",
@@ -8045,10 +8048,10 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Polished Cinnabar": {
-        "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_JE2.png/150px-Polished_Cinnabar_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_JE2_BE2.png/150px-Polished_Cinnabar_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8061,10 +8064,10 @@
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Polished Cinnabar Stairs": {
-        "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Stairs_%28N%29_JE2.png/150px-Polished_Cinnabar_Stairs_%28N%29_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Stairs_%28N%29_JE2_BE2.png/150px-Polished_Cinnabar_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8077,10 +8080,10 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Polished Cinnabar Slab": {
-        "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Slab_JE2.png/150px-Polished_Cinnabar_Slab_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Slab_JE2_BE2.png/150px-Polished_Cinnabar_Slab_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8093,7 +8096,7 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Polished Cinnabar Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Wall_%28ewU%29_JE2.png/150px-Polished_Cinnabar_Wall_%28ewU%29_JE2.png",
@@ -8109,10 +8112,10 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Cinnabar Bricks": {
-        "image": "https://minecraft.wiki/images/thumb/Cinnabar_Bricks_JE2.png/150px-Cinnabar_Bricks_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Cinnabar_Bricks_JE2_BE2.png/150px-Cinnabar_Bricks_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8125,10 +8128,10 @@
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Cinnabar Brick Stairs": {
-        "image": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Stairs_%28N%29_JE2.png/150px-Cinnabar_Brick_Stairs_%28N%29_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Stairs_%28N%29_JE2_BE2.png/150px-Cinnabar_Brick_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8141,10 +8144,10 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Cinnabar Brick Slab": {
-        "image": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Slab_JE2.png/150px-Cinnabar_Brick_Slab_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Slab_JE2_BE2.png/150px-Cinnabar_Brick_Slab_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8157,7 +8160,7 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Cinnabar Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Wall_%28ewU%29_JE2.png/150px-Cinnabar_Brick_Wall_%28ewU%29_JE2.png",
@@ -8173,10 +8176,10 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Chiseled Cinnabar": {
-        "image": "https://minecraft.wiki/images/thumb/Chiseled_Cinnabar_JE2.png/150px-Chiseled_Cinnabar_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Chiseled_Cinnabar_JE2_BE2.png/150px-Chiseled_Cinnabar_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8189,7 +8192,7 @@
         "map color": "28 COLOR_RED",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Sulfur": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_JE1_BE1.png/150px-Sulfur_JE1_BE1.png",
@@ -8205,7 +8208,7 @@
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Sulfur Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Stairs_%28N%29_JE1_BE1.png/150px-Sulfur_Stairs_%28N%29_JE1_BE1.png",
@@ -8221,7 +8224,7 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Sulfur Slab": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Slab_JE1_BE1.png/150px-Sulfur_Slab_JE1_BE1.png",
@@ -8237,7 +8240,7 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Sulfur Wall": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Wall_%28ewU%29_BE1.png/150px-Sulfur_Wall_%28ewU%29_BE1.png",
@@ -8253,10 +8256,10 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Polished Sulfur": {
-        "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_JE2.png/150px-Polished_Sulfur_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_JE2_BE2.png/150px-Polished_Sulfur_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8268,10 +8271,10 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Polished Sulfur Stairs": {
-        "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Stairs_%28N%29_JE2.png/150px-Polished_Sulfur_Stairs_%28N%29_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Stairs_%28N%29_JE2_BE2.png/150px-Polished_Sulfur_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8284,10 +8287,10 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Polished Sulfur Slab": {
-        "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Slab_JE2.png/150px-Polished_Sulfur_Slab_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Slab_JE2_BE2.png/150px-Polished_Sulfur_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8300,7 +8303,7 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Polished Sulfur Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Wall_%28ewU%29_JE2.png/150px-Polished_Sulfur_Wall_%28ewU%29_JE2.png",
@@ -8316,10 +8319,10 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Sulfur Bricks": {
-        "image": "https://minecraft.wiki/images/thumb/Sulfur_Bricks_JE2.png/150px-Sulfur_Bricks_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Sulfur_Bricks_JE2_BE2.png/150px-Sulfur_Bricks_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8331,10 +8334,10 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Sulfur Brick Stairs": {
-        "image": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Stairs_%28N%29_JE2.png/150px-Sulfur_Brick_Stairs_%28N%29_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Stairs_%28N%29_JE2_BE2.png/150px-Sulfur_Brick_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8347,10 +8350,10 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Sulfur Brick Slab": {
-        "image": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Slab_JE2.png/150px-Sulfur_Brick_Slab_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Slab_JE2_BE2.png/150px-Sulfur_Brick_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8363,7 +8366,7 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Sulfur Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Wall_%28ewU%29_JE2.png/150px-Sulfur_Brick_Wall_%28ewU%29_JE2.png",
@@ -8379,10 +8382,10 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Chiseled Sulfur": {
-        "image": "https://minecraft.wiki/images/thumb/Chiseled_Sulfur_JE2.png/150px-Chiseled_Sulfur_JE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Chiseled_Sulfur_JE2_BE2.png/150px-Chiseled_Sulfur_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8394,7 +8397,7 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Potent Sulfur": {
         "image": "https://minecraft.wiki/images/thumb/Potent_Sulfur_JE1_BE1.png/150px-Potent_Sulfur_JE1_BE1.png",
@@ -8409,7 +8412,7 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     },
     "Sulfur Spike": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Spike_Base_%28D%29_JE1.png/150px-Sulfur_Spike_Base_%28D%29_JE1.png",
@@ -8425,6 +8428,6 @@
         "catches fire from lava": "No",
         "map color": "48 TERRACOTTA_BROWN",
         "note block instrument": "Bass Drum",
-        "version": "26.1"
+        "version": "26.2"
     }
 }

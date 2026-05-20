@@ -413,7 +413,7 @@
         "attack strength": "Easy and Normal: 2HP\n\nHard: 3HP",
         "hitbox size": "Height: 0.3 blocks\nWidth: 0.4 blocks",
         "spawn": "5% chance when an ender pearl lands",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Guardian": {
         "image": "https://minecraft.wiki/images/thumb/Guardian_JE2_BE2.gif/150px-Guardian_JE2_BE2.gif",
@@ -423,7 +423,7 @@
         "attack strength": "Laser:\nEasy: 4HP \nNormal: 6HP\nHard: 9HP \n\n\nSpikes:\nEasy and Normal: 2HP\nHard: 3HP",
         "hitbox size": "Height: 0.85 blocks\nWidth: 0.85 blocks",
         "spawn": "Ocean Monument",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Elder Guardian": {
         "image": "https://minecraft.wiki/images/thumb/Elder_Guardian_JE2_BE2.gif/260px-Elder_Guardian_JE2_BE2.gif",
@@ -433,7 +433,7 @@
         "attack strength": "Laser: \nEasy: 5HP\nNormal: 8HP\nHard: 12HP \u00d7 6\n\n\nSpikes:\nEasy and Normal: 2HP\nHard: 3HP",
         "hitbox size": "Height: 1.9975 blocks\nWidth: 1.9975 blocks",
         "spawn": "Ocean Monument",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Rabbit": {
         "image": "https://minecraft.wiki/images/thumb/Brown_Rabbit_BE4.png/150px-Brown_Rabbit_BE4.png",
@@ -446,7 +446,7 @@
         "speed": "0.3",
         "spawn": "Snowy Plains\n\nIce Spikes\n\nSnowy Slopes\n\nGrove\n\nSnowy Taiga\n\nTaiga\n\nFlower Forest\n\nMeadow\n\nDesert\n\nCherry Grove\n\nFrozen River\u200c\n\nSnowy Beach\u200c\n\nFrozen Ocean\u200c\n\nDeep Frozen Ocean\u200c\n\nJagged Peaks\u200c\n\nFrozen Peaks\u200c\n\nOld Growth Pine Taiga\u200c\n\nOld Growth Spruce Taiga\u200c",
         "usable items": "Dandelion\nCarrot\nGolden Carrot\nLead\nGolden Dandelion (baby only)\nName Tag",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Shulker": {
         "image": "https://minecraft.wiki/images/thumb/Shulker_JE1_BE1.png/150px-Shulker_JE1_BE1.png",
@@ -458,7 +458,7 @@
         "hitbox size": "Closed:\nHeight: 1 block\nWidth: 1 block\n\nPeeking:\nHeight: 1.2 blocks\nWidth: 1 block\n\nOpen:\nHeight: 2 blocks\nWidth: 1 block",
         "spawn": "End city",
         "usable items": "Dye   \u200c\nBone Meal   \u200c\nInk Sac   \u200c\nLapis Lazuli   \u200c\nCocoa Beans   \u200c",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Husk": {
         "image": "https://minecraft.wiki/images/thumb/Husk_JE2_BE2.png/150px-Husk_JE2_BE2.png",
@@ -472,7 +472,7 @@
         "knockback resistance": "0%\u20135%",
         "spawn": "Desert at night or during thunderstorms.\nWhen another husk spawns a reinforcement.\u200c\nTrial Chambers: from trial spawners.",
         "natural equipment": "Iron Shovel    (occasionally, right hand: 95%; left hand: 5%\u200c; may be enchanted) \n\nIron Sword    (occasionally, right hand: 95%; left hand: 5%\n\u200c; may be enchanted) \n\n\nIron Spear    (occasionally, right hand: 95%; left hand: 5% \u200c; may be enchanted) \n\nDiamond Sword    (occasionally in ominous trials, right hand: 95%; left hand: 5%\u200c) \n\nArmor    (occasionally, may be enchanted) \n\nCarved Pumpkin    (22.5% chance, only during Halloween) \u200c \n\nJack o'Lantern    (2.5% chance, only during Halloween) \u200c",
-        "version": "1.10.0"
+        "version": "1.10"
     },
     "Polar Bear": {
         "image": "https://minecraft.wiki/images/thumb/Polar_Bear_JE2_BE2.png/150px-Polar_Bear_JE2_BE2.png",
@@ -485,7 +485,7 @@
         "knockback resistance": "60%",
         "spawn": "Snowy Plains\nIce Spikes\nFrozen Ocean\nDeep Frozen Ocean\nFrozen River\u200c\n\nSnowy Slopes \u200c\n\nJagged Peaks \u200c\n\nFrozen peaks \u200c",
         "usable items": "Lead\nGolden Dandelion (baby only)",
-        "version": "1.10.0"
+        "version": "1.10"
     },
     "Stray": {
         "image": "https://minecraft.wiki/images/thumb/Stray_JE2_BE4.png/100px-Stray_JE2_BE4.png",
@@ -497,7 +497,7 @@
         "hitbox size": "In Java Edition:\n\nHeight: 1.99 Blocks\nWidth: 0.6 Blocks\n\nIn Bedrock Edition:\n\nHeight: 1.9 Blocks\nWidth: 0.6 Blocks",
         "spawn": "At night or during thunderstorms:\nSnowy Plains\nIce Spikes\nFrozen Ocean\u200c\nDeep Frozen Ocean\u200c\nFrozen River\u200c\nLegacy Frozen Ocean\u200c\nSnowy Slopes\u200c\nJagged Peaks\u200c\nFrozen Peaks\u200c\nRarely when a spider or cave spider spawns in one of the above biomes, as a spider jockey.\u200c\nWhen a skeleton freezes.\nTrial Chambers: from trial spawners.",
         "natural equipment": "Bow    (right hand: 95%; left hand: 5%\u200c; may be enchanted)\n\nArmor    (occasionally, may be enchanted)\n\nCarved Pumpkin    (22.5% chance, only during Halloween) \u200c\n\nJack o'Lantern    (2.5% chance, only during Halloween) \u200c",
-        "version": "1.10.0"
+        "version": "1.10"
     },
     "Llama": {
         "image": "https://minecraft.wiki/images/thumb/Creamy_Llama_JE2_BE2.png/150px-Creamy_Llama_JE2_BE2.png",
@@ -509,7 +509,7 @@
         "speed": "0.175",
         "spawn": "Windswept Hills\nWindswept Forest\nWindswept Gravelly Hills\nSavanna Plateau\nSavanna\u200c\nWindswept Savanna\u200c",
         "usable items": "Carpet\nChest   plus contents\nLead\nShears\nWheat\nHay Bale\nGolden Dandelion (baby only)",
-        "version": "1.11.0"
+        "version": "1.11"
     },
     "Vindicator": {
         "image": "https://minecraft.wiki/images/thumb/Vindicator_JE3_BE3.png/150px-Vindicator_JE3_BE3.png",
@@ -521,7 +521,7 @@
         "speed": "5.612 blocks/sec",
         "spawn": "Woodland Mansion\n\nRaids",
         "natural equipment": "Iron Axe    (right hand: 95%; left hand: 5%\u200c; may be enchanted)",
-        "version": "1.11.0"
+        "version": "1.11"
     },
     "Evoker": {
         "image": "https://minecraft.wiki/images/thumb/Evoker_JE3.png/100px-Evoker_JE3.png",
@@ -532,7 +532,7 @@
         "attack strength": "Evoker Fang:\n\nJava Edition:\n\nEasy: 4HP\nNormal: 6HP\nHard: 9HP\n\nBedrock Edition:\n\n6HP\n\n\n\nVex:\n\nEasy: 5.5HP \u00d7 2.75\n\nNormal: 9HP\n\nHard: 13.5HP \u00d7 6.75",
         "hitbox size": "Java Edition:\n\nHeight: 1.95 blocks\nWidth: 0.6 blocks\nBedrock Edition:\n\nHeight: 1.9 blocks\nWidth: 0.6 blocks",
         "spawn": "Woodland Mansion\n\nRaids",
-        "version": "1.11.0"
+        "version": "1.11"
     },
     "Vex": {
         "image": "https://minecraft.wiki/images/thumb/Vex_JE4.gif/150px-Vex_JE4.gif",
@@ -543,7 +543,7 @@
         "hitbox size": "Height: 0.8 blocks\nWidth: 0.4 blocks",
         "spawn": "Summoned by evokers",
         "natural equipment": "Iron Sword\n(right hand: 95%; left hand: 5%\u200c; may be enchanted)",
-        "version": "1.11.0"
+        "version": "1.11"
     },
     "Parrot": {
         "image": "https://minecraft.wiki/images/thumb/Red_Parrot_JE1_BE1.png/150px-Red_Parrot_JE1_BE1.png",
@@ -554,7 +554,7 @@
         "speed": "0.2",
         "spawn": "Jungle\nBamboo Jungle\nSparse Jungle\u200c",
         "usable items": "Wheat Seeds \n\nBeetroot Seeds \n\nMelon Seeds \n\nPumpkin Seeds \n\nTorchflower Seeds \n\nPitcher Pod \n\nCookie   (Toxic)\n\nLead \n\nName tag",
-        "version": "1.12.0"
+        "version": "1.12"
     },
     "Illusioner": {
         "image": "https://minecraft.wiki/images/thumb/Illusioner_JE3.png/150px-Illusioner_JE3.png",
@@ -565,7 +565,7 @@
         "speed": "0.5",
         "spawn": "By commands",
         "natural equipment": "Bow    (right hand: 95%; left hand: 5%)",
-        "version": "1.12.0"
+        "version": "1.12"
     },
     "Phantom": {
         "image": "https://minecraft.wiki/images/thumb/Phantom_JE2.gif/150px-Phantom_JE2.gif",
@@ -576,7 +576,7 @@
         "hitbox size": "Height: 0.5 Blocks \n Width: 0.9 Blocks",
         "speed": "0.7",
         "spawn": "In the Overworld at nighttime or during thunderstorms, when player has not entered a bed or died for \u22653 ingame days",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Turtle": {
         "image": "https://minecraft.wiki/images/thumb/Turtle_JE3_BE1.png/200px-Turtle_JE3_BE1.png",
@@ -587,7 +587,7 @@
         "speed": "0.25",
         "spawn": "Beach \n When a turtle egg hatches (as a baby turtle).",
         "usable items": "Seagrass\nGolden Dandelion (baby only)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Cod": {
         "image": "https://minecraft.wiki/images/thumb/Cod.gif/150px-Cod.gif",
@@ -598,7 +598,7 @@
         "speed": "0.7",
         "spawn": "Cold Ocean \n Deep Cold Ocean \n Lukewarm Ocean \n Deep Lukewarm Ocean \n Ocean \n Deep Ocean \n Frozen Ocean\u200c \n Deep Frozen Ocean\u200c",
         "usable items": "Water Bucket\nName Tag",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Salmon": {
         "image": "https://minecraft.wiki/images/thumb/Salmon.gif/150px-Salmon.gif",
@@ -609,7 +609,7 @@
         "speed": "0.7",
         "spawn": "River \n Frozen River \n Cold Ocean \n Deep Cold Ocean \n Frozen Ocean \n Deep Frozen Ocean \n Ocean\u200c \n Deep Ocean\u200c \n Lukewarm Ocean\u200c \n Deep Lukewarm Ocean\u200c",
         "usable items": "Water Bucket\nName tag",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Pufferfish": {
         "image": "https://minecraft.wiki/images/thumb/Pufferfish_small.gif/150px-Pufferfish_small.gif",
@@ -621,7 +621,7 @@
         "speed": "0.7",
         "spawn": "Lukewarm Ocean\nDeep Lukewarm Ocean\nWarm Ocean",
         "usable items": "Water Bucket\nName Tag",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Tropical Fish": {
         "image": "https://minecraft.wiki/images/thumb/Clownfish.png/150px-Clownfish.png",
@@ -632,7 +632,7 @@
         "speed": "0.7",
         "spawn": "Mangrove Swamp \n Lukewarm Ocean \n Deep Lukewarm Ocean \n Warm Ocean \n Lush Caves",
         "usable items": "Water Bucket",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Drowned": {
         "image": "https://minecraft.wiki/images/thumb/Drowned_JE2.png/132px-Drowned_JE2.png",
@@ -646,7 +646,7 @@
         "knockback resistance": "0%\u20135%",
         "spawn": "When a zombie drowns.\n When another drowned spawns a reinforcement.\u200c\nRiver\nFrozen River\n Cold Ocean\n Deep Cold Ocean\n Frozen Ocean\n Deep Frozen Ocean\n Lukewarm Ocean\n Deep Lukewarm Ocean \n Ocean\n Deep Ocean\n Warm Ocean\n Dripstone Caves\n\nOcean Ruins",
         "natural equipment": "Trident    (6.25% chance; may be enchanted)\nFishing Rod    (3.75% chance; may be enchanted)\nNautilus Shell    (3% chance in Java Edition and 8% chance in Bedrock Edition; only appears in offhand) \n\nCarved Pumpkin    (22.5% chance, only during Halloween) \u200c \n\nJack o'Lantern    (2.5% chance, only during Halloween) \u200c",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Dolphin": {
         "image": "https://minecraft.wiki/images/thumb/Dolphin.gif/220px-Dolphin.gif",
@@ -658,7 +658,7 @@
         "speed": "1.2",
         "spawn": "Lukewarm Ocean\nDeep Lukewarm Ocean\nOcean\nDeep Ocean\nWarm Ocean",
         "usable items": "Lead\nRaw Cod\nRaw Salmon\nTropical Fish\nPufferfish\nGolden Dandelion (baby only)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Panda": {
         "image": "https://minecraft.wiki/images/thumb/Panda_JE1_BE1.png/180px-Panda_JE1_BE1.png",
@@ -670,7 +670,7 @@
         "speed": "0.15\n0.07 (lazy panda)",
         "spawn": "Jungle\nBamboo Jungle\nSparse Jungle\u200c",
         "usable items": "Bamboo\nCake   \u200c\nGolden Dandelion (baby only)\nName Tag",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Pillager": {
         "image": "https://minecraft.wiki/images/thumb/Pillager_JE3.png/150px-Pillager_JE3.png",
@@ -681,7 +681,7 @@
         "hitbox size": "In Java Edition:\n\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nIn Bedrock Edition:\n\nHeight: 1.9 blocks\nWidth: 0.6 blocks",
         "spawn": "Patrols\n\nPillager Outpost\n\nRaids",
         "natural equipment": "Crossbow    (right hand: 95%; left hand: 5%\u200c; may be enchanted)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Ravager": {
         "image": "https://minecraft.wiki/images/thumb/Ravager_JE1.png/150px-Ravager_JE1.png",
@@ -693,7 +693,7 @@
         "speed": "0.4",
         "knockback resistance": "70%\u200c\n75%\u200c",
         "spawn": "Raids",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Cat": {
         "image": "https://minecraft.wiki/images/thumb/Jellie_Cat.png/150px-Jellie_Cat.png",
@@ -705,7 +705,7 @@
         "speed": "0.3",
         "spawn": "Villages\nSwamp huts (only black cats)",
         "usable items": "Raw Cod\nRaw Salmon\nDye   (tamed only)\nLead\nName Tag\nGolden Dandelion (baby only)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Trader Llama": {
         "image": "https://minecraft.wiki/images/thumb/Creamy_Trader_Llama.png/150px-Creamy_Trader_Llama.png",
@@ -717,7 +717,7 @@
         "speed": "0.175",
         "spawn": "See Wandering Trader",
         "usable items": "Carpet\nChest   plus contents\nLead\nShears\nWheat\nHay Bale\nGolden Dandelion (baby only)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Wandering Trader": {
         "image": "https://minecraft.wiki/images/thumb/Wandering_Trader_JE1_BE1.png/135px-Wandering_Trader_JE1_BE1.png",
@@ -728,7 +728,7 @@
         "spawn": "See \u00a7 Spawning",
         "buys": "Hay Bale\nWater Bottle\nBaked Potato\nMilk Bucket\nWater Bucket\nFermented Spider Eye",
         "sells": "Potion of Invisibility\nEnchanted Iron Pickaxe\nNature blocks and items, including:\nLogs\nFlowers\nSeeds\nDyes\nCoral Blocks\nSaplings",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Fox": {
         "image": "https://minecraft.wiki/images/thumb/Fox_JE1_BE1.png/150px-Fox_JE1_BE1.png",
@@ -741,7 +741,7 @@
         "spawn": "Grove \n Snowy Taiga \n Old Growth Pine Taiga \n Old Growth Spruce Taiga \n Taiga",
         "natural equipment": "Emerald \n\nRabbit's Foot \n\nRabbit Hide \n\nEgg \n\nWheat \n\nLeather \n\nFeather",
         "usable items": "Glow Berries\nLead\nSweet Berries\nGolden Dandelion (baby only)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Bee": {
         "image": "https://minecraft.wiki/images/Bee_JE1.gif",
@@ -753,7 +753,7 @@
         "speed": "0.6",
         "spawn": "Naturally generated Bee Nests",
         "usable items": "Flower (except closed eyeblossom)\nMangrove Propagule \n\nFlowering Azalea \n\nFlowering Azalea Leaves \n\nCherry Leaves \n\nPink Petals \n\nWildflowers \n\nSpore Blossom \n\nCactus Flower \n\nChorus Flower \n\nLead \n\nGolden Dandelion (baby only)",
-        "version": "1.15.0"
+        "version": "1.15"
     },
     "Hoglin": {
         "image": "https://minecraft.wiki/images/thumb/Hoglin_JE3.png/250px-Hoglin_JE3.png",
@@ -769,7 +769,7 @@
         "can be leashed": "Yes",
         "can ride boats": "No",
         "can ride minecarts": "Yes",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Piglin": {
         "image": "https://minecraft.wiki/images/thumb/Piglin_JE1.png/150px-Piglin_JE1.png",
@@ -783,7 +783,7 @@
         "spawn": "Nether Wastes\nCrimson Forest\n\nBastion Remnant",
         "natural equipment": "Golden Sword    (45% of adults, right hand: 95%; left hand: 5%\u200c; may be enchanted)\n\nCrossbow    (50% of adults, right hand: 95%; left hand: 5%\u200c; may be enchanted)\n\nGolden Spear    (5% of adults, right hand: 95%; left hand: 5%\u200c; may be enchanted)\n\nGolden Helmet    (occasionally on adults, may be enchanted)\n\nGolden Chestplate\n(occasionally on adults, may be enchanted)\n\n\nGolden Leggings    (occasionally on adults, may be enchanted)\n\nGolden Boots    (occasionally on adults, may be enchanted)",
         "usable items": "Gold Ingot",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Strider": {
         "image": "https://minecraft.wiki/images/thumb/Strider_JE2_BE2.gif/150px-Strider_JE2_BE2.gif",
@@ -795,13 +795,13 @@
         "spawn": "Lava sea\nDelta\nNether Wastes\nCrimson Forest\nWarped Forest\nSoul Sand Valley\nBasalt Deltas",
         "natural equipment": "Saddle (as a strider jockey)",
         "usable items": "Saddle\nShears (when equipped with a saddle)\nWarped Fungus on a Stick\nLead\nWarped Fungus\nGolden Dandelion (baby only)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Zoglin": {
         "image": "https://minecraft.wiki/images/thumb/Zoglin_JE1.png/250px-Zoglin_JE1.png",
         "health points": "40HP \u00d7 20",
         "behavior": "Hostile",
-        "mob type": "Undead\nMonster",
+        "mob type": "Undead\nMonster\nAnimal",
         "attack strength": "Adult:\n\nEasy: 2.5HP \u00d7 1.25 to 5HP\nNormal: 3HP to 8HP\nHard: 4.5HP \u00d7 2.25 to 12HP \u00d7 6\n\nBaby:\nEasy and Normal: 0.5HP \u00d7 0.25\nHard: 0.75HP \u00d7 0.375",
         "hitbox size": "Adult:\nHeight: 1.4 Blocks\nWidth: 1.3965 Blocks\n\nBaby:\nHeight: 0.7 Blocks\nWidth: 0.6982 Blocks",
         "speed": "0.3",
@@ -811,7 +811,7 @@
         "can be leashed": "Yes",
         "can ride boats": "No",
         "can ride minecarts": "Yes",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Piglin Brute": {
         "image": "https://minecraft.wiki/images/thumb/Piglin_Brute_JE1.png/150px-Piglin_Brute_JE1.png",
@@ -834,7 +834,7 @@
         "speed": "1",
         "spawn": "Lush Caves",
         "usable items": "Bucket of Tropical Fish\nLead\nName Tag\nWater Bucket\nGolden Dandelion (baby only)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Glow Squid": {
         "image": "https://minecraft.wiki/images/thumb/Glow_Squid_JE1.gif/150px-Glow_Squid_JE1.gif",
@@ -845,7 +845,7 @@
         "knockback resistance": "85%",
         "spawn": "\u00a7 Spawning",
         "usable items": "Lead\nName Tag\nGolden Dandelion (baby only)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Goat": {
         "image": "https://minecraft.wiki/images/thumb/Goat_%28two_horns%29_JE1_BE1.png/190px-Goat_%28two_horns%29_JE1_BE1.png",
@@ -857,7 +857,7 @@
         "speed": "0.2",
         "spawn": "Frozen Peaks \n Jagged Peaks \n Snowy Slopes",
         "usable items": "Bucket\nWheat\nLead\nGolden Dandelion (baby only)\nName Tag",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Warden": {
         "image": "https://minecraft.wiki/images/thumb/Warden.gif/150px-Warden.gif",
@@ -871,7 +871,7 @@
         "can be leashed": "No",
         "can ride boats": "No",
         "can ride minecarts": "No",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Frog": {
         "image": "https://minecraft.wiki/images/thumb/Temperate_Frog_JE1_BE1.gif/150px-Temperate_Frog_JE1_BE1.gif",
@@ -883,7 +883,7 @@
         "speed": "1",
         "spawn": "Swamp \n Mangrove Swamp \n When a Tadpole grows up",
         "usable items": "Slimeball \n\nLead \n\nName Tag",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Tadpole": {
         "image": "https://minecraft.wiki/images/thumb/Tadpole_JE1.png/150px-Tadpole_JE1.png",
@@ -894,7 +894,7 @@
         "speed": "1",
         "spawn": "From frogspawn",
         "usable items": "Water Bucket\nSlimeball\nGolden Dandelion",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Allay": {
         "image": "https://minecraft.wiki/images/thumb/Allay_JE2_BE2.gif/150px-Allay_JE2_BE2.gif",
@@ -904,7 +904,7 @@
         "speed": "0.4",
         "spawn": "Pillager Outpost\nWoodland Mansion",
         "usable items": "Amethyst Shard \n\nLead \n\nName Tag \n\nAny item",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Camel": {
         "image": "https://minecraft.wiki/images/thumb/Camel_Idle.gif/200px-Camel_Idle.gif",

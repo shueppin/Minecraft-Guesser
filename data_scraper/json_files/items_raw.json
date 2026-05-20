@@ -1794,14 +1794,14 @@
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Nether Quartz": {
         "image": "https://minecraft.wiki/images/Nether_Quartz_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Minecart with TNT": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_TNT_JE2_BE2.png/160px-Minecart_with_TNT_JE2_BE2.png",
@@ -1811,7 +1811,7 @@
         "size": "Height: 0.7 blocks\nWidth: 0.98 blocks",
         "drops": "If not exploded\n1 Minecart with TNT",
         "health points": "6HP",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Minecart with Hopper": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_Hopper_JE2_BE2.png/160px-Minecart_with_Hopper_JE2_BE2.png",
@@ -1821,7 +1821,7 @@
         "size": "Height: 0.7 blocks\nWidth: 0.98 blocks",
         "drops": "1 Minecart with Hopper\nplus contents",
         "health points": "6HP",
-        "version": "1.5.0"
+        "version": "1.5"
     },
     "Diamond Horse Armor": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Horse_Armor_JE4_BE3.png/160px-Diamond_Horse_Armor_JE4_BE3.png",
@@ -1935,14 +1935,14 @@
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Prismarine Shard": {
         "image": "https://minecraft.wiki/images/Prismarine_Shard_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Raw Mutton": {
         "image": "https://minecraft.wiki/images/Raw_Mutton_JE3_BE2.png",
@@ -1955,7 +1955,7 @@
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Cooked Mutton": {
         "image": "https://minecraft.wiki/images/Cooked_Mutton_JE3_BE2.png",
@@ -1968,7 +1968,7 @@
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Raw Rabbit": {
         "image": "https://minecraft.wiki/images/Raw_Rabbit_JE3_BE2.png",
@@ -1980,7 +1980,7 @@
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Cooked Rabbit": {
         "image": "https://minecraft.wiki/images/Cooked_Rabbit_JE3_BE2.png",
@@ -1992,7 +1992,7 @@
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Potion of Leaping": {
         "image": "https://minecraft.wiki/images/Potion_of_Leaping_JE3.png",
@@ -2001,21 +2001,21 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Rabbit's Foot": {
         "image": "https://minecraft.wiki/images/Rabbit%27s_Foot_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Rabbit Hide": {
         "image": "https://minecraft.wiki/images/Rabbit_Hide_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Rabbit Stew": {
         "image": "https://minecraft.wiki/images/Rabbit_Stew_JE3_BE2.png",
@@ -2027,7 +2027,7 @@
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.8.0"
+        "version": "1.8"
     },
     "Spectral Arrow": {
         "image": "https://minecraft.wiki/images/thumb/Spectral_Arrow_JE3.png/160px-Spectral_Arrow_JE3.png",
@@ -2036,7 +2036,7 @@
         "stackable": "Yes (64)",
         "size": "Height: 0.5 Blocks\nWidth: 0.5 Blocks",
         "network id": "JE: 91",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Tipped Arrow": {
         "image": "https://minecraft.wiki/images/Arrow_of_Splashing_JE2.png",
@@ -2045,7 +2045,7 @@
         "stackable": "Yes (64, only if same effect)",
         "size": "Height: 0.5 blocks\nWidth: 0.5 blocks",
         "network id": "JE: 60",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Beetroot": {
         "image": "https://minecraft.wiki/images/Beetroot_JE2_BE2.png",
@@ -2058,7 +2058,7 @@
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Beetroot Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Beetroots_Age_0_JE3.png/150px-Beetroots_Age_0_JE3.png",
@@ -2074,7 +2074,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Beetroot Soup": {
         "image": "https://minecraft.wiki/images/Beetroot_Soup_JE2_BE2.png",
@@ -2087,7 +2087,7 @@
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Chorus Fruit": {
         "image": "https://minecraft.wiki/images/Chorus_Fruit_JE2_BE2.png",
@@ -2100,21 +2100,21 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Popped Chorus Fruit": {
         "image": "https://minecraft.wiki/images/Popped_Chorus_Fruit_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Dragon's Breath": {
         "image": "https://minecraft.wiki/images/Dragon%27s_Breath_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Shield": {
         "image": "https://minecraft.wiki/images/thumb/Shield_JE2_BE1.png/160px-Shield_JE2_BE1.png",
@@ -2123,7 +2123,7 @@
         "durability": "336",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Elytra": {
         "image": "https://minecraft.wiki/images/thumb/Elytra_JE2_BE2.png/160px-Elytra_JE2_BE2.png",
@@ -2134,7 +2134,7 @@
         "knockback resistance": "0",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "End Crystal": {
         "image": "https://minecraft.wiki/images/End_Crystal_JE2.gif",
@@ -2143,7 +2143,7 @@
         "stackable": "Yes (64)",
         "size": "Height: 2 blocks\nWidth: 2 blocks",
         "drops": "None",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Potion of Luck": {
         "image": "https://minecraft.wiki/images/Potion_of_Luck_JE3.png",
@@ -2152,7 +2152,7 @@
         "always consumable": "Yes",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Potion": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
@@ -2161,28 +2161,28 @@
         "always consumable": "Yes",
         "renewable": "Luck and Uncraftable\u200c, Decay\u200c: No\n\nAll others: Yes",
         "stackable": "No",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Splash Potion": {
         "image": "https://minecraft.wiki/images/Splash_Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Luck and Uncraftable\u200c, Decay\u200c: No\n\nAll others: Yes",
         "stackable": "No",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Lingering Potion": {
         "image": "https://minecraft.wiki/images/Lingering_Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Luck and Uncraftable\u200c, Decay\u200c: No\n\nAll others: Yes",
         "stackable": "No",
-        "version": "1.9.0"
+        "version": "1.9"
     },
     "Shulker Shell": {
         "image": "https://minecraft.wiki/images/Shulker_Shell_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.11.0"
+        "version": "1.11"
     },
     "Totem of Undying": {
         "image": "https://minecraft.wiki/images/Totem_of_Undying_JE2_BE2.png",
@@ -2190,14 +2190,14 @@
         "status effects": "Absorption II (0:05)\nRegeneration II (0:45) \nFire Resistance I (0:40)",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.11.0"
+        "version": "1.11"
     },
     "Explorer Map": {
         "image": "https://minecraft.wiki/images/Ocean_Explorer_Map_JE2.png",
         "rarity tier": "Common",
         "renewable": "Buried Treasure: No\n Others: Yes",
         "stackable": "Yes (64)",
-        "version": "1.11.0"
+        "version": "1.11"
     },
     "Iron Nugget": {
         "image": "https://minecraft.wiki/images/Iron_Nugget_JE1_BE1.png",
@@ -2211,14 +2211,14 @@
         "rarity tier": "Epic",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.12.0"
+        "version": "1.12"
     },
     "Debug Stick": {
         "image": "https://minecraft.wiki/images/Debug_Stick.gif",
         "rarity tier": "Epic \u200c\nCommon \u200c",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Trident": {
         "image": "https://minecraft.wiki/images/thumb/Trident.png/160px-Trident.png",
@@ -2234,7 +2234,7 @@
         "enchantability": "1",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Kelp": {
         "image": "https://minecraft.wiki/images/Kelp_JE3_BE2.gif",
@@ -2249,7 +2249,7 @@
         "catches fire from lava": "No",
         "map color": "12 WATER",
         "note block instrument": "Default (Harp)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Dried Kelp": {
         "image": "https://minecraft.wiki/images/Dried_Kelp_JE1_BE2.png",
@@ -2261,14 +2261,14 @@
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Turtle Scute": {
         "image": "https://minecraft.wiki/images/Turtle_Scute_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Turtle Shell": {
         "image": "https://minecraft.wiki/images/thumb/Turtle_Shell_JE1_BE1.png/160px-Turtle_Shell_JE1_BE1.png",
@@ -2280,7 +2280,7 @@
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Turtle Egg": {
         "image": "https://minecraft.wiki/images/thumb/Turtle_Egg_1_JE2.png/150px-Turtle_Egg_1_JE2.png",
@@ -2296,7 +2296,7 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Default (Harp)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Potion of the Turtle Master": {
         "image": "https://minecraft.wiki/images/Potion_of_the_Turtle_Master_JE4.png",
@@ -2305,42 +2305,42 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Bucket of Cod": {
         "image": "https://minecraft.wiki/images/Bucket_of_Cod_JE2_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Bucket of Salmon": {
         "image": "https://minecraft.wiki/images/Bucket_of_Salmon_JE2_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Bucket of Pufferfish": {
         "image": "https://minecraft.wiki/images/Bucket_of_Pufferfish_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Bucket of Tropical Fish": {
         "image": "https://minecraft.wiki/images/Bucket_of_Tropical_Fish_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Phantom Membrane": {
         "image": "https://minecraft.wiki/images/Phantom_Membrane_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Potion of Slow Falling": {
         "image": "https://minecraft.wiki/images/Potion_of_Slow_Falling_JE4_BE3.png",
@@ -2349,49 +2349,49 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Heart of the Sea": {
         "image": "https://minecraft.wiki/images/Heart_of_the_Sea_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Nautilus Shell": {
         "image": "https://minecraft.wiki/images/Nautilus_Shell_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.13.0"
+        "version": "1.13"
     },
     "Flower Charge Banner Pattern": {
         "image": "https://minecraft.wiki/images/Flower_Charge_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Creeper Charge Banner Pattern": {
         "image": "https://minecraft.wiki/images/Creeper_Charge_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Skull Charge Banner Pattern": {
         "image": "https://minecraft.wiki/images/Skull_Charge_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Thing Banner Pattern": {
         "image": "https://minecraft.wiki/images/Thing_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "No (except via ominous vault)",
         "stackable": "No",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Crossbow": {
         "image": "https://minecraft.wiki/images/Crossbow.png",
@@ -2403,7 +2403,7 @@
         "enchantability": "1",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Suspicious Stew": {
         "image": "https://minecraft.wiki/images/Suspicious_Stew_JE1_BE1.png",
@@ -2416,35 +2416,35 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "White Dye": {
         "image": "https://minecraft.wiki/images/White_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Black Dye": {
         "image": "https://minecraft.wiki/images/Black_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Brown Dye": {
         "image": "https://minecraft.wiki/images/Brown_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Blue Dye": {
         "image": "https://minecraft.wiki/images/Blue_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Sweet Berries": {
         "image": "https://minecraft.wiki/images/thumb/Sweet_Berry_Bush_Age_0_JE1_BE1.png/150px-Sweet_Berry_Bush_Age_0_JE1_BE1.png",
@@ -2464,7 +2464,7 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Leather Horse Armor": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Horse_Armor_JE2.png/160px-Leather_Horse_Armor_JE2.png",
@@ -2473,14 +2473,14 @@
         "armor toughness": "0\u00a0()",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Globe Banner Pattern": {
         "image": "https://minecraft.wiki/images/Globe_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14.0"
+        "version": "1.14"
     },
     "Honey Bottle": {
         "image": "https://minecraft.wiki/images/Honey_Bottle_JE1_BE2.png",
@@ -2493,14 +2493,14 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "Yes (16)",
-        "version": "1.15.0"
+        "version": "1.15"
     },
     "Honeycomb": {
         "image": "https://minecraft.wiki/images/Honeycomb_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.15.0"
+        "version": "1.15"
     },
     "Netherite Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Helmet_JE2_BE1.png/160px-Netherite_Helmet_JE2_BE1.png",
@@ -2512,7 +2512,7 @@
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Chestplate_JE2_BE1.png/160px-Netherite_Chestplate_JE2_BE1.png",
@@ -2524,7 +2524,7 @@
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Leggings_JE3_BE2.png/160px-Netherite_Leggings_JE3_BE2.png",
@@ -2536,7 +2536,7 @@
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Boots": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Boots_JE2_BE1.png/160px-Netherite_Boots_JE2_BE1.png",
@@ -2548,7 +2548,7 @@
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Sword": {
         "image": "https://minecraft.wiki/images/Netherite_Sword_JE2_BE2.png",
@@ -2563,7 +2563,7 @@
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Pickaxe": {
         "image": "https://minecraft.wiki/images/Netherite_Pickaxe_JE3_BE2.png",
@@ -2578,7 +2578,7 @@
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Axe": {
         "image": "https://minecraft.wiki/images/Netherite_Axe_JE2_BE2.png",
@@ -2592,7 +2592,7 @@
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Shovel": {
         "image": "https://minecraft.wiki/images/Netherite_Shovel_JE2_BE1.png",
@@ -2606,7 +2606,7 @@
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Hoe": {
         "image": "https://minecraft.wiki/images/Netherite_Hoe_JE2_BE2.png",
@@ -2620,21 +2620,21 @@
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Ingot": {
         "image": "https://minecraft.wiki/images/Netherite_Ingot_JE1_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Netherite Scrap": {
         "image": "https://minecraft.wiki/images/Netherite_Scrap_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Warped Fungus on a Stick": {
         "image": "https://minecraft.wiki/images/Warped_Fungus_on_a_Stick_JE1_BE1.png",
@@ -2642,63 +2642,63 @@
         "durability": "JE: 100\nBE: 101",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Snout Banner Pattern": {
         "image": "https://minecraft.wiki/images/Snout_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Music Disc Pigstep": {
         "image": "https://minecraft.wiki/images/Music_Disc_Pigstep_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16.0"
+        "version": "1.16"
     },
     "Amethyst Shard": {
         "image": "https://minecraft.wiki/images/Amethyst_Shard_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Bundle": {
         "image": "https://minecraft.wiki/images/Bundle_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Copper Ingot": {
         "image": "https://minecraft.wiki/images/Copper_Ingot_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Spyglass": {
         "image": "https://minecraft.wiki/images/thumb/Spyglass_JE2_BE1.png/160px-Spyglass_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Powder Snow Bucket": {
         "image": "https://minecraft.wiki/images/Powder_Snow_Bucket_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Bucket of Axolotl": {
         "image": "https://minecraft.wiki/images/Bucket_of_Axolotl_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Glow Item Frame": {
         "image": "https://minecraft.wiki/images/thumb/Glow_Item_Frame_JE1_BE3.png/150px-Glow_Item_Frame_JE1_BE3.png",
@@ -2714,14 +2714,14 @@
         "waterloggable": "Yes\u200c",
         "flammable": "No\u200c",
         "catches fire from lava": "No\u200c",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Glow Ink Sac": {
         "image": "https://minecraft.wiki/images/Glow_Ink_Sac_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Glow Berries": {
         "image": "https://minecraft.wiki/images/thumb/Cave_Vines_%28head%29_JE1_BE1.png/150px-Cave_Vines_%28head%29_JE1_BE1.png",
@@ -2741,42 +2741,42 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Raw Copper": {
         "image": "https://minecraft.wiki/images/Raw_Copper_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Raw Iron": {
         "image": "https://minecraft.wiki/images/Raw_Iron_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Raw Gold": {
         "image": "https://minecraft.wiki/images/Raw_Gold_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.17.0"
+        "version": "1.17"
     },
     "Music Disc otherside": {
         "image": "https://minecraft.wiki/images/Music_Disc_otherside_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.18.0"
+        "version": "1.18"
     },
     "Bucket of Tadpole": {
         "image": "https://minecraft.wiki/images/Bucket_of_Tadpole_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Boat with Chest": {
         "image": "https://minecraft.wiki/images/thumb/Oak_Boat_with_Chest_JE2_BE1.png/160px-Oak_Boat_with_Chest_JE2_BE1.png",
@@ -2786,35 +2786,35 @@
         "flammable item?": "No",
         "size": "In Java Edition:\n\nHeight: 0.5625 blocks\nWidth: 1.375 blocks\n\nIn Bedrock Edition:\n\nHeight: 0.455 blocks\nWidth: 1.4 blocks",
         "network id": "JE: 1",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Echo Shard": {
         "image": "https://minecraft.wiki/images/Echo_Shard_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Recovery Compass": {
         "image": "https://minecraft.wiki/images/Recovery_Compass_JE1_BE1.gif",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Music Disc 5": {
         "image": "https://minecraft.wiki/images/Music_Disc_5_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Disc Fragment": {
         "image": "https://minecraft.wiki/images/Disc_Fragment_5_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Goat Horn": {
         "image": "https://minecraft.wiki/images/Goat_Horn_JE1_BE1.png",
@@ -2822,7 +2822,7 @@
         "use cooldown": "7 seconds (140 ticks)",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.19.0"
+        "version": "1.19"
     },
     "Netherite Upgrade": {
         "image": "https://minecraft.wiki/images/Netherite_Upgrade_Smithing_Template_JE1_BE1.png",
@@ -2972,161 +2972,161 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Angler Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Angler_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Blade Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Blade_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Brewer Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Brewer_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Burn Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Burn_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Danger Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Danger_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Explorer Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Explorer_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Friend Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Friend_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Heart Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Heart_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Heartbreak Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Heartbreak_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Howl Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Howl_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Miner Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Miner_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Mourner Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Mourner_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Plenty Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Plenty_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Sheaf Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Sheaf_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Shelter Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Shelter_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Snort Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Snort_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Wayfinder Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Wayfinder_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Wayfinder_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Raiser Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Raiser_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Raiser_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Shaper Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Shaper_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Shaper_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Host Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Host_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Host_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Silence Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Silence_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Silence_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Epic",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Music Disc Relic": {
         "image": "https://minecraft.wiki/images/Music_Disc_Relic_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.20.0"
+        "version": "1.20"
     },
     "Trial Key": {
         "image": "https://minecraft.wiki/images/Trial_Key_JE2_BE2.png",
@@ -3285,21 +3285,21 @@
         "rarity tier": "Rare",
         "renewable": "No (except via ominous vault)",
         "stackable": "No",
-        "version": "1.21.0"
+        "version": "1.21"
     },
     "Music Disc Creator (Music Box)": {
         "image": "https://minecraft.wiki/images/Music_Disc_Creator_%28Music_Box%29_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21.0"
+        "version": "1.21"
     },
     "Music Disc Precipice": {
         "image": "https://minecraft.wiki/images/Music_Disc_Precipice_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "No",
-        "version": "1.21.0"
+        "version": "1.21"
     },
     "Field Masoned Banner Pattern": {
         "image": "https://minecraft.wiki/images/Field_Masoned_Banner_Pattern_JE1_BE2.png",
