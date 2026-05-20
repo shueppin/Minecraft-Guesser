@@ -1,10 +1,16 @@
 import logging
 import json
+from urllib.parse import unquote
 import requests
 from bs4 import BeautifulSoup
 import re
 from pathlib import Path
 
+from data_scraper.cleanup_text import remove_problem_chars
+
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(format="%(levelname)s %(name)s: %(message)s")
 
 actual_dir = Path(__file__).resolve().parent
 VERSIONS_JSON_PATH = (actual_dir / ".." / "json_files" / "versions.json").resolve()
@@ -39,7 +45,7 @@ def get_from_api(page_title: str) -> tuple[str, str | None]:
     html: str = payload.get("parse", {}).get("text", "")
 
     if not html:
-        logging.warning("API request succeeded but no HTML was returned.")
+        logger.warning(f'API request succeeded but no HTML was returned for page "{page_title}"')
         return "", ""
 
     # Primitive check to see if it is a redirect
@@ -82,7 +88,17 @@ def list_of_dict_from_table(html: str, wanted_table_number=0) -> list[dict[str, 
     for row in rows[1:]:
         dictionary = {}
         for i, field in enumerate(row.find_all("td")):
-            dictionary[all_keys[i]] = field.text.strip()
+            # If we are in the first field (element name), try to get the link directly, otherwise use the text
+            if i == 0:
+                link = field.find("a")
+                if link:
+                    dictionary[all_keys[i]] = unquote(link.get("href").replace("/w/", "", 1))  # Remove the prefix "/w/"
+                else:
+                    dictionary[all_keys[i]] = field.text.strip()
+
+            else:
+                dictionary[all_keys[i]] = field.text.strip()
+
         output.append(dictionary)
 
     return output
@@ -116,14 +132,14 @@ def resolve_existing_elements_with_versions_from_list_of_dict(input_list: list[d
 
         # Check if it was as many times removed as it was added and if so, it does not exist anymore. This is a primitive existence checker.
         if len(removed_dates) >= len(added_dates):
-            logging.info(f"{name} was completely removed.")
+            logger.info(f"{name} was completely removed.")
             continue
 
         # Get the full version in which it was added
         if added_dates[-1] in version_resolver:
             version = version_resolver[added_dates[-1]]
         else:
-            logging.warning(f'Version "{added_dates[-1]}" was not found in the database')
+            logger.warning(f'Version "{added_dates[-1]}" was not found in the database')
             unresolved_versions.add(added_dates[-1])
             continue
 
@@ -132,9 +148,10 @@ def resolve_existing_elements_with_versions_from_list_of_dict(input_list: list[d
     return output, unresolved_versions
 
 
-def dict_from_infobox(html: str) -> dict[str, str]:
+def dict_from_infobox(html: str, identification: str) -> dict[str, str]:
     """
-    Takes HTML of an item / block / mob / structure / ... as input
+    Takes HTML of an item / block / mob / structure / ... as input.
+    Identification is only used for debugging purposes.
 
     :return: Returns a dictionary containing the key "image" with the value the URL, if it exists.
     Then, all elements of the infobox are key value pairs, with the key lowercase and the value as string.
@@ -148,7 +165,7 @@ def dict_from_infobox(html: str) -> dict[str, str]:
     infobox = soup.find("div", class_="infobox")
 
     if not infobox:
-        logging.warning(f'Infobox was not found')
+        logger.warning(f'For element "{identification}", Infobox was not found')
         return output
 
     # Remove all sup and sub of the whole table
@@ -170,7 +187,8 @@ def dict_from_infobox(html: str) -> dict[str, str]:
         for br in row.find_all("br"):
             br.replace_with("\n")
 
-        key = row.find("th").text.lower().strip().replace("\n", " ")
+        key = row.find("th").text.lower().strip()
+        key = remove_problem_chars(key.replace("\n", " "))
         value_field = row.find("td")
 
         if not value_field:
@@ -179,22 +197,83 @@ def dict_from_infobox(html: str) -> dict[str, str]:
 
         # Prefer text if there is text, otherwise if there is an image use the src of the image
         if value_field.text.strip():
-            value = value_field.text.strip()
+            value = remove_problem_chars(value_field.text)
 
         elif value_field.find("img"):  # If there is at least one image, then go through all of them
             all_img_src = []
             for img in value_field.find_all("img"):
                 all_img_src.append(_expand_and_clean_url(img.get("src")))
 
-            value = "\n".join(all_img_src)
+            value = remove_problem_chars("\n".join(all_img_src))
 
         else:
-            logging.warning(f"Could not decode a value for {key}")
+            logger.warning(f'Could not decode a value for element "{identification}" with key "{key}"')
             value = ""
 
         output[key] = value
 
     return output
+
+
+def dict_from_table_of_contents(html: str, identification: str, keys: list=None) -> dict[str, dict[str, ...] | list[str]]:
+    """
+    Returns a dictionary from the HTML with the table of contents.
+    If the keys are None, then the whole table is returned, otherwise just the data of the given keys, including the key.
+    Identification is only used for debugging purposes.
+    """
+
+    # Helper function
+    def parse_outline(text):
+        """
+        Parse a numbered outline (1, 1.1, 1.1.1, ...) into a nested dict
+        where keys are headings (numbers removed) and values are nested dicts.
+        """
+        root = {}
+        stack = [(0, root)]  # (level, dict_for_that_level)
+        line_re = re.compile(r'^\s*([\d.]+)\s+(.*\S)\s*$')
+
+        for raw in text.splitlines():
+            m = line_re.match(raw)
+            if not m:
+                continue
+            num, title = m.group(1), m.group(2)
+            level = num.count('.') + 1  # "1" -> 1, "1.1" -> 2, etc.
+            # Create node
+            node = {}
+            # Find parent for this level
+            while stack and stack[-1][0] >= level:
+                stack.pop()
+            parent = stack[-1][1]
+            parent[title] = node
+            stack.append((level, node))
+
+        return root
+
+    # Initial value
+    if keys is None:
+        keys = []
+
+    # Extract the text
+    soup = BeautifulSoup(html, "html.parser")
+
+    table_of_contents = soup.find("div", id="toc")
+    contents_text = table_of_contents.text.strip("Contents").strip()
+    contents_text = remove_problem_chars(contents_text)
+
+    contents_dict: dict[str, dict[str, ...]] = parse_outline(contents_text)
+
+    # Output either the whole dict or just the given keys
+    if keys:
+        output = {}
+        for key in keys:
+            if key not in contents_dict:
+                logger.warning(f'Could not find key "{key}" for element "{identification}" in "{contents_dict}"')
+                continue
+            output[key] = contents_dict[key]
+
+        return output
+
+    return contents_dict
 
 
 if __name__ == "__main__":
@@ -209,7 +288,15 @@ if __name__ == "__main__":
     # Here we just use some test values
     for _name in ["Grass Block", "Stone", "Allay", "Ancient City", "Mushroom Fields", "Red Bed", "Bamboo", "Light"]:
         _html, _redirected_page = get_from_api(_name)
-        _output = dict_from_infobox(_html)
+        _output = dict_from_infobox(_html, identification=_name)
 
         _redirect_message = f"(redirected to {_redirected_page})" if _redirected_page else ""
         print(f"Name: {_name} {_redirect_message} \nData: {_output} \n")
+
+    # Examples for table of content
+    for _name in ["Slimeball", "Sugar"]:
+        _html, _redirected_page = get_from_api(_name)
+        _output = dict_from_table_of_contents(_html, identification=_name)
+
+        _redirect_message = f"(redirected to {_redirected_page})" if _redirected_page else ""
+        print(f"Name: {_name} {_redirect_message} \nTable of contents: \n{_output} \n")

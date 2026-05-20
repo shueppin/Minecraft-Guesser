@@ -1,153 +1,165 @@
 {
-    "Leather Cap": {
+    "Leather_Cap": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Cap_JE4_BE2.png/160px-Leather_Cap_JE4_BE2.png",
         "other names": "Leather Hat (GB)",
         "rarity tier": "Common",
-        "armor": "1\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "1 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 55\nBE: 56",
         "enchantability": "15",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Leather Tunic": {
+    "Leather_Tunic": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Tunic_JE4_BE2.png/160px-Leather_Tunic_JE4_BE2.png",
         "rarity tier": "Common",
-        "armor": "3\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "3 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 80\nBE: 81",
         "enchantability": "15",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nMob loot\nTrading"
     },
-    "Leather Pants": {
+    "Leather_Pants": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Pants_JE4_BE2.png/160px-Leather_Pants_JE4_BE2.png",
         "other names": "Leather Trousers (GB)",
         "rarity tier": "Common",
-        "armor": "2\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "2 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 75\nBE: 76",
         "enchantability": "15",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nMob loot\nTrading"
     },
-    "Leather Boots": {
+    "Leather_Boots": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Boots_JE3_BE2.png/160px-Leather_Boots_JE3_BE2.png",
         "rarity tier": "Common",
-        "armor": "1\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "1 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 65\nBE: 66",
         "enchantability": "15",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading\nFishing"
     },
     "Chainmail Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Chainmail_Helmet_JE3_BE2.png/160px-Chainmail_Helmet_JE3_BE2.png",
         "other names": "Mail Helmet (CA)",
         "rarity tier": "Uncommon",
-        "armor": "2\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "2 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 165\nBE: 166",
         "enchantability": "12",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nTrading\nVillager gifts"
     },
     "Chainmail Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Chainmail_Chestplate_JE3_BE2.png/160px-Chainmail_Chestplate_JE3_BE2.png",
         "other names": "Mail Chestplate (CA)",
         "rarity tier": "Common",
-        "armor": "5\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "5 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 240\nBE: 241",
         "enchantability": "12",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nTrading\nVillager gifts\nGenerated loot"
     },
     "Chainmail Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Chainmail_Leggings_JE2_BE2.png/160px-Chainmail_Leggings_JE2_BE2.png",
         "other names": "Mail Leggings (CA)",
         "rarity tier": "Uncommon",
-        "armor": "4\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "4 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 225\nBE: 226",
         "enchantability": "12",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nTrading\nVillager gifts"
     },
     "Chainmail Boots": {
         "image": "https://minecraft.wiki/images/thumb/Chainmail_Boots_JE2_BE2.png/160px-Chainmail_Boots_JE2_BE2.png",
         "other names": "Mail Boots (CA)",
         "rarity tier": "Uncommon",
-        "armor": "1\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "1 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 195\nBE: 196",
         "enchantability": "12",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nTrading\nVillager gifts"
     },
-    "Iron Helmet": {
+    "Iron_Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Helmet_JE2_BE2.png/160px-Iron_Helmet_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "2\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "2 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 165\nBE: 166",
         "enchantability": "9",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nNatural generation\nGenerated loot\nMob loot\nTrading"
     },
-    "Iron Chestplate": {
+    "Iron_Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Chestplate_JE2_BE2.png/160px-Iron_Chestplate_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "6\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "6 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 240\nBE: 241",
         "enchantability": "9",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nNatural generation\nGenerated loot\nMob loot\nTrading"
     },
-    "Iron Leggings": {
+    "Iron_Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Leggings_JE2_BE2.png/160px-Iron_Leggings_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "5\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "5 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 225\nBE: 226",
         "enchantability": "9",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Iron Boots": {
+    "Iron_Boots": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Boots_JE2_BE2.png/160px-Iron_Boots_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "2\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "2 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 195\nBE: 196",
         "enchantability": "9",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading\nBartering"
     },
     "Apple": {
         "image": "https://minecraft.wiki/images/Apple_JE3_BE3.png",
@@ -155,89 +167,96 @@
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "4 ()",
         "saturation": "2.4 ()",
-        "saturation boost\u200c": "Heals: 1.6HP \u00d7 0.8\nDuration: 0.8 seconds",
+        "saturation boost": "Heals: 1.6HP x 0.8\nDuration: 0.8 seconds",
         "always consumable": "JE: No\nBE: Yes",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Block loot\nGenerated loot\nTrading"
     },
-    "Iron Shovel": {
+    "Iron_Shovel": {
         "image": "https://minecraft.wiki/images/Iron_Shovel_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "6",
-        "attack damage": "JE: 4.5HP \u00d7 2.25\nBE: 4HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack damage": "JE: 4.5HP x 2.25\nBE: 4HP",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 250\nBE: 251",
         "enchantability": "14",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Iron Sword": {
+    "Iron_Sword": {
         "image": "https://minecraft.wiki/images/Iron_Sword_JE2_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 6HP\nBE: 7HP",
-        "attack speed\u200c": "1.6 (0.625 seconds)",
+        "attack speed": "1.6 (0.625 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
-        "sweep damage\u200c": "1HP\nSE I: 3HP\nSE II: 4.02HP \u00d7 2.01\nSE III: 4.5HP \u00d7 2.25",
+        "sweep damage": "1HP\nSE I: 3HP\nSE II: 4.02HP x 2.01\nSE III: 4.5HP x 2.25",
         "mining efficiency": "1.5\n15 (on cobwebs)\n30 (on bamboo)",
         "durability": "JE: 250\nBE: 251",
         "enchantability": "14",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nGenerated loot\nCrafting\nTrading"
     },
-    "Iron Axe": {
+    "Iron_Axe": {
         "image": "https://minecraft.wiki/images/Iron_Axe_JE5_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "6",
         "attack damage": "JE: 9HP\nBE: 6HP",
-        "attack speed\u200c": "0.9 (1.111 seconds)",
+        "attack speed": "0.9 (1.111 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 250\nBE: 251",
         "enchantability": "14",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading\nVillager gifts"
     },
-    "Iron Pickaxe": {
+    "Iron_Pickaxe": {
         "image": "https://minecraft.wiki/images/Iron_Pickaxe_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "6",
         "mining level": "2",
         "attack damage": "JE: 4HP\nBE: 5HP",
-        "attack speed\u200c": "1.2 (0.833 seconds)",
+        "attack speed": "1.2 (0.833 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 250\nBE: 251",
         "enchantability": "14",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Flint and Steel": {
+    "Flint_and_Steel": {
         "image": "https://minecraft.wiki/images/Flint_and_Steel_JE4_BE2.png",
         "rarity tier": "Common",
         "durability": "JE: 64\nBE: 65",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Generated loot\nCrafting"
     },
     "Bow": {
         "image": "https://minecraft.wiki/images/Bow_JE2_BE1.png",
         "rarity tier": "Common",
-        "projectile damage": "1HP (0.1s)\n5HP (0.2s - 0.8s)\n6HP (0.9s)\n6HP to 11HP \u00d7 5.5 (1s)",
+        "projectile damage": "1HP (0.1s)\n5HP (0.2s - 0.8s)\n6HP (0.9s)\n6HP to 11HP x 5.5 (1s)",
         "charge time": "0.1s (no charge)\n0.2s - 0.8s (medium charge)\n0.9s (full charge)\n1s (critical charge)",
         "inaccuracy": "1",
         "durability": "JE: 384\nBE: 385",
         "enchantability": "1",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading\nFishing"
     },
     "Arrow": {
         "image": "https://minecraft.wiki/images/thumb/Arrow_JE2_BE1.png/160px-Arrow_JE2_BE1.png",
@@ -245,300 +264,325 @@
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "size": "Height: 0.5 blocks\nWidth: 0.5 blocks",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nPicking up arrows\nMob loot\nGenerated loot\nTrading\nVillager gifts\nBartering"
     },
     "Coal": {
         "image": "https://minecraft.wiki/images/Coal_JE4_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mining\nMob loot\nGenerated loot\nCrafting\nSmelting"
     },
-    "Iron Ingot": {
+    "Iron_Ingot": {
         "image": "https://minecraft.wiki/images/Iron_Ingot_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nSmelting\nMob loot\nGenerated loot\nCompound creation"
     },
-    "Gold Ingot": {
+    "Gold_Ingot": {
         "image": "https://minecraft.wiki/images/Gold_Ingot_JE4_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nSmelting\nMob loot\nGenerated loot"
     },
     "Diamond": {
         "image": "https://minecraft.wiki/images/Diamond_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mining\nGenerated loot\nCrafting\nSmelting"
     },
-    "Wooden Axe": {
+    "Wooden_Axe": {
         "image": "https://minecraft.wiki/images/Wooden_Axe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "2",
         "attack damage": "JE: 7HP\nBE: 4HP",
-        "attack speed\u200c": "0.8 (1.25 seconds)",
+        "attack speed": "0.8 (1.25 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 59\nBE: 60",
         "enchantability": "15",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Wooden Pickaxe": {
+    "Wooden_Pickaxe": {
         "image": "https://minecraft.wiki/images/Wooden_Pickaxe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "2",
         "mining level": "0",
         "attack damage": "JE: 2HP\nBE: 3HP",
-        "attack speed\u200c": "1.2 (0.833 seconds)",
+        "attack speed": "1.2 (0.833 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 59\nBE: 60",
         "enchantability": "15",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Wooden Shovel": {
+    "Wooden_Shovel": {
         "image": "https://minecraft.wiki/images/Wooden_Shovel_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "2",
-        "attack damage": "JE: 2.5HP \u00d7 1.25\nBE: 2HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack damage": "JE: 2.5HP x 1.25\nBE: 2HP",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 59\nBE: 60",
         "enchantability": "15",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Wooden Sword": {
+    "Wooden_Sword": {
         "image": "https://minecraft.wiki/images/Wooden_Sword_JE2_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 4HP\nBE: 5HP",
-        "attack speed\u200c": "1.6 (0.625 seconds)",
+        "attack speed": "1.6 (0.625 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
-        "sweep damage\u200c": "1HP\nSE I: 2HP\nSE II: 2.68HP \u00d7 1.34\nSE III: 3HP",
+        "sweep damage": "1HP\nSE I: 2HP\nSE II: 2.68HP x 1.34\nSE III: 3HP",
         "mining efficiency": "1.5\n15 (on cobwebs)\n30 (on bamboo)",
         "durability": "JE: 59\nBE: 60",
         "enchantability": "15",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting"
     },
-    "Stone Axe": {
+    "Stone_Axe": {
         "image": "https://minecraft.wiki/images/Stone_Axe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "4",
         "attack damage": "JE: 9HP\nBE: 5HP",
-        "attack speed\u200c": "0.8 (1.25 seconds)",
+        "attack speed": "0.8 (1.25 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 131\nBE: 132",
         "enchantability": "5",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading\nVillager gifts"
     },
-    "Stone Pickaxe": {
+    "Stone_Pickaxe": {
         "image": "https://minecraft.wiki/images/Stone_Pickaxe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "4",
         "mining level": "1",
         "attack damage": "JE: 3HP\nBE: 4HP",
-        "attack speed\u200c": "1.2 (0.833 seconds)",
+        "attack speed": "1.2 (0.833 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 131\nBE: 132",
         "enchantability": "5",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading\nVillager gifts"
     },
-    "Stone Shovel": {
+    "Stone_Shovel": {
         "image": "https://minecraft.wiki/images/Stone_Shovel_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "4",
-        "attack damage": "JE: 3.5HP \u00d7 1.75\nBE: 3HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack damage": "JE: 3.5HP x 1.75\nBE: 3HP",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 131\nBE: 132",
         "enchantability": "5",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nTrading\nVillager gifts"
     },
-    "Stone Sword": {
+    "Stone_Sword": {
         "image": "https://minecraft.wiki/images/Stone_Sword_JE2_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 5HP\nBE: 6HP",
-        "attack speed\u200c": "1.6 (0.625 seconds)",
+        "attack speed": "1.6 (0.625 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
-        "sweep damage\u200c": "1HP\nSE I: 2.5HP \u00d7 1.25\nSE II: 3.35HP \u00d7 1.675\nSE III: 3.75HP \u00d7 1.875",
+        "sweep damage": "1HP\nSE I: 2.5HP x 1.25\nSE II: 3.35HP x 1.675\nSE III: 3.75HP x 1.875",
         "mining efficiency": "1.5\n15 (on cobwebs)\n30 (on bamboo)",
         "durability": "JE: 130\nBE: 131",
         "enchantability": "5",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nMob loot"
     },
-    "Diamond Axe": {
+    "Diamond_Axe": {
         "image": "https://minecraft.wiki/images/Diamond_Axe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "8",
         "attack damage": "JE: 9HP\nBE: 7HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 1561\nBE: 1562",
         "enchantability": "10",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Diamond Pickaxe": {
+    "Diamond_Pickaxe": {
         "image": "https://minecraft.wiki/images/Diamond_Pickaxe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "8",
         "mining level": "3",
         "attack damage": "JE: 5HP\nBE: 6HP",
-        "attack speed\u200c": "1.2 (0.833 seconds)",
+        "attack speed": "1.2 (0.833 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 1561\nBE: 1562",
         "enchantability": "10",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Diamond Shovel": {
+    "Diamond_Shovel": {
         "image": "https://minecraft.wiki/images/Diamond_Shovel_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "8",
-        "attack damage": "JE: 5.5HP \u00d7 2.75\nBE: 5HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack damage": "JE: 5.5HP x 2.75\nBE: 5HP",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 1561\nBE: 1562",
         "enchantability": "10",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Diamond Sword": {
+    "Diamond_Sword": {
         "image": "https://minecraft.wiki/images/Diamond_Sword_JE3_BE3.png",
         "rarity tier": "Common",
         "attack damage": "JE: 7HP\nBE: 8HP",
-        "attack speed\u200c": "1.6 (0.625 seconds)",
+        "attack speed": "1.6 (0.625 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
-        "sweep damage\u200c": "1HP\nSE I: 3.5HP \u00d7 1.75\nSE II: 4.69HP \u00d7 2.345\nSE III: 5.25HP \u00d7 2.625",
+        "sweep damage": "1HP\nSE I: 3.5HP x 1.75\nSE II: 4.69HP x 2.345\nSE III: 5.25HP x 2.625",
         "mining efficiency": "1.5\n15 (on cobwebs)\n30 (on bamboo)",
         "durability": "JE: 1561\nBE: 1562",
         "enchantability": "10",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Generated loot\nCrafting\nTrading"
     },
     "Stick": {
         "image": "https://minecraft.wiki/images/Stick_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nFishing\nBlock loot\nEntity loot\nGenerated loot"
     },
-    "Golden Axe": {
+    "Golden_Axe": {
         "image": "https://minecraft.wiki/images/Golden_Axe_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "12",
         "attack damage": "JE: 7HP\nBE: 4HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 32\nBE: 33",
         "enchantability": "22",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nVillager gifts"
     },
-    "Golden Pickaxe": {
+    "Golden_Pickaxe": {
         "image": "https://minecraft.wiki/images/Golden_Pickaxe_JE4_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "12",
         "mining level": "0",
         "attack damage": "JE: 2HP\nBE: 3HP",
-        "attack speed\u200c": "1.2 (0.833 seconds)",
+        "attack speed": "1.2 (0.833 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 32\nBE: 33",
         "enchantability": "22",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Golden Shovel": {
+    "Golden_Shovel": {
         "image": "https://minecraft.wiki/images/Golden_Shovel_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "12",
-        "attack damage": "JE: 2.5HP \u00d7 1.25\nBE: 2HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack damage": "JE: 2.5HP x 1.25\nBE: 2HP",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 32\nBE: 33",
         "enchantability": "22",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Golden Sword": {
+    "Golden_Sword": {
         "image": "https://minecraft.wiki/images/Golden_Sword_JE3_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 4HP\nBE: 5HP",
-        "attack speed\u200c": "1.6 (0.625 seconds)",
+        "attack speed": "1.6 (0.625 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
-        "sweep damage\u200c": "1HP\nSE I: 2HP\nSE II: 2.68HP \u00d7 1.34\nSE III: 3HP",
+        "sweep damage": "1HP\nSE I: 2HP\nSE II: 2.68HP x 1.34\nSE III: 3HP",
         "mining efficiency": "1.5\n15 (on cobwebs)\n30 (on bamboo)",
         "durability": "JE: 32\nBE: 33",
         "enchantability": "22",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nGenerated loot\nCrafting"
     },
     "Bowl": {
         "image": "https://minecraft.wiki/images/Bowl_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nFishing\nMob loot\nEating"
     },
-    "Mushroom Stew": {
+    "Mushroom_Stew": {
         "image": "https://minecraft.wiki/images/Mushroom_Stew_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "6 ()",
         "saturation": "7.2 ()",
-        "saturation boost\u200c": "Heals: 4.8HP \u00d7 2.4\nDuration: 2.4 seconds",
+        "saturation boost": "Heals: 4.8HP x 2.4\nDuration: 2.4 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nHarvesting"
     },
     "Gunpowder": {
         "image": "https://minecraft.wiki/images/Gunpowder_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nGenerated loot\nTrading"
     },
     "String": {
         "image": "https://minecraft.wiki/images/thumb/Tripwire_%28NESW%29.png/150px-Tripwire_%28NESW%29.png",
@@ -554,16 +598,18 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Default (Harp)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Breaking\nNatural generation\nMob loot\nGenerated loot\nFishing\nBartering\nCat gifts"
     },
     "Feather": {
         "image": "https://minecraft.wiki/images/Feather_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nGenerated loot\nCat gifts"
     },
-    "Wheat Seeds": {
+    "Wheat_Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Wheat_Age_0_JE9.png/150px-Wheat_Age_0_JE9.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -574,16 +620,18 @@
         "transparent": "Yes",
         "flammable": "No",
         "catches fire from lava": "No",
-        "map color": ": \n\u00a07 PLANT\n : \n\u00a018 COLOR_YELLOW",
+        "map color": ":\n7 PLANT\n:\n18 COLOR_YELLOW",
         "note block instrument": "Default (Harp)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Breaking\nNatural generation\nGenerated loot\nTrading\nMob loot\nVillager gifts"
     },
     "Wheat": {
         "image": "https://minecraft.wiki/images/Wheat_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Farming\nCrafting\nGenerated loot\nMob loot"
     },
     "Bread": {
         "image": "https://minecraft.wiki/images/Bread_JE3_BE3.png",
@@ -591,208 +639,225 @@
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "5 ()",
         "saturation": "6 ()",
-        "saturation boost\u200c": "Heals: 4HP\nDuration: 2 seconds",
+        "saturation boost": "Heals: 4HP\nDuration: 2 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading\nVillager gifts"
     },
-    "Wooden Hoe": {
+    "Wooden_Hoe": {
         "image": "https://minecraft.wiki/images/Wooden_Hoe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "2",
         "attack damage": "JE: 1HP\nBE: 3HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 59\nBE: 60",
         "enchantability": "15",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Stone Hoe": {
+    "Stone_Hoe": {
         "image": "https://minecraft.wiki/images/Stone_Hoe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "4",
         "attack damage": "JE: 1HP\nBE: 4HP",
-        "attack speed\u200c": "2 (0.5 seconds)",
+        "attack speed": "2 (0.5 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 131\nBE: 132",
         "enchantability": "5",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nRepairing\nTrading\nVillager gifts"
     },
-    "Iron Hoe": {
+    "Iron_Hoe": {
         "image": "https://minecraft.wiki/images/Iron_Hoe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "6",
         "attack damage": "JE: 1HP\nBE: 5HP",
-        "attack speed\u200c": "3 (0.333 seconds)",
+        "attack speed": "3 (0.333 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 250\nBE: 251",
         "enchantability": "14",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting"
     },
-    "Golden Hoe": {
+    "Golden_Hoe": {
         "image": "https://minecraft.wiki/images/Golden_Hoe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "12",
         "attack damage": "JE: 1HP\nBE: 3HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 32\nBE: 33",
         "enchantability": "22",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Diamond Hoe": {
+    "Diamond_Hoe": {
         "image": "https://minecraft.wiki/images/Diamond_Hoe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "8",
         "attack damage": "JE: 1HP\nBE: 6HP",
-        "attack speed\u200c": "4 (0.25 seconds)",
+        "attack speed": "4 (0.25 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 1561\nBE: 1562",
         "enchantability": "10",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Golden Helmet": {
+    "Golden_Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Helmet_JE2_BE2.png/160px-Golden_Helmet_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "2\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "2 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 77\nBE: 78",
         "enchantability": "25",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Golden Chestplate": {
+    "Golden_Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Chestplate_JE2_BE2.png/160px-Golden_Chestplate_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "5\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "5 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 112\nBE: 113",
         "enchantability": "25",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Golden Leggings": {
+    "Golden_Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Leggings_JE2_BE2.png/160px-Golden_Leggings_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "3\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "3 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 105\nBE: 106",
         "enchantability": "25",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Golden Boots": {
+    "Golden_Boots": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Boots_JE2_BE2.png/160px-Golden_Boots_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "1\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "1 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 91\nBE: 92",
         "enchantability": "25",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Diamond Helmet": {
+    "Diamond_Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Helmet_JE2_BE2.png/160px-Diamond_Helmet_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "3\u00a0()",
-        "armor toughness": "2\u00a0()",
+        "armor": "3 ()",
+        "armor toughness": "2 ()",
         "durability": "JE: 363\nBE: 364",
         "enchantability": "10",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Diamond Chestplate": {
+    "Diamond_Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Chestplate_JE3_BE2.png/160px-Diamond_Chestplate_JE3_BE2.png",
         "rarity tier": "Common",
-        "armor": "8\u00a0()",
-        "armor toughness": "2\u00a0()",
+        "armor": "8 ()",
+        "armor toughness": "2 ()",
         "durability": "JE: 528\nBE: 529",
         "enchantability": "10",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Diamond Leggings": {
+    "Diamond_Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Leggings_JE2_BE2.png/160px-Diamond_Leggings_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "6\u00a0()",
-        "armor toughness": "2\u00a0()",
+        "armor": "6 ()",
+        "armor toughness": "2 ()",
         "durability": "JE: 495\nBE: 496",
         "enchantability": "10",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Diamond Boots": {
+    "Diamond_Boots": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Boots_JE2_BE2.png/160px-Diamond_Boots_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "3\u00a0()",
-        "armor toughness": "2\u00a0()",
+        "armor": "3 ()",
+        "armor toughness": "2 ()",
         "durability": "JE: 429\nBE: 430",
         "enchantability": "10",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
     "Flint": {
         "image": "https://minecraft.wiki/images/Flint_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mining\nGenerated loot\nTrading"
     },
-    "Raw Porkchop": {
+    "Raw_Porkchop": {
         "image": "https://minecraft.wiki/images/Raw_Porkchop_JE3_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "3 ()",
         "saturation": "1.8 ()",
-        "saturation boost\u200c": "Heals: 1.2HP \u00d7 0.6\nDuration: 0.6 seconds",
+        "saturation boost": "Heals: 1.2HP x 0.6\nDuration: 0.6 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Cooked Porkchop": {
+    "Cooked_Porkchop": {
         "image": "https://minecraft.wiki/images/Cooked_Porkchop_JE4_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "8 ()",
-        "saturation": "12.8 ( \u00d7 6.4)",
-        "saturation boost\u200c": "Heals: 8.533HP \u00d7 4.2665\nDuration: 4.267 seconds",
+        "saturation": "12.8 ( x 6.4)",
+        "saturation boost": "Heals: 8.533HP x 4.2665\nDuration: 4.267 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Mob loot\nGenerated loot\nCooking\nTrading\nVillager gifts"
     },
     "Painting": {
         "image": "https://minecraft.wiki/images/Painting_JE2_BE2.png",
@@ -800,7 +865,8 @@
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "drops": "1 Painting",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Breaking\nCrafting\nTrading"
     },
     "Golden Apple": {
         "image": "https://minecraft.wiki/images/Golden_Apple_JE2_BE2.png",
@@ -808,33 +874,37 @@
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "4 ()",
         "saturation": "9.6 ()",
-        "saturation boost\u200c": "Heals: 6.4HP \u00d7 3.2\nDuration: 3.2 seconds",
+        "saturation boost": "Heals: 6.4HP x 3.2\nDuration: 3.2 seconds",
         "status effects": "Absorption (2:00)\nRegeneration II (0:05)",
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Generated loot\nCrafting"
     },
     "Bucket": {
         "image": "https://minecraft.wiki/images/Bucket_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (16), except in furnace fuel slot",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Water Bucket": {
+    "Water_Bucket": {
         "image": "https://minecraft.wiki/images/Water_Bucket_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Interacting\nGenerated loot\nSmelting"
     },
-    "Lava Bucket": {
+    "Lava_Bucket": {
         "image": "https://minecraft.wiki/images/Lava_Bucket_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Interacting"
     },
     "Minecart": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_JE4_BE2.png/160px-Minecart_JE4_BE2.png",
@@ -844,14 +914,16 @@
         "size": "Height: 0.7 blocks\nWidth: 0.98 blocks",
         "drops": "1 Minecart",
         "health points": "6HP",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nEntity loot"
     },
     "Saddle": {
         "image": "https://minecraft.wiki/images/thumb/Saddle_%28Pig%29_JE2_BE2.png/160px-Saddle_%28Pig%29_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "pre-alpha"
+        "version": "pre-alpha",
+        "toc obtaining": "Crafting\nMob loot\nGenerated loot\nFishing\nTrading"
     },
     "Snowball": {
         "image": "https://minecraft.wiki/images/Snowball_JE3_BE3.png",
@@ -859,7 +931,8 @@
         "renewable": "Yes",
         "stackable": "Yes (16)",
         "size": "Height: 0.25 blocks\nWidth: 0.25 blocks",
-        "version": "Alpha 1.0.5"
+        "version": "Alpha 1.0.5",
+        "toc obtaining": "Mining\nMob loot\nGenerated loot"
     },
     "Boat": {
         "image": "https://minecraft.wiki/images/thumb/Oak_Boat_JE4_BE2.png/160px-Oak_Boat_JE4_BE2.png",
@@ -868,17 +941,19 @@
         "stackable": "No",
         "flammable item?": "Yes",
         "size": "In Java Edition:\n\nHeight: 0.5625 blocks\nWidth: 1.375 blocks\n\nIn Bedrock Edition:\n\nHeight: 0.455 blocks\nWidth: 1.4 blocks",
-        "health points": "JE: Just over 4HP\nBE: 40HP \u00d7 20",
-        "version": "Alpha 1.0.6"
+        "health points": "JE: Just over 4HP\nBE: 40HP x 20",
+        "version": "Alpha 1.0.6",
+        "toc obtaining": "Crafting"
     },
     "Leather": {
         "image": "https://minecraft.wiki/images/Leather_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.0.8"
+        "version": "Alpha 1.0.8",
+        "toc obtaining": "Mob loot\nGenerated loot\nCrafting\nFishing\nBartering\nVillager gifts"
     },
-    "Milk Bucket": {
+    "Milk_Bucket": {
         "image": "https://minecraft.wiki/images/Milk_Bucket_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -886,43 +961,49 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "Alpha 1.0.8"
+        "version": "Alpha 1.0.8",
+        "toc obtaining": "Harvesting\nGenerated loot\nMob loot"
     },
     "Paper": {
         "image": "https://minecraft.wiki/images/Paper_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.0.11"
+        "version": "Alpha 1.0.11",
+        "toc obtaining": "Generated loot\nCrafting\nVillager gifts"
     },
     "Book": {
         "image": "https://minecraft.wiki/images/Book_JE2_BE2.png",
-        "rarity tier": "Common\u200c\nUncommon\u200c",
+        "rarity tier": "Common\nUncommon",
         "enchantability": "1",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.0.11"
+        "version": "Alpha 1.0.11",
+        "toc obtaining": "Block loot\nGenerated loot\nCrafting\nGrindstones\nVillager gifts"
     },
-    "Clay Ball": {
+    "Clay_Ball": {
         "image": "https://minecraft.wiki/images/Clay_Ball_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.0.11"
+        "version": "Alpha 1.0.11",
+        "toc obtaining": "Mining\nGenerated loot"
     },
     "Brick": {
         "image": "https://minecraft.wiki/images/Brick_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.0.11"
+        "version": "Alpha 1.0.11",
+        "toc obtaining": "Mining\nGenerated loot\nSmelting\nTrading"
     },
     "Slimeball": {
         "image": "https://minecraft.wiki/images/Slimeball_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.0.11"
+        "version": "Alpha 1.0.11",
+        "toc obtaining": "Mob loot\nCrafting\nTrading"
     },
     "Egg": {
         "image": "https://minecraft.wiki/images/Egg_JE2_BE2.png",
@@ -930,23 +1011,26 @@
         "renewable": "Yes",
         "stackable": "Yes (16)",
         "size": "Height: 0.25 blocks\nWidth: 0.25 blocks",
-        "version": "Alpha 1.0.14"
+        "version": "Alpha 1.0.14",
+        "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Music Disc 13": {
+    "Music_Disc_13": {
         "image": "https://minecraft.wiki/images/Music_Disc_13_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "Alpha 1.0.14"
+        "version": "Alpha 1.0.14",
+        "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Music Disc cat": {
+    "Music_Disc_cat": {
         "image": "https://minecraft.wiki/images/Music_Disc_cat_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "Alpha 1.0.14"
+        "version": "Alpha 1.0.14",
+        "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Minecart with Furnace": {
+    "Minecart_with_Furnace": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_Furnace_JE3.png/160px-Minecart_with_Furnace_JE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -954,94 +1038,105 @@
         "size": "Height: 0.7 blocks\nWidth: 0.98 blocks",
         "drops": "1 Minecart with Furnace",
         "health points": "6HP",
-        "version": "Alpha 1.0.14"
+        "version": "Alpha 1.0.14",
+        "toc obtaining": "Crafting"
     },
-    "Minecart with Chest": {
+    "Minecart_with_Chest": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_Chest_JE4_BE2.png/160px-Minecart_with_Chest_JE4_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
         "size": "Height: 0.7 blocks\nWidth: 0.98 blocks",
-        "drops": "1 Minecart with Chest\n plus contents",
+        "drops": "1 Minecart with Chest\nplus contents",
         "health points": "6HP",
-        "version": "Alpha 1.0.14"
+        "version": "Alpha 1.0.14",
+        "toc obtaining": "Natural generation\nCrafting"
     },
     "Compass": {
         "image": "https://minecraft.wiki/images/Compass_JE3_BE3.gif",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.1.0"
+        "version": "Alpha 1.1.0",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Fishing Rod": {
+    "Fishing_Rod": {
         "image": "https://minecraft.wiki/images/Fishing_Rod_JE2_BE2.png",
         "rarity tier": "Common",
         "durability": "JE: 64\nBE: 385",
         "enchantability": "1",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "Alpha 1.1.1"
+        "version": "Alpha 1.1.1",
+        "toc obtaining": "Crafting\nFishing\nMob loot\nGenerated loot\nTrading\nCarrot/warped fungus on a stick"
     },
     "Clock": {
         "image": "https://minecraft.wiki/images/Clock_JE3_BE3.gif",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.2.0"
+        "version": "Alpha 1.2.0",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Glowstone Dust": {
+    "Glowstone_Dust": {
         "image": "https://minecraft.wiki/images/Glowstone_Dust_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.2.0"
+        "version": "Alpha 1.2.0",
+        "toc obtaining": "Mining\nMob loot"
     },
-    "Cooked Cod": {
+    "Cooked_Cod": {
         "image": "https://minecraft.wiki/images/Cooked_Cod_JE4_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "5 ()",
         "saturation": "6 ()",
-        "saturation boost\u200c": "Heals: 4HP\nDuration: 2 seconds",
+        "saturation boost": "Heals: 4HP\nDuration: 2 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.2.0"
+        "version": "Alpha 1.2.0",
+        "toc obtaining": "Mob loot\nGenerated loot\nCooking\nTrading"
     },
-    "Raw Cod": {
+    "Raw_Cod": {
         "image": "https://minecraft.wiki/images/Raw_Cod_JE4_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "0.4 ()",
-        "saturation boost\u200c": "Heals: 0.267HP \u00d7 0.1335\nDuration: 0.133 seconds",
+        "saturation boost": "Heals: 0.267HP x 0.1335\nDuration: 0.133 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Alpha 1.2.0"
+        "version": "Alpha 1.2.0",
+        "toc obtaining": "Mob loot\nGenerated loot\nFishing\nVillager gifts"
     },
     "Bone": {
         "image": "https://minecraft.wiki/images/Bone_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Mob loot\nGenerated loot\nFishing"
     },
-    "Bone Meal": {
+    "Bone_Meal": {
         "image": "https://minecraft.wiki/images/Bone_Meal_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Mob loot\nCrafting\nGenerated loot\nComposting"
     },
-    "Lapis Lazuli": {
+    "Lapis_Lazuli": {
         "image": "https://minecraft.wiki/images/Lapis_Lazuli_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Mining\nGenerated loot\nCrafting\nSmelting\nTrading\nVillager gifts"
     },
-    "Cocoa Beans": {
+    "Cocoa_Beans": {
         "image": "https://minecraft.wiki/images/thumb/Cocoa_Age_0_%28S%29_JE5.png/150px-Cocoa_Age_0_%28S%29_JE5.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1054,112 +1149,128 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Natural generation\nBreaking\nGenerated loot\nFishing"
     },
-    "Ink Sac": {
+    "Ink_Sac": {
         "image": "https://minecraft.wiki/images/Ink_Sac_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Mob loot\nGenerated loot\nFishing\nCompound creation"
     },
     "Charcoal": {
         "image": "https://minecraft.wiki/images/Charcoal_JE4_BE4.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Mining\nSmelting\nCompound creation"
     },
-    "Light Gray Dye": {
+    "Light_Gray_Dye": {
         "image": "https://minecraft.wiki/images/Light_Gray_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Gray Dye": {
+    "Gray_Dye": {
         "image": "https://minecraft.wiki/images/Gray_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Red Dye": {
+    "Red_Dye": {
         "image": "https://minecraft.wiki/images/Red_Dye_JE4_BE4.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Orange Dye": {
+    "Orange_Dye": {
         "image": "https://minecraft.wiki/images/Orange_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Yellow Dye": {
+    "Yellow_Dye": {
         "image": "https://minecraft.wiki/images/Yellow_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Lime Dye": {
+    "Lime_Dye": {
         "image": "https://minecraft.wiki/images/Lime_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nSmelting\nTrading\nMob loot"
     },
-    "Green Dye": {
+    "Green_Dye": {
         "image": "https://minecraft.wiki/images/Green_Dye_JE4_BE4.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Generated loot\nSmelting\nTrading\nMob loot"
     },
-    "Cyan Dye": {
+    "Cyan_Dye": {
         "image": "https://minecraft.wiki/images/Cyan_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Light Blue Dye": {
+    "Light_Blue_Dye": {
         "image": "https://minecraft.wiki/images/Light_Blue_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Purple Dye": {
+    "Purple_Dye": {
         "image": "https://minecraft.wiki/images/Purple_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Magenta Dye": {
+    "Magenta_Dye": {
         "image": "https://minecraft.wiki/images/Magenta_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Pink Dye": {
+    "Pink_Dye": {
         "image": "https://minecraft.wiki/images/Pink_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Crafting\nTrading\nMob loot"
     },
     "Sugar": {
         "image": "https://minecraft.wiki/images/Sugar_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.2"
+        "version": "Beta 1.2",
+        "toc obtaining": "Mob loot\nCrafting\nCompound creation"
     },
     "Cookie": {
         "image": "https://minecraft.wiki/images/Cookie_JE2_BE2.png",
@@ -1168,18 +1279,20 @@
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "0.4 ()",
-        "saturation boost\u200c": "Heals: 0.267HP \u00d7 0.1335\nDuration: 0.133 seconds",
+        "saturation boost": "Heals: 0.267HP x 0.1335\nDuration: 0.133 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.4"
+        "version": "Beta 1.4",
+        "toc obtaining": "Crafting\nTrading\nVillager gifts"
     },
     "Map": {
         "image": "https://minecraft.wiki/images/thumb/Map_Zoom_4.png/160px-Map_Zoom_4.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.6"
+        "version": "Beta 1.6",
+        "toc obtaining": "Crafting\nCartography table\nStarting map\nGenerated loot\nTrading\nVillager gifts"
     },
     "Shears": {
         "image": "https://minecraft.wiki/images/Shears_JE2_BE2.png",
@@ -1189,67 +1302,73 @@
         "durability": "JE: 238\nBE: 239",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "Beta 1.7"
+        "version": "Beta 1.7",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Raw Chicken": {
+    "Raw_Chicken": {
         "image": "https://minecraft.wiki/images/Raw_Chicken_JE3_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "1.2 ()",
-        "saturation boost\u200c": "Heals: 0.8HP \u00d7 0.4\nDuration: 0.4 seconds",
+        "saturation boost": "Heals: 0.8HP x 0.4\nDuration: 0.4 seconds",
         "status effects": "Hunger (0:30) (30% chance)",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.8"
+        "version": "Beta 1.8",
+        "toc obtaining": "Mob loot\nCat gifts"
     },
-    "Cooked Chicken": {
+    "Cooked_Chicken": {
         "image": "https://minecraft.wiki/images/Cooked_Chicken_JE3_BE3.png",
         "other names": "Roast Chicken (GB, NZ)",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "6 ()",
         "saturation": "7.2 ()",
-        "saturation boost\u200c": "Heals: 4.8HP \u00d7 2.4\nDuration: 2.4 seconds",
+        "saturation boost": "Heals: 4.8HP x 2.4\nDuration: 2.4 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.8"
+        "version": "Beta 1.8",
+        "toc obtaining": "Mob loot\nGenerated loot\nCooking\nTrading\nVillager gifts"
     },
-    "Raw Beef": {
+    "Raw_Beef": {
         "image": "https://minecraft.wiki/images/Raw_Beef_JE4_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "3 ()",
         "saturation": "1.8 ()",
-        "saturation boost\u200c": "Heals: 1.2HP \u00d7 0.6\nDuration: 0.6 seconds",
+        "saturation boost": "Heals: 1.2HP x 0.6\nDuration: 0.6 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.8"
+        "version": "Beta 1.8",
+        "toc obtaining": "Mob loot\nChest loot"
     },
     "Steak": {
         "image": "https://minecraft.wiki/images/Steak_JE4_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "8 ()",
-        "saturation": "12.8 ( \u00d7 6.4)",
-        "saturation boost\u200c": "Heals: 8.533HP \u00d7 4.2665\nDuration: 4.267 seconds",
+        "saturation": "12.8 ( x 6.4)",
+        "saturation boost": "Heals: 8.533HP x 4.2665\nDuration: 4.267 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.8"
+        "version": "Beta 1.8",
+        "toc obtaining": "Mob loot\nGenerated loot\nCooking\nVillager gifts"
     },
-    "Ender Pearl": {
+    "Ender_Pearl": {
         "image": "https://minecraft.wiki/images/Ender_Pearl_JE3_BE2.png",
         "rarity tier": "Common",
         "use cooldown": "1 second (20 ticks)",
         "renewable": "Yes",
         "stackable": "Yes (16)",
-        "version": "Beta 1.8"
+        "version": "Beta 1.8",
+        "toc obtaining": "Mob loot\nGenerated loot\nTrading\nBartering"
     },
-    "Melon Seeds": {
+    "Melon_Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Stem_Age_0_JE6.png/150px-Stem_Age_0_JE6.png",
         "other names": "Watermelon Seeds (NZ)",
         "renewable": "Yes",
@@ -1263,22 +1382,24 @@
         "catches fire from lava": "No",
         "map color": "19 COLOR_LIGHT_GREEN",
         "note block instrument": "Default (Harp)",
-        "version": "Beta 1.8"
+        "version": "Beta 1.8",
+        "toc obtaining": "Breaking\nNatural generation\nGenerated loot\nCrafting\nTrading\nMob loot"
     },
-    "Melon Slice": {
+    "Melon_Slice": {
         "image": "https://minecraft.wiki/images/Melon_Slice_JE2_BE2.png",
         "other names": "Watermelon Slice (NZ)",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "1.2 ()",
-        "saturation boost\u200c": "Heals: 0.8HP \u00d7 0.4\nDuration: 0.4 seconds",
+        "saturation boost": "Heals: 0.8HP x 0.4\nDuration: 0.4 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.8"
+        "version": "Beta 1.8",
+        "toc obtaining": "Block loot"
     },
-    "Pumpkin Seeds": {
+    "Pumpkin_Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Pumpkin_Stem_Age_0_JE7.png/150px-Pumpkin_Stem_Age_0_JE7.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1291,44 +1412,49 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Default (Harp)",
-        "version": "Beta 1.8"
+        "version": "Beta 1.8",
+        "toc obtaining": "Breaking\nNatural generation\nGenerated loot\nCrafting\nTrading\nMob loot\nPost-generation"
     },
-    "Rotten Flesh": {
+    "Rotten_Flesh": {
         "image": "https://minecraft.wiki/images/Rotten_Flesh_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "4 ()",
         "saturation": "0.8 ()",
-        "saturation boost\u200c": "Heals: 0.533HP \u00d7 0.2665\nDuration: 0.267 seconds",
+        "saturation boost": "Heals: 0.533HP x 0.2665\nDuration: 0.267 seconds",
         "status effects": "Hunger (0:30) (80% chance)",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "Beta 1.8"
+        "version": "Beta 1.8",
+        "toc obtaining": "Mob loot\nGenerated loot\nFishing\nCat gifts"
     },
-    "Blaze Rod": {
+    "Blaze_Rod": {
         "image": "https://minecraft.wiki/images/Blaze_Rod_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Ghast Tear": {
+    "Ghast_Tear": {
         "image": "https://minecraft.wiki/images/Ghast_Tear_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Gold Nugget": {
+    "Gold_Nugget": {
         "image": "https://minecraft.wiki/images/Gold_Nugget_JE3_BE2.png",
         "other names": "Golden Nugget (GB)",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Crafting\nSmelting\nMob loot\nGenerated loot\nMining"
     },
-    "Nether Wart": {
+    "Nether_Wart": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Wart_Age_0_JE8.png/150px-Nether_Wart_Age_0_JE8.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1341,155 +1467,274 @@
         "catches fire from lava": "No",
         "map color": "28 COLOR_RED",
         "note block instrument": "Default (Harp)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Breaking\nNatural generation\nGenerated loot"
     },
-    "Blaze Powder": {
+    "Blaze_Powder": {
         "image": "https://minecraft.wiki/images/Blaze_Powder_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Crafting"
     },
-    "Fermented Spider Eye": {
+    "Fermented_Spider_Eye": {
         "image": "https://minecraft.wiki/images/Fermented_Spider_Eye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Crafting"
     },
-    "Glass Bottle": {
+    "Glass_Bottle": {
         "image": "https://minecraft.wiki/images/Glass_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot\nCrafting\nDrinking\nMud\nCauldrons"
     },
-    "Magma Cream": {
+    "Magma_Cream": {
         "image": "https://minecraft.wiki/images/Magma_Cream_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot\nChest Loot\nCrafting"
     },
-    "Music Disc 11": {
+    "Music_Disc_11": {
         "image": "https://minecraft.wiki/images/Music_Disc_11_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Music Disc blocks": {
+    "Music_Disc_blocks": {
         "image": "https://minecraft.wiki/images/Music_Disc_blocks_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Music Disc chirp": {
+    "Music_Disc_chirp": {
         "image": "https://minecraft.wiki/images/Music_Disc_chirp_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Music Disc far": {
+    "Music_Disc_far": {
         "image": "https://minecraft.wiki/images/Music_Disc_far_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Music Disc mall": {
+    "Music_Disc_mall": {
         "image": "https://minecraft.wiki/images/Music_Disc_mall_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Music Disc mellohi": {
+    "Music_Disc_mellohi": {
         "image": "https://minecraft.wiki/images/Music_Disc_mellohi_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Music Disc stal": {
+    "Music_Disc_stal": {
         "image": "https://minecraft.wiki/images/Music_Disc_stal_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Music Disc strad": {
+    "Music_Disc_strad": {
         "image": "https://minecraft.wiki/images/Music_Disc_strad_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Music Disc ward": {
+    "Music_Disc_ward": {
         "image": "https://minecraft.wiki/images/Music_Disc_ward_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot"
     },
-    "Spider Eye": {
+    "Spider_Eye": {
         "image": "https://minecraft.wiki/images/Spider_Eye_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "3.2 ()",
-        "saturation boost\u200c": "Heals: 2.133HP \u00d7 1.0665\nDuration: 1.067 seconds",
+        "saturation boost": "Heals: 2.133HP x 1.0665\nDuration: 1.067 seconds",
         "status effects": "Poison (0:05)",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Awkward Potion": {
+    "Awkward_Potion": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing"
     },
-    "Thick Potion": {
+    "Thick_Potion": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing"
     },
-    "Mundane Potion": {
+    "Mundane_Potion": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "always consumable": "Yes",
         "renewable": "Mundane Potion: Yes\nLong Mundane Potion: No",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing"
     },
-    "Eye of Ender": {
+    "Eye_of_Ender": {
         "image": "https://minecraft.wiki/images/Eye_of_Ender_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "size": "Height: 0.25 blocks\nWidth: 0.25 blocks",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Crafting"
     },
-    "Water Bottle": {
+    "Water_Bottle": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Glass bottle\nBartering\nFishing"
+    },
+    "Potion_of_Swiftness": {
+        "image": "https://minecraft.wiki/images/Potion_of_Swiftness_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
+    },
+    "Potion_of_Slowness": {
+        "image": "https://minecraft.wiki/images/Potion_of_Slowness_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.0.0",
+        "toc obtaining": "Brewing"
+    },
+    "Potion_of_Strength": {
+        "image": "https://minecraft.wiki/images/Potion_of_Strength_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nGenerated loot"
+    },
+    "Potion_of_Weakness": {
+        "image": "https://minecraft.wiki/images/Potion_of_Weakness_JE2_BE2.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nThrown projectile\nGenerated loot"
+    },
+    "Potion_of_Healing": {
+        "image": "https://minecraft.wiki/images/Potion_of_Healing_JE2_BE2.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
+    },
+    "Potion_of_Harming": {
+        "image": "https://minecraft.wiki/images/Potion_of_Harming_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.0.0",
+        "toc obtaining": "Brewing"
+    },
+    "Potion_of_Regeneration": {
+        "image": "https://minecraft.wiki/images/Potion_of_Regeneration_JE2_BE2.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
+    },
+    "Potion_of_Fire_Resistance": {
+        "image": "https://minecraft.wiki/images/Potion_of_Fire_Resistance_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot\nBartering"
+    },
+    "Potion_of_Poison": {
+        "image": "https://minecraft.wiki/images/Potion_of_Poison_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.0.0",
+        "toc obtaining": "Generated Loot\nBrewing"
+    },
+    "Glistering_Melon_Slice": {
+        "image": "https://minecraft.wiki/images/Glistering_Melon_Slice_JE3_BE2.png",
+        "other names": "Glistering Watermelon Slice (NZ)",
+        "rarity tier": "Common",
+        "renewable": "Yes",
+        "stackable": "Yes (64)",
+        "version": "1.0.0",
+        "toc obtaining": "Generated loot\nCrafting\nTrading"
     },
     "Potion of Swiftness": {
         "image": "https://minecraft.wiki/images/Potion_of_Swiftness_JE3.png",
@@ -1498,7 +1743,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
     },
     "Potion of Slowness": {
         "image": "https://minecraft.wiki/images/Potion_of_Slowness_JE3.png",
@@ -1507,7 +1753,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing"
     },
     "Potion of Strength": {
         "image": "https://minecraft.wiki/images/Potion_of_Strength_JE3.png",
@@ -1516,7 +1763,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nGenerated loot"
     },
     "Potion of Weakness": {
         "image": "https://minecraft.wiki/images/Potion_of_Weakness_JE2_BE2.png",
@@ -1525,7 +1773,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nThrown projectile\nGenerated loot"
     },
     "Potion of Healing": {
         "image": "https://minecraft.wiki/images/Potion_of_Healing_JE2_BE2.png",
@@ -1534,7 +1783,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
     },
     "Potion of Harming": {
         "image": "https://minecraft.wiki/images/Potion_of_Harming_JE3.png",
@@ -1543,7 +1793,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing"
     },
     "Potion of Regeneration": {
         "image": "https://minecraft.wiki/images/Potion_of_Regeneration_JE2_BE2.png",
@@ -1552,7 +1803,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
     },
     "Potion of Fire Resistance": {
         "image": "https://minecraft.wiki/images/Potion_of_Fire_Resistance_JE3.png",
@@ -1561,7 +1813,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot\nBartering"
     },
     "Potion of Poison": {
         "image": "https://minecraft.wiki/images/Potion_of_Poison_JE3.png",
@@ -1570,72 +1823,82 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.0.0"
-    },
-    "Glistering Melon Slice": {
-        "image": "https://minecraft.wiki/images/Glistering_Melon_Slice_JE3_BE2.png",
-        "other names": "Glistering Watermelon Slice (NZ)",
-        "rarity tier": "Common",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "toc obtaining": "Generated Loot\nBrewing"
     },
     "Spawn Egg": {
         "image": "https://minecraft.wiki/images/Creeper_Spawn_Egg_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64), the same type of spawn egg only",
-        "version": "1.1"
+        "version": "1.1",
+        "toc obtaining": ""
     },
-    "Bottle o' Enchanting": {
+    "Bottle_o'_Enchanting": {
         "image": "https://minecraft.wiki/images/Bottle_o%27_Enchanting.gif",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "size": "Height: 0.25 blocks\nWidth: 0.25 blocks",
-        "version": "1.2.1"
+        "version": "1.2.1",
+        "toc obtaining": "Generated loot\nTrading"
     },
-    "Fire Charge": {
+    "Fire_Charge": {
         "image": "https://minecraft.wiki/images/Fire_Charge_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "network id": "JE: 64",
-        "version": "1.2.1"
+        "version": "1.2.1",
+        "toc obtaining": "Generated loot\nCrafting\nBartering\nNatural occurrence"
     },
-    "Book and Quill": {
+    "Book_and_Quill": {
         "image": "https://minecraft.wiki/images/Book_and_Quill_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.3.1"
+        "version": "1.3.1",
+        "toc obtaining": "Crafting"
     },
-    "Written Book": {
+    "Written_Book": {
         "image": "https://minecraft.wiki/images/Written_Book_JE2_BE2.gif",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (16)",
-        "version": "1.3.1"
+        "version": "1.3.1",
+        "toc obtaining": "Signing a book and quill\nCopying"
     },
     "Emerald": {
         "image": "https://minecraft.wiki/images/Emerald_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.3.1"
+        "version": "1.3.1",
+        "toc obtaining": "Mining\nCrafting\nSmelting\nTrading\nMob loot\nGenerated loot"
     },
-    "Enchanted Golden Apple": {
+    "Enchanted_Golden_Apple": {
         "image": "https://minecraft.wiki/images/Enchanted_Golden_Apple_JE2_BE2.gif",
         "rarity tier": "Rare",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "4 ()",
         "saturation": "9.6 ()",
-        "saturation boost\u200c": "Heals: 6.4HP \u00d7 3.2\nDuration: 3.2 seconds",
-        "status effects": "Absorption IV (2:00)\nRegeneration II (0:20)\u200c (0:30)\u200c\nFire Resistance (5:00)\nResistance (5:00)",
+        "saturation boost": "Heals: 6.4HP x 3.2\nDuration: 3.2 seconds",
+        "status effects": "Absorption IV (2:00)\nRegeneration II (0:20) (0:30)\nFire Resistance (5:00)\nResistance (5:00)",
         "always consumable": "Yes",
         "renewable": "No (except via ominous vault)",
         "stackable": "Yes (64)",
-        "version": "1.3.1"
+        "version": "1.3.1",
+        "toc obtaining": "Generated loot"
+    },
+    "Potion_of_Night_Vision": {
+        "image": "https://minecraft.wiki/images/Potion_of_Night_Vision_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.4.2",
+        "toc obtaining": "Brewing"
     },
     "Potion of Night Vision": {
         "image": "https://minecraft.wiki/images/Potion_of_Night_Vision_JE3.png",
@@ -1644,7 +1907,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Brewing"
     },
     "Carrot": {
         "image": "https://minecraft.wiki/images/thumb/Carrots_Age_0-1_JE8.png/160px-Carrots_Age_0-1_JE8.png",
@@ -1652,23 +1916,25 @@
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "3 ()",
         "saturation": "3.6 ()",
-        "saturation boost\u200c": "Heals: 2.4HP \u00d7 1.2\nDuration: 1.2 seconds",
+        "saturation boost": "Heals: 2.4HP x 1.2\nDuration: 1.2 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Breaking\nNatural generation\nMob loot\nGenerated loot"
     },
-    "Golden Carrot": {
+    "Golden_Carrot": {
         "image": "https://minecraft.wiki/images/Golden_Carrot_JE4_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "6 ()",
-        "saturation": "14.4 ( \u00d7 7.2)",
-        "saturation boost\u200c": "Heals: 9.6HP \u00d7 4.8\nDuration: 4.8 seconds",
+        "saturation": "14.4 ( x 7.2)",
+        "saturation boost": "Heals: 9.6HP x 4.8\nDuration: 4.8 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Generated loot\nCrafting\nTrading"
     },
     "Potato": {
         "image": "https://minecraft.wiki/images/thumb/Potatoes_Age_0-1_JE8.png/160px-Potatoes_Age_0-1_JE8.png",
@@ -1676,53 +1942,67 @@
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "1 ()",
         "saturation": "0.6 ()",
-        "saturation boost\u200c": "Heals: 0.4HP \u00d7 0.2\nDuration: 0.2 seconds",
+        "saturation boost": "Heals: 0.4HP x 0.2\nDuration: 0.2 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Breaking\nNatural generation\nMob loot\nGenerated loot"
     },
-    "Baked Potato": {
+    "Baked_Potato": {
         "image": "https://minecraft.wiki/images/Baked_Potato_JE4_BE2.png",
         "other names": "Jacket Potato (GB)",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "5 ()",
         "saturation": "6 ()",
-        "saturation boost\u200c": "Heals: 4HP\nDuration: 2 seconds",
+        "saturation boost": "Heals: 4HP\nDuration: 2 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Cooking\nGenerated loot\nMob loot"
     },
-    "Poisonous Potato": {
+    "Poisonous_Potato": {
         "image": "https://minecraft.wiki/images/Poisonous_Potato_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "1.2 ()",
-        "saturation boost\u200c": "Heals: 0.8HP \u00d7 0.4\nDuration: 0.4 seconds",
+        "saturation boost": "Heals: 0.8HP x 0.4\nDuration: 0.4 seconds",
         "status effects": "Poison (0:05) (60% chance)",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)\n(24w14potato: 99)",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Generated loot\nFarming"
     },
-    "Item Frame": {
+    "Item_Frame": {
         "image": "https://minecraft.wiki/images/thumb/Item_Frame_%28S%29_JE2_BE2.png/150px-Item_Frame_%28S%29_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "tool\u200c": "Any",
-        "drops": "Item Frame (1)\n The item it contains.",
-        "blast resistance\u200c": "0.25",
-        "hardness\u200c": "0.25",
-        "luminous\u200c": "No",
-        "transparent\u200c": "Yes",
-        "waterloggable\u200c": "Yes",
-        "flammable\u200c": "No",
-        "catches fire from lava\u200c": "No",
-        "version": "1.4.2"
+        "tool": "Any",
+        "drops": "Item Frame (1)\nThe item it contains.",
+        "blast resistance": "0.25",
+        "hardness": "0.25",
+        "luminous": "No",
+        "transparent": "Yes",
+        "waterloggable": "Yes",
+        "flammable": "No",
+        "catches fire from lava": "No",
+        "version": "1.4.2",
+        "toc obtaining": "Breaking\nNatural generation\nCrafting\nTrading"
+    },
+    "Potion_of_Invisibility": {
+        "image": "https://minecraft.wiki/images/Potion_of_Invisibility_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.4.2",
+        "toc obtaining": "Brewing\nMob loot\nTrading"
     },
     "Potion of Invisibility": {
         "image": "https://minecraft.wiki/images/Potion_of_Invisibility_JE3.png",
@@ -1731,79 +2011,89 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Brewing\nMob loot\nTrading"
     },
-    "Carrot on a Stick": {
+    "Carrot_on_a_Stick": {
         "image": "https://minecraft.wiki/images/Carrot_on_a_Stick_JE2_BE2.png",
         "rarity tier": "Common",
         "durability": "JE: 25\nBE: 26",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Crafting"
     },
-    "Nether Star": {
+    "Nether_Star": {
         "image": "https://minecraft.wiki/images/Nether_Star.gif",
         "rarity tier": "Rare",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Mob loot"
     },
-    "Pumpkin Pie": {
+    "Pumpkin_Pie": {
         "image": "https://minecraft.wiki/images/Pumpkin_Pie_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "8 ()",
         "saturation": "4.8 ()",
-        "saturation boost\u200c": "Heals: 3.2HP \u00d7 1.6\nDuration: 1.6 seconds",
+        "saturation boost": "Heals: 3.2HP x 1.6\nDuration: 1.6 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.4.2"
+        "version": "1.4.2",
+        "toc obtaining": "Chest Loot\nCrafting\nTrading\nVillager gifts"
     },
     "Music Disc wait": {
         "image": "https://minecraft.wiki/images/Music_Disc_wait_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.4.3"
+        "version": "1.4.3",
+        "toc obtaining": "Mob loot"
     },
-    "Enchanted Book": {
+    "Enchanted_Book": {
         "image": "https://minecraft.wiki/images/Enchanted_Book.gif",
-        "rarity tier": "* Rare\u200c\nCommon\u200c",
+        "rarity tier": "* Rare\nCommon",
         "renewable": "Swift Sneak: No\nWind Burst: No (except via ominous vault)\nAll others: Yes",
         "stackable": "No",
-        "version": "1.4.6"
+        "version": "1.4.6",
+        "toc obtaining": "Generated loot\nFishing\nTrading\nDrops\nEnchanting\nBartering"
     },
-    "Firework Rocket": {
+    "Firework_Rocket": {
         "image": "https://minecraft.wiki/images/Firework_Rocket_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "With Trail Effect: No (except via vault)\nWithout Trail Effect: Yes",
         "stackable": "Yes (64)",
         "size": "Height: 0.25 blocks\nWidth: 0.25 blocks",
-        "version": "1.4.6"
+        "version": "1.4.6",
+        "toc obtaining": "Crafting"
     },
-    "Firework Star": {
+    "Firework_Star": {
         "image": "https://minecraft.wiki/images/Invicon_White_Firework_Star.png",
         "rarity tier": "Common",
         "renewable": "With Trail Effect: No (except via vault)\nWithout Trail Effect: Yes",
         "stackable": "Yes (64)",
-        "version": "1.4.6"
+        "version": "1.4.6",
+        "toc obtaining": "Crafting"
     },
-    "Nether Brick": {
+    "Nether_Brick": {
         "image": "https://minecraft.wiki/images/Nether_Brick_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.5"
+        "version": "1.5",
+        "toc obtaining": "Smelting\nBartering"
     },
-    "Nether Quartz": {
+    "Nether_Quartz": {
         "image": "https://minecraft.wiki/images/Nether_Quartz_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.5"
+        "version": "1.5",
+        "toc obtaining": "Mining\nGenerated loot\nSmelting\nBartering"
     },
-    "Minecart with TNT": {
+    "Minecart_with_TNT": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_TNT_JE2_BE2.png/160px-Minecart_with_TNT_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1811,9 +2101,10 @@
         "size": "Height: 0.7 blocks\nWidth: 0.98 blocks",
         "drops": "If not exploded\n1 Minecart with TNT",
         "health points": "6HP",
-        "version": "1.5"
+        "version": "1.5",
+        "toc obtaining": "Crafting"
     },
-    "Minecart with Hopper": {
+    "Minecart_with_Hopper": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_Hopper_JE2_BE2.png/160px-Minecart_with_Hopper_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1821,95 +2112,117 @@
         "size": "Height: 0.7 blocks\nWidth: 0.98 blocks",
         "drops": "1 Minecart with Hopper\nplus contents",
         "health points": "6HP",
-        "version": "1.5"
+        "version": "1.5",
+        "toc obtaining": "Crafting"
     },
-    "Diamond Horse Armor": {
+    "Diamond_Horse_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Horse_Armor_JE4_BE3.png/160px-Diamond_Horse_Armor_JE4_BE3.png",
         "rarity tier": "Common",
-        "armor": "11\u00a0(\u00a0\u00d7 5.5)",
-        "armor toughness": "2\u00a0()",
+        "armor": "11 ( x 5.5)",
+        "armor toughness": "2 ()",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.6.1"
+        "version": "1.6.1",
+        "toc obtaining": ""
     },
     "Golden Horse Armor": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Horse_Armor_JE4_BE3.png/160px-Golden_Horse_Armor_JE4_BE3.png",
         "rarity tier": "Common",
-        "armor": "7\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "7 ()",
+        "armor toughness": "0 ()",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.6.1"
+        "version": "1.6.1",
+        "toc obtaining": ""
     },
-    "Iron Horse Armor": {
+    "Iron_Horse_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Horse_Armor_JE5_BE3.png/160px-Iron_Horse_Armor_JE5_BE3.png",
         "rarity tier": "Common",
-        "armor": "5\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "5 ()",
+        "armor toughness": "0 ()",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.6.1"
+        "version": "1.6.1",
+        "toc obtaining": ""
     },
     "Lead": {
         "image": "https://minecraft.wiki/images/Lead_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.6.1"
+        "version": "1.6.1",
+        "toc obtaining": "Mob loot\nGenerated loot\nCrafting"
     },
-    "Name Tag": {
+    "Name_Tag": {
         "image": "https://minecraft.wiki/images/Name_Tag_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.6.1"
+        "version": "1.6.1",
+        "toc obtaining": "Crafting\nGenerated loot\nFishing\nTrading"
     },
-    "Tropical Fish": {
-        "image": "https://minecraft.wiki/images/thumb/Clownfish.png/150px-Clownfish.png",
-        "health points": "3HP",
-        "behavior": "Passive",
-        "mob type": "Animal\nAquatic",
-        "hitbox size": "In Java Edition:\n\nHeight: 0.4 blocks\nWidth: 0.5 blocks\n\nIn Bedrock Edition:\n\nHeight: 0.52 blocks\nWidth: 0.52 blocks",
-        "speed": "0.7",
-        "spawn": "Mangrove Swamp \n Lukewarm Ocean \n Deep Lukewarm Ocean \n Warm Ocean \n Lush Caves",
-        "usable items": "Water Bucket",
-        "version": "1.7.2"
+    "Tropical_Fish_(item)": {
+        "image": "https://minecraft.wiki/images/Tropical_Fish_JE2_BE2.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "hunger": "1 ()",
+        "saturation": "0.2 ()",
+        "saturation boost": "Heals: 0.133HP x 0.0665\nDuration: 0.067 seconds",
+        "always consumable": "No",
+        "renewable": "Yes",
+        "stackable": "Yes (64)",
+        "version": "1.7.2",
+        "toc obtaining": "Mob loot\nFishing"
     },
-    "Raw Salmon": {
+    "Raw_Salmon": {
         "image": "https://minecraft.wiki/images/Raw_Salmon_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "0.4 ()",
-        "saturation boost\u200c": "Heals: 0.267HP \u00d7 0.1335\nDuration: 0.133 seconds",
+        "saturation boost": "Heals: 0.267HP x 0.1335\nDuration: 0.133 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.7.2"
+        "version": "1.7.2",
+        "toc obtaining": "Mob loot\nGenerated loot\nFishing\nVillager gifts"
     },
-    "Cooked Salmon": {
+    "Cooked_Salmon": {
         "image": "https://minecraft.wiki/images/Cooked_Salmon_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "6 ()",
         "saturation": "9.6 ()",
-        "saturation boost\u200c": "Heals: 6.4HP \u00d7 3.2\nDuration: 3.2 seconds",
+        "saturation boost": "Heals: 6.4HP x 3.2\nDuration: 3.2 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.7.2"
+        "version": "1.7.2",
+        "toc obtaining": "Mob loot\nGenerated loot\nCooking\nTrading"
     },
-    "Pufferfish": {
-        "image": "https://minecraft.wiki/images/thumb/Pufferfish_small.gif/150px-Pufferfish_small.gif",
-        "health points": "3HP",
-        "behavior": "Neutral",
-        "mob type": "Animal\nAquatic",
-        "attack strength": "Contact:\n\nSemi-puffed:\n\nEasy and Normal: 2HP\n\nHard: 3HP\n\nFully puffed:\n\nIn Java Edition:\n\nEasy: 2.5HP \u00d7 1.25\n\nNormal: 3HP\n\nHard: 4.5HP \u00d7 2.25\n\nIn Bedrock Edition:\n\nEasy and Normal: 2HP\n\nHard: 3HP\n\n\n\n Venom:\n\nSemi-puffed:\n\nPoison for 3 seconds (HP)\n\nFully puffed:\n\nIn Java Edition:\n\nPoison for 6 seconds (HP)\n\nIn Bedrock Edition:\n\nPoison for 10 seconds (HP)",
-        "hitbox size": "In Java Edition:\nUnpuffed:\nHeight: 0.35 blocks\nWidth: 0.35 blocks\nSemi-puffed:\nHeight: 0.49 blocks\nWidth: 0.49 blocks\nFully puffed:\nHeight: 0.7 blocks\nWidth: 0.7 blocks\n\nIn Bedrock Edition:\n\nHeight: 0.96 blocks\nWidth: 0.96 blocks",
-        "speed": "0.7",
-        "spawn": "Lukewarm Ocean\nDeep Lukewarm Ocean\nWarm Ocean",
-        "usable items": "Water Bucket\nName Tag",
-        "version": "1.7.2"
+    "Pufferfish_(item)": {
+        "image": "https://minecraft.wiki/images/Pufferfish_%28item%29_JE5_BE2.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "hunger": "1 ()",
+        "saturation": "0.2 ()",
+        "saturation boost": "Heals: 0.133HP x 0.0665\nDuration: 0.067 seconds",
+        "status effects": "Hunger III (0:15)\nPoison II (1:00)\nNausea I (0:15)",
+        "always consumable": "No",
+        "renewable": "Yes",
+        "stackable": "Yes (64)",
+        "version": "1.7.2",
+        "toc obtaining": "Mob loot\nFishing"
+    },
+    "Potion_of_Water_Breathing": {
+        "image": "https://minecraft.wiki/images/Potion_of_Water_Breathing_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.7.2",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
     },
     "Potion of Water Breathing": {
         "image": "https://minecraft.wiki/images/Potion_of_Water_Breathing_JE3.png",
@@ -1918,81 +2231,99 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.7.2"
+        "version": "1.7.2",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
     },
-    "Minecart with Command Block": {
+    "Minecart_with_Command_Block": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_Command_Block.gif/160px-Minecart_with_Command_Block.gif",
-        "rarity tier": "* Epic \u200c\nCommon \u200c",
+        "rarity tier": "* Epic\nCommon",
         "renewable": "No",
         "stackable": "No",
         "size": "Height: 0.7 blocks\nWidth: 0.98 blocks",
         "drops": "Minecart (1)",
         "health points": "6HP",
-        "version": "1.7.2"
+        "version": "1.7.2",
+        "toc obtaining": ""
     },
-    "Prismarine Crystals": {
+    "Prismarine_Crystals": {
         "image": "https://minecraft.wiki/images/Prismarine_Crystals_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Mining\nMob loot\nChest Loot"
     },
-    "Prismarine Shard": {
+    "Prismarine_Shard": {
         "image": "https://minecraft.wiki/images/Prismarine_Shard_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Mob Loot"
     },
-    "Raw Mutton": {
+    "Raw_Mutton": {
         "image": "https://minecraft.wiki/images/Raw_Mutton_JE3_BE2.png",
         "other names": "Raw Lambchops (NZ)",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "1.2 ()",
-        "saturation boost\u200c": "Heals: 0.8HP \u00d7 0.4\nDuration: 0.4 seconds",
+        "saturation boost": "Heals: 0.8HP x 0.4\nDuration: 0.4 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Cooked Mutton": {
+    "Cooked_Mutton": {
         "image": "https://minecraft.wiki/images/Cooked_Mutton_JE3_BE2.png",
         "other names": "Roast Lambchops (NZ)",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "6 ()",
         "saturation": "9.6 ()",
-        "saturation boost\u200c": "Heals: 6.4HP \u00d7 3.2\nDuration: 3.2 seconds",
+        "saturation boost": "Heals: 6.4HP x 3.2\nDuration: 3.2 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Mob loot\nCooking\nVillager gifts"
     },
-    "Raw Rabbit": {
+    "Raw_Rabbit": {
         "image": "https://minecraft.wiki/images/Raw_Rabbit_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "3 ()",
         "saturation": "1.8 ()",
-        "saturation boost\u200c": "Heals: 1.2HP \u00d7 0.6\nDuration: 0.6 seconds",
+        "saturation boost": "Heals: 1.2HP x 0.6\nDuration: 0.6 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Mob loot"
     },
-    "Cooked Rabbit": {
+    "Cooked_Rabbit": {
         "image": "https://minecraft.wiki/images/Cooked_Rabbit_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "5 ()",
         "saturation": "6 ()",
-        "saturation boost\u200c": "Heals: 4HP\nDuration: 2 seconds",
+        "saturation boost": "Heals: 4HP\nDuration: 2 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Mob loot\nCooking\nVillager gifts"
+    },
+    "Potion_of_Leaping": {
+        "image": "https://minecraft.wiki/images/Potion_of_Leaping_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.8",
+        "toc obtaining": "Brewing"
     },
     "Potion of Leaping": {
         "image": "https://minecraft.wiki/images/Potion_of_Leaping_JE3.png",
@@ -2001,51 +2332,57 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Brewing"
     },
-    "Rabbit's Foot": {
+    "Rabbit's_Foot": {
         "image": "https://minecraft.wiki/images/Rabbit%27s_Foot_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Mob loot\nCat gifts"
     },
-    "Rabbit Hide": {
+    "Rabbit_Hide": {
         "image": "https://minecraft.wiki/images/Rabbit_Hide_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Mob loot\nCat gifts"
     },
-    "Rabbit Stew": {
+    "Rabbit_Stew": {
         "image": "https://minecraft.wiki/images/Rabbit_Stew_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "10 ()",
-        "saturation": "12 ( \u00d7 6)",
-        "saturation boost\u200c": "Heals: 8HP\nDuration: 4 seconds",
+        "saturation": "12 ( x 6)",
+        "saturation boost": "Heals: 8HP\nDuration: 4 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.8"
+        "version": "1.8",
+        "toc obtaining": "Crafting\nTrading"
     },
-    "Spectral Arrow": {
+    "Spectral_Arrow": {
         "image": "https://minecraft.wiki/images/thumb/Spectral_Arrow_JE3.png/160px-Spectral_Arrow_JE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "size": "Height: 0.5 Blocks\nWidth: 0.5 Blocks",
         "network id": "JE: 91",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Picking up arrows\nGenerated loot\nCrafting\nBartering"
     },
     "Tipped Arrow": {
         "image": "https://minecraft.wiki/images/Arrow_of_Splashing_JE2.png",
         "rarity tier": "Common",
-        "renewable": "Luck and Uncraftable \u200c: No \n\nAll others: Yes",
+        "renewable": "Luck and Uncraftable : No\n\nAll others: Yes",
         "stackable": "Yes (64, only if same effect)",
         "size": "Height: 0.5 blocks\nWidth: 0.5 blocks",
         "network id": "JE: 60",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Picking up arrows\nGenerated loot\nMob loot\nCrafting\nTrading\nVillager gifts\nCauldrons"
     },
     "Beetroot": {
         "image": "https://minecraft.wiki/images/Beetroot_JE2_BE2.png",
@@ -2054,13 +2391,14 @@
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "1 ()",
         "saturation": "1.2 ()",
-        "saturation boost\u200c": "Heals: 0.8HP \u00d7 0.4\nDuration: 0.4 seconds",
+        "saturation boost": "Heals: 0.8HP x 0.4\nDuration: 0.4 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Farming"
     },
-    "Beetroot Seeds": {
+    "Beetroot_Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Beetroots_Age_0_JE3.png/150px-Beetroots_Age_0_JE3.png",
         "other names": "Beet Seeds (CA)",
         "renewable": "Yes",
@@ -2074,47 +2412,92 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Breaking\nNatural generation\nGenerated loot\nTrading\nMob loot"
     },
-    "Beetroot Soup": {
+    "Beetroot_Soup": {
         "image": "https://minecraft.wiki/images/Beetroot_Soup_JE2_BE2.png",
         "other names": "Beet Soup (CA)",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "6 ()",
         "saturation": "7.2 ()",
-        "saturation boost\u200c": "Heals: 4.8HP \u00d7 2.4\nDuration: 2.4 seconds",
+        "saturation boost": "Heals: 4.8HP x 2.4\nDuration: 2.4 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Chest Loot\nCrafting"
     },
-    "Chorus Fruit": {
+    "Chorus_Fruit": {
         "image": "https://minecraft.wiki/images/Chorus_Fruit_JE2_BE2.png",
         "rarity tier": "Common",
         "use cooldown": "1 second (20 ticks)",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "4 ()",
         "saturation": "2.4 ()",
-        "saturation boost\u200c": "Heals: 1.6HP \u00d7 0.8\nDuration: 0.8 seconds",
+        "saturation boost": "Heals: 1.6HP x 0.8\nDuration: 0.8 seconds",
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Mining"
     },
-    "Popped Chorus Fruit": {
+    "Popped_Chorus_Fruit": {
         "image": "https://minecraft.wiki/images/Popped_Chorus_Fruit_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Smelting"
     },
-    "Dragon's Breath": {
+    "Water Bottle": {
+        "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.9",
+        "toc obtaining": "Glass bottle\nBartering\nFishing"
+    },
+    "Mundane Potion": {
+        "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Mundane Potion: Yes\nLong Mundane Potion: No",
+        "stackable": "No",
+        "version": "1.9",
+        "toc obtaining": "Brewing"
+    },
+    "Thick Potion": {
+        "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.9",
+        "toc obtaining": "Brewing"
+    },
+    "Awkward Potion": {
+        "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.9",
+        "toc obtaining": "Brewing"
+    },
+    "Dragon's_Breath": {
         "image": "https://minecraft.wiki/images/Dragon%27s_Breath_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Harvesting"
     },
     "Shield": {
         "image": "https://minecraft.wiki/images/thumb/Shield_JE2_BE1.png/160px-Shield_JE2_BE1.png",
@@ -2123,27 +2506,40 @@
         "durability": "336",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
     "Elytra": {
         "image": "https://minecraft.wiki/images/thumb/Elytra_JE2_BE2.png/160px-Elytra_JE2_BE2.png",
         "rarity tier": "Epic",
-        "armor": "0\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "0 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 432\nBE: 433",
         "knockback resistance": "0",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Natural generation"
     },
-    "End Crystal": {
+    "End_Crystal": {
         "image": "https://minecraft.wiki/images/End_Crystal_JE2.gif",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "size": "Height: 2 blocks\nWidth: 2 blocks",
         "drops": "None",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Crafting"
+    },
+    "Potion_of_Luck": {
+        "image": "https://minecraft.wiki/images/Potion_of_Luck_JE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "No",
+        "stackable": "No",
+        "version": "1.9",
+        "toc obtaining": "Brewing"
     },
     "Potion of Luck": {
         "image": "https://minecraft.wiki/images/Potion_of_Luck_JE3.png",
@@ -2152,89 +2548,100 @@
         "always consumable": "Yes",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Brewing"
     },
     "Potion": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
         "always consumable": "Yes",
-        "renewable": "Luck and Uncraftable\u200c, Decay\u200c: No\n\nAll others: Yes",
+        "renewable": "Luck and Uncraftable , Decay : No\n\nAll others: Yes",
         "stackable": "No",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Brewing\nMob loot\nGenerated loot\nBartering\nFishing\nTrading\nCauldrons\nWater"
     },
     "Splash Potion": {
         "image": "https://minecraft.wiki/images/Splash_Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
-        "renewable": "Luck and Uncraftable\u200c, Decay\u200c: No\n\nAll others: Yes",
+        "renewable": "Luck and Uncraftable , Decay : No\n\nAll others: Yes",
         "stackable": "No",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Natural generation\nGenerated loot\nBrewing\nBartering\nFilling bottles"
     },
     "Lingering Potion": {
         "image": "https://minecraft.wiki/images/Lingering_Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
-        "renewable": "Luck and Uncraftable\u200c, Decay\u200c: No\n\nAll others: Yes",
+        "renewable": "Luck and Uncraftable , Decay : No\n\nAll others: Yes",
         "stackable": "No",
-        "version": "1.9"
+        "version": "1.9",
+        "toc obtaining": "Brewing\nGenerated loot\nNatural occurrence"
     },
-    "Shulker Shell": {
+    "Shulker_Shell": {
         "image": "https://minecraft.wiki/images/Shulker_Shell_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.11"
+        "version": "1.11",
+        "toc obtaining": "Mob loot"
     },
-    "Totem of Undying": {
+    "Totem_of_Undying": {
         "image": "https://minecraft.wiki/images/Totem_of_Undying_JE2_BE2.png",
         "rarity tier": "Uncommon",
-        "status effects": "Absorption II (0:05)\nRegeneration II (0:45) \nFire Resistance I (0:40)",
+        "status effects": "Absorption II (0:05)\nRegeneration II (0:45)\nFire Resistance I (0:40)",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.11"
+        "version": "1.11",
+        "toc obtaining": "Mob loot"
     },
     "Explorer Map": {
         "image": "https://minecraft.wiki/images/Ocean_Explorer_Map_JE2.png",
         "rarity tier": "Common",
-        "renewable": "Buried Treasure: No\n Others: Yes",
+        "renewable": "Buried Treasure: No\nOthers: Yes",
         "stackable": "Yes (64)",
-        "version": "1.11"
+        "version": "1.11",
+        "toc obtaining": "Trading\nGenerated loot"
     },
-    "Iron Nugget": {
+    "Iron_Nugget": {
         "image": "https://minecraft.wiki/images/Iron_Nugget_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.11.1"
+        "version": "1.11.1",
+        "toc obtaining": "Crafting\nSmelting\nBartering\nGenerated loot"
     },
-    "Knowledge Book": {
+    "Knowledge_Book": {
         "image": "https://minecraft.wiki/images/Knowledge_Book_JE2.png",
         "rarity tier": "Epic",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.12"
+        "version": "1.12",
+        "toc obtaining": ""
     },
-    "Debug Stick": {
+    "Debug_Stick": {
         "image": "https://minecraft.wiki/images/Debug_Stick.gif",
-        "rarity tier": "Epic \u200c\nCommon \u200c",
+        "rarity tier": "Epic\nCommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": ""
     },
     "Trident": {
         "image": "https://minecraft.wiki/images/thumb/Trident.png/160px-Trident.png",
         "rarity tier": "Rare",
         "attack damage": "9HP",
-        "attack speed\u200c": "1.1 (0.909 seconds)",
+        "attack speed": "1.1 (0.909 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
-        "projectile damage": "8HP\n13HP \u00d7 6.5 (Channeling)",
+        "projectile damage": "8HP\n13HP x 6.5 (Channeling)",
         "charge time": "0.5s",
         "inaccuracy": "1",
         "durability": "JE: 250\nBE: 251",
         "enchantability": "1",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Generated loot\nMob loot\nThrown tridents"
     },
     "Kelp": {
         "image": "https://minecraft.wiki/images/Kelp_JE3_BE2.gif",
@@ -2249,40 +2656,44 @@
         "catches fire from lava": "No",
         "map color": "12 WATER",
         "note block instrument": "Default (Harp)",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Breaking\nNatural generation\nTrading\nMob loot"
     },
-    "Dried Kelp": {
+    "Dried_Kelp": {
         "image": "https://minecraft.wiki/images/Dried_Kelp_JE1_BE2.png",
         "rarity tier": "Common",
         "consumption time": "16 game ticks (0.8 seconds)",
         "hunger": "1 ()",
         "saturation": "JE: 0.6 ()\nBE: 0.2 ()",
-        "saturation boost\u200c": "Heals: 0.4HP \u00d7 0.2\nDuration: 0.2 seconds",
+        "saturation boost": "Heals: 0.4HP x 0.2\nDuration: 0.2 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Crafting\nSmelting"
     },
-    "Turtle Scute": {
+    "Turtle_Scute": {
         "image": "https://minecraft.wiki/images/Turtle_Scute_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Mob loot"
     },
-    "Turtle Shell": {
+    "Turtle_Shell": {
         "image": "https://minecraft.wiki/images/thumb/Turtle_Shell_JE1_BE1.png/160px-Turtle_Shell_JE1_BE1.png",
         "rarity tier": "Common",
-        "armor": "2\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "2 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 275\nBE: 276",
         "enchantability": "9",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Crafting"
     },
-    "Turtle Egg": {
+    "Turtle_Egg": {
         "image": "https://minecraft.wiki/images/thumb/Turtle_Egg_1_JE2.png/150px-Turtle_Egg_1_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2296,7 +2707,18 @@
         "catches fire from lava": "No",
         "map color": "2 SAND",
         "note block instrument": "Default (Harp)",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Breaking\nPost-generation"
+    },
+    "Potion_of_the_Turtle_Master": {
+        "image": "https://minecraft.wiki/images/Potion_of_the_Turtle_Master_JE4.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.13",
+        "toc obtaining": "Brewing"
     },
     "Potion of the Turtle Master": {
         "image": "https://minecraft.wiki/images/Potion_of_the_Turtle_Master_JE4.png",
@@ -2305,42 +2727,58 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Brewing"
     },
-    "Bucket of Cod": {
+    "Bucket_of_Cod": {
         "image": "https://minecraft.wiki/images/Bucket_of_Cod_JE2_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Trading"
     },
-    "Bucket of Salmon": {
+    "Bucket_of_Salmon": {
         "image": "https://minecraft.wiki/images/Bucket_of_Salmon_JE2_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": ""
     },
-    "Bucket of Pufferfish": {
+    "Bucket_of_Pufferfish": {
         "image": "https://minecraft.wiki/images/Bucket_of_Pufferfish_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Trading\nMob loot"
     },
-    "Bucket of Tropical Fish": {
+    "Bucket_of_Tropical_Fish": {
         "image": "https://minecraft.wiki/images/Bucket_of_Tropical_Fish_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Trading\nMob loot"
     },
-    "Phantom Membrane": {
+    "Phantom_Membrane": {
         "image": "https://minecraft.wiki/images/Phantom_Membrane_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Mob loot\nCat gifts"
+    },
+    "Potion_of_Slow_Falling": {
+        "image": "https://minecraft.wiki/images/Potion_of_Slow_Falling_JE4_BE3.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.13",
+        "toc obtaining": "Brewing"
     },
     "Potion of Slow Falling": {
         "image": "https://minecraft.wiki/images/Potion_of_Slow_Falling_JE4_BE3.png",
@@ -2349,109 +2787,122 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Brewing"
     },
-    "Heart of the Sea": {
+    "Heart_of_the_Sea": {
         "image": "https://minecraft.wiki/images/Heart_of_the_Sea_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Generated loot"
     },
-    "Nautilus Shell": {
+    "Nautilus_Shell": {
         "image": "https://minecraft.wiki/images/Nautilus_Shell_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.13"
+        "version": "1.13",
+        "toc obtaining": "Mob loot\nFishing\nTrading"
     },
-    "Flower Charge Banner Pattern": {
+    "Flower_Charge_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Flower_Charge_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting"
     },
-    "Creeper Charge Banner Pattern": {
+    "Creeper_Charge_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Creeper_Charge_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting"
     },
-    "Skull Charge Banner Pattern": {
+    "Skull_Charge_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Skull_Charge_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting"
     },
-    "Thing Banner Pattern": {
+    "Thing_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Thing_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "No (except via ominous vault)",
         "stackable": "No",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting"
     },
     "Crossbow": {
         "image": "https://minecraft.wiki/images/Crossbow.png",
         "rarity tier": "Common",
-        "projectile damage": "Arrow:\nJE: 7HP to 11HP \u00d7 5.5\nBE: 9HP\nFirework rocket:\n1: 5HP to 6HP\n2: 6HP to 8HP\n3: 7HP to 10HP\n4: 8HP to 12HP \u00d7 6\n5: 9HP to 14HP \u00d7 7\n6: 10HP to 16HP \u00d7 8\n7: 11HP \u00d7 5.5 to 18HP \u00d7 9",
+        "projectile damage": "Arrow:\nJE: 7HP to 11HP x 5.5\nBE: 9HP\nFirework rocket:\n1: 5HP to 6HP\n2: 6HP to 8HP\n3: 7HP to 10HP\n4: 8HP to 12HP x 6\n5: 9HP to 14HP x 7\n6: 10HP to 16HP x 8\n7: 11HP x 5.5 to 18HP x 9",
         "charge time": "1.25s\n1s (Quick Charge I)\n0.75s (Quick Charge II)\n0.5s (Quick Charge III)",
         "inaccuracy": "1",
         "durability": "JE: 465\nBE: 466",
         "enchantability": "1",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Suspicious Stew": {
+    "Suspicious_Stew": {
         "image": "https://minecraft.wiki/images/Suspicious_Stew_JE1_BE1.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
-        "hunger": "6 ()\n\n 13 ( \u00d7 6.5)",
-        "saturation": "7.2 ()\n\n 21.2 ( \u00d7 10.6)",
-        "saturation boost\u200c": "Heals: 4.8HP \u00d7 2.4\nDuration: 2.4 seconds\n\n Heals: 14.133HP \u00d7 7.0665\n Duration: 7.067 seconds",
-        "status effects": "See \u00a7 Food",
+        "hunger": "6 ()\n\n13 ( x 6.5)",
+        "saturation": "7.2 ()\n\n21.2 ( x 10.6)",
+        "saturation boost": "Heals: 4.8HP x 2.4\nDuration: 2.4 seconds\n\nHeals: 14.133HP x 7.0665\nDuration: 7.067 seconds",
+        "status effects": "See Food",
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Generated loot\nCrafting\nHarvesting\nTrading\nCommands"
     },
-    "White Dye": {
+    "White_Dye": {
         "image": "https://minecraft.wiki/images/White_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Black Dye": {
+    "Black_Dye": {
         "image": "https://minecraft.wiki/images/Black_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Brown Dye": {
+    "Brown_Dye": {
         "image": "https://minecraft.wiki/images/Brown_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Blue Dye": {
+    "Blue_Dye": {
         "image": "https://minecraft.wiki/images/Blue_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Sweet Berries": {
+    "Sweet_Berries": {
         "image": "https://minecraft.wiki/images/thumb/Sweet_Berry_Bush_Age_0_JE1_BE1.png/150px-Sweet_Berry_Bush_Age_0_JE1_BE1.png",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "JE: 0.4 ()\nBE: 1.2 ()",
-        "saturation boost\u200c": "Heals: 0.267HP \u00d7 0.1335\nDuration: 0.133 seconds",
+        "saturation boost": "Heals: 0.267HP x 0.1335\nDuration: 0.133 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2464,271 +2915,298 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Natural generation\nBreaking\nHarvesting\nGenerated loot"
     },
-    "Leather Horse Armor": {
+    "Leather_Horse_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Horse_Armor_JE2.png/160px-Leather_Horse_Armor_JE2.png",
         "rarity tier": "Common",
-        "armor": "3\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "3 ()",
+        "armor toughness": "0 ()",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Crafting\nTrading"
     },
-    "Globe Banner Pattern": {
+    "Globe_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Globe_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.14"
+        "version": "1.14",
+        "toc obtaining": "Trading"
     },
-    "Honey Bottle": {
+    "Honey_Bottle": {
         "image": "https://minecraft.wiki/images/Honey_Bottle_JE1_BE2.png",
         "rarity tier": "Common",
         "consumption time": "40 game ticks (2 seconds)",
         "hunger": "6 ()",
         "saturation": "1.2 ()",
-        "saturation boost\u200c": "Heals: 0.8HP \u00d7 0.4\nDuration: 0.4 seconds",
+        "saturation boost": "Heals: 0.8HP x 0.4\nDuration: 0.4 seconds",
         "status effects": "Clears Poison",
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "Yes (16)",
-        "version": "1.15"
+        "version": "1.15",
+        "toc obtaining": "Generated loot\nCrafting\nHarvesting"
     },
     "Honeycomb": {
         "image": "https://minecraft.wiki/images/Honeycomb_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.15"
+        "version": "1.15",
+        "toc obtaining": "Harvesting\nGenerated loot"
     },
-    "Netherite Helmet": {
+    "Netherite_Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Helmet_JE2_BE1.png/160px-Netherite_Helmet_JE2_BE1.png",
         "rarity tier": "Common",
-        "armor": "3\u00a0()",
-        "armor toughness": "3\u00a0()",
+        "armor": "3 ()",
+        "armor toughness": "3 ()",
         "durability": "JE: 407\nBE: 408",
         "enchantability": "15",
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Upgrading"
     },
-    "Netherite Chestplate": {
+    "Netherite_Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Chestplate_JE2_BE1.png/160px-Netherite_Chestplate_JE2_BE1.png",
         "rarity tier": "Common",
-        "armor": "8\u00a0()",
-        "armor toughness": "3\u00a0()",
+        "armor": "8 ()",
+        "armor toughness": "3 ()",
         "durability": "JE: 592\nBE: 593",
         "enchantability": "15",
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Upgrading"
     },
-    "Netherite Leggings": {
+    "Netherite_Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Leggings_JE3_BE2.png/160px-Netherite_Leggings_JE3_BE2.png",
         "rarity tier": "Common",
-        "armor": "6\u00a0()",
-        "armor toughness": "3\u00a0()",
+        "armor": "6 ()",
+        "armor toughness": "3 ()",
         "durability": "JE: 555\nBE: 556",
         "enchantability": "15",
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Upgrading"
     },
-    "Netherite Boots": {
+    "Netherite_Boots": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Boots_JE2_BE1.png/160px-Netherite_Boots_JE2_BE1.png",
         "rarity tier": "Common",
-        "armor": "3\u00a0()",
-        "armor toughness": "3\u00a0()",
+        "armor": "3 ()",
+        "armor toughness": "3 ()",
         "durability": "JE: 481\nBE: 482",
         "enchantability": "15",
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Upgrading"
     },
-    "Netherite Sword": {
+    "Netherite_Sword": {
         "image": "https://minecraft.wiki/images/Netherite_Sword_JE2_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 8HP\nBE: 9HP",
-        "attack speed\u200c": "1.6 (0.625 seconds)",
+        "attack speed": "1.6 (0.625 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
-        "sweep damage\u200c": "1HP\nSE I: 4HP\nSE II: 5.36HP \u00d7 2.68\nSE III: 6HP",
+        "sweep damage": "1HP\nSE I: 4HP\nSE II: 5.36HP x 2.68\nSE III: 6HP",
         "mining efficiency": "1.5\n15 (on cobwebs)\n30 (on bamboo)",
         "durability": "JE: 2031\nBE: 2032",
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Upgrading"
     },
-    "Netherite Pickaxe": {
+    "Netherite_Pickaxe": {
         "image": "https://minecraft.wiki/images/Netherite_Pickaxe_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "9",
         "mining level": "4",
         "attack damage": "JE: 6HP\nBE: 7HP",
-        "attack speed\u200c": "1.2 (0.833 seconds)",
+        "attack speed": "1.2 (0.833 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 2031\nBE: 2032",
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Upgrading"
     },
-    "Netherite Axe": {
+    "Netherite_Axe": {
         "image": "https://minecraft.wiki/images/Netherite_Axe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "9",
         "attack damage": "JE: 10HP\nBE: 8HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 2031\nBE: 2032",
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Upgrading"
     },
-    "Netherite Shovel": {
+    "Netherite_Shovel": {
         "image": "https://minecraft.wiki/images/Netherite_Shovel_JE2_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "9",
-        "attack damage": "JE: 6.5HP \u00d7 3.25\nBE: 6HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack damage": "JE: 6.5HP x 3.25\nBE: 6HP",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 2031\nBE: 2032",
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Upgrading"
     },
-    "Netherite Hoe": {
+    "Netherite_Hoe": {
         "image": "https://minecraft.wiki/images/Netherite_Hoe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "9",
         "attack damage": "JE: 1HP\nBE: 7HP",
-        "attack speed\u200c": "4 (0.25 seconds)",
+        "attack speed": "4 (0.25 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 2031\nBE: 2032",
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Upgrading"
     },
-    "Netherite Ingot": {
+    "Netherite_Ingot": {
         "image": "https://minecraft.wiki/images/Netherite_Ingot_JE1_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Netherite Scrap": {
+    "Netherite_Scrap": {
         "image": "https://minecraft.wiki/images/Netherite_Scrap_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Smelting\nGenerated loot"
     },
-    "Warped Fungus on a Stick": {
+    "Warped_Fungus_on_a_Stick": {
         "image": "https://minecraft.wiki/images/Warped_Fungus_on_a_Stick_JE1_BE1.png",
         "rarity tier": "Common",
         "durability": "JE: 100\nBE: 101",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Crafting\nMob loot"
     },
-    "Snout Banner Pattern": {
+    "Snout_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Snout_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Generated loot"
     },
-    "Music Disc Pigstep": {
+    "Music_Disc_Pigstep": {
         "image": "https://minecraft.wiki/images/Music_Disc_Pigstep_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.16"
+        "version": "1.16",
+        "toc obtaining": "Generated loot"
     },
-    "Amethyst Shard": {
+    "Amethyst_Shard": {
         "image": "https://minecraft.wiki/images/Amethyst_Shard_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Mining\nGenerated loot"
     },
     "Bundle": {
         "image": "https://minecraft.wiki/images/Bundle_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Copper Ingot": {
+    "Copper_Ingot": {
         "image": "https://minecraft.wiki/images/Copper_Ingot_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Crafting\nSmelting\nMob loot"
     },
     "Spyglass": {
         "image": "https://minecraft.wiki/images/thumb/Spyglass_JE2_BE1.png/160px-Spyglass_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Crafting"
     },
-    "Powder Snow Bucket": {
+    "Powder_Snow_Bucket": {
         "image": "https://minecraft.wiki/images/Powder_Snow_Bucket_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Interacting"
     },
-    "Bucket of Axolotl": {
+    "Bucket_of_Axolotl": {
         "image": "https://minecraft.wiki/images/Bucket_of_Axolotl_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": ""
     },
-    "Glow Item Frame": {
+    "Glow_Item_Frame": {
         "image": "https://minecraft.wiki/images/thumb/Glow_Item_Frame_JE1_BE3.png/150px-Glow_Item_Frame_JE1_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "tool": "Any\u200c",
-        "drops": "Glow Item Frame (1)\n The item it contains.",
-        "blast resistance": "0.25\u200c",
-        "hardness": "0.25\u200c",
-        "luminous": "No\u200c",
-        "transparent": "Yes\u200c",
-        "waterloggable": "Yes\u200c",
-        "flammable": "No\u200c",
-        "catches fire from lava": "No\u200c",
-        "version": "1.17"
+        "tool": "Any",
+        "drops": "Glow Item Frame (1)\nThe item it contains.",
+        "blast resistance": "0.25",
+        "hardness": "0.25",
+        "luminous": "No",
+        "transparent": "Yes",
+        "waterloggable": "Yes",
+        "flammable": "No",
+        "catches fire from lava": "No",
+        "version": "1.17",
+        "toc obtaining": "Breaking\nCrafting"
     },
-    "Glow Ink Sac": {
+    "Glow_Ink_Sac": {
         "image": "https://minecraft.wiki/images/Glow_Ink_Sac_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Mob loot"
     },
-    "Glow Berries": {
+    "Glow_Berries": {
         "image": "https://minecraft.wiki/images/thumb/Cave_Vines_%28head%29_JE1_BE1.png/150px-Cave_Vines_%28head%29_JE1_BE1.png",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
         "saturation": "0.4 ()",
-        "saturation boost\u200c": "Heals: 0.267HP \u00d7 0.1335\nDuration: 0.133 seconds",
+        "saturation boost": "Heals: 0.267HP x 0.1335\nDuration: 0.133 seconds",
         "always consumable": "No",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2741,42 +3219,48 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Breaking\nHarvesting\nNatural generation\nGenerated loot"
     },
-    "Raw Copper": {
+    "Raw_Copper": {
         "image": "https://minecraft.wiki/images/Raw_Copper_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Mining\nCrafting"
     },
-    "Raw Iron": {
+    "Raw_Iron": {
         "image": "https://minecraft.wiki/images/Raw_Iron_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Mining\nCrafting"
     },
-    "Raw Gold": {
+    "Raw_Gold": {
         "image": "https://minecraft.wiki/images/Raw_Gold_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.17"
+        "version": "1.17",
+        "toc obtaining": "Mining\nCrafting"
     },
     "Music Disc otherside": {
         "image": "https://minecraft.wiki/images/Music_Disc_otherside_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.18"
+        "version": "1.18",
+        "toc obtaining": "Generated loot"
     },
-    "Bucket of Tadpole": {
+    "Bucket_of_Tadpole": {
         "image": "https://minecraft.wiki/images/Bucket_of_Tadpole_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.19"
+        "version": "1.19",
+        "toc obtaining": ""
     },
     "Boat with Chest": {
         "image": "https://minecraft.wiki/images/thumb/Oak_Boat_with_Chest_JE2_BE1.png/160px-Oak_Boat_with_Chest_JE2_BE1.png",
@@ -2786,157 +3270,179 @@
         "flammable item?": "No",
         "size": "In Java Edition:\n\nHeight: 0.5625 blocks\nWidth: 1.375 blocks\n\nIn Bedrock Edition:\n\nHeight: 0.455 blocks\nWidth: 1.4 blocks",
         "network id": "JE: 1",
-        "version": "1.19"
+        "version": "1.19",
+        "toc obtaining": "Crafting"
     },
-    "Echo Shard": {
+    "Echo_Shard": {
         "image": "https://minecraft.wiki/images/Echo_Shard_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19"
+        "version": "1.19",
+        "toc obtaining": "Generated loot"
     },
-    "Recovery Compass": {
+    "Recovery_Compass": {
         "image": "https://minecraft.wiki/images/Recovery_Compass_JE1_BE1.gif",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19"
+        "version": "1.19",
+        "toc obtaining": "Crafting"
     },
-    "Music Disc 5": {
+    "Music_Disc_5": {
         "image": "https://minecraft.wiki/images/Music_Disc_5_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.19"
+        "version": "1.19",
+        "toc obtaining": "Crafting"
     },
-    "Disc Fragment": {
+    "Disc_Fragment": {
         "image": "https://minecraft.wiki/images/Disc_Fragment_5_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19"
+        "version": "1.19",
+        "toc obtaining": "Generated loot"
     },
-    "Goat Horn": {
+    "Goat_Horn": {
         "image": "https://minecraft.wiki/images/Goat_Horn_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "use cooldown": "7 seconds (140 ticks)",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.19"
+        "version": "1.19",
+        "toc obtaining": "Mob loot\nGenerated loot"
     },
     "Netherite Upgrade": {
         "image": "https://minecraft.wiki/images/Netherite_Upgrade_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
-        "renewable": "No\u200c\nNo (except via vault)\u200c",
+        "renewable": "No\nNo (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Generated loot"
     },
-    "Sentry Armor Trim": {
+    "Sentry_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Sentry_Armor_Trim_Smithing_Template_JE2_BE2.png/120px-Sentry_Armor_Trim_Smithing_Template_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Vex Armor Trim": {
+    "Vex_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Vex_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Vex_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Wild Armor Trim": {
+    "Wild_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Wild_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Wild_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Coast Armor Trim": {
+    "Coast_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Coast_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Coast_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Dune Armor Trim": {
+    "Dune_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Dune_Armor_Trim_Smithing_Template_JE2_BE2.png/120px-Dune_Armor_Trim_Smithing_Template_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Ward Armor Trim": {
+    "Ward_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Ward_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Ward_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Tide Armor Trim": {
+    "Tide_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Tide_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Tide_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Mob loot\nCloning"
     },
-    "Snout Armor Trim": {
+    "Snout_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Snout_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Snout_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Rib Armor Trim": {
+    "Rib_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Rib_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Rib_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
-        "renewable": "No\u200c\nNo (except via vault)\u200c",
+        "renewable": "No\nNo (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Eye Armor Trim": {
+    "Eye_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Eye_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Eye_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nChest loot"
     },
-    "Spire Armor Trim": {
+    "Spire_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Spire_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Spire_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Archer Pottery Sherd": {
+    "Archer_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Archer_Pottery_Sherd_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Arms Up Pottery Sherd": {
+    "Arms_Up_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Arms_Up_Pottery_Sherd_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Prize Pottery Sherd": {
+    "Prize_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Prize_Pottery_Sherd_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Skull Pottery Sherd": {
+    "Skull_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Skull_Pottery_Sherd_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Torchflower Seeds": {
+    "Torchflower_Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Torchflower_Age_0.png/150px-Torchflower_Age_0.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2949,7 +3455,8 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Breaking"
     },
     "Brush": {
         "image": "https://minecraft.wiki/images/Brush_JE1_BE1.png",
@@ -2957,9 +3464,10 @@
         "durability": "JE: 64\nBE: 65",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.19.4"
+        "version": "1.19.4",
+        "toc obtaining": "Crafting"
     },
-    "Pitcher Pod": {
+    "Pitcher_Pod": {
         "image": "https://minecraft.wiki/images/thumb/Pitcher_Crop_Age_0_JE1_BE1.png/150px-Pitcher_Crop_Age_0_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2972,277 +3480,355 @@
         "catches fire from lava": "No",
         "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking"
     },
-    "Angler Pottery Sherd": {
+    "Angler_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Angler_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Blade Pottery Sherd": {
+    "Blade_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Blade_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Brewer Pottery Sherd": {
+    "Brewer_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Brewer_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Burn Pottery Sherd": {
+    "Burn_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Burn_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Danger Pottery Sherd": {
+    "Danger_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Danger_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Explorer Pottery Sherd": {
+    "Explorer_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Explorer_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Friend Pottery Sherd": {
+    "Friend_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Friend_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Heart Pottery Sherd": {
+    "Heart_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Heart_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Heartbreak Pottery Sherd": {
+    "Heartbreak_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Heartbreak_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Howl Pottery Sherd": {
+    "Howl_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Howl_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Miner Pottery Sherd": {
+    "Miner_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Miner_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Mourner Pottery Sherd": {
+    "Mourner_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Mourner_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Plenty Pottery Sherd": {
+    "Plenty_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Plenty_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Sheaf Pottery Sherd": {
+    "Sheaf_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Sheaf_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Shelter Pottery Sherd": {
+    "Shelter_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Shelter_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Snort Pottery Sherd": {
+    "Snort_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Snort_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Wayfinder Armor Trim": {
+    "Wayfinder_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Wayfinder_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Wayfinder_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Raiser Armor Trim": {
+    "Raiser_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Raiser_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Raiser_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Shaper Armor Trim": {
+    "Shaper_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Shaper_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Shaper_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Host Armor Trim": {
+    "Host_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Host_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Host_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Silence Armor Trim": {
+    "Silence_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Silence_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Silence_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Epic",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Music Disc Relic": {
+    "Music_Disc_Relic": {
         "image": "https://minecraft.wiki/images/Music_Disc_Relic_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.20"
+        "version": "1.20",
+        "toc obtaining": "Generated loot"
     },
-    "Trial Key": {
+    "Trial_Key": {
         "image": "https://minecraft.wiki/images/Trial_Key_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.20.3"
+        "version": "1.20.3",
+        "toc obtaining": "Generated loot"
     },
-    "Armadillo Scute": {
+    "Armadillo_Scute": {
         "image": "https://minecraft.wiki/images/Armadillo_Scute_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Mob loot"
     },
-    "Wolf Armor": {
+    "Wolf_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Wolf_Armor_%28model%29_JE2_BE2.png/160px-Wolf_Armor_%28model%29_JE2_BE2.png",
         "rarity tier": "Common",
-        "armor": "\u221e",
-        "armor toughness": "\u221e",
+        "armor": "",
+        "armor toughness": "",
         "durability": "64",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Crafting\nMob loot"
     },
-    "Wind Charge": {
+    "Wind_Charge": {
         "image": "https://minecraft.wiki/images/thumb/Wind_Charge_JE2_BE2.webp/160px-Wind_Charge_JE2_BE2.webp",
         "rarity tier": "Common",
         "use cooldown": "0.5 seconds (10 ticks)",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Crafting\nGenerated loot"
     },
     "Mace": {
         "image": "https://minecraft.wiki/images/Mace_JE1_BE1.png",
         "rarity tier": "Epic",
-        "attack damage": "Normal attack:\n6HP\nSmash attack:\n12HP \u00d7 6 to \u221e",
-        "attack speed\u200c": "0.6 (1.667 seconds)",
+        "attack damage": "Normal attack:\n6HP\nSmash attack:\n12HP x 6 to",
+        "attack speed": "0.6 (1.667 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 500\nBE: 501",
         "enchantability": "15",
         "renewable": "No (except via ominous vault)",
         "stackable": "No",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Crafting"
     },
-    "Breeze Rod": {
+    "Breeze_Rod": {
         "image": "https://minecraft.wiki/images/Breeze_Rod_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Mob loot"
     },
-    "Flow Banner Pattern": {
+    "Flow_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Flow_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "No (except via ominous vault)",
         "stackable": "No",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Generated loot"
     },
-    "Guster Banner Pattern": {
+    "Guster_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Guster_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "No (except via vault)",
         "stackable": "No",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Generated loot"
     },
-    "Flow Pottery Sherd": {
+    "Flow_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Flow_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Breaking\nNatural generation"
     },
-    "Guster Pottery Sherd": {
+    "Guster_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Guster_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Breaking\nNatural generation"
     },
-    "Scrape Pottery Sherd": {
+    "Scrape_Pottery_Sherd": {
         "image": "https://minecraft.wiki/images/Scrape_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Breaking\nNatural generation"
     },
-    "Bolt Armor Trim": {
+    "Bolt_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Bolt_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Bolt_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Flow Armor Trim": {
+    "Flow_Armor_Trim": {
         "image": "https://minecraft.wiki/images/thumb/Flow_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Flow_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Ominous Bottle": {
+    "Ominous_Bottle": {
         "image": "https://minecraft.wiki/images/Ominous_Bottle_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "status effects": "Bad Omen",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Ominous Trial Key": {
+    "Ominous_Trial_Key": {
         "image": "https://minecraft.wiki/images/Ominous_Trial_Key_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Generated loot"
+    },
+    "Potion_of_Infestation": {
+        "image": "https://minecraft.wiki/images/Potion_of_Infestation_JE1_BE1.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.20.5",
+        "toc obtaining": "Brewing"
+    },
+    "Potion_of_Oozing": {
+        "image": "https://minecraft.wiki/images/Potion_of_Oozing_JE1_BE1.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.20.5",
+        "toc obtaining": "Brewing"
+    },
+    "Potion_of_Weaving": {
+        "image": "https://minecraft.wiki/images/Potion_of_Weaving_JE1_BE1.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.20.5",
+        "toc obtaining": "Brewing"
+    },
+    "Potion_of_Wind_Charging": {
+        "image": "https://minecraft.wiki/images/Potion_of_Wind_Charging_JE1_BE1.png",
+        "rarity tier": "Common",
+        "consumption time": "32 game ticks (1.6 seconds)",
+        "always consumable": "Yes",
+        "renewable": "Yes",
+        "stackable": "No",
+        "version": "1.20.5",
+        "toc obtaining": "Brewing"
     },
     "Potion of Infestation": {
         "image": "https://minecraft.wiki/images/Potion_of_Infestation_JE1_BE1.png",
@@ -3251,7 +3837,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Brewing"
     },
     "Potion of Oozing": {
         "image": "https://minecraft.wiki/images/Potion_of_Oozing_JE1_BE1.png",
@@ -3260,7 +3847,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Brewing"
     },
     "Potion of Weaving": {
         "image": "https://minecraft.wiki/images/Potion_of_Weaving_JE1_BE1.png",
@@ -3269,7 +3857,8 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Brewing"
     },
     "Potion of Wind Charging": {
         "image": "https://minecraft.wiki/images/Potion_of_Wind_Charging_JE1_BE1.png",
@@ -3278,44 +3867,50 @@
         "always consumable": "Yes",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.20.5"
+        "version": "1.20.5",
+        "toc obtaining": "Brewing"
     },
-    "Music Disc Creator": {
+    "Music_Disc_Creator": {
         "image": "https://minecraft.wiki/images/Music_Disc_Creator_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No (except via ominous vault)",
         "stackable": "No",
-        "version": "1.21"
+        "version": "1.21",
+        "toc obtaining": "Generated loot"
     },
-    "Music Disc Creator (Music Box)": {
+    "Music_Disc_Creator_(Music_Box)": {
         "image": "https://minecraft.wiki/images/Music_Disc_Creator_%28Music_Box%29_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21"
+        "version": "1.21",
+        "toc obtaining": "Generated loot"
     },
-    "Music Disc Precipice": {
+    "Music_Disc_Precipice": {
         "image": "https://minecraft.wiki/images/Music_Disc_Precipice_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
         "stackable": "No",
-        "version": "1.21"
+        "version": "1.21",
+        "toc obtaining": "Generated loot"
     },
-    "Field Masoned Banner Pattern": {
+    "Field_Masoned_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Field_Masoned_Banner_Pattern_JE1_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.2"
+        "version": "1.21.2",
+        "toc obtaining": "Crafting"
     },
-    "Bordure Indented Banner Pattern": {
+    "Bordure_Indented_Banner_Pattern": {
         "image": "https://minecraft.wiki/images/Bordure_Indented_Banner_Pattern_JE1_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.2"
+        "version": "1.21.2",
+        "toc obtaining": "Crafting"
     },
-    "Resin Clump": {
+    "Resin_Clump": {
         "image": "https://minecraft.wiki/images/thumb/Resin_Clump_JE1_BE1.png/150px-Resin_Clump_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3330,338 +3925,369 @@
         "catches fire from lava": "Only in Java Edition",
         "map color": "37 TERRACOTTA_ORANGE",
         "note block instrument": "Default (Harp)",
-        "version": "1.21.4"
+        "version": "1.21.4",
+        "toc obtaining": "Breaking\nPost-generation\nBlock loot\nGenerated loot\nCrafting"
     },
-    "Resin Brick": {
+    "Resin_Brick": {
         "image": "https://minecraft.wiki/images/Resin_Brick_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.21.4"
+        "version": "1.21.4",
+        "toc obtaining": "Smelting"
     },
     "Harness": {
         "image": "https://minecraft.wiki/images/thumb/White_Ghast_Harness_Goggles_Up.png/160px-White_Ghast_Harness_Goggles_Up.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.6"
+        "version": "1.21.6",
+        "toc obtaining": "Crafting"
     },
-    "Music Disc Tears": {
+    "Music_Disc_Tears": {
         "image": "https://minecraft.wiki/images/Music_Disc_Tears_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.6"
+        "version": "1.21.6",
+        "toc obtaining": "Mob loot"
     },
-    "Music Disc Lava Chicken": {
+    "Music_Disc_Lava_Chicken": {
         "image": "https://minecraft.wiki/images/Music_Disc_Lava_Chicken_JE1_BE1.png",
-        "rarity tier": "Rare\u200c\nUncommon\u200c",
+        "rarity tier": "Rare\nUncommon",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.7"
+        "version": "1.21.7",
+        "toc obtaining": "Mob loot"
     },
-    "Copper Sword": {
+    "Copper_Sword": {
         "image": "https://minecraft.wiki/images/Copper_Sword_JE1_BE1.png",
         "rarity tier": "Common",
         "attack damage": "JE: 5HP\nBE: 6HP",
-        "attack speed\u200c": "1.6 (0.625 seconds)",
+        "attack speed": "1.6 (0.625 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
-        "sweep damage\u200c": "1HP\nSE I: 2.5HP \u00d7 1.25\nSE II: 3.35HP \u00d7 1.675\nSE III: 3.75HP \u00d7 1.875",
+        "sweep damage": "1HP\nSE I: 2.5HP x 1.25\nSE II: 3.35HP x 1.675\nSE III: 3.75HP x 1.875",
         "mining efficiency": "1.5\n15 (on cobwebs)\n30 (on bamboo)",
         "durability": "JE: 190\nBE: 191",
         "enchantability": "13",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting"
     },
-    "Copper Pickaxe": {
+    "Copper_Pickaxe": {
         "image": "https://minecraft.wiki/images/Copper_Pickaxe_JE1_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "5",
         "mining level": "1",
         "attack damage": "JE: 3HP\nBE: 4HP",
-        "attack speed\u200c": "1.2 (0.833 seconds)",
+        "attack speed": "1.2 (0.833 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 190\nBE: 191",
         "enchantability": "13",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting"
     },
-    "Copper Axe": {
+    "Copper_Axe": {
         "image": "https://minecraft.wiki/images/Copper_Axe_JE1_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "5",
         "attack damage": "JE: 9HP\nBE: 5HP",
-        "attack speed\u200c": "0.8 (1.25 seconds)",
+        "attack speed": "0.8 (1.25 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 190\nBE: 191",
         "enchantability": "13",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting"
     },
-    "Copper Shovel": {
+    "Copper_Shovel": {
         "image": "https://minecraft.wiki/images/Copper_Shovel_JE1_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "5",
-        "attack damage": "JE: 3.5HP \u00d7 1.75\nBE: 3HP",
-        "attack speed\u200c": "1 (1 second)",
+        "attack damage": "JE: 3.5HP x 1.75\nBE: 3HP",
+        "attack speed": "1 (1 second)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 190\nBE: 191",
         "enchantability": "13",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting"
     },
-    "Copper Hoe": {
+    "Copper_Hoe": {
         "image": "https://minecraft.wiki/images/Copper_Hoe_JE1_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "5",
         "attack damage": "JE: 1HP\nBE: 4HP",
-        "attack speed\u200c": "2 (0.5 seconds)",
+        "attack speed": "2 (0.5 seconds)",
         "attack range": "3 (3 blocks)",
         "hitbox margin": "0",
         "durability": "JE: 190\nBE: 191",
         "enchantability": "13",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting"
     },
-    "Copper Helmet": {
+    "Copper_Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Helmet_JE1_BE1.png/160px-Copper_Helmet_JE1_BE1.png",
         "rarity tier": "Common",
-        "armor": "2\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "2 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 121\nBE: 122",
         "enchantability": "8",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting\nMob loot"
     },
-    "Copper Chestplate": {
+    "Copper_Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Chestplate_JE1_BE1.png/160px-Copper_Chestplate_JE1_BE1.png",
         "rarity tier": "Common",
-        "armor": "4\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "4 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 176\nBE: 177",
         "enchantability": "8",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting\nMob loot"
     },
-    "Copper Leggings": {
+    "Copper_Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Leggings_JE1_BE1.png/160px-Copper_Leggings_JE1_BE1.png",
         "rarity tier": "Common",
-        "armor": "3\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "3 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 165\nBE: 166",
         "enchantability": "8",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting\nMob loot"
     },
-    "Copper Boots": {
+    "Copper_Boots": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Boots_JE1_BE1.png/160px-Copper_Boots_JE1_BE1.png",
         "rarity tier": "Common",
-        "armor": "1\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "1 ()",
+        "armor toughness": "0 ()",
         "durability": "JE: 143\nBE: 144",
         "enchantability": "8",
         "knockback resistance": "0",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting\nMob loot"
     },
-    "Copper Horse Armor": {
+    "Copper_Horse_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Horse_Armor_JE1_BE1.png/160px-Copper_Horse_Armor_JE1_BE1.png",
         "rarity tier": "Common",
-        "armor": "4\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "4 ()",
+        "armor toughness": "0 ()",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": ""
     },
-    "Copper Nugget": {
+    "Copper_Nugget": {
         "image": "https://minecraft.wiki/images/Copper_Nugget_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
-        "version": "1.21.9"
+        "version": "1.21.9",
+        "toc obtaining": "Crafting\nSmelting"
     },
-    "Copper Nautilus Armor": {
+    "Copper_Nautilus_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Nautilus_Armor_JE1_BE2.png/160px-Copper_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
-        "armor": "4\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "4 ()",
+        "armor toughness": "0 ()",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Generated loot"
     },
-    "Iron Nautilus Armor": {
+    "Iron_Nautilus_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Nautilus_Armor_JE1_BE2.png/160px-Iron_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
-        "armor": "5\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "5 ()",
+        "armor toughness": "0 ()",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Generated loot"
     },
-    "Golden Nautilus Armor": {
+    "Golden_Nautilus_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Nautilus_Armor_JE1_BE2.png/160px-Golden_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
-        "armor": "7\u00a0()",
-        "armor toughness": "0\u00a0()",
+        "armor": "7 ()",
+        "armor toughness": "0 ()",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Generated loot"
     },
-    "Diamond Nautilus Armor": {
+    "Diamond_Nautilus_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Nautilus_Armor_JE1_BE2.png/160px-Diamond_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
-        "armor": "11\u00a0(\u00a0\u00d7 5.5)",
-        "armor toughness": "2\u00a0()",
+        "armor": "11 ( x 5.5)",
+        "armor toughness": "2 ()",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Generated loot"
     },
-    "Netherite Nautilus Armor": {
+    "Netherite_Nautilus_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Nautilus_Armor_JE1_BE2.png/160px-Netherite_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
-        "armor": "19\u00a0(\u00a0\u00d7 9.5)",
-        "armor toughness": "3\u00a0()",
+        "armor": "19 ( x 9.5)",
+        "armor toughness": "3 ()",
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Upgrading"
     },
-    "Wooden Spear": {
+    "Wooden_Spear": {
         "image": "https://minecraft.wiki/images/Held_Wooden_Spear_JE2_BE1.png",
         "rarity tier": "Common",
-        "attack damage": "Jab attack:\nJE: 1HP\nBE: 2HP\n\nCharge attack:\n\n0.7\u00d7 multiplier",
-        "attack speed\u200c": "1.54 (0.65 seconds)",
-        "use cooldown\u200c": "13 game ticks (0.65 seconds)",
+        "attack damage": "Jab attack:\nJE: 1HP\nBE: 2HP\n\nCharge attack:\n\n0.7x multiplier",
+        "attack speed": "1.54 (0.65 seconds)",
+        "use cooldown": "13 game ticks (0.65 seconds)",
         "attack range": "Minimum:\n2 (2 blocks)\nMaximum:\n4.5 (4.5 blocks)",
         "hitbox margin": "0.125",
         "durability": "JE: 59\nBE: 60",
         "enchantability": "15",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Crafting"
     },
-    "Stone Spear": {
+    "Stone_Spear": {
         "image": "https://minecraft.wiki/images/Held_Stone_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 2HP\nBE: 3HP\n\nCharge attack:\n\n0.82x multiplier",
-        "attack speed\u200c": "1.33 (0.75 seconds)",
-        "use cooldown\u200c": "15 game ticks (0.75 seconds)",
+        "attack speed": "1.33 (0.75 seconds)",
+        "use cooldown": "15 game ticks (0.75 seconds)",
         "attack range": "Minimum:\n2 (2 blocks)\nMaximum:\n4.5 (4.5 blocks)",
         "hitbox margin": "0.125",
         "durability": "JE: 131\nBE: 132",
         "enchantability": "5",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Generated loot\nCrafting"
     },
-    "Copper Spear": {
+    "Copper_Spear": {
         "image": "https://minecraft.wiki/images/Held_Copper_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 2HP\nBE: 3HP\n\nCharge attack:\n\n0.82x multiplier",
-        "attack speed\u200c": "1.18 (0.85 seconds)",
-        "use cooldown\u200c": "17 game ticks (0.85 seconds)",
+        "attack speed": "1.18 (0.85 seconds)",
+        "use cooldown": "17 game ticks (0.85 seconds)",
         "attack range": "Minimum:\n2 (2 blocks)\nMaximum:\n4.5 (4.5 blocks)",
         "hitbox margin": "0.125",
         "durability": "JE: 190\nBE: 191",
         "enchantability": "13",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Generated loot\nCrafting"
     },
-    "Iron Spear": {
+    "Iron_Spear": {
         "image": "https://minecraft.wiki/images/Held_Iron_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 3HP\nBE: 4HP\n\nCharge attack:\n\n0.95x multiplier",
-        "attack speed\u200c": "1.05 (0.95 seconds)",
-        "use cooldown\u200c": "19 game ticks (0.95 seconds)",
+        "attack speed": "1.05 (0.95 seconds)",
+        "use cooldown": "19 game ticks (0.95 seconds)",
         "attack range": "Minimum:\n2 (2 blocks)\nMaximum:\n4.5 (4.5 blocks)",
         "hitbox margin": "0.125",
         "durability": "JE: 250\nBE: 251",
         "enchantability": "14",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Golden Spear": {
+    "Golden_Spear": {
         "image": "https://minecraft.wiki/images/Held_Golden_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 1HP\nBE: 2HP\n\nCharge attack:\n\n0.7x multiplier",
-        "attack speed\u200c": "1.05 (0.95 seconds)",
-        "use cooldown\u200c": "19 game ticks (0.95 seconds)",
+        "attack speed": "1.05 (0.95 seconds)",
+        "use cooldown": "19 game ticks (0.95 seconds)",
         "attack range": "Minimum:\n2 (2 blocks)\nMaximum:\n4.5 (4.5 blocks)",
         "hitbox margin": "0.125",
         "durability": "JE: 32\nBE: 33",
         "enchantability": "22",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Crafting\nMob loot"
     },
-    "Diamond Spear": {
+    "Diamond_Spear": {
         "image": "https://minecraft.wiki/images/Held_Diamond_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 4HP\nBE: 5HP\n\nCharge attack:\n\n1.075x multiplier",
-        "attack speed\u200c": "0.95 (1.05 seconds)",
-        "use cooldown\u200c": "21 game ticks (1.05 seconds)",
+        "attack speed": "0.95 (1.05 seconds)",
+        "use cooldown": "21 game ticks (1.05 seconds)",
         "attack range": "Minimum:\n2 (2 blocks)\nMaximum:\n4.5 (4.5 blocks)",
         "hitbox margin": "0.125",
         "durability": "JE: 1561\nBE: 1562",
         "enchantability": "10",
         "renewable": "No (except via vault)",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Generated loot\nCrafting"
     },
-    "Netherite Spear": {
+    "Netherite_Spear": {
         "image": "https://minecraft.wiki/images/Held_Netherite_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 5HP\nBE: 6HP\n\nCharge attack:\n\n1.2x multiplier",
-        "attack speed\u200c": "0.87 (1.15 seconds)",
-        "use cooldown\u200c": "23 game ticks (1.15 seconds)",
+        "attack speed": "0.87 (1.15 seconds)",
+        "use cooldown": "23 game ticks (1.15 seconds)",
         "attack range": "Minimum:\n2 (2 blocks)\nMaximum:\n4.5 (4.5 blocks)",
         "hitbox margin": "0.125",
         "durability": "JE: 2031\nBE: 2032",
         "enchantability": "15",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Smithing"
     },
-    "Netherite Horse Armor": {
+    "Netherite_Horse_Armor": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Horse_Armor_JE2_BE1.png/160px-Netherite_Horse_Armor_JE2_BE1.png",
         "rarity tier": "Common",
-        "armor": "19\u00a0(\u00a0\u00d7 9.5)",
-        "armor toughness": "3\u00a0()",
+        "armor": "19 ( x 9.5)",
+        "armor toughness": "3 ()",
         "knockback resistance": "1 (10%)",
         "renewable": "No",
         "stackable": "No",
-        "version": "1.21.11"
+        "version": "1.21.11",
+        "toc obtaining": "Smithing"
     },
-    "Bucket of Sulfur Cube": {
+    "Bucket_of_Sulfur_Cube": {
         "image": "https://minecraft.wiki/images/Bucket_of_Sulfur_Cube_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "No",
-        "version": "26.2"
+        "version": "26.2",
+        "toc obtaining": ""
     },
-    "Music Disc Bounce": {
+    "Music_Disc_Bounce": {
         "image": "https://minecraft.wiki/images/Music_Disc_Bounce_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
         "stackable": "No",
-        "version": "26.2"
+        "version": "26.2",
+        "toc obtaining": "Generated loot"
     }
 }

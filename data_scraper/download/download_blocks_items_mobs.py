@@ -5,9 +5,12 @@ import json
 import os
 from pathlib import Path
 
-from data_scraper.cleanup_text import remove_escaped_chars
-from download_helper import get_from_api, list_of_dict_from_table, dict_from_infobox, resolve_existing_elements_with_versions_from_list_of_dict
+from data_scraper.cleanup_text import remove_problem_chars
+from download_helper import get_from_api, list_of_dict_from_table, dict_from_infobox, resolve_existing_elements_with_versions_from_list_of_dict, dict_from_table_of_contents
 
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(format="%(levelname)s %(name)s: %(message)s")
 
 actual_dir = Path(__file__).resolve().parent
 OUTPUT_DIR = (actual_dir / ".." / "json_files").resolve()
@@ -15,7 +18,16 @@ OUTPUT_DIR = (actual_dir / ".." / "json_files").resolve()
 SAVE_EVERY = 20
 
 
-def download_all_elements_from_table(output_file_name: str, table_page_title: str, table_name_key: str):
+def download_all_elements_from_table(output_file_name: str, table_page_title: str, table_name_key: str, element_table_of_contents_keys: list=None):
+    """
+    First opens the List with all the elements and the version, then gets the data of every individual element. Finally stores this data in a file.
+
+    :param output_file_name: File name, including ".json", of the output
+    :param table_page_title: Title of the table of the page where the table with all the elements and versions can be found. Example: https://minecraft.wiki/w/List_of_mobs_by_version
+    :param table_name_key: Key of the first column of the table (like "blocks", "items", ...)
+    :param element_table_of_contents_keys: Keys that should be extracted from the table of contents from each individual element (like "Obtaining", "History", ...)
+    """
+
     output_file_path = OUTPUT_DIR / output_file_name
 
     # Check if the file already exists and is not empty and if you want to overwrite it
@@ -43,29 +55,38 @@ def download_all_elements_from_table(output_file_name: str, table_page_title: st
     progress_bar = tqdm.tqdm(total=len(existing_elements.keys()))
 
     for name, version in existing_elements.items():
-        name = remove_escaped_chars(name)
+        name = remove_problem_chars(name)
         try:
             html, redirected_page = get_from_api(name)
 
             if not html:
-                logging.warning(f'"Could not get data for "{name}"')
+                logger.warning(f'"Could not get data for "{name}"')
 
             # If it was redirected then store the data under the redirected name
             if redirected_page:
                 if redirected_page in elements_dict:
-                    logging.info(f'Skipping "{name}" as it was redirected to "{redirected_page}" and this already exists')
+                    logger.info(f'Skipping "{name}" as it was redirected to "{redirected_page}" and this already exists')
                     progress_bar.update(1)
                     continue
                 name = redirected_page  # Change the name
 
             if name in elements_dict:
-                logging.warning(f'Skipping "{name}" as it already exists')
+                logger.warning(f'Skipping "{name}" as it already exists')
+                progress_bar.update(1)
                 continue
 
             # Get and store the data and the version
-            element_data = dict_from_infobox(html)
-            elements_dict[name] = element_data
+            infobox_data = dict_from_infobox(html, identification=name)
+            elements_dict[name] = infobox_data
             elements_dict[name]["version"] = version
+
+            # If needed, go through the table of contents too
+            if element_table_of_contents_keys:
+                table_of_contents_data = dict_from_table_of_contents(html, identification=name, keys=element_table_of_contents_keys)
+
+                for key in table_of_contents_data:
+                    # These use the prefix "toc" for "Table of contents"
+                    elements_dict[name][f"toc {key.lower()}"] = "\n".join(table_of_contents_data[key].keys())  # We join the individual elements, because our raw data values are supposed to be strings
 
             # Update the progress and store every so often
             processed_count += 1
@@ -75,9 +96,8 @@ def download_all_elements_from_table(output_file_name: str, table_page_title: st
                 with open(output_file_path, "w") as f:
                     json.dump(elements_dict, f, indent=4)
 
-
         except Exception as e:
-            logging.error(f'Error processing "{name}": {e}')
+            logger.error(f'Error processing "{name}": {type(e)} {e}')
 
     with open(output_file_path, "w") as f:
         json.dump(elements_dict, f, indent=4)
@@ -88,7 +108,7 @@ if __name__ == '__main__':
     download_all_elements_from_table("blocks_raw.json", "List_of_blocks_by_version", "block")
 
     print("\n\nDownloading items...")
-    download_all_elements_from_table("items_raw.json", "List_of_items_by_version", "item")
+    download_all_elements_from_table("items_raw.json", "List_of_items_by_version", "item", ["Obtaining"])
 
     print("\n\nDownloading mobs...")
     download_all_elements_from_table("mobs_raw.json", "List_of_mobs_by_version", "mob")
