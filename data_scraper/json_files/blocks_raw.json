@@ -31,7 +31,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "pre-alpha"
     },
-    "Grass_Block": {
+    "Grass Block": {
         "image": "https://minecraft.wiki/images/thumb/Grass_Block_JE7_BE6.png/150px-Grass_Block_JE7_BE6.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -184,7 +184,7 @@
         "sulfur cube archetype": "Regular",
         "version": "pre-alpha"
     },
-    "Gold_Ore": {
+    "Gold Ore": {
         "image": "https://minecraft.wiki/images/thumb/Gold_Ore_JE7_BE4.png/150px-Gold_Ore_JE7_BE4.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -200,7 +200,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "pre-alpha"
     },
-    "Iron_Ore": {
+    "Iron Ore": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Ore_JE6_BE4.png/150px-Iron_Ore_JE6_BE4.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -216,7 +216,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "pre-alpha"
     },
-    "Coal_Ore": {
+    "Coal Ore": {
         "image": "https://minecraft.wiki/images/thumb/Coal_Ore_JE5_BE4.png/150px-Coal_Ore_JE5_BE4.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -342,7 +342,7 @@
         "note block instrument": "Default (Harp)",
         "version": "pre-alpha"
     },
-    "Brown_Mushroom": {
+    "Brown Mushroom": {
         "image": "https://minecraft.wiki/images/thumb/Brown_Mushroom_JE9.png/150px-Brown_Mushroom_JE9.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -357,7 +357,7 @@
         "note block instrument": "Default (Harp)",
         "version": "pre-alpha"
     },
-    "Red_Mushroom": {
+    "Red Mushroom": {
         "image": "https://minecraft.wiki/images/thumb/Red_Mushroom_JE9.png/150px-Red_Mushroom_JE9.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -372,7 +372,7 @@
         "note block instrument": "Default (Harp)",
         "version": "pre-alpha"
     },
-    "Block_of_Gold": {
+    "Block of Gold": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Gold_JE6_BE3.png/150px-Block_of_Gold_JE6_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -388,7 +388,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "pre-alpha"
     },
-    "Block_of_Iron": {
+    "Block of Iron": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Iron_JE4_BE3.png/150px-Block_of_Iron_JE4_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -404,7 +404,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "pre-alpha"
     },
-    "Smooth_Stone_Slab": {
+    "Smooth Stone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Stone_Slab_JE2_BE2.png/150px-Smooth_Stone_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -467,7 +467,7 @@
         "note block instrument": "Bass",
         "version": "pre-alpha"
     },
-    "Mossy_Cobblestone": {
+    "Mossy Cobblestone": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_JE4_BE2.png/150px-Mossy_Cobblestone_JE4_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -545,7 +545,7 @@
         "note block instrument": "Bass",
         "version": "pre-alpha"
     },
-    "Diamond_Ore": {
+    "Diamond Ore": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Ore_JE5_BE5.png/150px-Diamond_Ore_JE5_BE5.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -561,7 +561,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "pre-alpha"
     },
-    "Block_of_Diamond": {
+    "Block of Diamond": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Diamond_JE5_BE3.png/150px-Block_of_Diamond_JE5_BE3.png",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
@@ -577,7 +577,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "pre-alpha"
     },
-    "Crafting_Table": {
+    "Crafting Table": {
         "image": "https://minecraft.wiki/images/thumb/Crafting_Table_JE4_BE3.png/150px-Crafting_Table_JE4_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -701,7 +701,7 @@
         "note block instrument": "Default (Harp)",
         "version": "pre-alpha"
     },
-    "Monster_Spawner": {
+    "Monster Spawner": {
         "image": "https://minecraft.wiki/images/thumb/Monster_Spawner_JE4.png/150px-Monster_Spawner_JE4.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -734,7 +734,7 @@
         "note block instrument": "Bass",
         "version": "pre-alpha"
     },
-    "Cobblestone_Stairs": {
+    "Cobblestone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Cobblestone_Stairs_%28N%29_JE6_BE6.png/150px-Cobblestone_Stairs_%28N%29_JE6_BE6.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -781,7 +781,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Alpha 1.0.1"
     },
-    "Stone_Pressure_Plate": {
+    "Stone Pressure Plate": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Pressure_Plate_JE5_BE2.png/150px-Stone_Pressure_Plate_JE5_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -797,7 +797,7 @@
         "note block instrument": "Bass Drum",
         "version": "Alpha 1.0.1"
     },
-    "Iron_Door": {
+    "Iron Door": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Door_JE5.png/150px-Iron_Door_JE5.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -829,7 +829,7 @@
         "note block instrument": "Bass",
         "version": "Alpha 1.0.1"
     },
-    "Redstone_Ore": {
+    "Redstone Ore": {
         "image": "https://minecraft.wiki/images/thumb/Redstone_Ore_JE4_BE3.png/150px-Redstone_Ore_JE4_BE3.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -843,21 +843,6 @@
         "map color": "11 STONE\n\n59 DEEPSLATE",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "Alpha 1.0.1"
-    },
-    "Redstone_Torch": {
-        "image": "https://minecraft.wiki/images/thumb/Redstone_Torch_JE5.png/150px-Redstone_Torch_JE5.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "0",
-        "hardness": "0",
-        "luminous": "Yes (7) (when lit)",
-        "transparent": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Default (Harp)",
         "version": "Alpha 1.0.1"
     },
     "Redstone Torch": {
@@ -875,7 +860,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Alpha 1.0.1"
     },
-    "Stone_Button": {
+    "Stone Button": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Button_JE6.png/150px-Stone_Button_JE6.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -922,7 +907,7 @@
         "sulfur cube archetype": "Fast Sliding",
         "version": "Alpha 1.0.4"
     },
-    "Snow_Block": {
+    "Snow Block": {
         "image": "https://minecraft.wiki/images/thumb/Snow_Block_JE2_BE2.png/150px-Snow_Block_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -969,7 +954,7 @@
         "sulfur cube archetype": "Regular",
         "version": "Alpha 1.0.11"
     },
-    "Sugar_Cane": {
+    "Sugar Cane": {
         "image": "https://minecraft.wiki/images/thumb/Sugar_Cane.png/150px-Sugar_Cane.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1015,7 +1000,7 @@
         "note block instrument": "Bass",
         "version": "Alpha 1.0.17"
     },
-    "Carved_Pumpkin": {
+    "Carved Pumpkin": {
         "image": "https://minecraft.wiki/images/thumb/Carved_Pumpkin_%28S%29_JE5.png/150px-Carved_Pumpkin_%28S%29_JE5.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1047,7 +1032,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "Alpha 1.2.0"
     },
-    "Soul_Sand": {
+    "Soul Sand": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Sand_JE2_BE2.png/150px-Soul_Sand_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1079,13 +1064,13 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "Alpha 1.2.0"
     },
-    "Nether_Portal": {
+    "Nether Portal": {
         "image": "https://minecraft.wiki/images/Nether_portal_%28animated%29.png",
         "generates in existing chunks": "Yes, only when an entity goes through a portal and there is no other active portal within 128 blocks of the matching coordinate",
         "consists of": "Obsidian\nNether Portal",
         "version": "Alpha 1.2.0"
     },
-    "Jack_o'Lantern": {
+    "Jack o'Lantern": {
         "image": "https://minecraft.wiki/images/thumb/Jack_o%27Lantern_%28S%29_JE4.png/150px-Jack_o%27Lantern_%28S%29_JE4.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1100,7 +1085,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Alpha 1.2.0"
     },
-    "Lapis_Lazuli_Ore": {
+    "Lapis Lazuli Ore": {
         "image": "https://minecraft.wiki/images/thumb/Lapis_Lazuli_Ore_JE4_BE4.png/150px-Lapis_Lazuli_Ore_JE4_BE4.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -1116,7 +1101,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "Beta 1.2"
     },
-    "Block_of_Lapis_Lazuli": {
+    "Block of Lapis Lazuli": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Lapis_Lazuli_JE3_BE3.png/150px-Block_of_Lapis_Lazuli_JE3_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1163,7 +1148,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "Beta 1.2"
     },
-    "Note_Block": {
+    "Note Block": {
         "image": "https://minecraft.wiki/images/thumb/Note_Block_JE2_BE2.png/150px-Note_Block_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1216,7 +1201,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Beta 1.3"
     },
-    "Smooth_Stone": {
+    "Smooth Stone": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Stone_JE2_BE2.png/150px-Smooth_Stone_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1232,7 +1217,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.5"
     },
-    "Sandstone_Slab": {
+    "Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Sandstone_Slab_JE5_BE6.png/150px-Sandstone_Slab_JE5_BE6.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1248,7 +1233,7 @@
         "note block instrument": "Bass Drum",
         "version": "Beta 1.3"
     },
-    "Petrified_Oak_Slab": {
+    "Petrified Oak Slab": {
         "image": "https://minecraft.wiki/images/thumb/Oak_Slab_JE3_BE2.png/150px-Oak_Slab_JE3_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -1263,7 +1248,7 @@
         "note block instrument": "Bass Drum",
         "version": "Beta 1.3"
     },
-    "Cobblestone_Slab": {
+    "Cobblestone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cobblestone_Slab_JE4_BE3.png/150px-Cobblestone_Slab_JE4_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1279,7 +1264,7 @@
         "note block instrument": "Bass Drum",
         "version": "Beta 1.3"
     },
-    "Redstone_Repeater": {
+    "Redstone Repeater": {
         "image": "https://minecraft.wiki/images/thumb/Redstone_Repeater_%28S%29_JE5_BE2.png/150px-Redstone_Repeater_%28S%29_JE5_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1295,7 +1280,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Beta 1.3"
     },
-    "Powered_Rail": {
+    "Powered Rail": {
         "image": "https://minecraft.wiki/images/thumb/Powered_Rail_%28NS%29_JE2_BE2.png/150px-Powered_Rail_%28NS%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1311,7 +1296,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Beta 1.5"
     },
-    "Detector_Rail": {
+    "Detector Rail": {
         "image": "https://minecraft.wiki/images/thumb/Detector_Rail_%28NS%29_JE2_BE2.png/150px-Detector_Rail_%28NS%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1343,7 +1328,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Beta 1.5"
     },
-    "Short_Grass": {
+    "Short Grass": {
         "image": "https://minecraft.wiki/images/thumb/Grass_JE7_BE5.png/150px-Grass_JE7_BE5.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1373,7 +1358,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Beta 1.6"
     },
-    "Dead_Bush": {
+    "Dead Bush": {
         "image": "https://minecraft.wiki/images/thumb/Dead_Bush_JE6_BE4.png/150px-Dead_Bush_JE6_BE4.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -1405,7 +1390,7 @@
         "note block instrument": "Bass",
         "version": "Beta 1.6"
     },
-    "Sticky_Piston": {
+    "Sticky Piston": {
         "image": "https://minecraft.wiki/images/thumb/Sticky_Piston_%28U%29_JE3.gif/150px-Sticky_Piston_%28U%29_JE3.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1450,7 +1435,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Beta 1.7"
     },
-    "Brick_Slab": {
+    "Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Brick_Slab_JE3_BE2.png/150px-Brick_Slab_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1466,7 +1451,7 @@
         "note block instrument": "Bass Drum",
         "version": "Beta 1.8"
     },
-    "Stone_Brick_Slab": {
+    "Stone Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Brick_Slab_JE3_BE2.png/150px-Stone_Brick_Slab_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1497,7 +1482,7 @@
         "note block instrument": "Default (Harp)\nFlute",
         "version": "Beta 1.8"
     },
-    "Stone_Bricks": {
+    "Stone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Bricks_JE3_BE2.png/150px-Stone_Bricks_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1513,7 +1498,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "Beta 1.8"
     },
-    "Mossy_Stone_Bricks": {
+    "Mossy Stone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Stone_Bricks_JE3_BE2.png/150px-Mossy_Stone_Bricks_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1528,7 +1513,7 @@
         "note block instrument": "Bass Drum",
         "version": "Beta 1.8"
     },
-    "Cracked_Stone_Bricks": {
+    "Cracked Stone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Cracked_Stone_Bricks_JE3_BE2.png/150px-Cracked_Stone_Bricks_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1559,7 +1544,7 @@
         "sulfur cube archetype": "Slow Sliding",
         "version": "Beta 1.8"
     },
-    "Iron_Bars": {
+    "Iron Bars": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Bars_%28EW%29_JE9.png/150px-Iron_Bars_%28EW%29_JE9.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1575,7 +1560,7 @@
         "note block instrument": "Default (Harp)",
         "version": "Beta 1.8"
     },
-    "Glass_Pane": {
+    "Glass Pane": {
         "image": "https://minecraft.wiki/images/thumb/Glass_Pane_%28EW%29_JE12.png/150px-Glass_Pane_%28EW%29_JE12.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1671,7 +1656,7 @@
         "note block instrument": "Bass",
         "version": "Beta 1.8"
     },
-    "Brick_Stairs": {
+    "Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Brick_Stairs_%28N%29_JE5_BE2.png/150px-Brick_Stairs_%28N%29_JE5_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1687,7 +1672,7 @@
         "note block instrument": "Bass Drum",
         "version": "Beta 1.8"
     },
-    "Stone_Brick_Stairs": {
+    "Stone Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Brick_Stairs_%28N%29_JE5_BE2.png/150px-Stone_Brick_Stairs_%28N%29_JE5_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1719,7 +1704,7 @@
         "sulfur cube archetype": "Slow Sliding",
         "version": "1.0.0"
     },
-    "Lily_Pad": {
+    "Lily Pad": {
         "image": "https://minecraft.wiki/images/thumb/Lily_Pad_%28on_the_water%29.png/150px-Lily_Pad_%28on_the_water%29.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1734,7 +1719,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.0.0"
     },
-    "Nether_Bricks": {
+    "Nether Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Bricks_JE4_BE5.png/150px-Nether_Bricks_JE4_BE5.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1750,7 +1735,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.0.0"
     },
-    "Nether_Brick_Fence": {
+    "Nether Brick Fence": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Brick_Fence_%28EW%29_JE8.png/150px-Nether_Brick_Fence_%28EW%29_JE8.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1765,7 +1750,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.0.0"
     },
-    "Nether_Brick_Stairs": {
+    "Nether Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Brick_Stairs_%28N%29_JE6_BE5.png/150px-Nether_Brick_Stairs_%28N%29_JE6_BE5.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1781,7 +1766,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.0.0"
     },
-    "Nether_Wart": {
+    "Nether Wart": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Wart_Age_0_JE8.png/150px-Nether_Wart_Age_0_JE8.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1796,7 +1781,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.0.0"
     },
-    "Enchanting_Table": {
+    "Enchanting Table": {
         "image": "https://minecraft.wiki/images/thumb/Enchanting_Table.gif/150px-Enchanting_Table.gif",
         "renewable": "No (except via vault)",
         "stackable": "Yes (64)",
@@ -1812,7 +1797,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.0.0"
     },
-    "Brewing_Stand": {
+    "Brewing Stand": {
         "image": "https://minecraft.wiki/images/thumb/Brewing_Stand_%28empty%29_JE10.png/150px-Brewing_Stand_%28empty%29_JE10.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1850,7 +1835,7 @@
         "consists of": "End Portal Frame\nEnd Portal (if End portal is activated)",
         "version": "1.0.0"
     },
-    "End_Portal_Frame": {
+    "End Portal Frame": {
         "image": "https://minecraft.wiki/images/thumb/End_Portal_Frame_%28S%29_JE7.png/150px-End_Portal_Frame_%28S%29_JE7.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -1866,7 +1851,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.0.0"
     },
-    "End_Stone": {
+    "End Stone": {
         "image": "https://minecraft.wiki/images/thumb/End_Stone_JE3_BE2.png/150px-End_Stone_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1882,7 +1867,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.0.0"
     },
-    "Dragon_Egg": {
+    "Dragon Egg": {
         "image": "https://minecraft.wiki/images/thumb/Dragon_Egg_JE5.png/150px-Dragon_Egg_JE5.png",
         "rarity tier": "Epic",
         "renewable": "No",
@@ -1899,7 +1884,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.0.0"
     },
-    "Redstone_Lamp": {
+    "Redstone Lamp": {
         "image": "https://minecraft.wiki/images/thumb/Redstone_Lamp_JE3_BE2.png/150px-Redstone_Lamp_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1915,7 +1900,7 @@
         "sulfur cube archetype": "Slow Bouncy",
         "version": "1.2.1"
     },
-    "Chiseled_Stone_Bricks": {
+    "Chiseled Stone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Stone_Bricks_JE3_BE2.png/150px-Chiseled_Stone_Bricks_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1930,7 +1915,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.2.1"
     },
-    "Chiseled_Sandstone": {
+    "Chiseled Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Sandstone_JE5_BE2.png/150px-Chiseled_Sandstone_JE5_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1946,7 +1931,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.2.4"
     },
-    "Cut_Sandstone": {
+    "Cut Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Sandstone_JE5_BE2.png/150px-Cut_Sandstone_JE5_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1993,7 +1978,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.3.1"
     },
-    "Sandstone_Stairs": {
+    "Sandstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Sandstone_Stairs_%28N%29_JE6_BE3.png/150px-Sandstone_Stairs_%28N%29_JE6_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2009,7 +1994,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.3.1"
     },
-    "Emerald_Ore": {
+    "Emerald Ore": {
         "image": "https://minecraft.wiki/images/thumb/Emerald_Ore_JE4_BE3.png/150px-Emerald_Ore_JE4_BE3.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -2025,7 +2010,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.3.1"
     },
-    "Ender_Chest": {
+    "Ender Chest": {
         "image": "https://minecraft.wiki/images/thumb/Ender_Chest_JE2_BE2.gif/150px-Ender_Chest_JE2_BE2.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2041,7 +2026,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.3.1"
     },
-    "Tripwire_Hook": {
+    "Tripwire Hook": {
         "image": "https://minecraft.wiki/images/thumb/Tripwire_Hook_%28S%29_JE6.png/150px-Tripwire_Hook_%28S%29_JE6.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2073,7 +2058,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.3.1"
     },
-    "Block_of_Emerald": {
+    "Block of Emerald": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Emerald_JE4_BE3.png/150px-Block_of_Emerald_JE4_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2105,7 +2090,7 @@
         "sulfur cube archetype": "Bouncy (Rubber Ball)",
         "version": "1.3.1"
     },
-    "Command_Block": {
+    "Command Block": {
         "image": "https://minecraft.wiki/images/thumb/Impulse_Command_Block.gif/150px-Impulse_Command_Block.gif",
         "rarity tier": "Epic\nCommon",
         "renewable": "No",
@@ -2138,7 +2123,7 @@
         "note block instrument": "Hat",
         "version": "1.4.2"
     },
-    "Cobblestone_Wall": {
+    "Cobblestone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Cobblestone_Wall_%28ewU%29_JE4.png/150px-Cobblestone_Wall_%28ewU%29_JE4.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2154,7 +2139,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.4.2"
     },
-    "Mossy_Cobblestone_Wall": {
+    "Mossy Cobblestone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_Wall_%28ewU%29_JE4.png/150px-Mossy_Cobblestone_Wall_%28ewU%29_JE4.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2168,22 +2153,6 @@
         "catches fire from lava": "No",
         "map color": "11 STONE",
         "note block instrument": "Bass Drum",
-        "version": "1.4.2"
-    },
-    "Flower_Pot": {
-        "image": "https://minecraft.wiki/images/thumb/Flower_Pot_JE3.png/150px-Flower_Pot_JE3.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "0",
-        "hardness": "0",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "JE: No\nBE: Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Default (Harp)",
         "version": "1.4.2"
     },
     "Flower Pot": {
@@ -2242,23 +2211,6 @@
         "note block instrument": "Default (Harp)",
         "version": "1.4.2"
     },
-    "Skeleton_Skull": {
-        "image": "https://minecraft.wiki/images/thumb/Skeleton_Skull_%28S%29_JE2.png/150px-Skeleton_Skull_%28S%29_JE2.png",
-        "rarity tier": "Uncommon",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "1",
-        "hardness": "1",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "JE: No\nBE: Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Skeleton rattle",
-        "version": "1.4.2"
-    },
     "Skeleton Skull": {
         "image": "https://minecraft.wiki/images/thumb/Skeleton_Skull_%28S%29_JE2.png/150px-Skeleton_Skull_%28S%29_JE2.png",
         "rarity tier": "Uncommon",
@@ -2274,23 +2226,6 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Skeleton rattle",
-        "version": "1.4.2"
-    },
-    "Wither_Skeleton_Skull": {
-        "image": "https://minecraft.wiki/images/thumb/Wither_Skeleton_Skull_%28S%29_JE2.png/150px-Wither_Skeleton_Skull_%28S%29_JE2.png",
-        "rarity tier": "Rare",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "1",
-        "hardness": "1",
-        "luminous": "No",
-        "transparent": "No",
-        "waterloggable": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Wither skeleton rattle",
         "version": "1.4.2"
     },
     "Wither Skeleton Skull": {
@@ -2310,23 +2245,6 @@
         "note block instrument": "Wither skeleton rattle",
         "version": "1.4.2"
     },
-    "Zombie_Head": {
-        "image": "https://minecraft.wiki/images/thumb/Zombie_Head_%28S%29_JE2.png/150px-Zombie_Head_%28S%29_JE2.png",
-        "rarity tier": "Uncommon",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "1",
-        "hardness": "1",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "JE: No\nBE: Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Zombie moan",
-        "version": "1.4.2"
-    },
     "Zombie Head": {
         "image": "https://minecraft.wiki/images/thumb/Zombie_Head_%28S%29_JE2.png/150px-Zombie_Head_%28S%29_JE2.png",
         "rarity tier": "Uncommon",
@@ -2344,23 +2262,6 @@
         "note block instrument": "Zombie moan",
         "version": "1.4.2"
     },
-    "Player_Head": {
-        "image": "https://minecraft.wiki/images/thumb/Player_Head_%28S%29_JE2.png/150px-Player_Head_%28S%29_JE2.png",
-        "rarity tier": "Uncommon",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "1",
-        "hardness": "1",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "JE: No\nBE: Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Silent by default",
-        "version": "1.4.2"
-    },
     "Player Head": {
         "image": "https://minecraft.wiki/images/thumb/Player_Head_%28S%29_JE2.png/150px-Player_Head_%28S%29_JE2.png",
         "rarity tier": "Uncommon",
@@ -2376,23 +2277,6 @@
         "catches fire from lava": "No",
         "map color": "0 NONE",
         "note block instrument": "Silent by default",
-        "version": "1.4.2"
-    },
-    "Creeper_Head": {
-        "image": "https://minecraft.wiki/images/thumb/Creeper_Head_%28S%29_JE1.png/150px-Creeper_Head_%28S%29_JE1.png",
-        "rarity tier": "Uncommon",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "1",
-        "hardness": "1",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "JE: No\nBE: Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Creeper hiss",
         "version": "1.4.2"
     },
     "Creeper Head": {
@@ -2428,7 +2312,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.4.2"
     },
-    "Nether_Brick_Slab": {
+    "Nether Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Brick_Slab_JE4_BE5.png/150px-Nether_Brick_Slab_JE4_BE5.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2444,7 +2328,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.4.6"
     },
-    "Trapped_Chest": {
+    "Trapped Chest": {
         "image": "https://minecraft.wiki/images/thumb/Trapped_Chest.gif/150px-Trapped_Chest.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2460,7 +2344,7 @@
         "note block instrument": "Bass",
         "version": "1.5"
     },
-    "Light_Weighted_Pressure_Plate": {
+    "Light Weighted Pressure Plate": {
         "image": "https://minecraft.wiki/images/thumb/Light_Weighted_Pressure_Plate_JE3_BE2.png/150px-Light_Weighted_Pressure_Plate_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2476,7 +2360,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.5"
     },
-    "Heavy_Weighted_Pressure_Plate": {
+    "Heavy Weighted Pressure Plate": {
         "image": "https://minecraft.wiki/images/thumb/Heavy_Weighted_Pressure_Plate_JE2_BE2.png/150px-Heavy_Weighted_Pressure_Plate_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2492,7 +2376,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.5"
     },
-    "Redstone_Comparator": {
+    "Redstone Comparator": {
         "image": "https://minecraft.wiki/images/thumb/Redstone_Comparator_%28S%29_JE5.png/150px-Redstone_Comparator_%28S%29_JE5.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2508,7 +2392,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.5"
     },
-    "Daylight_Detector": {
+    "Daylight Detector": {
         "image": "https://minecraft.wiki/images/thumb/Daylight_Detector_JE1_BE1.png/150px-Daylight_Detector_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2524,7 +2408,7 @@
         "note block instrument": "Bass",
         "version": "1.5"
     },
-    "Block_of_Redstone": {
+    "Block of Redstone": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Redstone_JE2_BE2.png/150px-Block_of_Redstone_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2540,7 +2424,7 @@
         "sulfur cube archetype": "Regular",
         "version": "1.5"
     },
-    "Nether_Quartz_Ore": {
+    "Nether Quartz Ore": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Quartz_Ore_JE3_BE2.png/150px-Nether_Quartz_Ore_JE3_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -2572,7 +2456,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.5"
     },
-    "Quartz_Slab": {
+    "Quartz Slab": {
         "image": "https://minecraft.wiki/images/thumb/Quartz_Slab_JE3_BE3.png/150px-Quartz_Slab_JE3_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2588,7 +2472,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.5"
     },
-    "Block_of_Quartz": {
+    "Block of Quartz": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Quartz_JE4_BE4.png/150px-Block_of_Quartz_JE4_BE4.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2604,7 +2488,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.5"
     },
-    "Chiseled_Quartz_Block": {
+    "Chiseled Quartz Block": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Quartz_Block_%28UD%29_JE2_BE2.png/150px-Chiseled_Quartz_Block_%28UD%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2620,7 +2504,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.5"
     },
-    "Quartz_Pillar": {
+    "Quartz Pillar": {
         "image": "https://minecraft.wiki/images/thumb/Quartz_Pillar_%28UD%29_JE3_BE2.png/150px-Quartz_Pillar_%28UD%29_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2636,7 +2520,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.5"
     },
-    "Quartz_Stairs": {
+    "Quartz Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Quartz_Stairs_%28N%29_JE3.png/150px-Quartz_Stairs_%28N%29_JE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2652,7 +2536,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.5"
     },
-    "Activator_Rail": {
+    "Activator Rail": {
         "image": "https://minecraft.wiki/images/thumb/Activator_Rail_%28NS%29_JE2_BE2.png/150px-Activator_Rail_%28NS%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2683,7 +2567,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.5"
     },
-    "Smooth_Sandstone": {
+    "Smooth Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Sandstone_JE7_BE2.png/150px-Smooth_Sandstone_JE7_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2715,7 +2599,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.5"
     },
-    "Hay_Bale": {
+    "Hay Bale": {
         "image": "https://minecraft.wiki/images/thumb/Hay_Bale_%28UD%29_JE2_BE2.png/150px-Hay_Bale_%28UD%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2763,7 +2647,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.6.1"
     },
-    "Block_of_Coal": {
+    "Block of Coal": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Coal_JE3_BE2.png/150px-Block_of_Coal_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2795,7 +2679,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.6.1"
     },
-    "Coarse_Dirt": {
+    "Coarse Dirt": {
         "image": "https://minecraft.wiki/images/thumb/Coarse_Dirt.png/150px-Coarse_Dirt.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2827,7 +2711,7 @@
         "sulfur cube archetype": "Regular",
         "version": "1.7.2"
     },
-    "Blue_Orchid": {
+    "Blue Orchid": {
         "image": "https://minecraft.wiki/images/thumb/Blue_Orchid_JE7_BE4.png/150px-Blue_Orchid_JE7_BE4.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2857,7 +2741,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.7.2"
     },
-    "Azure_Bluet": {
+    "Azure Bluet": {
         "image": "https://minecraft.wiki/images/thumb/Azure_Bluet_JE7_BE2.png/150px-Azure_Bluet_JE7_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2887,7 +2771,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.7.2"
     },
-    "Oxeye_Daisy": {
+    "Oxeye Daisy": {
         "image": "https://minecraft.wiki/images/thumb/Oxeye_Daisy_JE7_BE2.png/150px-Oxeye_Daisy_JE7_BE2.png",
         "other names": "Moon Daisy (CA)",
         "renewable": "Yes",
@@ -2903,7 +2787,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.7.2"
     },
-    "Packed_Ice": {
+    "Packed Ice": {
         "image": "https://minecraft.wiki/images/thumb/Packed_Ice_JE2_BE3.png/150px-Packed_Ice_JE2_BE3.png",
         "other names": "Compressed Ice (GB)",
         "renewable": "Yes",
@@ -2950,7 +2834,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.7.2"
     },
-    "Tall_Grass": {
+    "Tall Grass": {
         "image": "https://minecraft.wiki/images/thumb/Tall_Grass_JE4.png/150px-Tall_Grass_JE4.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2965,7 +2849,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.7.2"
     },
-    "Large_Fern": {
+    "Large Fern": {
         "image": "https://minecraft.wiki/images/thumb/Large_Fern_JE4.png/150px-Large_Fern_JE4.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2980,7 +2864,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.7.2"
     },
-    "Rose_Bush": {
+    "Rose Bush": {
         "image": "https://minecraft.wiki/images/thumb/Rose_Bush_JE4_BE3.png/150px-Rose_Bush_JE4_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3010,7 +2894,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.7.2"
     },
-    "Red_Sand": {
+    "Red Sand": {
         "image": "https://minecraft.wiki/images/thumb/Red_Sand_JE3_BE2.png/150px-Red_Sand_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3074,7 +2958,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Polished_Granite": {
+    "Polished Granite": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Granite_JE2_BE2.png/150px-Polished_Granite_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3105,7 +2989,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Polished_Diorite": {
+    "Polished Diorite": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Diorite_JE2_BE2.png/150px-Polished_Diorite_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3136,7 +3020,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Polished_Andesite": {
+    "Polished Andesite": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Andesite_JE2_BE2.png/150px-Polished_Andesite_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3151,7 +3035,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.8"
     },
-    "Slime_Block": {
+    "Slime Block": {
         "image": "https://minecraft.wiki/images/thumb/Slime_Block_JE2_BE3.png/150px-Slime_Block_JE2_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3184,7 +3068,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.8"
     },
-    "Iron_Trapdoor": {
+    "Iron Trapdoor": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Trapdoor_JE3_BE2.png/150px-Iron_Trapdoor_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3216,7 +3100,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Prismarine_Bricks": {
+    "Prismarine Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Bricks_JE2_BE2.png/150px-Prismarine_Bricks_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3232,7 +3116,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Dark_Prismarine": {
+    "Dark Prismarine": {
         "image": "https://minecraft.wiki/images/thumb/Dark_Prismarine_JE2_BE2.png/150px-Dark_Prismarine_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3248,7 +3132,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Sea_Lantern": {
+    "Sea Lantern": {
         "image": "https://minecraft.wiki/images/thumb/Sea_Lantern_JE1.gif/150px-Sea_Lantern_JE1.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3281,7 +3165,7 @@
         "note block instrument": "Bass",
         "version": "1.8"
     },
-    "Red_Sandstone": {
+    "Red Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Red_Sandstone_JE4_BE2.png/150px-Red_Sandstone_JE4_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3297,7 +3181,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Chiseled_Red_Sandstone": {
+    "Chiseled Red Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Red_Sandstone_JE4_BE2.png/150px-Chiseled_Red_Sandstone_JE4_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3313,7 +3197,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Cut_Red_Sandstone": {
+    "Cut Red Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Red_Sandstone_JE4_BE2.png/150px-Cut_Red_Sandstone_JE4_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3329,7 +3213,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Red_Sandstone_Stairs": {
+    "Red Sandstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Red_Sandstone_Stairs_%28N%29_JE4_BE2.png/150px-Red_Sandstone_Stairs_%28N%29_JE4_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3345,7 +3229,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.8"
     },
-    "Smooth_Red_Sandstone": {
+    "Smooth Red Sandstone": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Red_Sandstone_JE4_BE2.png/150px-Smooth_Red_Sandstone_JE4_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3361,7 +3245,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.8"
     },
-    "Red_Sandstone_Slab": {
+    "Red Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Red_Sandstone_Slab_JE4_BE2.png/150px-Red_Sandstone_Slab_JE4_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3376,24 +3260,6 @@
         "map color": "15 COLOR_ORANGE",
         "note block instrument": "Bass Drum",
         "version": "1.8"
-    },
-    "Dragon_Head": {
-        "image": "https://minecraft.wiki/images/thumb/Dragon_Head_%28S%29_JE1.png/150px-Dragon_Head_%28S%29_JE1.png",
-        "other names": "Ender Dragon Head (NZ)",
-        "rarity tier": "Epic",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "1",
-        "hardness": "1",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "JE: No\nBE: Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Ender dragon roar",
-        "version": "1.9"
     },
     "Dragon Head": {
         "image": "https://minecraft.wiki/images/thumb/Dragon_Head_%28S%29_JE1.png/150px-Dragon_Head_%28S%29_JE1.png",
@@ -3413,7 +3279,7 @@
         "note block instrument": "Ender dragon roar",
         "version": "1.9"
     },
-    "End_Rod": {
+    "End Rod": {
         "image": "https://minecraft.wiki/images/thumb/End_Rod_%28U%29_JE2_BE2.png/150px-End_Rod_%28U%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3429,7 +3295,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.9"
     },
-    "Chorus_Plant": {
+    "Chorus Plant": {
         "image": "https://minecraft.wiki/images/thumb/Chorus_Plant_JE2_BE2.png/150px-Chorus_Plant_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3444,7 +3310,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.9"
     },
-    "Chorus_Flower": {
+    "Chorus Flower": {
         "image": "https://minecraft.wiki/images/thumb/Chorus_Flower_JE2_BE2.png/150px-Chorus_Flower_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3459,7 +3325,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.9"
     },
-    "Purpur_Block": {
+    "Purpur Block": {
         "image": "https://minecraft.wiki/images/thumb/Purpur_Block_JE2_BE2.png/150px-Purpur_Block_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3475,7 +3341,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.9"
     },
-    "Purpur_Pillar": {
+    "Purpur Pillar": {
         "image": "https://minecraft.wiki/images/thumb/Purpur_Pillar_%28UD%29_JE3_BE2.png/150px-Purpur_Pillar_%28UD%29_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3491,7 +3357,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.9"
     },
-    "Purpur_Stairs": {
+    "Purpur Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Purpur_Stairs_%28N%29_JE2_BE2.png/150px-Purpur_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3507,7 +3373,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.9"
     },
-    "Purpur_Slab": {
+    "Purpur Slab": {
         "image": "https://minecraft.wiki/images/thumb/Purpur_Slab_JE2_BE2.png/150px-Purpur_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3523,7 +3389,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.9"
     },
-    "End_Stone_Bricks": {
+    "End Stone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/End_Stone_Bricks_JE2_BE2.png/150px-End_Stone_Bricks_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3552,7 +3418,7 @@
         "stackable": "Yes (64)",
         "version": "1.9"
     },
-    "Dirt_Path": {
+    "Dirt Path": {
         "image": "https://minecraft.wiki/images/thumb/Dirt_Path_JE4_BE3.png/150px-Dirt_Path_JE4_BE3.png",
         "renewable": "JE: No\nBE: Yes",
         "stackable": "Yes (64)",
@@ -3567,14 +3433,14 @@
         "note block instrument": "Default (Harp)",
         "version": "1.9"
     },
-    "End_Gateway": {
+    "End Gateway": {
         "image": "https://minecraft.wiki/images/thumb/End_gateway_JE3_BE2.png/157px-End_gateway_JE3_BE2.png",
         "biomes": "Any End biome",
         "generates in existing chunks": "Yes, when an ender dragon is defeated, or when a gateway on the central island is used for the first time",
         "consists of": "Bedrock\nEnd Gateway",
         "version": "1.9"
     },
-    "Structure_Block": {
+    "Structure Block": {
         "image": "https://minecraft.wiki/images/thumb/Structure_Block_JE2_BE1.png/150px-Structure_Block_JE2_BE1.png",
         "rarity tier": "Epic\nCommon",
         "renewable": "No",
@@ -3590,23 +3456,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.9"
     },
-    "Command Block": {
-        "image": "https://minecraft.wiki/images/thumb/Impulse_Command_Block.gif/150px-Impulse_Command_Block.gif",
-        "rarity tier": "Epic\nCommon",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "None",
-        "blast resistance": "3,600,000",
-        "hardness": "-1",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "26 COLOR_BROWN\n\n27 COLOR_GREEN\n\n24 COLOR_PURPLE",
-        "note block instrument": "Default (Harp)",
-        "version": "1.9"
-    },
-    "Frosted_Ice": {
+    "Frosted Ice": {
         "image": "https://minecraft.wiki/images/thumb/Frosted_Ice_JE2_BE2.png/150px-Frosted_Ice_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)\n\nN/A",
@@ -3621,7 +3471,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.9"
     },
-    "Magma_Block": {
+    "Magma Block": {
         "image": "https://minecraft.wiki/images/thumb/Magma_Block_JE2.gif/150px-Magma_Block_JE2.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3637,7 +3487,7 @@
         "sulfur cube archetype": "Hot\nRegular",
         "version": "1.10"
     },
-    "Nether_Wart_Block": {
+    "Nether Wart Block": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Wart_Block_JE3.png/160px-Nether_Wart_Block_JE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3653,7 +3503,7 @@
         "sulfur cube archetype": "Slow Sliding",
         "version": "1.10"
     },
-    "Red_Nether_Bricks": {
+    "Red Nether Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Red_Nether_Bricks_JE4_BE3.png/150px-Red_Nether_Bricks_JE4_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3668,7 +3518,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.10"
     },
-    "Bone_Block": {
+    "Bone Block": {
         "image": "https://minecraft.wiki/images/thumb/Bone_Block_%28UD%29_JE2_BE2.png/150px-Bone_Block_%28UD%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3684,7 +3534,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.10"
     },
-    "Structure_Void": {
+    "Structure Void": {
         "image": "https://minecraft.wiki/images/thumb/Structure_Void_%28item%29_JE2.png/150px-Structure_Void_%28item%29_JE2.png",
         "rarity tier": "Epic\nCommon",
         "renewable": "No",
@@ -3812,7 +3662,7 @@
         "sulfur cube archetype": "Bouncy (Rubber Ball)",
         "version": "1.13"
     },
-    "Prismarine_Slab": {
+    "Prismarine Slab": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Slab_JE2_BE2.png/150px-Prismarine_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3828,7 +3678,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.13"
     },
-    "Prismarine_Brick_Slab": {
+    "Prismarine Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Brick_Slab_JE2_BE2.png/150px-Prismarine_Brick_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3844,7 +3694,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.13"
     },
-    "Dark_Prismarine_Slab": {
+    "Dark Prismarine Slab": {
         "image": "https://minecraft.wiki/images/thumb/Dark_Prismarine_Slab_JE2_BE2.png/150px-Dark_Prismarine_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3860,7 +3710,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.13"
     },
-    "Prismarine_Stairs": {
+    "Prismarine Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Stairs_%28N%29_JE2_BE2.gif/150px-Prismarine_Stairs_%28N%29_JE2_BE2.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3876,7 +3726,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.13"
     },
-    "Prismarine_Brick_Stairs": {
+    "Prismarine Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Brick_Stairs_%28N%29_JE2_BE2.png/150px-Prismarine_Brick_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3892,7 +3742,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.13"
     },
-    "Dark_Prismarine_Stairs": {
+    "Dark Prismarine Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Dark_Prismarine_Stairs_%28N%29_JE2_BE2.png/150px-Dark_Prismarine_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3908,7 +3758,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.13"
     },
-    "Dried_Kelp_Block": {
+    "Dried Kelp Block": {
         "image": "https://minecraft.wiki/images/thumb/Dried_Kelp_Block_JE1_BE2.png/150px-Dried_Kelp_Block_JE1_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3939,7 +3789,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.13"
     },
-    "Turtle_Egg": {
+    "Turtle Egg": {
         "image": "https://minecraft.wiki/images/thumb/Turtle_Egg_1_JE2.png/150px-Turtle_Egg_1_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3970,7 +3820,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.13"
     },
-    "Bubble_Column": {
+    "Bubble Column": {
         "image": "https://minecraft.wiki/images/thumb/Bubble_Column_JE1_BE1.png/150px-Bubble_Column_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)\nN/A",
@@ -4033,22 +3883,6 @@
         "sulfur cube archetype": "Fast Flat",
         "version": "1.13"
     },
-    "Shulker_Box": {
-        "image": "https://minecraft.wiki/images/thumb/Shulker_Box_JE1_BE1.png/150px-Shulker_Box_JE1_BE1.png",
-        "renewable": "Yes",
-        "stackable": "No",
-        "tool": "https://minecraft.wiki/images/SlotSprite_Pickaxe_Required.png",
-        "blast resistance": "2",
-        "hardness": "2",
-        "luminous": "No",
-        "transparent": "JE: No\nBE: Yes",
-        "waterloggable": "JE: No\nBE: Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "24 COLOR_PURPLE\n\n16 colors\n\n8 SNOW\n\n\n22 COLOR_LIGHT_GRAY\n\n\n21 COLOR_GRAY\n\n\n29 COLOR_BLACK\n\n\n26 COLOR_BROWN\n\n\n28 COLOR_RED\n\n\n15 COLOR_ORANGE\n\n\n18 COLOR_YELLOW\n\n\n19 COLOR_LIGHT_GREEN\n\n\n27 COLOR_GREEN\n\n\n23 COLOR_CYAN\n\n\n17 COLOR_LIGHT_BLUE\n\n\n25 COLOR_BLUE\n\n\n24 COLOR_PURPLE\n\n\n16 COLOR_MAGENTA\n\n\n20 COLOR_PINK",
-        "note block instrument": "Default (Harp)",
-        "version": "1.13"
-    },
     "Coral Fan": {
         "image": "https://minecraft.wiki/images/thumb/Tube_Coral_Fan_JE1.png/150px-Tube_Coral_Fan_JE1.png",
         "renewable": "Yes",
@@ -4065,7 +3899,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.13"
     },
-    "Sea_Pickle": {
+    "Sea Pickle": {
         "image": "https://minecraft.wiki/images/thumb/Sea_Pickle_1_JE1_BE1.png/150px-Sea_Pickle_1_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4081,7 +3915,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.13"
     },
-    "Blue_Ice": {
+    "Blue Ice": {
         "image": "https://minecraft.wiki/images/thumb/Blue_Ice_JE1.png/150px-Blue_Ice_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4162,7 +3996,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.13.1"
     },
-    "Stone_Slab": {
+    "Stone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Slab_JE2_BE1.png/150px-Stone_Slab_JE2_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4178,7 +4012,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Polished_Granite_Stairs": {
+    "Polished Granite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Granite_Stairs_%28N%29_JE1_BE1.png/150px-Polished_Granite_Stairs_%28N%29_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4194,7 +4028,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Smooth_Red_Sandstone_Stairs": {
+    "Smooth Red Sandstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Red_Sandstone_Stairs_%28N%29_JE3_BE1.png/150px-Smooth_Red_Sandstone_Stairs_%28N%29_JE3_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4210,7 +4044,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Mossy_Stone_Brick_Stairs": {
+    "Mossy Stone Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Stone_Brick_Stairs_%28N%29_JE2_BE1.png/150px-Mossy_Stone_Brick_Stairs_%28N%29_JE2_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4226,7 +4060,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Polished_Diorite_Stairs": {
+    "Polished Diorite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Diorite_Stairs_%28N%29_JE2_BE2.png/150px-Polished_Diorite_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4242,7 +4076,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Mossy_Cobblestone_Stairs": {
+    "Mossy Cobblestone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_Stairs_%28N%29_JE2_BE1.png/150px-Mossy_Cobblestone_Stairs_%28N%29_JE2_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4258,7 +4092,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "End_Stone_Brick_Stairs": {
+    "End Stone Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/End_Stone_Brick_Stairs_%28N%29_JE1_BE2.png/150px-End_Stone_Brick_Stairs_%28N%29_JE1_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4274,7 +4108,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Stone_Stairs": {
+    "Stone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Stairs_%28N%29_JE2_BE2.png/150px-Stone_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4290,7 +4124,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Smooth_Sandstone_Stairs": {
+    "Smooth Sandstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Sandstone_Stairs_%28N%29_JE4_BE2.png/150px-Smooth_Sandstone_Stairs_%28N%29_JE4_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4306,7 +4140,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Smooth_Quartz_Stairs": {
+    "Smooth Quartz Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Quartz_Stairs_%28N%29_JE2_BE1.png/150px-Smooth_Quartz_Stairs_%28N%29_JE2_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4322,7 +4156,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Granite_Stairs": {
+    "Granite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Granite_Stairs_%28N%29_JE1_BE1.png/150px-Granite_Stairs_%28N%29_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4338,7 +4172,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Andesite_Stairs": {
+    "Andesite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Andesite_Stairs_%28N%29_JE2_BE1.png/150px-Andesite_Stairs_%28N%29_JE2_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4354,7 +4188,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Red_Nether_Brick_Stairs": {
+    "Red Nether Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Red_Nether_Brick_Stairs_%28N%29_JE3_BE3.png/150px-Red_Nether_Brick_Stairs_%28N%29_JE3_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4370,7 +4204,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Polished_Andesite_Stairs": {
+    "Polished Andesite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Andesite_Stairs_%28N%29_JE2_BE1.png/150px-Polished_Andesite_Stairs_%28N%29_JE2_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4386,7 +4220,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Diorite_Stairs": {
+    "Diorite Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Diorite_Stairs_%28N%29_JE3_BE2.png/150px-Diorite_Stairs_%28N%29_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4402,7 +4236,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Polished_Granite_Slab": {
+    "Polished Granite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Granite_Slab_JE1_BE1.png/150px-Polished_Granite_Slab_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4418,7 +4252,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Smooth_Red_Sandstone_Slab": {
+    "Smooth Red Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Red_Sandstone_Slab_JE3_BE2.png/150px-Smooth_Red_Sandstone_Slab_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4434,7 +4268,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Mossy_Stone_Brick_Slab": {
+    "Mossy Stone Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Stone_Brick_Slab_JE2_BE2.png/150px-Mossy_Stone_Brick_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4450,7 +4284,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Polished_Diorite_Slab": {
+    "Polished Diorite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Diorite_Slab_JE2_BE2.png/150px-Polished_Diorite_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4466,7 +4300,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Mossy_Cobblestone_Slab": {
+    "Mossy Cobblestone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_Slab_JE2_BE2.png/150px-Mossy_Cobblestone_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4482,7 +4316,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "End_Stone_Brick_Slab": {
+    "End Stone Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/End_Stone_Brick_Slab_JE1_BE2.png/150px-End_Stone_Brick_Slab_JE1_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4498,7 +4332,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Smooth_Sandstone_Slab": {
+    "Smooth Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Sandstone_Slab_JE3_BE2.png/150px-Smooth_Sandstone_Slab_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4514,7 +4348,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Smooth_Quartz_Slab": {
+    "Smooth Quartz Slab": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Quartz_Slab_JE2_BE2.png/150px-Smooth_Quartz_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4530,7 +4364,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Granite_Slab": {
+    "Granite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Granite_Slab_JE1_BE1.png/150px-Granite_Slab_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4546,7 +4380,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Andesite_Slab": {
+    "Andesite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Andesite_Slab_JE2_BE2.png/150px-Andesite_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4562,7 +4396,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Red_Nether_Brick_Slab": {
+    "Red Nether Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Red_Nether_Brick_Slab_JE3_BE3.png/150px-Red_Nether_Brick_Slab_JE3_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4578,7 +4412,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Polished_Andesite_Slab": {
+    "Polished Andesite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Andesite_Slab_JE2_BE2.png/150px-Polished_Andesite_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4594,12 +4428,12 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Diorite_Slab": {
+    "Diorite Slab": {
         "image": "https://minecraft.wiki/images/thumb/Diorite_Slab_JE3_BE2.png/150px-Diorite_Slab_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
-        "blast resistance": "200",
+        "blast resistance": "6",
         "hardness": "1.5",
         "luminous": "No",
         "transparent": "Double slab: No\n\nSingle slab: Partial (blocks light)\nPartial (diffuses sky light)",
@@ -4610,7 +4444,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Brick_Wall": {
+    "Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Brick_Wall_%28ewU%29_JE1.png/150px-Brick_Wall_%28ewU%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4626,7 +4460,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Prismarine_Wall": {
+    "Prismarine Wall": {
         "image": "https://minecraft.wiki/images/thumb/Prismarine_Wall_%28ewU%29_JE1.png/150px-Prismarine_Wall_%28ewU%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4642,7 +4476,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Red_Sandstone_Wall": {
+    "Red Sandstone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Red_Sandstone_Wall_%28ewU%29_JE2.png/150px-Red_Sandstone_Wall_%28ewU%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4658,7 +4492,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Mossy_Stone_Brick_Wall": {
+    "Mossy Stone Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Mossy_Stone_Brick_Wall_%28ewU%29_JE2.png/150px-Mossy_Stone_Brick_Wall_%28ewU%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4674,7 +4508,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Granite_Wall": {
+    "Granite Wall": {
         "image": "https://minecraft.wiki/images/thumb/Granite_Wall_%28ewU%29_JE1.png/150px-Granite_Wall_%28ewU%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4690,7 +4524,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Stone_Brick_Wall": {
+    "Stone Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Stone_Brick_Wall_%28ewU%29_JE2.png/150px-Stone_Brick_Wall_%28ewU%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4706,7 +4540,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Nether_Brick_Wall": {
+    "Nether Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Brick_Wall_%28ewU%29_JE3.png/150px-Nether_Brick_Wall_%28ewU%29_JE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4722,7 +4556,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Andesite_Wall": {
+    "Andesite Wall": {
         "image": "https://minecraft.wiki/images/thumb/Andesite_Wall_%28ewU%29_JE2.png/150px-Andesite_Wall_%28ewU%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4738,7 +4572,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Red_Nether_Brick_Wall": {
+    "Red Nether Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Red_Nether_Brick_Wall_%28ewU%29_JE3.png/150px-Red_Nether_Brick_Wall_%28ewU%29_JE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4754,7 +4588,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Sandstone_Wall": {
+    "Sandstone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Sandstone_Wall_%28ewU%29_JE2.png/150px-Sandstone_Wall_%28ewU%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4770,7 +4604,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "End_Stone_Brick_Wall": {
+    "End Stone Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/End_Stone_Brick_Wall_%28ewU%29_JE1.png/150px-End_Stone_Brick_Wall_%28ewU%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4786,7 +4620,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Diorite_Wall": {
+    "Diorite Wall": {
         "image": "https://minecraft.wiki/images/thumb/Diorite_Wall_%28ewU%29_JE3.png/150px-Diorite_Wall_%28ewU%29_JE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4817,7 +4651,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.14"
     },
-    "Lily_of_the_Valley": {
+    "Lily of the Valley": {
         "image": "https://minecraft.wiki/images/thumb/Lily_of_the_Valley_JE1_BE1.png/150px-Lily_of_the_Valley_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4832,7 +4666,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.14"
     },
-    "Wither_Rose": {
+    "Wither Rose": {
         "image": "https://minecraft.wiki/images/thumb/Wither_Rose_JE1_BE3.png/150px-Wither_Rose_JE1_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4907,7 +4741,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Blast_Furnace": {
+    "Blast Furnace": {
         "image": "https://minecraft.wiki/images/thumb/Blast_Furnace_%28S%29_JE1.png/150px-Blast_Furnace_%28S%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4922,7 +4756,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Cartography_Table": {
+    "Cartography Table": {
         "image": "https://minecraft.wiki/images/thumb/Cartography_Table_JE3_BE2.png/150px-Cartography_Table_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4937,7 +4771,7 @@
         "note block instrument": "Bass",
         "version": "1.14"
     },
-    "Fletching_Table": {
+    "Fletching Table": {
         "image": "https://minecraft.wiki/images/thumb/Fletching_Table_JE2_BE1.png/150px-Fletching_Table_JE2_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -4967,7 +4801,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.14"
     },
-    "Smithing_Table": {
+    "Smithing Table": {
         "image": "https://minecraft.wiki/images/thumb/Smithing_Table_JE2_BE2.png/150px-Smithing_Table_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5062,7 +4896,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.14.9"
     },
-    "Jigsaw_Block": {
+    "Jigsaw Block": {
         "image": "https://minecraft.wiki/images/thumb/Jigsaw_Block_%28S%29_JE3_BE2.png/150px-Jigsaw_Block_%28S%29_JE3_BE2.png",
         "rarity tier": "Epic\nCommon",
         "renewable": "No",
@@ -5131,7 +4965,7 @@
         "note block instrument": "Bass",
         "version": "1.14"
     },
-    "Cut_Sandstone_Slab": {
+    "Cut Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Sandstone_Slab_JE1_BE1.png/150px-Cut_Sandstone_Slab_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5147,7 +4981,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Cut_Red_Sandstone_Slab": {
+    "Cut Red Sandstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Red_Sandstone_Slab_JE1_BE1.png/150px-Cut_Red_Sandstone_Slab_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5163,7 +4997,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.14"
     },
-    "Bee_Nest": {
+    "Bee Nest": {
         "image": "https://minecraft.wiki/images/thumb/Bee_Nest_%28S%29_JE1.png/150px-Bee_Nest_%28S%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64) without bees inside\nNo with bee(s) inside",
@@ -5193,7 +5027,7 @@
         "note block instrument": "Bass",
         "version": "1.15"
     },
-    "Honey_Block": {
+    "Honey Block": {
         "image": "https://minecraft.wiki/images/thumb/Honey_Block_JE1_BE2.png/150px-Honey_Block_JE1_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5209,7 +5043,7 @@
         "sulfur cube archetype": "Fast Flat",
         "version": "1.15"
     },
-    "Honeycomb_Block": {
+    "Honeycomb Block": {
         "image": "https://minecraft.wiki/images/thumb/Honeycomb_Block_JE1_BE1.png/150px-Honeycomb_Block_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5225,7 +5059,7 @@
         "sulfur cube archetype": "Sticky",
         "version": "1.15"
     },
-    "Crimson_Nylium": {
+    "Crimson Nylium": {
         "image": "https://minecraft.wiki/images/thumb/Crimson_Nylium_JE1_BE1.png/150px-Crimson_Nylium_JE1_BE1.png",
         "renewable": "JE: No\nBE: Yes",
         "stackable": "Yes (64)",
@@ -5241,7 +5075,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.16"
     },
-    "Warped_Nylium": {
+    "Warped Nylium": {
         "image": "https://minecraft.wiki/images/thumb/Warped_Nylium_JE1_BE1.png/150px-Warped_Nylium_JE1_BE1.png",
         "renewable": "JE: No\nBE: Yes",
         "stackable": "Yes (64)",
@@ -5257,7 +5091,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.16"
     },
-    "Soul_Soil": {
+    "Soul Soil": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Soil_JE1_BE1.png/150px-Soul_Soil_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5289,7 +5123,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.16"
     },
-    "Warped_Wart_Block": {
+    "Warped Wart Block": {
         "image": "https://minecraft.wiki/images/thumb/Warped_Wart_Block_JE1_BE1.png/160px-Warped_Wart_Block_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5305,7 +5139,7 @@
         "sulfur cube archetype": "Slow Sliding",
         "version": "1.16"
     },
-    "Block_of_Netherite": {
+    "Block of Netherite": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Netherite_JE1_BE1.png/150px-Block_of_Netherite_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -5321,7 +5155,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "1.16"
     },
-    "Ancient_Debris": {
+    "Ancient Debris": {
         "image": "https://minecraft.wiki/images/thumb/Ancient_Debris_JE1_BE1.png/150px-Ancient_Debris_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -5338,7 +5172,7 @@
         "sulfur cube archetype": "Slow Flat\nRegular",
         "version": "1.16"
     },
-    "Crimson_Fungus": {
+    "Crimson Fungus": {
         "image": "https://minecraft.wiki/images/thumb/Crimson_Fungus_JE1_BE1.png/150px-Crimson_Fungus_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5353,7 +5187,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Warped_Fungus": {
+    "Warped Fungus": {
         "image": "https://minecraft.wiki/images/thumb/Warped_Fungus_JE1_BE1.png/150px-Warped_Fungus_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5368,7 +5202,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Crimson_Roots": {
+    "Crimson Roots": {
         "image": "https://minecraft.wiki/images/thumb/Crimson_Roots_JE1_BE1.png/150px-Crimson_Roots_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5384,7 +5218,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Warped_Roots": {
+    "Warped Roots": {
         "image": "https://minecraft.wiki/images/thumb/Warped_Roots_JE1_BE1.png/150px-Warped_Roots_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5400,7 +5234,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Nether_Sprouts": {
+    "Nether Sprouts": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Sprouts_JE2_BE2.png/150px-Nether_Sprouts_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5412,21 +5246,6 @@
         "flammable": "No",
         "catches fire from lava": "Yes",
         "map color": "23 COLOR_CYAN",
-        "note block instrument": "Default (Harp)",
-        "version": "1.16"
-    },
-    "Weeping_Vines": {
-        "image": "https://minecraft.wiki/images/thumb/Weeping_Vines_Plant_JE1.png/150px-Weeping_Vines_Plant_JE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Shears.png",
-        "blast resistance": "0",
-        "hardness": "0",
-        "luminous": "No",
-        "transparent": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "35 NETHER",
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
@@ -5445,21 +5264,6 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Soul_Torch": {
-        "image": "https://minecraft.wiki/images/thumb/Soul_Torch.gif/150px-Soul_Torch.gif",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "0",
-        "hardness": "0",
-        "luminous": "Yes (10)",
-        "transparent": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Default (Harp)",
-        "version": "1.16"
-    },
     "Soul Torch": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Torch.gif/150px-Soul_Torch.gif",
         "renewable": "Yes",
@@ -5475,7 +5279,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Soul_Lantern": {
+    "Soul Lantern": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Lantern_JE2_BE1.gif/150px-Soul_Lantern_JE2_BE1.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5507,7 +5311,7 @@
         "sulfur cube archetype": "Slow Sliding",
         "version": "1.16"
     },
-    "Soul_Fire": {
+    "Soul Fire": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Fire_JE1.gif/150px-Soul_Fire_JE1.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5522,7 +5326,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Crying_Obsidian": {
+    "Crying Obsidian": {
         "image": "https://minecraft.wiki/images/thumb/Crying_Obsidian_JE1_BE1.png/150px-Crying_Obsidian_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5553,7 +5357,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Nether_Gold_Ore": {
+    "Nether Gold Ore": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Gold_Ore_JE2_BE1.png/150px-Nether_Gold_Ore_JE2_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -5567,21 +5371,6 @@
         "map color": "35 NETHER",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Flat",
-        "version": "1.16"
-    },
-    "Twisting_Vines": {
-        "image": "https://minecraft.wiki/images/thumb/Twisting_Vines_JE1_BE1.png/150px-Twisting_Vines_JE1_BE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Shears.png",
-        "blast resistance": "0",
-        "hardness": "0",
-        "luminous": "No",
-        "transparent": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "23 COLOR_CYAN",
-        "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
     "Twisting Vines": {
@@ -5599,7 +5388,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Polished_Basalt": {
+    "Polished Basalt": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Basalt_%28UD%29_JE1_BE1.png/150px-Polished_Basalt_%28UD%29_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5615,7 +5404,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.16"
     },
-    "Respawn_Anchor": {
+    "Respawn Anchor": {
         "image": "https://minecraft.wiki/images/thumb/Respawn_Anchor_%280%29_JE1.png/150px-Respawn_Anchor_%280%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5645,7 +5434,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Cracked_Nether_Bricks": {
+    "Cracked Nether Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Cracked_Nether_Bricks_JE2_BE2.png/150px-Cracked_Nether_Bricks_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5660,7 +5449,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Chiseled_Nether_Bricks": {
+    "Chiseled Nether Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Nether_Bricks_JE3_BE3.png/150px-Chiseled_Nether_Bricks_JE3_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5675,7 +5464,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Quartz_Bricks": {
+    "Quartz Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Quartz_Bricks_JE2.png/150px-Quartz_Bricks_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5707,7 +5496,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.16"
     },
-    "Blackstone_Slab": {
+    "Blackstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Blackstone_Slab_JE3.png/150px-Blackstone_Slab_JE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5723,7 +5512,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Blackstone_Stairs": {
+    "Blackstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Blackstone_Stairs_JE3.png/150px-Blackstone_Stairs_JE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5739,7 +5528,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Blackstone_Wall": {
+    "Blackstone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Blackstone_Wall_%28ewU%29_JE3.png/150px-Blackstone_Wall_%28ewU%29_JE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5755,7 +5544,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Gilded_Blackstone": {
+    "Gilded Blackstone": {
         "image": "https://minecraft.wiki/images/thumb/Gilded_Blackstone_JE2_BE2.png/150px-Gilded_Blackstone_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -5771,7 +5560,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.16"
     },
-    "Polished_Blackstone": {
+    "Polished Blackstone": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_JE1_BE1.png/150px-Polished_Blackstone_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5787,7 +5576,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.16"
     },
-    "Polished_Blackstone_Slab": {
+    "Polished Blackstone Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Slab_JE1_BE1.png/150px-Polished_Blackstone_Slab_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5803,7 +5592,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Polished_Blackstone_Stairs": {
+    "Polished Blackstone Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Stairs_%28N%29_JE1_BE1.png/150px-Polished_Blackstone_Stairs_%28N%29_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5819,7 +5608,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Polished_Blackstone_Wall": {
+    "Polished Blackstone Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Wall_%28ewU%29_JE1.png/150px-Polished_Blackstone_Wall_%28ewU%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5835,7 +5624,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Chiseled_Polished_Blackstone": {
+    "Chiseled Polished Blackstone": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Polished_Blackstone_JE1_BE1.png/150px-Chiseled_Polished_Blackstone_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5850,7 +5639,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Polished_Blackstone_Bricks": {
+    "Polished Blackstone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Bricks_JE2_BE2.png/150px-Polished_Blackstone_Bricks_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5865,7 +5654,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Polished_Blackstone_Brick_Slab": {
+    "Polished Blackstone Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Brick_Slab_JE1_BE1.png/150px-Polished_Blackstone_Brick_Slab_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5881,7 +5670,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Polished_Blackstone_Brick_Stairs": {
+    "Polished Blackstone Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Brick_Stairs_%28N%29_JE1_BE1.png/150px-Polished_Blackstone_Brick_Stairs_%28N%29_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5897,7 +5686,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Polished_Blackstone_Brick_Wall": {
+    "Polished Blackstone Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Brick_Wall_%28ewU%29_JE2.png/150px-Polished_Blackstone_Brick_Wall_%28ewU%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5913,7 +5702,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Cracked_Polished_Blackstone_Bricks": {
+    "Cracked Polished Blackstone Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Cracked_Polished_Blackstone_Bricks_JE2_BE2.png/150px-Cracked_Polished_Blackstone_Bricks_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5928,7 +5717,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Soul_Campfire": {
+    "Soul Campfire": {
         "image": "https://minecraft.wiki/images/thumb/Soul_Campfire_JE1_BE1.gif/150px-Soul_Campfire_JE1_BE1.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5944,7 +5733,7 @@
         "note block instrument": "Bass",
         "version": "1.16"
     },
-    "Polished_Blackstone_Button": {
+    "Polished Blackstone Button": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Button_JE2.png/150px-Polished_Blackstone_Button_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5960,7 +5749,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.16"
     },
-    "Polished_Blackstone_Pressure_Plate": {
+    "Polished Blackstone Pressure Plate": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Pressure_Plate_JE1_BE1.png/150px-Polished_Blackstone_Pressure_Plate_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -5976,7 +5765,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.16"
     },
-    "Iron_Chain": {
+    "Iron Chain": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Chain_%28UD%29_JE2.png/150px-Iron_Chain_%28UD%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6024,7 +5813,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Copper_Ore": {
+    "Copper Ore": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Ore_JE2_BE2.png/150px-Copper_Ore_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6040,7 +5829,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "1.17"
     },
-    "Tinted_Glass": {
+    "Tinted Glass": {
         "image": "https://minecraft.wiki/images/thumb/Tinted_Glass_JE2_BE1.png/150px-Tinted_Glass_JE2_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6055,7 +5844,7 @@
         "note block instrument": "Hat",
         "version": "1.17"
     },
-    "Block_of_Amethyst": {
+    "Block of Amethyst": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Amethyst_JE3_BE1.png/150px-Block_of_Amethyst_JE3_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -6072,7 +5861,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Budding_Amethyst": {
+    "Budding Amethyst": {
         "image": "https://minecraft.wiki/images/thumb/Budding_Amethyst_JE3_BE1.png/150px-Budding_Amethyst_JE3_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6085,22 +5874,6 @@
         "catches fire from lava": "No",
         "map color": "24 COLOR_PURPLE",
         "note block instrument": "Default (Harp)",
-        "version": "1.17"
-    },
-    "Block_of_Copper": {
-        "image": "https://minecraft.wiki/images/thumb/Block_of_Copper_JE1_BE1.png/150px-Block_of_Copper_JE1_BE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Harp\nExposed Trumpet\nWeathered Trumpet\nOxidized Trumpet",
-        "sulfur cube archetype": "Slow Flat",
         "version": "1.17"
     },
     "Block of Copper": {
@@ -6116,22 +5889,6 @@
         "catches fire from lava": "No",
         "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
         "note block instrument": "Harp\nExposed Trumpet\nWeathered Trumpet\nOxidized Trumpet",
-        "sulfur cube archetype": "Slow Flat",
-        "version": "1.17"
-    },
-    "Cut_Copper": {
-        "image": "https://minecraft.wiki/images/thumb/Cut_Copper_JE2_BE1.png/150px-Cut_Copper_JE2_BE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Trumpet",
         "sulfur cube archetype": "Slow Flat",
         "version": "1.17"
     },
@@ -6151,22 +5908,6 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "1.17"
     },
-    "Cut_Copper_Stairs": {
-        "image": "https://minecraft.wiki/images/thumb/Cut_Copper_Stairs_%28N%29_JE2_BE1.png/150px-Cut_Copper_Stairs_%28N%29_JE2_BE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "Partial (blocks light)\nYes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Trumpet",
-        "version": "1.17"
-    },
     "Cut Copper Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Cut_Copper_Stairs_%28N%29_JE2_BE1.png/150px-Cut_Copper_Stairs_%28N%29_JE2_BE1.png",
         "renewable": "Yes",
@@ -6176,22 +5917,6 @@
         "hardness": "3",
         "luminous": "No",
         "transparent": "Partial (blocks light)\nYes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Trumpet",
-        "version": "1.17"
-    },
-    "Cut_Copper_Slab": {
-        "image": "https://minecraft.wiki/images/thumb/Cut_Copper_Slab_JE2_BE1.png/150px-Cut_Copper_Slab_JE2_BE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "Double slab: No\n\nSingle slab: Partial (blocks light)\nPartial (diffuses sky light)",
         "waterloggable": "Yes",
         "flammable": "No",
         "catches fire from lava": "No",
@@ -6248,23 +5973,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
-    "Amethyst_Cluster": {
-        "image": "https://minecraft.wiki/images/thumb/Small_Amethyst_Bud_%28U%29_JE1_BE2.png/150px-Small_Amethyst_Bud_%28U%29_JE1_BE2.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/SlotSprite_Pickaxe_Required.png",
-        "blast resistance": "1.5",
-        "hardness": "1.5",
-        "luminous": "Small: Yes (1)\nMedium: Yes (2)\nLarge: Yes (4)\nCluster: Yes (5)",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "24 COLOR_PURPLE",
-        "note block instrument": "Default (Harp)",
-        "version": "1.17"
-    },
-    "Lightning_Rod": {
+    "Lightning Rod": {
         "image": "https://minecraft.wiki/images/thumb/Lightning_Rod_%28U%29_JE3.png/150px-Lightning_Rod_%28U%29_JE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6280,7 +5989,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
-    "Powder_Snow": {
+    "Powder Snow": {
         "image": "https://minecraft.wiki/images/thumb/Powder_Snow_JE1_BE1.png/150px-Powder_Snow_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "No",
@@ -6295,7 +6004,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
-    "Dripstone_Block": {
+    "Dripstone Block": {
         "image": "https://minecraft.wiki/images/thumb/Dripstone_Block_JE1_BE1.png/150px-Dripstone_Block_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6311,7 +6020,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Pointed_Dripstone": {
+    "Pointed Dripstone": {
         "image": "https://minecraft.wiki/images/thumb/Pointed_Dripstone_Base_%28D%29_JE1_BE1.png/150px-Pointed_Dripstone_Base_%28D%29_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6327,7 +6036,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Sculk_Sensor": {
+    "Sculk Sensor": {
         "image": "https://minecraft.wiki/images/thumb/Sculk_Sensor_JE1.gif/150px-Sculk_Sensor_JE1.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6343,7 +6052,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
-    "Glow_Lichen": {
+    "Glow Lichen": {
         "image": "https://minecraft.wiki/images/thumb/Glow_Lichen_%28D%29_JE2.png/150px-Glow_Lichen_%28D%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6376,7 +6085,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
-    "Flowering_Azalea": {
+    "Flowering Azalea": {
         "image": "https://minecraft.wiki/images/thumb/Flowering_Azalea_JE2_BE2.png/150px-Flowering_Azalea_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -6393,7 +6102,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
-    "Spore_Blossom": {
+    "Spore Blossom": {
         "image": "https://minecraft.wiki/images/thumb/Spore_Blossom_JE1.png/150px-Spore_Blossom_JE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6408,7 +6117,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
-    "Moss_Carpet": {
+    "Moss Carpet": {
         "image": "https://minecraft.wiki/images/thumb/Moss_Carpet.png/150px-Moss_Carpet.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6423,7 +6132,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
-    "Moss_Block": {
+    "Moss Block": {
         "image": "https://minecraft.wiki/images/thumb/Moss_Block_JE1_BE1.png/150px-Moss_Block_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -6440,7 +6149,7 @@
         "sulfur cube archetype": "Fast Flat",
         "version": "1.17"
     },
-    "Rooted_Dirt": {
+    "Rooted Dirt": {
         "image": "https://minecraft.wiki/images/thumb/Rooted_Dirt_JE1_BE1.png/150px-Rooted_Dirt_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -6457,7 +6166,7 @@
         "sulfur cube archetype": "Regular",
         "version": "1.17"
     },
-    "Hanging_Roots": {
+    "Hanging Roots": {
         "image": "https://minecraft.wiki/images/thumb/Hanging_Roots_JE2_BE2.png/150px-Hanging_Roots_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -6471,23 +6180,6 @@
         "flammable": "Yes",
         "catches fire from lava": "Yes",
         "map color": "10 DIRT\n\n7 PLANT",
-        "note block instrument": "Default (Harp)",
-        "version": "1.17"
-    },
-    "Big_Dripleaf": {
-        "image": "https://minecraft.wiki/images/thumb/Big_Dripleaf_%28S%29_JE2.png/150px-Big_Dripleaf_%28S%29_JE2.png",
-        "rarity tier": "Common",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/SlotSprite_Axe_Required.png",
-        "blast resistance": "0.1",
-        "hardness": "0.1",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "Yes (60)",
-        "catches fire from lava": "No",
-        "map color": "7 PLANT",
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
@@ -6508,7 +6200,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.17"
     },
-    "Small_Dripleaf": {
+    "Small Dripleaf": {
         "image": "https://minecraft.wiki/images/thumb/Small_Dripleaf_%28two_blocks_tall%29_%28E%29_JE4.png/150px-Small_Dripleaf_%28two_blocks_tall%29_%28E%29_JE4.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6561,7 +6253,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Polished_Deepslate": {
+    "Polished Deepslate": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Deepslate_JE2_BE1.png/150px-Polished_Deepslate_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -6578,7 +6270,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Deepslate_Bricks": {
+    "Deepslate Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Bricks_JE2_BE1.png/150px-Deepslate_Bricks_JE2_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6594,7 +6286,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Deepslate_Tiles": {
+    "Deepslate Tiles": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Tiles_JE2_BE1.png/150px-Deepslate_Tiles_JE2_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6610,7 +6302,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Chiseled_Deepslate": {
+    "Chiseled Deepslate": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Deepslate_JE2_BE1.png/150px-Chiseled_Deepslate_JE2_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6626,7 +6318,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Cobbled_Deepslate_Wall": {
+    "Cobbled Deepslate Wall": {
         "image": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate_Wall_%28ewU%29_JE3.png/150px-Cobbled_Deepslate_Wall_%28ewU%29_JE3.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6642,7 +6334,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Polished_Deepslate_Wall": {
+    "Polished Deepslate Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Deepslate_Wall_%28ewU%29_JE2.png/150px-Polished_Deepslate_Wall_%28ewU%29_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6658,7 +6350,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Deepslate_Tile_Wall": {
+    "Deepslate Tile Wall": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Tile_Wall_%28ewU%29_JE2.png/150px-Deepslate_Tile_Wall_%28ewU%29_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6674,7 +6366,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Deepslate_Brick_Wall": {
+    "Deepslate Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Brick_Wall_%28ewU%29_JE2.png/150px-Deepslate_Brick_Wall_%28ewU%29_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6690,7 +6382,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Cobbled_Deepslate_Stairs": {
+    "Cobbled Deepslate Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate_Stairs_JE3_BE1.png/150px-Cobbled_Deepslate_Stairs_JE3_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6706,7 +6398,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Polished_Deepslate_Stairs": {
+    "Polished Deepslate Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Deepslate_Stairs_JE2.png/150px-Polished_Deepslate_Stairs_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6722,7 +6414,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Deepslate_Tile_Stairs": {
+    "Deepslate Tile Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Tile_Stairs_JE2_BE1.png/150px-Deepslate_Tile_Stairs_JE2_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6738,7 +6430,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Deepslate_Brick_Stairs": {
+    "Deepslate Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Brick_Stairs_JE2.png/150px-Deepslate_Brick_Stairs_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6754,7 +6446,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Cobbled_Deepslate_Slab": {
+    "Cobbled Deepslate Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate_Slab_JE3_BE1.png/150px-Cobbled_Deepslate_Slab_JE3_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6770,7 +6462,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Polished_Deepslate_Slab": {
+    "Polished Deepslate Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Deepslate_Slab_JE2.png/150px-Polished_Deepslate_Slab_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6786,7 +6478,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Deepslate_Tile_Slab": {
+    "Deepslate Tile Slab": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Tile_Slab_JE2.png/150px-Deepslate_Tile_Slab_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6802,7 +6494,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Deepslate_Brick_Slab": {
+    "Deepslate Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Deepslate_Brick_Slab_JE2.png/150px-Deepslate_Brick_Slab_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6818,7 +6510,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Cobbled_Deepslate": {
+    "Cobbled Deepslate": {
         "image": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate.png/150px-Cobbled_Deepslate.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -6835,87 +6527,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Gold Ore": {
-        "image": "https://minecraft.wiki/images/thumb/Gold_Ore_JE7_BE4.png/150px-Gold_Ore_JE7_BE4.png",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Iron_Pickaxe.png",
-        "blast resistance": "3",
-        "hardness": "Gold Ore: 3\nDeepslate Gold Ore: 4.5",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "11 STONE\n\n59 DEEPSLATE",
-        "note block instrument": "Bass Drum",
-        "sulfur cube archetype": "Slow Flat",
-        "version": "1.17"
-    },
-    "Iron Ore": {
-        "image": "https://minecraft.wiki/images/thumb/Iron_Ore_JE6_BE4.png/150px-Iron_Ore_JE6_BE4.png",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "3",
-        "hardness": "Iron Ore: 3\n\nDeepslate Iron Ore: 4.5",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "11 STONE\n\n59 DEEPSLATE",
-        "note block instrument": "Bass Drum",
-        "sulfur cube archetype": "Slow Flat",
-        "version": "1.17"
-    },
-    "Lapis Lazuli Ore": {
-        "image": "https://minecraft.wiki/images/thumb/Lapis_Lazuli_Ore_JE4_BE4.png/150px-Lapis_Lazuli_Ore_JE4_BE4.png",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "3",
-        "hardness": "Lapis Lazuli Ore: 3\n\nDeepslate Lapis Lazuli Ore: 4.5",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "11 STONE\n\n59 DEEPSLATE",
-        "note block instrument": "Bass Drum",
-        "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17"
-    },
-    "Diamond Ore": {
-        "image": "https://minecraft.wiki/images/thumb/Diamond_Ore_JE5_BE5.png/150px-Diamond_Ore_JE5_BE5.png",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Iron_Pickaxe.png",
-        "blast resistance": "3",
-        "hardness": "Diamond Ore: 3\n\nDeepslate Diamond Ore: 4.5",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "11 STONE",
-        "note block instrument": "Bass Drum",
-        "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17"
-    },
-    "Redstone Ore": {
-        "image": "https://minecraft.wiki/images/thumb/Redstone_Ore_JE4_BE3.png/150px-Redstone_Ore_JE4_BE3.png",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Iron_Pickaxe.png",
-        "blast resistance": "3",
-        "hardness": "Redstone Ore: 3\n\nDeepslate Redstone Ore: 4.5",
-        "luminous": "Yes (9) (when lit)",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "11 STONE\n\n59 DEEPSLATE",
-        "note block instrument": "Bass Drum",
-        "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17"
-    },
-    "Smooth_Basalt": {
+    "Smooth Basalt": {
         "image": "https://minecraft.wiki/images/thumb/Smooth_Basalt_JE1_BE1.png/150px-Smooth_Basalt_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -6931,39 +6543,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Copper Ore": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Ore_JE2_BE2.png/150px-Copper_Ore_JE2_BE2.png",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "3",
-        "hardness": "Copper Ore: 3\n\nDeepslate Copper Ore: 4.5",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "11 STONE\n\n59 DEEPSLATE",
-        "note block instrument": "Bass Drum",
-        "sulfur cube archetype": "Slow Flat",
-        "version": "1.17"
-    },
-    "Coal Ore": {
-        "image": "https://minecraft.wiki/images/thumb/Coal_Ore_JE5_BE4.png/150px-Coal_Ore_JE5_BE4.png",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
-        "blast resistance": "3",
-        "hardness": "Coal Ore: 3\n\nDeepslate Coal Ore: 4.5",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "11 STONE\n\n59 DEEPSLATE",
-        "note block instrument": "Bass Drum",
-        "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17"
-    },
-    "Cracked_Deepslate_Bricks": {
+    "Cracked Deepslate Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Cracked_Deepslate_Bricks_JE1_BE1.png/150px-Cracked_Deepslate_Bricks_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6978,7 +6558,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.17"
     },
-    "Cracked_Deepslate_Tiles": {
+    "Cracked Deepslate Tiles": {
         "image": "https://minecraft.wiki/images/thumb/Cracked_Deepslate_Tiles_JE1_BE1.png/150px-Cracked_Deepslate_Tiles_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -6994,26 +6574,10 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.17"
     },
-    "Emerald Ore": {
-        "image": "https://minecraft.wiki/images/thumb/Emerald_Ore_JE4_BE3.png/150px-Emerald_Ore_JE4_BE3.png",
-        "renewable": "No",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Iron_Pickaxe.png",
-        "blast resistance": "3",
-        "hardness": "Emerald Ore: 3\nDeepslate Emerald Ore: 4.5",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "11 STONE\n\n59 DEEPSLATE",
-        "note block instrument": "Bass Drum",
-        "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.17"
-    },
     "Light": {
         "version": "1.17"
     },
-    "Block_of_Raw_Iron": {
+    "Block of Raw Iron": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Raw_Iron_JE3_BE2.png/150px-Block_of_Raw_Iron_JE3_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7029,7 +6593,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "1.17"
     },
-    "Block_of_Raw_Copper": {
+    "Block of Raw Copper": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Raw_Copper_JE2_BE2.png/150px-Block_of_Raw_Copper_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7045,7 +6609,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "1.17"
     },
-    "Block_of_Raw_Gold": {
+    "Block of Raw Gold": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Raw_Gold_JE3_BE2.png/150px-Block_of_Raw_Gold_JE3_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7061,7 +6625,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "1.17"
     },
-    "Reinforced_Deepslate": {
+    "Reinforced Deepslate": {
         "image": "https://minecraft.wiki/images/thumb/Reinforced_Deepslate_JE1_BE1.png/150px-Reinforced_Deepslate_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7093,7 +6657,7 @@
         "sulfur cube archetype": "Fast Flat",
         "version": "1.19"
     },
-    "Sculk_Vein": {
+    "Sculk Vein": {
         "image": "https://minecraft.wiki/images/thumb/Sculk_Vein_JE1_BE1.gif/150px-Sculk_Vein_JE1_BE1.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7109,7 +6673,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.19"
     },
-    "Sculk_Catalyst": {
+    "Sculk Catalyst": {
         "image": "https://minecraft.wiki/images/thumb/Sculk_Catalyst_JE1.png/150px-Sculk_Catalyst_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7124,7 +6688,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.19"
     },
-    "Sculk_Shrieker": {
+    "Sculk Shrieker": {
         "image": "https://minecraft.wiki/images/thumb/Sculk_Shrieker_JE2_BE3.gif/150px-Sculk_Shrieker_JE2_BE3.gif",
         "renewable": "Non Warden-Summoning: Yes\nWarden-Summoning: No",
         "stackable": "Yes (64)",
@@ -7156,7 +6720,7 @@
         "sulfur cube archetype": "Regular",
         "version": "1.19"
     },
-    "Mangrove_Roots": {
+    "Mangrove Roots": {
         "image": "https://minecraft.wiki/images/thumb/Mangrove_Roots_JE2.png/150px-Mangrove_Roots_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7172,7 +6736,7 @@
         "note block instrument": "Bass",
         "version": "1.19"
     },
-    "Muddy_Mangrove_Roots": {
+    "Muddy Mangrove Roots": {
         "image": "https://minecraft.wiki/images/thumb/Muddy_Mangrove_Roots_JE1_BE1.png/150px-Muddy_Mangrove_Roots_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7188,7 +6752,7 @@
         "sulfur cube archetype": "Regular",
         "version": "1.19"
     },
-    "Mud_Brick_Slab": {
+    "Mud Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Mud_Brick_Slab_JE1_BE1.png/150px-Mud_Brick_Slab_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7204,7 +6768,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.19"
     },
-    "Packed_Mud": {
+    "Packed Mud": {
         "image": "https://minecraft.wiki/images/thumb/Packed_Mud_JE1_BE1.png/150px-Packed_Mud_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7220,7 +6784,7 @@
         "sulfur cube archetype": "Regular",
         "version": "1.19"
     },
-    "Mud_Bricks": {
+    "Mud Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Mud_Bricks_JE1_BE1.png/150px-Mud_Bricks_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7236,7 +6800,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.19"
     },
-    "Mud_Brick_Stairs": {
+    "Mud Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Mud_Brick_Stairs_JE1_BE1.png/150px-Mud_Brick_Stairs_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7252,7 +6816,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.19"
     },
-    "Mangrove_Propagule": {
+    "Mangrove Propagule": {
         "image": "https://minecraft.wiki/images/thumb/Mangrove_Propagule_JE1_BE1.png/150px-Mangrove_Propagule_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7267,7 +6831,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.19"
     },
-    "Mud_Brick_Wall": {
+    "Mud Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Mud_Brick_Wall_%28ewU%29_JE1.png/150px-Mud_Brick_Wall_%28ewU%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7315,7 +6879,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.19"
     },
-    "Bamboo_Mosaic": {
+    "Bamboo Mosaic": {
         "image": "https://minecraft.wiki/images/thumb/Bamboo_Mosaic_JE1_BE1.png/150px-Bamboo_Mosaic_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7331,7 +6895,7 @@
         "sulfur cube archetype": "Bouncy",
         "version": "1.19.3"
     },
-    "Bamboo_Mosaic_Stairs": {
+    "Bamboo Mosaic Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Bamboo_Mosaic_Stairs_JE1_BE1.png/150px-Bamboo_Mosaic_Stairs_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7347,7 +6911,7 @@
         "note block instrument": "Bass",
         "version": "1.19.3"
     },
-    "Bamboo_Mosaic_Slab": {
+    "Bamboo Mosaic Slab": {
         "image": "https://minecraft.wiki/images/thumb/Bamboo_Mosaic_Slab_JE1_BE1.png/150px-Bamboo_Mosaic_Slab_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7363,7 +6927,7 @@
         "note block instrument": "Bass",
         "version": "1.19.3"
     },
-    "Chiseled_Bookshelf": {
+    "Chiseled Bookshelf": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Bookshelf_%28S_0%29_JE2.png/150px-Chiseled_Bookshelf_%28S_0%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7394,7 +6958,7 @@
         "note block instrument": "Bass",
         "version": "1.19.3"
     },
-    "Block_of_Bamboo": {
+    "Block of Bamboo": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Bamboo_%28UD%29_JE3_BE2.png/150px-Block_of_Bamboo_%28UD%29_JE3_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7410,7 +6974,7 @@
         "sulfur cube archetype": "Bouncy",
         "version": "1.19.3"
     },
-    "Block_of_Stripped_Bamboo": {
+    "Block of Stripped Bamboo": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Stripped_Bamboo_%28UD%29_JE3_BE2.png/150px-Block_of_Stripped_Bamboo_%28UD%29_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -7425,23 +6989,6 @@
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass",
         "sulfur cube archetype": "Bouncy",
-        "version": "1.19.3"
-    },
-    "Piglin_Head": {
-        "image": "https://minecraft.wiki/images/thumb/Piglin_Head_%28S%29_JE1.png/150px-Piglin_Head_%28S%29_JE1.png",
-        "rarity tier": "Uncommon",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "1",
-        "hardness": "1",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "JE: No\nBE: Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Piglin snort",
         "version": "1.19.3"
     },
     "Piglin Head": {
@@ -7461,7 +7008,7 @@
         "note block instrument": "Piglin snort",
         "version": "1.19.3"
     },
-    "Pink_Petals": {
+    "Pink Petals": {
         "image": "https://minecraft.wiki/images/thumb/Pink_Petals_1_%28S%29_JE2.png/150px-Pink_Petals_1_%28S%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7506,7 +7053,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.19.4"
     },
-    "Suspicious_Sand": {
+    "Suspicious Sand": {
         "image": "https://minecraft.wiki/images/thumb/Suspicious_Sand_%28dusted_0%29_JE1_BE1.png/150px-Suspicious_Sand_%28dusted_0%29_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -7522,7 +7069,7 @@
         "note block instrument": "Snare Drum",
         "version": "1.19.4"
     },
-    "Decorated_Pot": {
+    "Decorated Pot": {
         "image": "https://minecraft.wiki/images/thumb/Decorated_Pot_%28N%29_JE2_BE2.png/150px-Decorated_Pot_%28N%29_JE2_BE2.png",
         "renewable": "Only bricks: Yes\nWith pottery sherd(s): No",
         "stackable": "Yes (64)",
@@ -7538,7 +7085,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.19.4"
     },
-    "Pitcher_Plant": {
+    "Pitcher Plant": {
         "image": "https://minecraft.wiki/images/thumb/Pitcher_Plant_JE1_BE1.png/150px-Pitcher_Plant_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7568,7 +7115,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.20"
     },
-    "Sniffer_Egg": {
+    "Sniffer Egg": {
         "image": "https://minecraft.wiki/images/thumb/Sniffer_Egg_JE1_BE1.png/150px-Sniffer_Egg_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -7584,7 +7131,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.20"
     },
-    "Suspicious_Gravel": {
+    "Suspicious Gravel": {
         "image": "https://minecraft.wiki/images/thumb/Suspicious_Gravel_JE1_BE1_%28dusted_0%29.png/150px-Suspicious_Gravel_JE1_BE1_%28dusted_0%29.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -7600,7 +7147,7 @@
         "note block instrument": "Snare Drum",
         "version": "1.20"
     },
-    "Calibrated_Sculk_Sensor": {
+    "Calibrated Sculk Sensor": {
         "image": "https://minecraft.wiki/images/thumb/Calibrated_Sculk_Sensor_JE2.gif/150px-Calibrated_Sculk_Sensor_JE2.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -7631,7 +7178,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.20.3"
     },
-    "Tuff_Stairs": {
+    "Tuff Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Tuff_Stairs_JE1_BE1.png/150px-Tuff_Stairs_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7647,7 +7194,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.3"
     },
-    "Tuff_Slab": {
+    "Tuff Slab": {
         "image": "https://minecraft.wiki/images/thumb/Tuff_Slab_JE1_BE1.png/150px-Tuff_Slab_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7663,7 +7210,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.3"
     },
-    "Tuff_Wall": {
+    "Tuff Wall": {
         "image": "https://minecraft.wiki/images/thumb/Tuff_Wall_%28ewU%29_JE1.png/150px-Tuff_Wall_%28ewU%29_JE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7679,7 +7226,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.3"
     },
-    "Chiseled_Tuff": {
+    "Chiseled Tuff": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Tuff_JE1_BE1.png/150px-Chiseled_Tuff_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7695,7 +7242,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.20.3"
     },
-    "Polished_Tuff": {
+    "Polished Tuff": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Tuff_JE1_BE1.png/150px-Polished_Tuff_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7711,7 +7258,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.20.3"
     },
-    "Polished_Tuff_Stairs": {
+    "Polished Tuff Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Tuff_Stairs_JE1_BE1.png/150px-Polished_Tuff_Stairs_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7727,7 +7274,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.3"
     },
-    "Polished_Tuff_Slab": {
+    "Polished Tuff Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Tuff_Slab_JE1_BE1.png/150px-Polished_Tuff_Slab_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7743,7 +7290,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.3"
     },
-    "Polished_Tuff_Wall": {
+    "Polished Tuff Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Tuff_Wall_%28ewU%29_JE1.png/150px-Polished_Tuff_Wall_%28ewU%29_JE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7759,7 +7306,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.3"
     },
-    "Tuff_Bricks": {
+    "Tuff Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Tuff_Bricks_JE3_BE3.png/150px-Tuff_Bricks_JE3_BE3.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7775,7 +7322,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.20.3"
     },
-    "Tuff_Brick_Stairs": {
+    "Tuff Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Tuff_Brick_Stairs_JE3_BE3.png/150px-Tuff_Brick_Stairs_JE3_BE3.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7791,7 +7338,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.3"
     },
-    "Tuff_Brick_Slab": {
+    "Tuff Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Tuff_Brick_Slab_JE3_BE3.png/150px-Tuff_Brick_Slab_JE3_BE3.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7807,7 +7354,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.3"
     },
-    "Tuff_Brick_Wall": {
+    "Tuff Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Tuff_Brick_Wall_%28ewU%29_JE3.png/150px-Tuff_Brick_Wall_%28ewU%29_JE3.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7823,7 +7370,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.3"
     },
-    "Chiseled_Tuff_Bricks": {
+    "Chiseled Tuff Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Tuff_Bricks_JE1_BE1.png/150px-Chiseled_Tuff_Bricks_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -7837,86 +7384,6 @@
         "map color": "43 TERRACOTTA_GRAY",
         "note block instrument": "Bass Drum",
         "sulfur cube archetype": "Slow Bouncy\nRegular",
-        "version": "1.20.3"
-    },
-    "Chiseled_Copper": {
-        "image": "https://minecraft.wiki/images/thumb/Chiseled_Copper_JE1_BE1.png/150px-Chiseled_Copper_JE1_BE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Trumpet",
-        "sulfur cube archetype": "Slow Flat",
-        "version": "1.20.3"
-    },
-    "Copper_Grate": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Grate_JE1_BE1.png/150px-Copper_Grate_JE1_BE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Default (Harp)",
-        "version": "1.20.3"
-    },
-    "Copper_Door": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Door_JE3_BE3.png/150px-Copper_Door_JE3_BE3.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/SlotSprite_Pickaxe_Required.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "Partial",
-        "waterloggable": "No (Java Edition)\nYes (Bedrock Edition)",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Default (Harp)",
-        "version": "1.20.3"
-    },
-    "Copper_Trapdoor": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Trapdoor_JE2_BE2.png/150px-Copper_Trapdoor_JE2_BE2.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM\n\n6 METAL",
-        "note block instrument": "Default (Harp)",
-        "version": "1.20.3"
-    },
-    "Copper_Bulb": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Bulb_JE1_BE1.png/150px-Copper_Bulb_JE1_BE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "Yes, when lit\nUnoxidized: 15\nExposed: 12\nWeathered: 8\nOxidized: 4",
-        "transparent": "No",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Default (Harp)",
-        "sulfur cube archetype": "Slow Flat",
         "version": "1.20.3"
     },
     "Chiseled Copper": {
@@ -7999,7 +7466,7 @@
         "sulfur cube archetype": "Slow Flat",
         "version": "1.20.3"
     },
-    "Trial_Spawner": {
+    "Trial Spawner": {
         "image": "https://minecraft.wiki/images/thumb/Active_Trial_Spawner_JE4_BE3.png/150px-Active_Trial_Spawner_JE4_BE3.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8029,7 +7496,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.20.5"
     },
-    "Heavy_Core": {
+    "Heavy Core": {
         "image": "https://minecraft.wiki/images/thumb/Heavy_Core_JE1_BE1.png/150px-Heavy_Core_JE1_BE1.png",
         "rarity tier": "Epic",
         "renewable": "No (except via ominous vault)",
@@ -8046,7 +7513,7 @@
         "note block instrument": "Snare Drum",
         "version": "1.20.5"
     },
-    "Pale_Moss_Block": {
+    "Pale Moss Block": {
         "image": "https://minecraft.wiki/images/thumb/Pale_Moss_Block_JE1_BE1.png/150px-Pale_Moss_Block_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -8063,7 +7530,7 @@
         "sulfur cube archetype": "Fast Flat",
         "version": "1.21.2"
     },
-    "Pale_Moss_Carpet": {
+    "Pale Moss Carpet": {
         "image": "https://minecraft.wiki/images/thumb/Pale_Moss_Carpet_JE1_BE1.png/150px-Pale_Moss_Carpet_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8078,7 +7545,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.2"
     },
-    "Pale_Hanging_Moss": {
+    "Pale Hanging Moss": {
         "image": "https://minecraft.wiki/images/thumb/Pale_Hanging_Moss_JE1_BE1.png/150px-Pale_Hanging_Moss_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8093,7 +7560,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.2"
     },
-    "Creaking_Heart": {
+    "Creaking Heart": {
         "image": "https://minecraft.wiki/images/thumb/Creaking_Heart_JE2_BE2.png/150px-Creaking_Heart_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -8109,7 +7576,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.21.2"
     },
-    "Resin_Bricks": {
+    "Resin Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Resin_Bricks_JE1_BE2.png/150px-Resin_Bricks_JE1_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -8126,7 +7593,7 @@
         "sulfur cube archetype": "Fast Flat\nBouncy",
         "version": "1.21.4"
     },
-    "Resin_Brick_Stairs": {
+    "Resin Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Resin_Brick_Stairs_JE1_BE2.png/150px-Resin_Brick_Stairs_JE1_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8142,7 +7609,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.21.4"
     },
-    "Resin_Brick_Slab": {
+    "Resin Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Resin_Brick_Slab_JE1_BE2.png/150px-Resin_Brick_Slab_JE1_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8158,7 +7625,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.21.4"
     },
-    "Resin_Brick_Wall": {
+    "Resin Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Resin_Brick_Wall_%28ewU%29_JE1.png/150px-Resin_Brick_Wall_%28ewU%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8174,7 +7641,7 @@
         "note block instrument": "Bass Drum",
         "version": "1.21.4"
     },
-    "Chiseled_Resin_Bricks": {
+    "Chiseled Resin Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Resin_Bricks_JE2_BE3.png/150px-Chiseled_Resin_Bricks_JE2_BE3.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8205,7 +7672,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.4"
     },
-    "Block_of_Resin": {
+    "Block of Resin": {
         "image": "https://minecraft.wiki/images/thumb/Block_of_Resin_JE1_BE1.png/150px-Block_of_Resin_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -8222,7 +7689,7 @@
         "sulfur cube archetype": "Fast Flat\nBouncy",
         "version": "1.21.4"
     },
-    "Resin_Clump": {
+    "Resin Clump": {
         "image": "https://minecraft.wiki/images/thumb/Resin_Clump_JE1_BE1.png/150px-Resin_Clump_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -8254,7 +7721,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.5"
     },
-    "Leaf_Litter": {
+    "Leaf Litter": {
         "image": "https://minecraft.wiki/images/thumb/Leaf_Litter_1_%28S%29_JE2_BE2.png/150px-Leaf_Litter_1_%28S%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8269,7 +7736,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.5"
     },
-    "Test_Instance_Block": {
+    "Test Instance Block": {
         "image": "https://minecraft.wiki/images/thumb/Test_Instance_Block_JE2.png/150px-Test_Instance_Block_JE2.png",
         "rarity tier": "Epic",
         "renewable": "No",
@@ -8285,7 +7752,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.5"
     },
-    "Test_Block": {
+    "Test Block": {
         "image": "https://minecraft.wiki/images/thumb/Test_Block_start_JE2.png/150px-Test_Block_start_JE2.png",
         "rarity tier": "Epic",
         "renewable": "No",
@@ -8316,7 +7783,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.5"
     },
-    "Firefly_Bush": {
+    "Firefly Bush": {
         "image": "https://minecraft.wiki/images/thumb/Firefly_Bush_JE1.gif/150px-Firefly_Bush_JE1.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8331,7 +7798,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.5"
     },
-    "Cactus_Flower": {
+    "Cactus Flower": {
         "image": "https://minecraft.wiki/images/thumb/Cactus_Flower_JE1_BE1.png/150px-Cactus_Flower_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8346,7 +7813,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.5"
     },
-    "Short_Dry_Grass": {
+    "Short Dry Grass": {
         "image": "https://minecraft.wiki/images/thumb/Short_Dry_Grass_JE1_BE1.png/150px-Short_Dry_Grass_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8361,7 +7828,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.5"
     },
-    "Tall_Dry_Grass": {
+    "Tall Dry Grass": {
         "image": "https://minecraft.wiki/images/thumb/Tall_Dry_Grass_JE1_BE1.png/150px-Tall_Dry_Grass_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8376,7 +7843,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.5"
     },
-    "Dried_Ghast": {
+    "Dried Ghast": {
         "image": "https://minecraft.wiki/images/thumb/Dried_Ghast_%28S%29_JE1_BE1.png/150px-Dried_Ghast_%28S%29_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -8409,43 +7876,11 @@
         "note block instrument": "Bass",
         "version": "1.21.9"
     },
-    "Copper_Chest": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Chest_%28S%29_JE2.gif/150px-Copper_Chest_%28S%29_JE2.gif",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Default (Harp)",
-        "version": "1.21.9"
-    },
     "Copper Chest": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Chest_%28S%29_JE2.gif/150px-Copper_Chest_%28S%29_JE2.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Default (Harp)",
-        "version": "1.21.9"
-    },
-    "Copper_Golem_Statue": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Golem_Statue_BE1.png/150px-Copper_Golem_Statue_BE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
         "blast resistance": "6",
         "hardness": "3",
         "luminous": "No",
@@ -8473,56 +7908,8 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.9"
     },
-    "Lightning Rod": {
-        "image": "https://minecraft.wiki/images/thumb/Lightning_Rod_%28U%29_JE3.png/150px-Lightning_Rod_%28U%29_JE3.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "3",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "15 COLOR_ORANGE\n\n44 TERRACOTTA_LIGHT_GRAY\n\n56 WARPED_STEM\n\n55 WARPED_NYLIUM",
-        "note block instrument": "Default (Harp)",
-        "version": "1.21.9"
-    },
-    "Copper_Bars": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Bars_%28EW%29_JE1.png/150px-Copper_Bars_%28EW%29_JE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "5",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Default (Harp)",
-        "version": "1.21.9"
-    },
     "Copper Bars": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Bars_%28EW%29_JE1.png/150px-Copper_Bars_%28EW%29_JE1.png",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
-        "blast resistance": "6",
-        "hardness": "5",
-        "luminous": "No",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Default (Harp)",
-        "version": "1.21.9"
-    },
-    "Copper_Chain": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Chain_%28UD%29_JE1.png/150px-Copper_Chain_%28UD%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8553,21 +7940,6 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.9"
     },
-    "Copper_Torch": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Torch_JE2.gif/150px-Copper_Torch_JE2.gif",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "Any tool",
-        "blast resistance": "0",
-        "hardness": "0",
-        "luminous": "Yes (14)",
-        "transparent": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "0 NONE",
-        "note block instrument": "Default (Harp)",
-        "version": "1.21.9"
-    },
     "Copper Torch": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Torch_JE2.gif/150px-Copper_Torch_JE2.gif",
         "renewable": "Yes",
@@ -8580,22 +7952,6 @@
         "flammable": "No",
         "catches fire from lava": "No",
         "map color": "0 NONE",
-        "note block instrument": "Default (Harp)",
-        "version": "1.21.9"
-    },
-    "Copper_Lantern": {
-        "image": "https://minecraft.wiki/images/thumb/Copper_Lantern_JE2.gif/150px-Copper_Lantern_JE2.gif",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "tool": "https://minecraft.wiki/images/SlotSprite_Pickaxe_Required.png",
-        "blast resistance": "3.5",
-        "hardness": "3.5",
-        "luminous": "Yes (15)",
-        "transparent": "Yes",
-        "waterloggable": "Yes",
-        "flammable": "No",
-        "catches fire from lava": "No",
-        "map color": "6 METAL",
         "note block instrument": "Default (Harp)",
         "version": "1.21.9"
     },
@@ -8615,7 +7971,7 @@
         "note block instrument": "Default (Harp)",
         "version": "1.21.9"
     },
-    "Golden_Dandelion": {
+    "Golden Dandelion": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Dandelion_JE1_BE1.png/150px-Golden_Dandelion_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8646,7 +8002,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "26.2"
     },
-    "Cinnabar_Stairs": {
+    "Cinnabar Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Stairs_%28N%29_JE1_BE1.png/150px-Cinnabar_Stairs_%28N%29_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8662,7 +8018,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Cinnabar_Slab": {
+    "Cinnabar Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Slab_JE1_BE1.png/150px-Cinnabar_Slab_JE1_BE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8678,7 +8034,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Cinnabar_Wall": {
+    "Cinnabar Wall": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Wall_%28ewU%29_JE1.png/150px-Cinnabar_Wall_%28ewU%29_JE1.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8694,7 +8050,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Polished_Cinnabar": {
+    "Polished Cinnabar": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_JE2_BE2.png/150px-Polished_Cinnabar_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8710,7 +8066,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "26.2"
     },
-    "Polished_Cinnabar_Stairs": {
+    "Polished Cinnabar Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Stairs_%28N%29_JE2_BE2.png/150px-Polished_Cinnabar_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8726,7 +8082,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Polished_Cinnabar_Slab": {
+    "Polished Cinnabar Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Slab_JE2_BE2.png/150px-Polished_Cinnabar_Slab_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8742,7 +8098,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Polished_Cinnabar_Wall": {
+    "Polished Cinnabar Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Wall_%28ewU%29_JE2.png/150px-Polished_Cinnabar_Wall_%28ewU%29_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8758,7 +8114,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Cinnabar_Bricks": {
+    "Cinnabar Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Bricks_JE2_BE2.png/150px-Cinnabar_Bricks_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8774,7 +8130,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "26.2"
     },
-    "Cinnabar_Brick_Stairs": {
+    "Cinnabar Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Stairs_%28N%29_JE2_BE2.png/150px-Cinnabar_Brick_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8790,7 +8146,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Cinnabar_Brick_Slab": {
+    "Cinnabar Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Slab_JE2_BE2.png/150px-Cinnabar_Brick_Slab_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8806,7 +8162,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Cinnabar_Brick_Wall": {
+    "Cinnabar Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Wall_%28ewU%29_JE2.png/150px-Cinnabar_Brick_Wall_%28ewU%29_JE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8822,7 +8178,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Chiseled_Cinnabar": {
+    "Chiseled Cinnabar": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Cinnabar_JE2_BE2.png/150px-Chiseled_Cinnabar_JE2_BE2.png",
         "renewable": "No",
         "stackable": "Yes (64)",
@@ -8854,7 +8210,7 @@
         "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "26.2"
     },
-    "Sulfur_Stairs": {
+    "Sulfur Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Stairs_%28N%29_JE1_BE1.png/150px-Sulfur_Stairs_%28N%29_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8870,7 +8226,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Sulfur_Slab": {
+    "Sulfur Slab": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Slab_JE1_BE1.png/150px-Sulfur_Slab_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8886,8 +8242,8 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Sulfur_Wall": {
-        "image": "https://minecraft.wiki/images/thumb/Sulfur_Wall_%28ewU%29_BE1.png/150px-Sulfur_Wall_%28ewU%29_BE1.png",
+    "Sulfur Wall": {
+        "image": "https://minecraft.wiki/images/thumb/Sulfur_Wall_%28ewU%29_JE1.png/150px-Sulfur_Wall_%28ewU%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
@@ -8902,7 +8258,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Polished_Sulfur": {
+    "Polished Sulfur": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_JE2_BE2.png/150px-Polished_Sulfur_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8917,7 +8273,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Polished_Sulfur_Stairs": {
+    "Polished Sulfur Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Stairs_%28N%29_JE2_BE2.png/150px-Polished_Sulfur_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8933,7 +8289,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Polished_Sulfur_Slab": {
+    "Polished Sulfur Slab": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Slab_JE2_BE2.png/150px-Polished_Sulfur_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8949,13 +8305,13 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Polished_Sulfur_Wall": {
+    "Polished Sulfur Wall": {
         "image": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Wall_%28ewU%29_JE2.png/150px-Polished_Sulfur_Wall_%28ewU%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png",
-        "blast resistance": "?",
-        "hardness": "?",
+        "blast resistance": "6",
+        "hardness": "1.5",
         "luminous": "No",
         "transparent": "Yes",
         "waterloggable": "Yes",
@@ -8965,7 +8321,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Sulfur_Bricks": {
+    "Sulfur Bricks": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Bricks_JE2_BE2.png/150px-Sulfur_Bricks_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8980,7 +8336,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Sulfur_Brick_Stairs": {
+    "Sulfur Brick Stairs": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Stairs_%28N%29_JE2_BE2.png/150px-Sulfur_Brick_Stairs_%28N%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -8996,7 +8352,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Sulfur_Brick_Slab": {
+    "Sulfur Brick Slab": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Slab_JE2_BE2.png/150px-Sulfur_Brick_Slab_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -9012,7 +8368,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Sulfur_Brick_Wall": {
+    "Sulfur Brick Wall": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Wall_%28ewU%29_JE2.png/150px-Sulfur_Brick_Wall_%28ewU%29_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -9028,7 +8384,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Chiseled_Sulfur": {
+    "Chiseled Sulfur": {
         "image": "https://minecraft.wiki/images/thumb/Chiseled_Sulfur_JE2_BE2.png/150px-Chiseled_Sulfur_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -9043,7 +8399,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Potent_Sulfur": {
+    "Potent Sulfur": {
         "image": "https://minecraft.wiki/images/thumb/Potent_Sulfur_JE1_BE1.png/150px-Potent_Sulfur_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -9058,7 +8414,7 @@
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
-    "Sulfur_Spike": {
+    "Sulfur Spike": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Spike_Base_%28D%29_JE1.png/150px-Sulfur_Spike_Base_%28D%29_JE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",

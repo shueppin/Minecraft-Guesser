@@ -125,7 +125,7 @@
         "spawn": "Nether Wastes\nSoul Sand Valley\nBasalt Deltas",
         "version": "Alpha 1.2.0"
     },
-    "Zombified_Piglin": {
+    "Zombified Piglin": {
         "image": "https://minecraft.wiki/images/thumb/Zombified_Piglin_JE9.png/150px-Zombified_Piglin_JE9.png",
         "health points": "20HP x 10\n40HP x 20 to 100HP x 50 (leaders)",
         "armor points": "2 ()",
@@ -161,7 +161,7 @@
         "usable items": "Bone\nMeat\nRabbit Stew\nDye\nLead\nWolf Armor\nShears\nGolden Dandelion (baby only)",
         "version": "Beta 1.4"
     },
-    "Cave_Spider": {
+    "Cave Spider": {
         "image": "https://minecraft.wiki/images/thumb/Cave_Spider_JE3_BE3.png/150px-Cave_Spider_JE3_BE3.png",
         "health points": "12HP x 6",
         "behavior": "Neutral",
@@ -207,7 +207,7 @@
         "can ride minecarts": "Yes",
         "version": "1.0.0"
     },
-    "Magma_Cube": {
+    "Magma Cube": {
         "image": "https://minecraft.wiki/images/thumb/Magma_Cube_JE2_BE2.png/150px-Magma_Cube_JE2_BE2.png",
         "health points": "Large: 16HP x 8\nMedium: 4HP\nSmall: 1HP",
         "armor points": "Large: 12 ( x 6)\nMedium: 6 ()\nSmall: 3 ()",
@@ -229,7 +229,7 @@
         "usable items": "Bucket\nBowl\nShears\nWheat\nFlowers (brown variant only)\nLead\nName Tag\nGolden Dandelion (baby and brown variant only)",
         "version": "1.0.0"
     },
-    "Snow_Golem": {
+    "Snow Golem": {
         "image": "https://minecraft.wiki/images/thumb/Snow_Golem_JE2_BE2.png/150px-Snow_Golem_JE2_BE2.png",
         "health points": "4HP",
         "behavior": "Passive",
@@ -251,7 +251,7 @@
         "spawn": "Village\n\nIgloo basement\n\nWhen a zombie villager is cured\nUpon successful breeding",
         "version": "1.0.0"
     },
-    "Ender_Dragon": {
+    "Ender Dragon": {
         "image": "https://minecraft.wiki/images/thumb/Ender_Dragon.gif/250px-Ender_Dragon.gif",
         "health points": "200HP x 100",
         "behavior": "Hostile",
@@ -274,10 +274,10 @@
         "usable items": "Raw Cod\nRaw Salmon\nLead\nName Tag\nGolden Dandelion (baby only)",
         "version": "1.2.1"
     },
-    "Iron_Golem": {
+    "Iron Golem": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Golem_JE2_BE2.png/150px-Iron_Golem_JE2_BE2.png",
         "health points": "Uncracked: 100HP x 50\nLow cracked: 75HP x 37.5\nHalf cracked: 50HP x 25\nHigh cracked: 25HP x 12.5",
-        "behavior": "Neutral (naturally spawned)\nPassive (player-built)",
+        "behavior": "Neutral\nPassive (player-built)",
         "attack strength": "Easy: 4.75HP x 2.375 - 11.75HP x 5.875\n\nNormal: 7.5HP x 3.75 - 21.5HP x 10.75\n\nHard: 11.25HP x 5.625 - 32.25HP x 16.125",
         "hitbox size": "In Java Edition:\n\nHeight: 2.7 blocks\nWidth: 1.4 blocks\n\nIn Bedrock Edition:\n\nHeight: 2.9 blocks\nWidth: 1.4 blocks",
         "speed": "0.25",
@@ -289,7 +289,7 @@
         "can ride minecarts": "Yes\nNo",
         "version": "1.2.1"
     },
-    "Zombie_Villager": {
+    "Zombie Villager": {
         "image": "https://minecraft.wiki/images/thumb/Plains_Zombie_Villager_Base_JE1_BE1.png/190px-Plains_Zombie_Villager_Base_JE1_BE1.png",
         "health points": "20HP x 10\n40HP x 20 to 100HP x 50 (leaders)",
         "armor points": "2 ()",
@@ -316,7 +316,7 @@
         "spawn": "Built by player; 11 second spawn delay.",
         "version": "1.4.2"
     },
-    "Wither_Skeleton": {
+    "Wither Skeleton": {
         "image": "https://minecraft.wiki/images/thumb/Wither_Skeleton_JE4_BE3.png/150px-Wither_Skeleton_JE4_BE3.png",
         "health points": "20HP x 10",
         "behavior": "Hostile",
@@ -381,7 +381,7 @@
         "usable items": "Saddle\nChest plus contents\nShears (when equipped with a saddle)\nLead\nName Tag\nSugar\nWheat\nApple\nCarrot\nGolden Carrot\nGolden Apple\nEnchanted Golden Apple\nHay Bale\nGolden Dandelion (baby only)",
         "version": "1.6.1"
     },
-    "Skeleton_Horse": {
+    "Skeleton Horse": {
         "image": "https://minecraft.wiki/images/thumb/Skeleton_Horse.png/150px-Skeleton_Horse.png",
         "health points": "15HP x 7.5",
         "behavior": "Passive",
@@ -392,7 +392,7 @@
         "usable items": "Saddle\nShears (when equipped with a saddle)\nLead\nName Tag",
         "version": "1.6.1"
     },
-    "Zombie_Horse": {
+    "Zombie Horse": {
         "image": "https://minecraft.wiki/images/thumb/Zombie_Horse_JE6.png/150px-Zombie_Horse_JE6.png",
         "health points": "25HP x 12.5",
         "behavior": "Passive",
@@ -425,7 +425,7 @@
         "spawn": "Ocean Monument",
         "version": "1.8"
     },
-    "Elder_Guardian": {
+    "Elder Guardian": {
         "image": "https://minecraft.wiki/images/thumb/Elder_Guardian_JE2_BE2.gif/260px-Elder_Guardian_JE2_BE2.gif",
         "health points": "80HP x 40",
         "behavior": "Hostile",
@@ -474,7 +474,7 @@
         "natural equipment": "Iron Shovel (occasionally, right hand: 95%; left hand: 5% ; may be enchanted)\n\nIron Sword (occasionally, right hand: 95%; left hand: 5%\n; may be enchanted)\n\n\nIron Spear (occasionally, right hand: 95%; left hand: 5% ; may be enchanted)\n\nDiamond Sword (occasionally in ominous trials, right hand: 95%; left hand: 5% )\n\nArmor (occasionally, may be enchanted)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
         "version": "1.10"
     },
-    "Polar_Bear": {
+    "Polar Bear": {
         "image": "https://minecraft.wiki/images/thumb/Polar_Bear_JE2_BE2.png/150px-Polar_Bear_JE2_BE2.png",
         "health points": "30HP x 15",
         "behavior": "Neutral (adult)\nPassive (baby)",
@@ -623,7 +623,7 @@
         "usable items": "Water Bucket\nName Tag",
         "version": "1.13"
     },
-    "Tropical_Fish": {
+    "Tropical Fish": {
         "image": "https://minecraft.wiki/images/thumb/Clownfish.png/150px-Clownfish.png",
         "health points": "3HP",
         "behavior": "Passive",
@@ -707,7 +707,7 @@
         "usable items": "Raw Cod\nRaw Salmon\nDye (tamed only)\nLead\nName Tag\nGolden Dandelion (baby only)",
         "version": "1.14"
     },
-    "Trader_Llama": {
+    "Trader Llama": {
         "image": "https://minecraft.wiki/images/thumb/Creamy_Trader_Llama.png/150px-Creamy_Trader_Llama.png",
         "health points": "15HP x 7.5 to 30HP x 15",
         "behavior": "Neutral",
@@ -719,7 +719,7 @@
         "usable items": "Carpet\nChest plus contents\nLead\nShears\nWheat\nHay Bale\nGolden Dandelion (baby only)",
         "version": "1.14"
     },
-    "Wandering_Trader": {
+    "Wandering Trader": {
         "image": "https://minecraft.wiki/images/thumb/Wandering_Trader_JE1_BE1.png/135px-Wandering_Trader_JE1_BE1.png",
         "health points": "20HP x 10",
         "behavior": "Passive",
@@ -758,7 +758,7 @@
     "Hoglin": {
         "image": "https://minecraft.wiki/images/thumb/Hoglin_JE3.png/250px-Hoglin_JE3.png",
         "health points": "40HP x 20",
-        "behavior": "Hostile (Easy, Normal, & Hard)\nPassive (Peaceful)",
+        "behavior": "Hostile",
         "mob type": "Animal\nMonster",
         "attack strength": "Adult:\n\nEasy:\n2.5HP x 1.25 to 5HP\n\nNormal:\n3HP to 8HP\n\nHard:\n4.5HP x 2.25 to 12HP x 6\n\nBaby:\nEasy and Normal: 0.5HP x 0.25\nHard: 0.75HP x 0.375",
         "hitbox size": "Adult:\nHeight: 1.4 blocks\nWidth: 1.3965 blocks\n\nBaby:\nHeight: 0.7 blocks\nWidth: 0.6982 blocks",
@@ -775,7 +775,7 @@
         "image": "https://minecraft.wiki/images/thumb/Piglin_JE1.png/150px-Piglin_JE1.png",
         "health points": "16HP x 8",
         "armor points": "0 ()",
-        "behavior": "Neutral (adult)\nPassive (baby and on Peaceful)",
+        "behavior": "Neutral (adult)\nPassive (baby)",
         "mob type": "Monster",
         "attack strength": "Ranged:\n\nCrossbow:\n\nIn Java Edition:\n\nEasy and Normal: 2HP to 5HP\n\nHard: 3HP to 5HP\n\nIn Bedrock Edition:\n\nEasy and Normal: 2HP to 4HP\n\nHard: 2HP to 5HP\n\n\n\nMelee:\n\nGolden Sword:\n\nIn Java Edition:\n\nEasy: 5HP\n\nNormal: 8HP\n\nHard: 12HP x 6\n\nIn Bedrock Edition:\n\nEasy: 5.5HP x 2.75\n\nNormal: 9HP\n\nHard: 13.5HP x 6.75\n\nGolden Spear:\n\nEasy: 4HP\n\nNormal: 6HP\n\nHard: 7HP\n\nUnarmed:\n\nEasy: 3.5HP x 1.75\n\nNormal: 5HP\n\nHard: 7.5HP x 3.75",
         "hitbox size": "In Java Edition:\n\nAdult:\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nBaby:\nHeight: 0.99 blocks\nWidth: 0.49 blocks\n\nIn Bedrock Edition:\n\nAdult:\nHeight: 1.9 blocks\nWidth: 0.6 blocks\n\nBaby:\nHeight: 0.98 blocks\nWidth: 0.49 blocks",
@@ -813,7 +813,7 @@
         "can ride minecarts": "Yes",
         "version": "1.16"
     },
-    "Piglin_Brute": {
+    "Piglin Brute": {
         "image": "https://minecraft.wiki/images/thumb/Piglin_Brute_JE1.png/150px-Piglin_Brute_JE1.png",
         "health points": "50HP x 25",
         "behavior": "Hostile",
@@ -836,7 +836,7 @@
         "usable items": "Bucket of Tropical Fish\nLead\nName Tag\nWater Bucket\nGolden Dandelion (baby only)",
         "version": "1.17"
     },
-    "Glow_Squid": {
+    "Glow Squid": {
         "image": "https://minecraft.wiki/images/thumb/Glow_Squid_JE1.gif/150px-Glow_Squid_JE1.gif",
         "health points": "10HP",
         "behavior": "Passive",
@@ -972,7 +972,7 @@
         "spawn": "At night by an activated creaking heart",
         "version": "1.21.2"
     },
-    "Happy_Ghast": {
+    "Happy Ghast": {
         "image": "https://minecraft.wiki/images/thumb/Happy_Ghast_JE1_BE1.gif/240px-Happy_Ghast_JE1_BE1.gif",
         "health points": "20HP x 10",
         "behavior": "Passive",
@@ -983,7 +983,7 @@
         "usable items": "Snowball\nGolden Dandelion (ghastling only)\nHarness\nShears (when equipped with a harness)\nLead",
         "version": "1.21.6"
     },
-    "Copper_Golem": {
+    "Copper Golem": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Golem_JE1_BE1.png/100px-Copper_Golem_JE1_BE1.png",
         "health points": "12HP x 6",
         "behavior": "Passive",
@@ -1006,7 +1006,7 @@
         "usable items": "Saddle\nNautilus Armor\nShears (when equipped with a saddle or nautilus armor)\nLead\nRaw Fish\nCooked Fish\nBuckets of Fish\nGolden Dandelion (baby only)",
         "version": "1.21.11"
     },
-    "Zombie_Nautilus": {
+    "Zombie Nautilus": {
         "image": "https://minecraft.wiki/images/thumb/Zombie_Nautilus_Breathe_JE1_BE2.gif/250px-Zombie_Nautilus_Breathe_JE1_BE2.gif",
         "health points": "15HP x 7.5",
         "armor points": "0 ()",
@@ -1019,7 +1019,7 @@
         "usable items": "Saddle\nNautilus Armor\nShears (when equipped with a saddle or nautilus armor)\nLead (only when dismounted)\nRaw Fish\nCooked Fish\nBuckets of Fish\nName Tag",
         "version": "1.21.11"
     },
-    "Camel_Husk": {
+    "Camel Husk": {
         "image": "https://minecraft.wiki/images/thumb/Camel_Husk_Idle_JE1.gif/230px-Camel_Husk_Idle_JE1.gif",
         "health points": "32HP x 16",
         "behavior": "Passive",
@@ -1043,7 +1043,7 @@
         "natural equipment": "Bow (right hand: 95%; left hand: 5% ; may be enchanted)\n\nArmor (occasionally, may be enchanted)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
         "version": "1.21.11"
     },
-    "Sulfur_Cube": {
+    "Sulfur Cube": {
         "image": "https://minecraft.wiki/images/thumb/Sulfur_Cube_JE2_BE2.png/150px-Sulfur_Cube_JE2_BE2.png",
         "health points": "Large:\n8HP\n9HP\nSmall: 4HP",
         "behavior": "Passive",

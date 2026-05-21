@@ -1,5 +1,5 @@
 {
-    "Leather_Cap": {
+    "Leather Cap": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Cap_JE4_BE2.png/160px-Leather_Cap_JE4_BE2.png",
         "other names": "Leather Hat (GB)",
         "rarity tier": "Common",
@@ -13,7 +13,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Leather_Tunic": {
+    "Leather Tunic": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Tunic_JE4_BE2.png/160px-Leather_Tunic_JE4_BE2.png",
         "rarity tier": "Common",
         "armor": "3 ()",
@@ -26,7 +26,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nMob loot\nTrading"
     },
-    "Leather_Pants": {
+    "Leather Pants": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Pants_JE4_BE2.png/160px-Leather_Pants_JE4_BE2.png",
         "other names": "Leather Trousers (GB)",
         "rarity tier": "Common",
@@ -40,7 +40,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nMob loot\nTrading"
     },
-    "Leather_Boots": {
+    "Leather Boots": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Boots_JE3_BE2.png/160px-Leather_Boots_JE3_BE2.png",
         "rarity tier": "Common",
         "armor": "1 ()",
@@ -109,7 +109,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Mob loot\nTrading\nVillager gifts"
     },
-    "Iron_Helmet": {
+    "Iron Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Helmet_JE2_BE2.png/160px-Iron_Helmet_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "2 ()",
@@ -122,7 +122,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nNatural generation\nGenerated loot\nMob loot\nTrading"
     },
-    "Iron_Chestplate": {
+    "Iron Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Chestplate_JE2_BE2.png/160px-Iron_Chestplate_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "6 ()",
@@ -135,7 +135,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nNatural generation\nGenerated loot\nMob loot\nTrading"
     },
-    "Iron_Leggings": {
+    "Iron Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Leggings_JE2_BE2.png/160px-Iron_Leggings_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "5 ()",
@@ -148,7 +148,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Iron_Boots": {
+    "Iron Boots": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Boots_JE2_BE2.png/160px-Iron_Boots_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "2 ()",
@@ -174,7 +174,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Block loot\nGenerated loot\nTrading"
     },
-    "Iron_Shovel": {
+    "Iron Shovel": {
         "image": "https://minecraft.wiki/images/Iron_Shovel_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "6",
@@ -189,7 +189,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Iron_Sword": {
+    "Iron Sword": {
         "image": "https://minecraft.wiki/images/Iron_Sword_JE2_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 6HP\nBE: 7HP",
@@ -205,7 +205,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Mob loot\nGenerated loot\nCrafting\nTrading"
     },
-    "Iron_Axe": {
+    "Iron Axe": {
         "image": "https://minecraft.wiki/images/Iron_Axe_JE5_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "6",
@@ -220,7 +220,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading\nVillager gifts"
     },
-    "Iron_Pickaxe": {
+    "Iron Pickaxe": {
         "image": "https://minecraft.wiki/images/Iron_Pickaxe_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "6",
@@ -236,7 +236,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Flint_and_Steel": {
+    "Flint and Steel": {
         "image": "https://minecraft.wiki/images/Flint_and_Steel_JE4_BE2.png",
         "rarity tier": "Common",
         "durability": "JE: 64\nBE: 65",
@@ -275,7 +275,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Mining\nMob loot\nGenerated loot\nCrafting\nSmelting"
     },
-    "Iron_Ingot": {
+    "Iron Ingot": {
         "image": "https://minecraft.wiki/images/Iron_Ingot_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -283,7 +283,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nSmelting\nMob loot\nGenerated loot\nCompound creation"
     },
-    "Gold_Ingot": {
+    "Gold Ingot": {
         "image": "https://minecraft.wiki/images/Gold_Ingot_JE4_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -299,7 +299,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Mining\nGenerated loot\nCrafting\nSmelting"
     },
-    "Wooden_Axe": {
+    "Wooden Axe": {
         "image": "https://minecraft.wiki/images/Wooden_Axe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "2",
@@ -314,7 +314,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Wooden_Pickaxe": {
+    "Wooden Pickaxe": {
         "image": "https://minecraft.wiki/images/Wooden_Pickaxe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "2",
@@ -330,7 +330,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Wooden_Shovel": {
+    "Wooden Shovel": {
         "image": "https://minecraft.wiki/images/Wooden_Shovel_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "2",
@@ -345,7 +345,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Wooden_Sword": {
+    "Wooden Sword": {
         "image": "https://minecraft.wiki/images/Wooden_Sword_JE2_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 4HP\nBE: 5HP",
@@ -361,7 +361,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting"
     },
-    "Stone_Axe": {
+    "Stone Axe": {
         "image": "https://minecraft.wiki/images/Stone_Axe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "4",
@@ -376,7 +376,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nTrading\nVillager gifts"
     },
-    "Stone_Pickaxe": {
+    "Stone Pickaxe": {
         "image": "https://minecraft.wiki/images/Stone_Pickaxe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "4",
@@ -392,7 +392,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nTrading\nVillager gifts"
     },
-    "Stone_Shovel": {
+    "Stone Shovel": {
         "image": "https://minecraft.wiki/images/Stone_Shovel_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "4",
@@ -407,7 +407,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nTrading\nVillager gifts"
     },
-    "Stone_Sword": {
+    "Stone Sword": {
         "image": "https://minecraft.wiki/images/Stone_Sword_JE2_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 5HP\nBE: 6HP",
@@ -423,7 +423,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nMob loot"
     },
-    "Diamond_Axe": {
+    "Diamond Axe": {
         "image": "https://minecraft.wiki/images/Diamond_Axe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "8",
@@ -438,7 +438,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Diamond_Pickaxe": {
+    "Diamond Pickaxe": {
         "image": "https://minecraft.wiki/images/Diamond_Pickaxe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "8",
@@ -454,7 +454,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Diamond_Shovel": {
+    "Diamond Shovel": {
         "image": "https://minecraft.wiki/images/Diamond_Shovel_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "8",
@@ -469,7 +469,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Diamond_Sword": {
+    "Diamond Sword": {
         "image": "https://minecraft.wiki/images/Diamond_Sword_JE3_BE3.png",
         "rarity tier": "Common",
         "attack damage": "JE: 7HP\nBE: 8HP",
@@ -493,7 +493,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nFishing\nBlock loot\nEntity loot\nGenerated loot"
     },
-    "Golden_Axe": {
+    "Golden Axe": {
         "image": "https://minecraft.wiki/images/Golden_Axe_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "12",
@@ -508,7 +508,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nVillager gifts"
     },
-    "Golden_Pickaxe": {
+    "Golden Pickaxe": {
         "image": "https://minecraft.wiki/images/Golden_Pickaxe_JE4_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "12",
@@ -524,7 +524,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Golden_Shovel": {
+    "Golden Shovel": {
         "image": "https://minecraft.wiki/images/Golden_Shovel_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "12",
@@ -539,7 +539,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Golden_Sword": {
+    "Golden Sword": {
         "image": "https://minecraft.wiki/images/Golden_Sword_JE3_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 4HP\nBE: 5HP",
@@ -563,7 +563,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nFishing\nMob loot\nEating"
     },
-    "Mushroom_Stew": {
+    "Mushroom Stew": {
         "image": "https://minecraft.wiki/images/Mushroom_Stew_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -609,7 +609,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Mob loot\nGenerated loot\nCat gifts"
     },
-    "Wheat_Seeds": {
+    "Wheat Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Wheat_Age_0_JE9.png/150px-Wheat_Age_0_JE9.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -646,7 +646,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nTrading\nVillager gifts"
     },
-    "Wooden_Hoe": {
+    "Wooden Hoe": {
         "image": "https://minecraft.wiki/images/Wooden_Hoe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "2",
@@ -661,7 +661,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Stone_Hoe": {
+    "Stone Hoe": {
         "image": "https://minecraft.wiki/images/Stone_Hoe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "4",
@@ -676,7 +676,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nRepairing\nTrading\nVillager gifts"
     },
-    "Iron_Hoe": {
+    "Iron Hoe": {
         "image": "https://minecraft.wiki/images/Iron_Hoe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "6",
@@ -691,7 +691,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting"
     },
-    "Golden_Hoe": {
+    "Golden Hoe": {
         "image": "https://minecraft.wiki/images/Golden_Hoe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "12",
@@ -706,7 +706,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Diamond_Hoe": {
+    "Diamond Hoe": {
         "image": "https://minecraft.wiki/images/Diamond_Hoe_JE3_BE3.png",
         "rarity tier": "Common",
         "mining efficiency": "8",
@@ -721,7 +721,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Golden_Helmet": {
+    "Golden Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Helmet_JE2_BE2.png/160px-Golden_Helmet_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "2 ()",
@@ -734,7 +734,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Golden_Chestplate": {
+    "Golden Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Chestplate_JE2_BE2.png/160px-Golden_Chestplate_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "5 ()",
@@ -747,7 +747,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Golden_Leggings": {
+    "Golden Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Leggings_JE2_BE2.png/160px-Golden_Leggings_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "3 ()",
@@ -760,7 +760,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Golden_Boots": {
+    "Golden Boots": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Boots_JE2_BE2.png/160px-Golden_Boots_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "1 ()",
@@ -773,7 +773,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Diamond_Helmet": {
+    "Diamond Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Helmet_JE2_BE2.png/160px-Diamond_Helmet_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "3 ()",
@@ -786,7 +786,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Diamond_Chestplate": {
+    "Diamond Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Chestplate_JE3_BE2.png/160px-Diamond_Chestplate_JE3_BE2.png",
         "rarity tier": "Common",
         "armor": "8 ()",
@@ -799,7 +799,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Diamond_Leggings": {
+    "Diamond Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Leggings_JE2_BE2.png/160px-Diamond_Leggings_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "6 ()",
@@ -812,7 +812,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Diamond_Boots": {
+    "Diamond Boots": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Boots_JE2_BE2.png/160px-Diamond_Boots_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "3 ()",
@@ -833,7 +833,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Mining\nGenerated loot\nTrading"
     },
-    "Raw_Porkchop": {
+    "Raw Porkchop": {
         "image": "https://minecraft.wiki/images/Raw_Porkchop_JE3_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -846,7 +846,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Cooked_Porkchop": {
+    "Cooked Porkchop": {
         "image": "https://minecraft.wiki/images/Cooked_Porkchop_JE4_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -890,7 +890,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Water_Bucket": {
+    "Water Bucket": {
         "image": "https://minecraft.wiki/images/Water_Bucket_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -898,7 +898,7 @@
         "version": "pre-alpha",
         "toc obtaining": "Interacting\nGenerated loot\nSmelting"
     },
-    "Lava_Bucket": {
+    "Lava Bucket": {
         "image": "https://minecraft.wiki/images/Lava_Bucket_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -953,7 +953,7 @@
         "version": "Alpha 1.0.8",
         "toc obtaining": "Mob loot\nGenerated loot\nCrafting\nFishing\nBartering\nVillager gifts"
     },
-    "Milk_Bucket": {
+    "Milk Bucket": {
         "image": "https://minecraft.wiki/images/Milk_Bucket_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -981,7 +981,7 @@
         "version": "Alpha 1.0.11",
         "toc obtaining": "Block loot\nGenerated loot\nCrafting\nGrindstones\nVillager gifts"
     },
-    "Clay_Ball": {
+    "Clay Ball": {
         "image": "https://minecraft.wiki/images/Clay_Ball_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1014,7 +1014,7 @@
         "version": "Alpha 1.0.14",
         "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Music_Disc_13": {
+    "Music Disc 13": {
         "image": "https://minecraft.wiki/images/Music_Disc_13_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1022,7 +1022,7 @@
         "version": "Alpha 1.0.14",
         "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Music_Disc_cat": {
+    "Music Disc cat": {
         "image": "https://minecraft.wiki/images/Music_Disc_cat_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1030,7 +1030,7 @@
         "version": "Alpha 1.0.14",
         "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Minecart_with_Furnace": {
+    "Minecart with Furnace": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_Furnace_JE3.png/160px-Minecart_with_Furnace_JE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1041,7 +1041,7 @@
         "version": "Alpha 1.0.14",
         "toc obtaining": "Crafting"
     },
-    "Minecart_with_Chest": {
+    "Minecart with Chest": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_Chest_JE4_BE2.png/160px-Minecart_with_Chest_JE4_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1060,7 +1060,7 @@
         "version": "Alpha 1.1.0",
         "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Fishing_Rod": {
+    "Fishing Rod": {
         "image": "https://minecraft.wiki/images/Fishing_Rod_JE2_BE2.png",
         "rarity tier": "Common",
         "durability": "JE: 64\nBE: 385",
@@ -1078,7 +1078,7 @@
         "version": "Alpha 1.2.0",
         "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Glowstone_Dust": {
+    "Glowstone Dust": {
         "image": "https://minecraft.wiki/images/Glowstone_Dust_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1086,7 +1086,7 @@
         "version": "Alpha 1.2.0",
         "toc obtaining": "Mining\nMob loot"
     },
-    "Cooked_Cod": {
+    "Cooked Cod": {
         "image": "https://minecraft.wiki/images/Cooked_Cod_JE4_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1099,7 +1099,7 @@
         "version": "Alpha 1.2.0",
         "toc obtaining": "Mob loot\nGenerated loot\nCooking\nTrading"
     },
-    "Raw_Cod": {
+    "Raw Cod": {
         "image": "https://minecraft.wiki/images/Raw_Cod_JE4_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1120,7 +1120,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Mob loot\nGenerated loot\nFishing"
     },
-    "Bone_Meal": {
+    "Bone Meal": {
         "image": "https://minecraft.wiki/images/Bone_Meal_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1128,7 +1128,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Mob loot\nCrafting\nGenerated loot\nComposting"
     },
-    "Lapis_Lazuli": {
+    "Lapis Lazuli": {
         "image": "https://minecraft.wiki/images/Lapis_Lazuli_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1136,7 +1136,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Mining\nGenerated loot\nCrafting\nSmelting\nTrading\nVillager gifts"
     },
-    "Cocoa_Beans": {
+    "Cocoa Beans": {
         "image": "https://minecraft.wiki/images/thumb/Cocoa_Age_0_%28S%29_JE5.png/150px-Cocoa_Age_0_%28S%29_JE5.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1152,7 +1152,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Natural generation\nBreaking\nGenerated loot\nFishing"
     },
-    "Ink_Sac": {
+    "Ink Sac": {
         "image": "https://minecraft.wiki/images/Ink_Sac_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1168,7 +1168,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Mining\nSmelting\nCompound creation"
     },
-    "Light_Gray_Dye": {
+    "Light Gray Dye": {
         "image": "https://minecraft.wiki/images/Light_Gray_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1176,7 +1176,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Gray_Dye": {
+    "Gray Dye": {
         "image": "https://minecraft.wiki/images/Gray_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1184,7 +1184,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Red_Dye": {
+    "Red Dye": {
         "image": "https://minecraft.wiki/images/Red_Dye_JE4_BE4.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1192,7 +1192,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Orange_Dye": {
+    "Orange Dye": {
         "image": "https://minecraft.wiki/images/Orange_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1200,7 +1200,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Yellow_Dye": {
+    "Yellow Dye": {
         "image": "https://minecraft.wiki/images/Yellow_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1208,7 +1208,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Lime_Dye": {
+    "Lime Dye": {
         "image": "https://minecraft.wiki/images/Lime_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1216,7 +1216,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nSmelting\nTrading\nMob loot"
     },
-    "Green_Dye": {
+    "Green Dye": {
         "image": "https://minecraft.wiki/images/Green_Dye_JE4_BE4.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1224,7 +1224,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Generated loot\nSmelting\nTrading\nMob loot"
     },
-    "Cyan_Dye": {
+    "Cyan Dye": {
         "image": "https://minecraft.wiki/images/Cyan_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1232,7 +1232,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Light_Blue_Dye": {
+    "Light Blue Dye": {
         "image": "https://minecraft.wiki/images/Light_Blue_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1240,7 +1240,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Purple_Dye": {
+    "Purple Dye": {
         "image": "https://minecraft.wiki/images/Purple_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1248,7 +1248,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Magenta_Dye": {
+    "Magenta Dye": {
         "image": "https://minecraft.wiki/images/Magenta_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1256,7 +1256,7 @@
         "version": "Beta 1.2",
         "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Pink_Dye": {
+    "Pink Dye": {
         "image": "https://minecraft.wiki/images/Pink_Dye_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1305,7 +1305,7 @@
         "version": "Beta 1.7",
         "toc obtaining": "Crafting\nGenerated loot\nTrading"
     },
-    "Raw_Chicken": {
+    "Raw Chicken": {
         "image": "https://minecraft.wiki/images/Raw_Chicken_JE3_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1319,7 +1319,7 @@
         "version": "Beta 1.8",
         "toc obtaining": "Mob loot\nCat gifts"
     },
-    "Cooked_Chicken": {
+    "Cooked Chicken": {
         "image": "https://minecraft.wiki/images/Cooked_Chicken_JE3_BE3.png",
         "other names": "Roast Chicken (GB, NZ)",
         "rarity tier": "Common",
@@ -1333,7 +1333,7 @@
         "version": "Beta 1.8",
         "toc obtaining": "Mob loot\nGenerated loot\nCooking\nTrading\nVillager gifts"
     },
-    "Raw_Beef": {
+    "Raw Beef": {
         "image": "https://minecraft.wiki/images/Raw_Beef_JE4_BE3.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1359,7 +1359,7 @@
         "version": "Beta 1.8",
         "toc obtaining": "Mob loot\nGenerated loot\nCooking\nVillager gifts"
     },
-    "Ender_Pearl": {
+    "Ender Pearl": {
         "image": "https://minecraft.wiki/images/Ender_Pearl_JE3_BE2.png",
         "rarity tier": "Common",
         "use cooldown": "1 second (20 ticks)",
@@ -1368,7 +1368,7 @@
         "version": "Beta 1.8",
         "toc obtaining": "Mob loot\nGenerated loot\nTrading\nBartering"
     },
-    "Melon_Seeds": {
+    "Melon Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Stem_Age_0_JE6.png/150px-Stem_Age_0_JE6.png",
         "other names": "Watermelon Seeds (NZ)",
         "renewable": "Yes",
@@ -1385,7 +1385,7 @@
         "version": "Beta 1.8",
         "toc obtaining": "Breaking\nNatural generation\nGenerated loot\nCrafting\nTrading\nMob loot"
     },
-    "Melon_Slice": {
+    "Melon Slice": {
         "image": "https://minecraft.wiki/images/Melon_Slice_JE2_BE2.png",
         "other names": "Watermelon Slice (NZ)",
         "rarity tier": "Common",
@@ -1399,7 +1399,7 @@
         "version": "Beta 1.8",
         "toc obtaining": "Block loot"
     },
-    "Pumpkin_Seeds": {
+    "Pumpkin Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Pumpkin_Stem_Age_0_JE7.png/150px-Pumpkin_Stem_Age_0_JE7.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1415,7 +1415,7 @@
         "version": "Beta 1.8",
         "toc obtaining": "Breaking\nNatural generation\nGenerated loot\nCrafting\nTrading\nMob loot\nPost-generation"
     },
-    "Rotten_Flesh": {
+    "Rotten Flesh": {
         "image": "https://minecraft.wiki/images/Rotten_Flesh_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1429,7 +1429,7 @@
         "version": "Beta 1.8",
         "toc obtaining": "Mob loot\nGenerated loot\nFishing\nCat gifts"
     },
-    "Blaze_Rod": {
+    "Blaze Rod": {
         "image": "https://minecraft.wiki/images/Blaze_Rod_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1437,7 +1437,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Ghast_Tear": {
+    "Ghast Tear": {
         "image": "https://minecraft.wiki/images/Ghast_Tear_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1445,7 +1445,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Gold_Nugget": {
+    "Gold Nugget": {
         "image": "https://minecraft.wiki/images/Gold_Nugget_JE3_BE2.png",
         "other names": "Golden Nugget (GB)",
         "rarity tier": "Common",
@@ -1454,7 +1454,7 @@
         "version": "1.0.0",
         "toc obtaining": "Crafting\nSmelting\nMob loot\nGenerated loot\nMining"
     },
-    "Nether_Wart": {
+    "Nether Wart": {
         "image": "https://minecraft.wiki/images/thumb/Nether_Wart_Age_0_JE8.png/150px-Nether_Wart_Age_0_JE8.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -1470,7 +1470,7 @@
         "version": "1.0.0",
         "toc obtaining": "Breaking\nNatural generation\nGenerated loot"
     },
-    "Blaze_Powder": {
+    "Blaze Powder": {
         "image": "https://minecraft.wiki/images/Blaze_Powder_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1478,7 +1478,7 @@
         "version": "1.0.0",
         "toc obtaining": "Crafting"
     },
-    "Fermented_Spider_Eye": {
+    "Fermented Spider Eye": {
         "image": "https://minecraft.wiki/images/Fermented_Spider_Eye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1486,7 +1486,7 @@
         "version": "1.0.0",
         "toc obtaining": "Crafting"
     },
-    "Glass_Bottle": {
+    "Glass Bottle": {
         "image": "https://minecraft.wiki/images/Glass_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1494,7 +1494,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot\nCrafting\nDrinking\nMud\nCauldrons"
     },
-    "Magma_Cream": {
+    "Magma Cream": {
         "image": "https://minecraft.wiki/images/Magma_Cream_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1502,7 +1502,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot\nChest Loot\nCrafting"
     },
-    "Music_Disc_11": {
+    "Music Disc 11": {
         "image": "https://minecraft.wiki/images/Music_Disc_11_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1510,7 +1510,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Music_Disc_blocks": {
+    "Music Disc blocks": {
         "image": "https://minecraft.wiki/images/Music_Disc_blocks_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1518,7 +1518,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Music_Disc_chirp": {
+    "Music Disc chirp": {
         "image": "https://minecraft.wiki/images/Music_Disc_chirp_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1526,7 +1526,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Music_Disc_far": {
+    "Music Disc far": {
         "image": "https://minecraft.wiki/images/Music_Disc_far_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1534,7 +1534,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Music_Disc_mall": {
+    "Music Disc mall": {
         "image": "https://minecraft.wiki/images/Music_Disc_mall_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1542,7 +1542,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Music_Disc_mellohi": {
+    "Music Disc mellohi": {
         "image": "https://minecraft.wiki/images/Music_Disc_mellohi_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1550,7 +1550,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Music_Disc_stal": {
+    "Music Disc stal": {
         "image": "https://minecraft.wiki/images/Music_Disc_stal_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1558,7 +1558,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Music_Disc_strad": {
+    "Music Disc strad": {
         "image": "https://minecraft.wiki/images/Music_Disc_strad_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1566,7 +1566,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Music_Disc_ward": {
+    "Music Disc ward": {
         "image": "https://minecraft.wiki/images/Music_Disc_ward_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1574,7 +1574,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot"
     },
-    "Spider_Eye": {
+    "Spider Eye": {
         "image": "https://minecraft.wiki/images/Spider_Eye_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1588,7 +1588,7 @@
         "version": "1.0.0",
         "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Awkward_Potion": {
+    "Awkward Potion": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1598,7 +1598,7 @@
         "version": "1.0.0",
         "toc obtaining": "Brewing"
     },
-    "Thick_Potion": {
+    "Thick Potion": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1608,7 +1608,7 @@
         "version": "1.0.0",
         "toc obtaining": "Brewing"
     },
-    "Mundane_Potion": {
+    "Mundane Potion": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1618,7 +1618,7 @@
         "version": "1.0.0",
         "toc obtaining": "Brewing"
     },
-    "Eye_of_Ender": {
+    "Eye of Ender": {
         "image": "https://minecraft.wiki/images/Eye_of_Ender_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1627,7 +1627,7 @@
         "version": "1.0.0",
         "toc obtaining": "Crafting"
     },
-    "Water_Bottle": {
+    "Water Bottle": {
         "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1636,105 +1636,6 @@
         "stackable": "No",
         "version": "1.0.0",
         "toc obtaining": "Glass bottle\nBartering\nFishing"
-    },
-    "Potion_of_Swiftness": {
-        "image": "https://minecraft.wiki/images/Potion_of_Swiftness_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.0.0",
-        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
-    },
-    "Potion_of_Slowness": {
-        "image": "https://minecraft.wiki/images/Potion_of_Slowness_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.0.0",
-        "toc obtaining": "Brewing"
-    },
-    "Potion_of_Strength": {
-        "image": "https://minecraft.wiki/images/Potion_of_Strength_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.0.0",
-        "toc obtaining": "Brewing\nGenerated loot"
-    },
-    "Potion_of_Weakness": {
-        "image": "https://minecraft.wiki/images/Potion_of_Weakness_JE2_BE2.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.0.0",
-        "toc obtaining": "Brewing\nThrown projectile\nGenerated loot"
-    },
-    "Potion_of_Healing": {
-        "image": "https://minecraft.wiki/images/Potion_of_Healing_JE2_BE2.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.0.0",
-        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
-    },
-    "Potion_of_Harming": {
-        "image": "https://minecraft.wiki/images/Potion_of_Harming_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.0.0",
-        "toc obtaining": "Brewing"
-    },
-    "Potion_of_Regeneration": {
-        "image": "https://minecraft.wiki/images/Potion_of_Regeneration_JE2_BE2.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.0.0",
-        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
-    },
-    "Potion_of_Fire_Resistance": {
-        "image": "https://minecraft.wiki/images/Potion_of_Fire_Resistance_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.0.0",
-        "toc obtaining": "Brewing\nMob loot\nGenerated loot\nBartering"
-    },
-    "Potion_of_Poison": {
-        "image": "https://minecraft.wiki/images/Potion_of_Poison_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.0.0",
-        "toc obtaining": "Generated Loot\nBrewing"
-    },
-    "Glistering_Melon_Slice": {
-        "image": "https://minecraft.wiki/images/Glistering_Melon_Slice_JE3_BE2.png",
-        "other names": "Glistering Watermelon Slice (NZ)",
-        "rarity tier": "Common",
-        "renewable": "Yes",
-        "stackable": "Yes (64)",
-        "version": "1.0.0",
-        "toc obtaining": "Generated loot\nCrafting\nTrading"
     },
     "Potion of Swiftness": {
         "image": "https://minecraft.wiki/images/Potion_of_Swiftness_JE3.png",
@@ -1826,6 +1727,15 @@
         "version": "1.0.0",
         "toc obtaining": "Generated Loot\nBrewing"
     },
+    "Glistering Melon Slice": {
+        "image": "https://minecraft.wiki/images/Glistering_Melon_Slice_JE3_BE2.png",
+        "other names": "Glistering Watermelon Slice (NZ)",
+        "rarity tier": "Common",
+        "renewable": "Yes",
+        "stackable": "Yes (64)",
+        "version": "1.0.0",
+        "toc obtaining": "Generated loot\nCrafting\nTrading"
+    },
     "Spawn Egg": {
         "image": "https://minecraft.wiki/images/Creeper_Spawn_Egg_JE3_BE2.png",
         "rarity tier": "Common",
@@ -1834,7 +1744,7 @@
         "version": "1.1",
         "toc obtaining": ""
     },
-    "Bottle_o'_Enchanting": {
+    "Bottle o' Enchanting": {
         "image": "https://minecraft.wiki/images/Bottle_o%27_Enchanting.gif",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -1843,7 +1753,7 @@
         "version": "1.2.1",
         "toc obtaining": "Generated loot\nTrading"
     },
-    "Fire_Charge": {
+    "Fire Charge": {
         "image": "https://minecraft.wiki/images/Fire_Charge_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1852,7 +1762,7 @@
         "version": "1.2.1",
         "toc obtaining": "Generated loot\nCrafting\nBartering\nNatural occurrence"
     },
-    "Book_and_Quill": {
+    "Book and Quill": {
         "image": "https://minecraft.wiki/images/Book_and_Quill_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1860,7 +1770,7 @@
         "version": "1.3.1",
         "toc obtaining": "Crafting"
     },
-    "Written_Book": {
+    "Written Book": {
         "image": "https://minecraft.wiki/images/Written_Book_JE2_BE2.gif",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1876,7 +1786,7 @@
         "version": "1.3.1",
         "toc obtaining": "Mining\nCrafting\nSmelting\nTrading\nMob loot\nGenerated loot"
     },
-    "Enchanted_Golden_Apple": {
+    "Enchanted Golden Apple": {
         "image": "https://minecraft.wiki/images/Enchanted_Golden_Apple_JE2_BE2.gif",
         "rarity tier": "Rare",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1889,16 +1799,6 @@
         "stackable": "Yes (64)",
         "version": "1.3.1",
         "toc obtaining": "Generated loot"
-    },
-    "Potion_of_Night_Vision": {
-        "image": "https://minecraft.wiki/images/Potion_of_Night_Vision_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.4.2",
-        "toc obtaining": "Brewing"
     },
     "Potion of Night Vision": {
         "image": "https://minecraft.wiki/images/Potion_of_Night_Vision_JE3.png",
@@ -1923,7 +1823,7 @@
         "version": "1.4.2",
         "toc obtaining": "Breaking\nNatural generation\nMob loot\nGenerated loot"
     },
-    "Golden_Carrot": {
+    "Golden Carrot": {
         "image": "https://minecraft.wiki/images/Golden_Carrot_JE4_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1949,7 +1849,7 @@
         "version": "1.4.2",
         "toc obtaining": "Breaking\nNatural generation\nMob loot\nGenerated loot"
     },
-    "Baked_Potato": {
+    "Baked Potato": {
         "image": "https://minecraft.wiki/images/Baked_Potato_JE4_BE2.png",
         "other names": "Jacket Potato (GB)",
         "rarity tier": "Common",
@@ -1963,7 +1863,7 @@
         "version": "1.4.2",
         "toc obtaining": "Cooking\nGenerated loot\nMob loot"
     },
-    "Poisonous_Potato": {
+    "Poisonous Potato": {
         "image": "https://minecraft.wiki/images/Poisonous_Potato_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -1977,7 +1877,7 @@
         "version": "1.4.2",
         "toc obtaining": "Generated loot\nFarming"
     },
-    "Item_Frame": {
+    "Item Frame": {
         "image": "https://minecraft.wiki/images/thumb/Item_Frame_%28S%29_JE2_BE2.png/150px-Item_Frame_%28S%29_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -1994,16 +1894,6 @@
         "version": "1.4.2",
         "toc obtaining": "Breaking\nNatural generation\nCrafting\nTrading"
     },
-    "Potion_of_Invisibility": {
-        "image": "https://minecraft.wiki/images/Potion_of_Invisibility_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.4.2",
-        "toc obtaining": "Brewing\nMob loot\nTrading"
-    },
     "Potion of Invisibility": {
         "image": "https://minecraft.wiki/images/Potion_of_Invisibility_JE3.png",
         "rarity tier": "Common",
@@ -2014,7 +1904,7 @@
         "version": "1.4.2",
         "toc obtaining": "Brewing\nMob loot\nTrading"
     },
-    "Carrot_on_a_Stick": {
+    "Carrot on a Stick": {
         "image": "https://minecraft.wiki/images/Carrot_on_a_Stick_JE2_BE2.png",
         "rarity tier": "Common",
         "durability": "JE: 25\nBE: 26",
@@ -2023,7 +1913,7 @@
         "version": "1.4.2",
         "toc obtaining": "Crafting"
     },
-    "Nether_Star": {
+    "Nether Star": {
         "image": "https://minecraft.wiki/images/Nether_Star.gif",
         "rarity tier": "Rare",
         "renewable": "Yes",
@@ -2031,7 +1921,7 @@
         "version": "1.4.2",
         "toc obtaining": "Mob loot"
     },
-    "Pumpkin_Pie": {
+    "Pumpkin Pie": {
         "image": "https://minecraft.wiki/images/Pumpkin_Pie_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -2052,7 +1942,7 @@
         "version": "1.4.3",
         "toc obtaining": "Mob loot"
     },
-    "Enchanted_Book": {
+    "Enchanted Book": {
         "image": "https://minecraft.wiki/images/Enchanted_Book.gif",
         "rarity tier": "* Rare\nCommon",
         "renewable": "Swift Sneak: No\nWind Burst: No (except via ominous vault)\nAll others: Yes",
@@ -2060,7 +1950,7 @@
         "version": "1.4.6",
         "toc obtaining": "Generated loot\nFishing\nTrading\nDrops\nEnchanting\nBartering"
     },
-    "Firework_Rocket": {
+    "Firework Rocket": {
         "image": "https://minecraft.wiki/images/Firework_Rocket_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "With Trail Effect: No (except via vault)\nWithout Trail Effect: Yes",
@@ -2069,7 +1959,7 @@
         "version": "1.4.6",
         "toc obtaining": "Crafting"
     },
-    "Firework_Star": {
+    "Firework Star": {
         "image": "https://minecraft.wiki/images/Invicon_White_Firework_Star.png",
         "rarity tier": "Common",
         "renewable": "With Trail Effect: No (except via vault)\nWithout Trail Effect: Yes",
@@ -2077,7 +1967,7 @@
         "version": "1.4.6",
         "toc obtaining": "Crafting"
     },
-    "Nether_Brick": {
+    "Nether Brick": {
         "image": "https://minecraft.wiki/images/Nether_Brick_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2085,7 +1975,7 @@
         "version": "1.5",
         "toc obtaining": "Smelting\nBartering"
     },
-    "Nether_Quartz": {
+    "Nether Quartz": {
         "image": "https://minecraft.wiki/images/Nether_Quartz_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2093,7 +1983,7 @@
         "version": "1.5",
         "toc obtaining": "Mining\nGenerated loot\nSmelting\nBartering"
     },
-    "Minecart_with_TNT": {
+    "Minecart with TNT": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_TNT_JE2_BE2.png/160px-Minecart_with_TNT_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2104,7 +1994,7 @@
         "version": "1.5",
         "toc obtaining": "Crafting"
     },
-    "Minecart_with_Hopper": {
+    "Minecart with Hopper": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_Hopper_JE2_BE2.png/160px-Minecart_with_Hopper_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2115,7 +2005,7 @@
         "version": "1.5",
         "toc obtaining": "Crafting"
     },
-    "Diamond_Horse_Armor": {
+    "Diamond Horse Armor": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Horse_Armor_JE4_BE3.png/160px-Diamond_Horse_Armor_JE4_BE3.png",
         "rarity tier": "Common",
         "armor": "11 ( x 5.5)",
@@ -2135,7 +2025,7 @@
         "version": "1.6.1",
         "toc obtaining": ""
     },
-    "Iron_Horse_Armor": {
+    "Iron Horse Armor": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Horse_Armor_JE5_BE3.png/160px-Iron_Horse_Armor_JE5_BE3.png",
         "rarity tier": "Common",
         "armor": "5 ()",
@@ -2153,7 +2043,7 @@
         "version": "1.6.1",
         "toc obtaining": "Mob loot\nGenerated loot\nCrafting"
     },
-    "Name_Tag": {
+    "Name Tag": {
         "image": "https://minecraft.wiki/images/Name_Tag_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2161,7 +2051,7 @@
         "version": "1.6.1",
         "toc obtaining": "Crafting\nGenerated loot\nFishing\nTrading"
     },
-    "Tropical_Fish_(item)": {
+    "Tropical Fish (item)": {
         "image": "https://minecraft.wiki/images/Tropical_Fish_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -2174,7 +2064,7 @@
         "version": "1.7.2",
         "toc obtaining": "Mob loot\nFishing"
     },
-    "Raw_Salmon": {
+    "Raw Salmon": {
         "image": "https://minecraft.wiki/images/Raw_Salmon_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -2187,7 +2077,7 @@
         "version": "1.7.2",
         "toc obtaining": "Mob loot\nGenerated loot\nFishing\nVillager gifts"
     },
-    "Cooked_Salmon": {
+    "Cooked Salmon": {
         "image": "https://minecraft.wiki/images/Cooked_Salmon_JE2_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -2200,7 +2090,7 @@
         "version": "1.7.2",
         "toc obtaining": "Mob loot\nGenerated loot\nCooking\nTrading"
     },
-    "Pufferfish_(item)": {
+    "Pufferfish (item)": {
         "image": "https://minecraft.wiki/images/Pufferfish_%28item%29_JE5_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -2214,16 +2104,6 @@
         "version": "1.7.2",
         "toc obtaining": "Mob loot\nFishing"
     },
-    "Potion_of_Water_Breathing": {
-        "image": "https://minecraft.wiki/images/Potion_of_Water_Breathing_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.7.2",
-        "toc obtaining": "Brewing\nMob loot\nGenerated loot"
-    },
     "Potion of Water Breathing": {
         "image": "https://minecraft.wiki/images/Potion_of_Water_Breathing_JE3.png",
         "rarity tier": "Common",
@@ -2234,7 +2114,7 @@
         "version": "1.7.2",
         "toc obtaining": "Brewing\nMob loot\nGenerated loot"
     },
-    "Minecart_with_Command_Block": {
+    "Minecart with Command Block": {
         "image": "https://minecraft.wiki/images/thumb/Minecart_with_Command_Block.gif/160px-Minecart_with_Command_Block.gif",
         "rarity tier": "* Epic\nCommon",
         "renewable": "No",
@@ -2245,7 +2125,7 @@
         "version": "1.7.2",
         "toc obtaining": ""
     },
-    "Prismarine_Crystals": {
+    "Prismarine Crystals": {
         "image": "https://minecraft.wiki/images/Prismarine_Crystals_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2253,7 +2133,7 @@
         "version": "1.8",
         "toc obtaining": "Mining\nMob loot\nChest Loot"
     },
-    "Prismarine_Shard": {
+    "Prismarine Shard": {
         "image": "https://minecraft.wiki/images/Prismarine_Shard_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2261,7 +2141,7 @@
         "version": "1.8",
         "toc obtaining": "Mob Loot"
     },
-    "Raw_Mutton": {
+    "Raw Mutton": {
         "image": "https://minecraft.wiki/images/Raw_Mutton_JE3_BE2.png",
         "other names": "Raw Lambchops (NZ)",
         "rarity tier": "Common",
@@ -2275,7 +2155,7 @@
         "version": "1.8",
         "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Cooked_Mutton": {
+    "Cooked Mutton": {
         "image": "https://minecraft.wiki/images/Cooked_Mutton_JE3_BE2.png",
         "other names": "Roast Lambchops (NZ)",
         "rarity tier": "Common",
@@ -2289,7 +2169,7 @@
         "version": "1.8",
         "toc obtaining": "Mob loot\nCooking\nVillager gifts"
     },
-    "Raw_Rabbit": {
+    "Raw Rabbit": {
         "image": "https://minecraft.wiki/images/Raw_Rabbit_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -2302,7 +2182,7 @@
         "version": "1.8",
         "toc obtaining": "Mob loot"
     },
-    "Cooked_Rabbit": {
+    "Cooked Rabbit": {
         "image": "https://minecraft.wiki/images/Cooked_Rabbit_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -2315,16 +2195,6 @@
         "version": "1.8",
         "toc obtaining": "Mob loot\nCooking\nVillager gifts"
     },
-    "Potion_of_Leaping": {
-        "image": "https://minecraft.wiki/images/Potion_of_Leaping_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.8",
-        "toc obtaining": "Brewing"
-    },
     "Potion of Leaping": {
         "image": "https://minecraft.wiki/images/Potion_of_Leaping_JE3.png",
         "rarity tier": "Common",
@@ -2335,7 +2205,7 @@
         "version": "1.8",
         "toc obtaining": "Brewing"
     },
-    "Rabbit's_Foot": {
+    "Rabbit's Foot": {
         "image": "https://minecraft.wiki/images/Rabbit%27s_Foot_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2343,7 +2213,7 @@
         "version": "1.8",
         "toc obtaining": "Mob loot\nCat gifts"
     },
-    "Rabbit_Hide": {
+    "Rabbit Hide": {
         "image": "https://minecraft.wiki/images/Rabbit_Hide_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2351,7 +2221,7 @@
         "version": "1.8",
         "toc obtaining": "Mob loot\nCat gifts"
     },
-    "Rabbit_Stew": {
+    "Rabbit Stew": {
         "image": "https://minecraft.wiki/images/Rabbit_Stew_JE3_BE2.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -2364,7 +2234,7 @@
         "version": "1.8",
         "toc obtaining": "Crafting\nTrading"
     },
-    "Spectral_Arrow": {
+    "Spectral Arrow": {
         "image": "https://minecraft.wiki/images/thumb/Spectral_Arrow_JE3.png/160px-Spectral_Arrow_JE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2398,7 +2268,7 @@
         "version": "1.9",
         "toc obtaining": "Farming"
     },
-    "Beetroot_Seeds": {
+    "Beetroot Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Beetroots_Age_0_JE3.png/150px-Beetroots_Age_0_JE3.png",
         "other names": "Beet Seeds (CA)",
         "renewable": "Yes",
@@ -2415,7 +2285,7 @@
         "version": "1.9",
         "toc obtaining": "Breaking\nNatural generation\nGenerated loot\nTrading\nMob loot"
     },
-    "Beetroot_Soup": {
+    "Beetroot Soup": {
         "image": "https://minecraft.wiki/images/Beetroot_Soup_JE2_BE2.png",
         "other names": "Beet Soup (CA)",
         "rarity tier": "Common",
@@ -2429,7 +2299,7 @@
         "version": "1.9",
         "toc obtaining": "Chest Loot\nCrafting"
     },
-    "Chorus_Fruit": {
+    "Chorus Fruit": {
         "image": "https://minecraft.wiki/images/Chorus_Fruit_JE2_BE2.png",
         "rarity tier": "Common",
         "use cooldown": "1 second (20 ticks)",
@@ -2443,7 +2313,7 @@
         "version": "1.9",
         "toc obtaining": "Mining"
     },
-    "Popped_Chorus_Fruit": {
+    "Popped Chorus Fruit": {
         "image": "https://minecraft.wiki/images/Popped_Chorus_Fruit_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2451,47 +2321,7 @@
         "version": "1.9",
         "toc obtaining": "Smelting"
     },
-    "Water Bottle": {
-        "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.9",
-        "toc obtaining": "Glass bottle\nBartering\nFishing"
-    },
-    "Mundane Potion": {
-        "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Mundane Potion: Yes\nLong Mundane Potion: No",
-        "stackable": "No",
-        "version": "1.9",
-        "toc obtaining": "Brewing"
-    },
-    "Thick Potion": {
-        "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.9",
-        "toc obtaining": "Brewing"
-    },
-    "Awkward Potion": {
-        "image": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.9",
-        "toc obtaining": "Brewing"
-    },
-    "Dragon's_Breath": {
+    "Dragon's Breath": {
         "image": "https://minecraft.wiki/images/Dragon%27s_Breath_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -2521,7 +2351,7 @@
         "version": "1.9",
         "toc obtaining": "Natural generation"
     },
-    "End_Crystal": {
+    "End Crystal": {
         "image": "https://minecraft.wiki/images/End_Crystal_JE2.gif",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2530,16 +2360,6 @@
         "drops": "None",
         "version": "1.9",
         "toc obtaining": "Crafting"
-    },
-    "Potion_of_Luck": {
-        "image": "https://minecraft.wiki/images/Potion_of_Luck_JE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "No",
-        "stackable": "No",
-        "version": "1.9",
-        "toc obtaining": "Brewing"
     },
     "Potion of Luck": {
         "image": "https://minecraft.wiki/images/Potion_of_Luck_JE3.png",
@@ -2577,7 +2397,7 @@
         "version": "1.9",
         "toc obtaining": "Brewing\nGenerated loot\nNatural occurrence"
     },
-    "Shulker_Shell": {
+    "Shulker Shell": {
         "image": "https://minecraft.wiki/images/Shulker_Shell_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2585,7 +2405,7 @@
         "version": "1.11",
         "toc obtaining": "Mob loot"
     },
-    "Totem_of_Undying": {
+    "Totem of Undying": {
         "image": "https://minecraft.wiki/images/Totem_of_Undying_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "status effects": "Absorption II (0:05)\nRegeneration II (0:45)\nFire Resistance I (0:40)",
@@ -2602,7 +2422,7 @@
         "version": "1.11",
         "toc obtaining": "Trading\nGenerated loot"
     },
-    "Iron_Nugget": {
+    "Iron Nugget": {
         "image": "https://minecraft.wiki/images/Iron_Nugget_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2610,7 +2430,7 @@
         "version": "1.11.1",
         "toc obtaining": "Crafting\nSmelting\nBartering\nGenerated loot"
     },
-    "Knowledge_Book": {
+    "Knowledge Book": {
         "image": "https://minecraft.wiki/images/Knowledge_Book_JE2.png",
         "rarity tier": "Epic",
         "renewable": "No",
@@ -2618,7 +2438,7 @@
         "version": "1.12",
         "toc obtaining": ""
     },
-    "Debug_Stick": {
+    "Debug Stick": {
         "image": "https://minecraft.wiki/images/Debug_Stick.gif",
         "rarity tier": "Epic\nCommon",
         "renewable": "No",
@@ -2659,7 +2479,7 @@
         "version": "1.13",
         "toc obtaining": "Breaking\nNatural generation\nTrading\nMob loot"
     },
-    "Dried_Kelp": {
+    "Dried Kelp": {
         "image": "https://minecraft.wiki/images/Dried_Kelp_JE1_BE2.png",
         "rarity tier": "Common",
         "consumption time": "16 game ticks (0.8 seconds)",
@@ -2672,7 +2492,7 @@
         "version": "1.13",
         "toc obtaining": "Crafting\nSmelting"
     },
-    "Turtle_Scute": {
+    "Turtle Scute": {
         "image": "https://minecraft.wiki/images/Turtle_Scute_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2680,7 +2500,7 @@
         "version": "1.13",
         "toc obtaining": "Mob loot"
     },
-    "Turtle_Shell": {
+    "Turtle Shell": {
         "image": "https://minecraft.wiki/images/thumb/Turtle_Shell_JE1_BE1.png/160px-Turtle_Shell_JE1_BE1.png",
         "rarity tier": "Common",
         "armor": "2 ()",
@@ -2693,7 +2513,7 @@
         "version": "1.13",
         "toc obtaining": "Crafting"
     },
-    "Turtle_Egg": {
+    "Turtle Egg": {
         "image": "https://minecraft.wiki/images/thumb/Turtle_Egg_1_JE2.png/150px-Turtle_Egg_1_JE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -2710,16 +2530,6 @@
         "version": "1.13",
         "toc obtaining": "Breaking\nPost-generation"
     },
-    "Potion_of_the_Turtle_Master": {
-        "image": "https://minecraft.wiki/images/Potion_of_the_Turtle_Master_JE4.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.13",
-        "toc obtaining": "Brewing"
-    },
     "Potion of the Turtle Master": {
         "image": "https://minecraft.wiki/images/Potion_of_the_Turtle_Master_JE4.png",
         "rarity tier": "Common",
@@ -2730,7 +2540,7 @@
         "version": "1.13",
         "toc obtaining": "Brewing"
     },
-    "Bucket_of_Cod": {
+    "Bucket of Cod": {
         "image": "https://minecraft.wiki/images/Bucket_of_Cod_JE2_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2738,7 +2548,7 @@
         "version": "1.13",
         "toc obtaining": "Trading"
     },
-    "Bucket_of_Salmon": {
+    "Bucket of Salmon": {
         "image": "https://minecraft.wiki/images/Bucket_of_Salmon_JE2_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2746,7 +2556,7 @@
         "version": "1.13",
         "toc obtaining": ""
     },
-    "Bucket_of_Pufferfish": {
+    "Bucket of Pufferfish": {
         "image": "https://minecraft.wiki/images/Bucket_of_Pufferfish_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2754,7 +2564,7 @@
         "version": "1.13",
         "toc obtaining": "Trading\nMob loot"
     },
-    "Bucket_of_Tropical_Fish": {
+    "Bucket of Tropical Fish": {
         "image": "https://minecraft.wiki/images/Bucket_of_Tropical_Fish_JE3_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2762,23 +2572,13 @@
         "version": "1.13",
         "toc obtaining": "Trading\nMob loot"
     },
-    "Phantom_Membrane": {
+    "Phantom Membrane": {
         "image": "https://minecraft.wiki/images/Phantom_Membrane_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "version": "1.13",
         "toc obtaining": "Mob loot\nCat gifts"
-    },
-    "Potion_of_Slow_Falling": {
-        "image": "https://minecraft.wiki/images/Potion_of_Slow_Falling_JE4_BE3.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.13",
-        "toc obtaining": "Brewing"
     },
     "Potion of Slow Falling": {
         "image": "https://minecraft.wiki/images/Potion_of_Slow_Falling_JE4_BE3.png",
@@ -2790,7 +2590,7 @@
         "version": "1.13",
         "toc obtaining": "Brewing"
     },
-    "Heart_of_the_Sea": {
+    "Heart of the Sea": {
         "image": "https://minecraft.wiki/images/Heart_of_the_Sea_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -2798,7 +2598,7 @@
         "version": "1.13",
         "toc obtaining": "Generated loot"
     },
-    "Nautilus_Shell": {
+    "Nautilus Shell": {
         "image": "https://minecraft.wiki/images/Nautilus_Shell_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -2806,7 +2606,7 @@
         "version": "1.13",
         "toc obtaining": "Mob loot\nFishing\nTrading"
     },
-    "Flower_Charge_Banner_Pattern": {
+    "Flower Charge Banner Pattern": {
         "image": "https://minecraft.wiki/images/Flower_Charge_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2814,7 +2614,7 @@
         "version": "1.14",
         "toc obtaining": "Crafting"
     },
-    "Creeper_Charge_Banner_Pattern": {
+    "Creeper Charge Banner Pattern": {
         "image": "https://minecraft.wiki/images/Creeper_Charge_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -2822,7 +2622,7 @@
         "version": "1.14",
         "toc obtaining": "Crafting"
     },
-    "Skull_Charge_Banner_Pattern": {
+    "Skull Charge Banner Pattern": {
         "image": "https://minecraft.wiki/images/Skull_Charge_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "Yes",
@@ -2830,7 +2630,7 @@
         "version": "1.14",
         "toc obtaining": "Crafting"
     },
-    "Thing_Banner_Pattern": {
+    "Thing Banner Pattern": {
         "image": "https://minecraft.wiki/images/Thing_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "No (except via ominous vault)",
@@ -2851,7 +2651,7 @@
         "version": "1.14",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot\nTrading"
     },
-    "Suspicious_Stew": {
+    "Suspicious Stew": {
         "image": "https://minecraft.wiki/images/Suspicious_Stew_JE1_BE1.png",
         "rarity tier": "Common",
         "consumption time": "32 game ticks (1.6 seconds)",
@@ -2865,7 +2665,7 @@
         "version": "1.14",
         "toc obtaining": "Generated loot\nCrafting\nHarvesting\nTrading\nCommands"
     },
-    "White_Dye": {
+    "White Dye": {
         "image": "https://minecraft.wiki/images/White_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2873,7 +2673,7 @@
         "version": "1.14",
         "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Black_Dye": {
+    "Black Dye": {
         "image": "https://minecraft.wiki/images/Black_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2881,7 +2681,7 @@
         "version": "1.14",
         "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Brown_Dye": {
+    "Brown Dye": {
         "image": "https://minecraft.wiki/images/Brown_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2889,7 +2689,7 @@
         "version": "1.14",
         "toc obtaining": "Crafting\nTrading\nMob loot"
     },
-    "Blue_Dye": {
+    "Blue Dye": {
         "image": "https://minecraft.wiki/images/Blue_Dye_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2897,7 +2697,7 @@
         "version": "1.14",
         "toc obtaining": "Crafting\nGenerated loot\nTrading\nMob loot"
     },
-    "Sweet_Berries": {
+    "Sweet Berries": {
         "image": "https://minecraft.wiki/images/thumb/Sweet_Berry_Bush_Age_0_JE1_BE1.png/150px-Sweet_Berry_Bush_Age_0_JE1_BE1.png",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
@@ -2918,7 +2718,7 @@
         "version": "1.14",
         "toc obtaining": "Natural generation\nBreaking\nHarvesting\nGenerated loot"
     },
-    "Leather_Horse_Armor": {
+    "Leather Horse Armor": {
         "image": "https://minecraft.wiki/images/thumb/Leather_Horse_Armor_JE2.png/160px-Leather_Horse_Armor_JE2.png",
         "rarity tier": "Common",
         "armor": "3 ()",
@@ -2928,7 +2728,7 @@
         "version": "1.14",
         "toc obtaining": "Crafting\nTrading"
     },
-    "Globe_Banner_Pattern": {
+    "Globe Banner Pattern": {
         "image": "https://minecraft.wiki/images/Globe_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -2936,7 +2736,7 @@
         "version": "1.14",
         "toc obtaining": "Trading"
     },
-    "Honey_Bottle": {
+    "Honey Bottle": {
         "image": "https://minecraft.wiki/images/Honey_Bottle_JE1_BE2.png",
         "rarity tier": "Common",
         "consumption time": "40 game ticks (2 seconds)",
@@ -2958,7 +2758,7 @@
         "version": "1.15",
         "toc obtaining": "Harvesting\nGenerated loot"
     },
-    "Netherite_Helmet": {
+    "Netherite Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Helmet_JE2_BE1.png/160px-Netherite_Helmet_JE2_BE1.png",
         "rarity tier": "Common",
         "armor": "3 ()",
@@ -2971,7 +2771,7 @@
         "version": "1.16",
         "toc obtaining": "Upgrading"
     },
-    "Netherite_Chestplate": {
+    "Netherite Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Chestplate_JE2_BE1.png/160px-Netherite_Chestplate_JE2_BE1.png",
         "rarity tier": "Common",
         "armor": "8 ()",
@@ -2984,7 +2784,7 @@
         "version": "1.16",
         "toc obtaining": "Upgrading"
     },
-    "Netherite_Leggings": {
+    "Netherite Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Leggings_JE3_BE2.png/160px-Netherite_Leggings_JE3_BE2.png",
         "rarity tier": "Common",
         "armor": "6 ()",
@@ -2997,7 +2797,7 @@
         "version": "1.16",
         "toc obtaining": "Upgrading"
     },
-    "Netherite_Boots": {
+    "Netherite Boots": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Boots_JE2_BE1.png/160px-Netherite_Boots_JE2_BE1.png",
         "rarity tier": "Common",
         "armor": "3 ()",
@@ -3010,7 +2810,7 @@
         "version": "1.16",
         "toc obtaining": "Upgrading"
     },
-    "Netherite_Sword": {
+    "Netherite Sword": {
         "image": "https://minecraft.wiki/images/Netherite_Sword_JE2_BE2.png",
         "rarity tier": "Common",
         "attack damage": "JE: 8HP\nBE: 9HP",
@@ -3026,7 +2826,7 @@
         "version": "1.16",
         "toc obtaining": "Upgrading"
     },
-    "Netherite_Pickaxe": {
+    "Netherite Pickaxe": {
         "image": "https://minecraft.wiki/images/Netherite_Pickaxe_JE3_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "9",
@@ -3042,7 +2842,7 @@
         "version": "1.16",
         "toc obtaining": "Upgrading"
     },
-    "Netherite_Axe": {
+    "Netherite Axe": {
         "image": "https://minecraft.wiki/images/Netherite_Axe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "9",
@@ -3057,7 +2857,7 @@
         "version": "1.16",
         "toc obtaining": "Upgrading"
     },
-    "Netherite_Shovel": {
+    "Netherite Shovel": {
         "image": "https://minecraft.wiki/images/Netherite_Shovel_JE2_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "9",
@@ -3072,7 +2872,7 @@
         "version": "1.16",
         "toc obtaining": "Upgrading"
     },
-    "Netherite_Hoe": {
+    "Netherite Hoe": {
         "image": "https://minecraft.wiki/images/Netherite_Hoe_JE2_BE2.png",
         "rarity tier": "Common",
         "mining efficiency": "9",
@@ -3087,7 +2887,7 @@
         "version": "1.16",
         "toc obtaining": "Upgrading"
     },
-    "Netherite_Ingot": {
+    "Netherite Ingot": {
         "image": "https://minecraft.wiki/images/Netherite_Ingot_JE1_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -3095,7 +2895,7 @@
         "version": "1.16",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Netherite_Scrap": {
+    "Netherite Scrap": {
         "image": "https://minecraft.wiki/images/Netherite_Scrap_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -3103,7 +2903,7 @@
         "version": "1.16",
         "toc obtaining": "Smelting\nGenerated loot"
     },
-    "Warped_Fungus_on_a_Stick": {
+    "Warped Fungus on a Stick": {
         "image": "https://minecraft.wiki/images/Warped_Fungus_on_a_Stick_JE1_BE1.png",
         "rarity tier": "Common",
         "durability": "JE: 100\nBE: 101",
@@ -3112,7 +2912,7 @@
         "version": "1.16",
         "toc obtaining": "Crafting\nMob loot"
     },
-    "Snout_Banner_Pattern": {
+    "Snout Banner Pattern": {
         "image": "https://minecraft.wiki/images/Snout_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3120,7 +2920,7 @@
         "version": "1.16",
         "toc obtaining": "Generated loot"
     },
-    "Music_Disc_Pigstep": {
+    "Music Disc Pigstep": {
         "image": "https://minecraft.wiki/images/Music_Disc_Pigstep_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No",
@@ -3128,7 +2928,7 @@
         "version": "1.16",
         "toc obtaining": "Generated loot"
     },
-    "Amethyst_Shard": {
+    "Amethyst Shard": {
         "image": "https://minecraft.wiki/images/Amethyst_Shard_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3144,7 +2944,7 @@
         "version": "1.17",
         "toc obtaining": "Crafting\nGenerated loot"
     },
-    "Copper_Ingot": {
+    "Copper Ingot": {
         "image": "https://minecraft.wiki/images/Copper_Ingot_JE2_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3160,7 +2960,7 @@
         "version": "1.17",
         "toc obtaining": "Crafting"
     },
-    "Powder_Snow_Bucket": {
+    "Powder Snow Bucket": {
         "image": "https://minecraft.wiki/images/Powder_Snow_Bucket_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3168,7 +2968,7 @@
         "version": "1.17",
         "toc obtaining": "Interacting"
     },
-    "Bucket_of_Axolotl": {
+    "Bucket of Axolotl": {
         "image": "https://minecraft.wiki/images/Bucket_of_Axolotl_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3176,7 +2976,7 @@
         "version": "1.17",
         "toc obtaining": ""
     },
-    "Glow_Item_Frame": {
+    "Glow Item Frame": {
         "image": "https://minecraft.wiki/images/thumb/Glow_Item_Frame_JE1_BE3.png/150px-Glow_Item_Frame_JE1_BE3.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3193,7 +2993,7 @@
         "version": "1.17",
         "toc obtaining": "Breaking\nCrafting"
     },
-    "Glow_Ink_Sac": {
+    "Glow Ink Sac": {
         "image": "https://minecraft.wiki/images/Glow_Ink_Sac_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3201,7 +3001,7 @@
         "version": "1.17",
         "toc obtaining": "Mob loot"
     },
-    "Glow_Berries": {
+    "Glow Berries": {
         "image": "https://minecraft.wiki/images/thumb/Cave_Vines_%28head%29_JE1_BE1.png/150px-Cave_Vines_%28head%29_JE1_BE1.png",
         "consumption time": "32 game ticks (1.6 seconds)",
         "hunger": "2 ()",
@@ -3222,7 +3022,7 @@
         "version": "1.17",
         "toc obtaining": "Breaking\nHarvesting\nNatural generation\nGenerated loot"
     },
-    "Raw_Copper": {
+    "Raw Copper": {
         "image": "https://minecraft.wiki/images/Raw_Copper_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -3230,7 +3030,7 @@
         "version": "1.17",
         "toc obtaining": "Mining\nCrafting"
     },
-    "Raw_Iron": {
+    "Raw Iron": {
         "image": "https://minecraft.wiki/images/Raw_Iron_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -3238,7 +3038,7 @@
         "version": "1.17",
         "toc obtaining": "Mining\nCrafting"
     },
-    "Raw_Gold": {
+    "Raw Gold": {
         "image": "https://minecraft.wiki/images/Raw_Gold_JE3_BE2.png",
         "rarity tier": "Common",
         "renewable": "No",
@@ -3254,7 +3054,7 @@
         "version": "1.18",
         "toc obtaining": "Generated loot"
     },
-    "Bucket_of_Tadpole": {
+    "Bucket of Tadpole": {
         "image": "https://minecraft.wiki/images/Bucket_of_Tadpole_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3273,7 +3073,7 @@
         "version": "1.19",
         "toc obtaining": "Crafting"
     },
-    "Echo_Shard": {
+    "Echo Shard": {
         "image": "https://minecraft.wiki/images/Echo_Shard_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3281,7 +3081,7 @@
         "version": "1.19",
         "toc obtaining": "Generated loot"
     },
-    "Recovery_Compass": {
+    "Recovery Compass": {
         "image": "https://minecraft.wiki/images/Recovery_Compass_JE1_BE1.gif",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3289,7 +3089,7 @@
         "version": "1.19",
         "toc obtaining": "Crafting"
     },
-    "Music_Disc_5": {
+    "Music Disc 5": {
         "image": "https://minecraft.wiki/images/Music_Disc_5_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3297,7 +3097,7 @@
         "version": "1.19",
         "toc obtaining": "Crafting"
     },
-    "Disc_Fragment": {
+    "Disc Fragment": {
         "image": "https://minecraft.wiki/images/Disc_Fragment_5_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3305,7 +3105,7 @@
         "version": "1.19",
         "toc obtaining": "Generated loot"
     },
-    "Goat_Horn": {
+    "Goat Horn": {
         "image": "https://minecraft.wiki/images/Goat_Horn_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "use cooldown": "7 seconds (140 ticks)",
@@ -3322,7 +3122,7 @@
         "version": "1.19.4",
         "toc obtaining": "Generated loot"
     },
-    "Sentry_Armor_Trim": {
+    "Sentry Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Sentry_Armor_Trim_Smithing_Template_JE2_BE2.png/120px-Sentry_Armor_Trim_Smithing_Template_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3330,7 +3130,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Vex_Armor_Trim": {
+    "Vex Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Vex_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Vex_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No (except via vault)",
@@ -3338,7 +3138,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Wild_Armor_Trim": {
+    "Wild Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Wild_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Wild_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3346,7 +3146,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Coast_Armor_Trim": {
+    "Coast Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Coast_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Coast_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3354,7 +3154,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Dune_Armor_Trim": {
+    "Dune Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Dune_Armor_Trim_Smithing_Template_JE2_BE2.png/120px-Dune_Armor_Trim_Smithing_Template_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3362,7 +3162,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Ward_Armor_Trim": {
+    "Ward Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Ward_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Ward_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No",
@@ -3370,7 +3170,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Tide_Armor_Trim": {
+    "Tide Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Tide_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Tide_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3378,7 +3178,7 @@
         "version": "1.19.4",
         "toc obtaining": "Mob loot\nCloning"
     },
-    "Snout_Armor_Trim": {
+    "Snout Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Snout_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Snout_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3386,7 +3186,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Rib_Armor_Trim": {
+    "Rib Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Rib_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Rib_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No\nNo (except via vault)",
@@ -3394,7 +3194,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Eye_Armor_Trim": {
+    "Eye Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Eye_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Eye_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No (except via vault)",
@@ -3402,7 +3202,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nChest loot"
     },
-    "Spire_Armor_Trim": {
+    "Spire Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Spire_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Spire_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No (except via vault)",
@@ -3410,7 +3210,7 @@
         "version": "1.19.4",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Archer_Pottery_Sherd": {
+    "Archer Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Archer_Pottery_Sherd_JE2_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3418,7 +3218,7 @@
         "version": "1.19.4",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Arms_Up_Pottery_Sherd": {
+    "Arms Up Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Arms_Up_Pottery_Sherd_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3426,7 +3226,7 @@
         "version": "1.19.4",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Prize_Pottery_Sherd": {
+    "Prize Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Prize_Pottery_Sherd_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3434,7 +3234,7 @@
         "version": "1.19.4",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Skull_Pottery_Sherd": {
+    "Skull Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Skull_Pottery_Sherd_JE1_BE2.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3442,7 +3242,7 @@
         "version": "1.19.4",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Torchflower_Seeds": {
+    "Torchflower Seeds": {
         "image": "https://minecraft.wiki/images/thumb/Torchflower_Age_0.png/150px-Torchflower_Age_0.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3467,7 +3267,7 @@
         "version": "1.19.4",
         "toc obtaining": "Crafting"
     },
-    "Pitcher_Pod": {
+    "Pitcher Pod": {
         "image": "https://minecraft.wiki/images/thumb/Pitcher_Crop_Age_0_JE1_BE1.png/150px-Pitcher_Crop_Age_0_JE1_BE1.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
@@ -3483,7 +3283,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking"
     },
-    "Angler_Pottery_Sherd": {
+    "Angler Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Angler_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3491,7 +3291,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Blade_Pottery_Sherd": {
+    "Blade Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Blade_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3499,7 +3299,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Brewer_Pottery_Sherd": {
+    "Brewer Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Brewer_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3507,7 +3307,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Burn_Pottery_Sherd": {
+    "Burn Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Burn_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3515,7 +3315,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Danger_Pottery_Sherd": {
+    "Danger Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Danger_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3523,7 +3323,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Explorer_Pottery_Sherd": {
+    "Explorer Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Explorer_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3531,7 +3331,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Friend_Pottery_Sherd": {
+    "Friend Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Friend_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3539,7 +3339,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Heart_Pottery_Sherd": {
+    "Heart Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Heart_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3547,7 +3347,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Heartbreak_Pottery_Sherd": {
+    "Heartbreak Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Heartbreak_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3555,7 +3355,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Howl_Pottery_Sherd": {
+    "Howl Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Howl_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3563,7 +3363,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Miner_Pottery_Sherd": {
+    "Miner Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Miner_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3571,7 +3371,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Mourner_Pottery_Sherd": {
+    "Mourner Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Mourner_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3579,7 +3379,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Plenty_Pottery_Sherd": {
+    "Plenty Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Plenty_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3587,7 +3387,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Sheaf_Pottery_Sherd": {
+    "Sheaf Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Sheaf_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3595,7 +3395,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Shelter_Pottery_Sherd": {
+    "Shelter Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Shelter_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3603,7 +3403,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Snort_Pottery_Sherd": {
+    "Snort Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Snort_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3611,7 +3411,7 @@
         "version": "1.20",
         "toc obtaining": "Breaking\nGenerated loot"
     },
-    "Wayfinder_Armor_Trim": {
+    "Wayfinder Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Wayfinder_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Wayfinder_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3619,7 +3419,7 @@
         "version": "1.20",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Raiser_Armor_Trim": {
+    "Raiser Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Raiser_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Raiser_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3627,7 +3427,7 @@
         "version": "1.20",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Shaper_Armor_Trim": {
+    "Shaper Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Shaper_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Shaper_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3635,7 +3435,7 @@
         "version": "1.20",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Host_Armor_Trim": {
+    "Host Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Host_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Host_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3643,7 +3443,7 @@
         "version": "1.20",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Silence_Armor_Trim": {
+    "Silence Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Silence_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Silence_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Epic",
         "renewable": "No",
@@ -3651,7 +3451,7 @@
         "version": "1.20",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Music_Disc_Relic": {
+    "Music Disc Relic": {
         "image": "https://minecraft.wiki/images/Music_Disc_Relic_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3659,7 +3459,7 @@
         "version": "1.20",
         "toc obtaining": "Generated loot"
     },
-    "Trial_Key": {
+    "Trial Key": {
         "image": "https://minecraft.wiki/images/Trial_Key_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3667,7 +3467,7 @@
         "version": "1.20.3",
         "toc obtaining": "Generated loot"
     },
-    "Armadillo_Scute": {
+    "Armadillo Scute": {
         "image": "https://minecraft.wiki/images/Armadillo_Scute_JE2_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3675,7 +3475,7 @@
         "version": "1.20.5",
         "toc obtaining": "Mob loot"
     },
-    "Wolf_Armor": {
+    "Wolf Armor": {
         "image": "https://minecraft.wiki/images/thumb/Wolf_Armor_%28model%29_JE2_BE2.png/160px-Wolf_Armor_%28model%29_JE2_BE2.png",
         "rarity tier": "Common",
         "armor": "",
@@ -3686,7 +3486,7 @@
         "version": "1.20.5",
         "toc obtaining": "Crafting\nMob loot"
     },
-    "Wind_Charge": {
+    "Wind Charge": {
         "image": "https://minecraft.wiki/images/thumb/Wind_Charge_JE2_BE2.webp/160px-Wind_Charge_JE2_BE2.webp",
         "rarity tier": "Common",
         "use cooldown": "0.5 seconds (10 ticks)",
@@ -3709,7 +3509,7 @@
         "version": "1.20.5",
         "toc obtaining": "Crafting"
     },
-    "Breeze_Rod": {
+    "Breeze Rod": {
         "image": "https://minecraft.wiki/images/Breeze_Rod_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3717,7 +3517,7 @@
         "version": "1.20.5",
         "toc obtaining": "Mob loot"
     },
-    "Flow_Banner_Pattern": {
+    "Flow Banner Pattern": {
         "image": "https://minecraft.wiki/images/Flow_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "No (except via ominous vault)",
@@ -3725,7 +3525,7 @@
         "version": "1.20.5",
         "toc obtaining": "Generated loot"
     },
-    "Guster_Banner_Pattern": {
+    "Guster Banner Pattern": {
         "image": "https://minecraft.wiki/images/Guster_Banner_Pattern_JE2_BE2.png",
         "rarity tier": "Rare",
         "renewable": "No (except via vault)",
@@ -3733,7 +3533,7 @@
         "version": "1.20.5",
         "toc obtaining": "Generated loot"
     },
-    "Flow_Pottery_Sherd": {
+    "Flow Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Flow_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3741,7 +3541,7 @@
         "version": "1.20.5",
         "toc obtaining": "Breaking\nNatural generation"
     },
-    "Guster_Pottery_Sherd": {
+    "Guster Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Guster_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3749,7 +3549,7 @@
         "version": "1.20.5",
         "toc obtaining": "Breaking\nNatural generation"
     },
-    "Scrape_Pottery_Sherd": {
+    "Scrape Pottery Sherd": {
         "image": "https://minecraft.wiki/images/Scrape_Pottery_Sherd_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3757,7 +3557,7 @@
         "version": "1.20.5",
         "toc obtaining": "Breaking\nNatural generation"
     },
-    "Bolt_Armor_Trim": {
+    "Bolt Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Bolt_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Bolt_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3765,7 +3565,7 @@
         "version": "1.20.5",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Flow_Armor_Trim": {
+    "Flow Armor Trim": {
         "image": "https://minecraft.wiki/images/thumb/Flow_Armor_Trim_Smithing_Template_JE1_BE1.png/120px-Flow_Armor_Trim_Smithing_Template_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3773,7 +3573,7 @@
         "version": "1.20.5",
         "toc obtaining": "Cloning\nGenerated loot"
     },
-    "Ominous_Bottle": {
+    "Ominous Bottle": {
         "image": "https://minecraft.wiki/images/Ominous_Bottle_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "status effects": "Bad Omen",
@@ -3782,53 +3582,13 @@
         "version": "1.20.5",
         "toc obtaining": "Mob loot\nGenerated loot"
     },
-    "Ominous_Trial_Key": {
+    "Ominous Trial Key": {
         "image": "https://minecraft.wiki/images/Ominous_Trial_Key_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "version": "1.20.5",
         "toc obtaining": "Generated loot"
-    },
-    "Potion_of_Infestation": {
-        "image": "https://minecraft.wiki/images/Potion_of_Infestation_JE1_BE1.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.20.5",
-        "toc obtaining": "Brewing"
-    },
-    "Potion_of_Oozing": {
-        "image": "https://minecraft.wiki/images/Potion_of_Oozing_JE1_BE1.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.20.5",
-        "toc obtaining": "Brewing"
-    },
-    "Potion_of_Weaving": {
-        "image": "https://minecraft.wiki/images/Potion_of_Weaving_JE1_BE1.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.20.5",
-        "toc obtaining": "Brewing"
-    },
-    "Potion_of_Wind_Charging": {
-        "image": "https://minecraft.wiki/images/Potion_of_Wind_Charging_JE1_BE1.png",
-        "rarity tier": "Common",
-        "consumption time": "32 game ticks (1.6 seconds)",
-        "always consumable": "Yes",
-        "renewable": "Yes",
-        "stackable": "No",
-        "version": "1.20.5",
-        "toc obtaining": "Brewing"
     },
     "Potion of Infestation": {
         "image": "https://minecraft.wiki/images/Potion_of_Infestation_JE1_BE1.png",
@@ -3870,7 +3630,7 @@
         "version": "1.20.5",
         "toc obtaining": "Brewing"
     },
-    "Music_Disc_Creator": {
+    "Music Disc Creator": {
         "image": "https://minecraft.wiki/images/Music_Disc_Creator_JE1_BE1.png",
         "rarity tier": "Rare",
         "renewable": "No (except via ominous vault)",
@@ -3878,7 +3638,7 @@
         "version": "1.21",
         "toc obtaining": "Generated loot"
     },
-    "Music_Disc_Creator_(Music_Box)": {
+    "Music Disc Creator (Music Box)": {
         "image": "https://minecraft.wiki/images/Music_Disc_Creator_%28Music_Box%29_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",
@@ -3886,7 +3646,7 @@
         "version": "1.21",
         "toc obtaining": "Generated loot"
     },
-    "Music_Disc_Precipice": {
+    "Music Disc Precipice": {
         "image": "https://minecraft.wiki/images/Music_Disc_Precipice_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No (except via vault)",
@@ -3894,7 +3654,7 @@
         "version": "1.21",
         "toc obtaining": "Generated loot"
     },
-    "Field_Masoned_Banner_Pattern": {
+    "Field Masoned Banner Pattern": {
         "image": "https://minecraft.wiki/images/Field_Masoned_Banner_Pattern_JE1_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3902,7 +3662,7 @@
         "version": "1.21.2",
         "toc obtaining": "Crafting"
     },
-    "Bordure_Indented_Banner_Pattern": {
+    "Bordure Indented Banner Pattern": {
         "image": "https://minecraft.wiki/images/Bordure_Indented_Banner_Pattern_JE1_BE2.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3910,7 +3670,7 @@
         "version": "1.21.2",
         "toc obtaining": "Crafting"
     },
-    "Resin_Clump": {
+    "Resin Clump": {
         "image": "https://minecraft.wiki/images/thumb/Resin_Clump_JE1_BE1.png/150px-Resin_Clump_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3928,7 +3688,7 @@
         "version": "1.21.4",
         "toc obtaining": "Breaking\nPost-generation\nBlock loot\nGenerated loot\nCrafting"
     },
-    "Resin_Brick": {
+    "Resin Brick": {
         "image": "https://minecraft.wiki/images/Resin_Brick_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -3944,7 +3704,7 @@
         "version": "1.21.6",
         "toc obtaining": "Crafting"
     },
-    "Music_Disc_Tears": {
+    "Music Disc Tears": {
         "image": "https://minecraft.wiki/images/Music_Disc_Tears_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "Yes",
@@ -3952,7 +3712,7 @@
         "version": "1.21.6",
         "toc obtaining": "Mob loot"
     },
-    "Music_Disc_Lava_Chicken": {
+    "Music Disc Lava Chicken": {
         "image": "https://minecraft.wiki/images/Music_Disc_Lava_Chicken_JE1_BE1.png",
         "rarity tier": "Rare\nUncommon",
         "renewable": "Yes",
@@ -3960,7 +3720,7 @@
         "version": "1.21.7",
         "toc obtaining": "Mob loot"
     },
-    "Copper_Sword": {
+    "Copper Sword": {
         "image": "https://minecraft.wiki/images/Copper_Sword_JE1_BE1.png",
         "rarity tier": "Common",
         "attack damage": "JE: 5HP\nBE: 6HP",
@@ -3976,7 +3736,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting"
     },
-    "Copper_Pickaxe": {
+    "Copper Pickaxe": {
         "image": "https://minecraft.wiki/images/Copper_Pickaxe_JE1_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "5",
@@ -3992,7 +3752,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting"
     },
-    "Copper_Axe": {
+    "Copper Axe": {
         "image": "https://minecraft.wiki/images/Copper_Axe_JE1_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "5",
@@ -4007,7 +3767,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting"
     },
-    "Copper_Shovel": {
+    "Copper Shovel": {
         "image": "https://minecraft.wiki/images/Copper_Shovel_JE1_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "5",
@@ -4022,7 +3782,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting"
     },
-    "Copper_Hoe": {
+    "Copper Hoe": {
         "image": "https://minecraft.wiki/images/Copper_Hoe_JE1_BE1.png",
         "rarity tier": "Common",
         "mining efficiency": "5",
@@ -4037,7 +3797,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting"
     },
-    "Copper_Helmet": {
+    "Copper Helmet": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Helmet_JE1_BE1.png/160px-Copper_Helmet_JE1_BE1.png",
         "rarity tier": "Common",
         "armor": "2 ()",
@@ -4050,7 +3810,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting\nMob loot"
     },
-    "Copper_Chestplate": {
+    "Copper Chestplate": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Chestplate_JE1_BE1.png/160px-Copper_Chestplate_JE1_BE1.png",
         "rarity tier": "Common",
         "armor": "4 ()",
@@ -4063,7 +3823,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting\nMob loot"
     },
-    "Copper_Leggings": {
+    "Copper Leggings": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Leggings_JE1_BE1.png/160px-Copper_Leggings_JE1_BE1.png",
         "rarity tier": "Common",
         "armor": "3 ()",
@@ -4076,7 +3836,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting\nMob loot"
     },
-    "Copper_Boots": {
+    "Copper Boots": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Boots_JE1_BE1.png/160px-Copper_Boots_JE1_BE1.png",
         "rarity tier": "Common",
         "armor": "1 ()",
@@ -4089,7 +3849,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting\nMob loot"
     },
-    "Copper_Horse_Armor": {
+    "Copper Horse Armor": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Horse_Armor_JE1_BE1.png/160px-Copper_Horse_Armor_JE1_BE1.png",
         "rarity tier": "Common",
         "armor": "4 ()",
@@ -4099,7 +3859,7 @@
         "version": "1.21.9",
         "toc obtaining": ""
     },
-    "Copper_Nugget": {
+    "Copper Nugget": {
         "image": "https://minecraft.wiki/images/Copper_Nugget_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -4107,7 +3867,7 @@
         "version": "1.21.9",
         "toc obtaining": "Crafting\nSmelting"
     },
-    "Copper_Nautilus_Armor": {
+    "Copper Nautilus Armor": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Nautilus_Armor_JE1_BE2.png/160px-Copper_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
         "armor": "4 ()",
@@ -4117,7 +3877,7 @@
         "version": "1.21.11",
         "toc obtaining": "Generated loot"
     },
-    "Iron_Nautilus_Armor": {
+    "Iron Nautilus Armor": {
         "image": "https://minecraft.wiki/images/thumb/Iron_Nautilus_Armor_JE1_BE2.png/160px-Iron_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
         "armor": "5 ()",
@@ -4127,7 +3887,7 @@
         "version": "1.21.11",
         "toc obtaining": "Generated loot"
     },
-    "Golden_Nautilus_Armor": {
+    "Golden Nautilus Armor": {
         "image": "https://minecraft.wiki/images/thumb/Golden_Nautilus_Armor_JE1_BE2.png/160px-Golden_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
         "armor": "7 ()",
@@ -4137,7 +3897,7 @@
         "version": "1.21.11",
         "toc obtaining": "Generated loot"
     },
-    "Diamond_Nautilus_Armor": {
+    "Diamond Nautilus Armor": {
         "image": "https://minecraft.wiki/images/thumb/Diamond_Nautilus_Armor_JE1_BE2.png/160px-Diamond_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
         "armor": "11 ( x 5.5)",
@@ -4147,7 +3907,7 @@
         "version": "1.21.11",
         "toc obtaining": "Generated loot"
     },
-    "Netherite_Nautilus_Armor": {
+    "Netherite Nautilus Armor": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Nautilus_Armor_JE1_BE2.png/160px-Netherite_Nautilus_Armor_JE1_BE2.png",
         "rarity tier": "Common",
         "armor": "19 ( x 9.5)",
@@ -4158,7 +3918,7 @@
         "version": "1.21.11",
         "toc obtaining": "Upgrading"
     },
-    "Wooden_Spear": {
+    "Wooden Spear": {
         "image": "https://minecraft.wiki/images/Held_Wooden_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 1HP\nBE: 2HP\n\nCharge attack:\n\n0.7x multiplier",
@@ -4173,7 +3933,7 @@
         "version": "1.21.11",
         "toc obtaining": "Crafting"
     },
-    "Stone_Spear": {
+    "Stone Spear": {
         "image": "https://minecraft.wiki/images/Held_Stone_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 2HP\nBE: 3HP\n\nCharge attack:\n\n0.82x multiplier",
@@ -4188,7 +3948,7 @@
         "version": "1.21.11",
         "toc obtaining": "Generated loot\nCrafting"
     },
-    "Copper_Spear": {
+    "Copper Spear": {
         "image": "https://minecraft.wiki/images/Held_Copper_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 2HP\nBE: 3HP\n\nCharge attack:\n\n0.82x multiplier",
@@ -4203,7 +3963,7 @@
         "version": "1.21.11",
         "toc obtaining": "Generated loot\nCrafting"
     },
-    "Iron_Spear": {
+    "Iron Spear": {
         "image": "https://minecraft.wiki/images/Held_Iron_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 3HP\nBE: 4HP\n\nCharge attack:\n\n0.95x multiplier",
@@ -4218,7 +3978,7 @@
         "version": "1.21.11",
         "toc obtaining": "Crafting\nGenerated loot\nMob loot"
     },
-    "Golden_Spear": {
+    "Golden Spear": {
         "image": "https://minecraft.wiki/images/Held_Golden_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 1HP\nBE: 2HP\n\nCharge attack:\n\n0.7x multiplier",
@@ -4233,7 +3993,7 @@
         "version": "1.21.11",
         "toc obtaining": "Crafting\nMob loot"
     },
-    "Diamond_Spear": {
+    "Diamond Spear": {
         "image": "https://minecraft.wiki/images/Held_Diamond_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 4HP\nBE: 5HP\n\nCharge attack:\n\n1.075x multiplier",
@@ -4248,7 +4008,7 @@
         "version": "1.21.11",
         "toc obtaining": "Generated loot\nCrafting"
     },
-    "Netherite_Spear": {
+    "Netherite Spear": {
         "image": "https://minecraft.wiki/images/Held_Netherite_Spear_JE2_BE1.png",
         "rarity tier": "Common",
         "attack damage": "Jab attack:\nJE: 5HP\nBE: 6HP\n\nCharge attack:\n\n1.2x multiplier",
@@ -4263,7 +4023,7 @@
         "version": "1.21.11",
         "toc obtaining": "Smithing"
     },
-    "Netherite_Horse_Armor": {
+    "Netherite Horse Armor": {
         "image": "https://minecraft.wiki/images/thumb/Netherite_Horse_Armor_JE2_BE1.png/160px-Netherite_Horse_Armor_JE2_BE1.png",
         "rarity tier": "Common",
         "armor": "19 ( x 9.5)",
@@ -4274,7 +4034,7 @@
         "version": "1.21.11",
         "toc obtaining": "Smithing"
     },
-    "Bucket_of_Sulfur_Cube": {
+    "Bucket of Sulfur Cube": {
         "image": "https://minecraft.wiki/images/Bucket_of_Sulfur_Cube_JE1_BE1.png",
         "rarity tier": "Common",
         "renewable": "Yes",
@@ -4282,7 +4042,7 @@
         "version": "26.2",
         "toc obtaining": ""
     },
-    "Music_Disc_Bounce": {
+    "Music Disc Bounce": {
         "image": "https://minecraft.wiki/images/Music_Disc_Bounce_JE1_BE1.png",
         "rarity tier": "Uncommon",
         "renewable": "No",

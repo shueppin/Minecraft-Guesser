@@ -21,9 +21,9 @@ REMOVED_BLOCKS = [
     "Air",
     "Water",
     "Lava",
-    "Nether_Portal",
+    "Nether Portal",
     "End portal",
-    "End_Gateway",
+    "End Gateway",
     "Carrot",
     "Potato",
     "Beetroot",
@@ -32,23 +32,34 @@ REMOVED_BLOCKS = [
     "Wheat Seeds",
     "Pumpkin Seeds",
     "Torchflower Seeds",
-    "Frosted_Ice",
+    "Frosted Ice",
     "Piston/Technical components",
-    "Bubble_Column",
+    "Bubble Column",
     "Allium",
-    "Azure_Bluet",
-    "Blue_Orchid",
+    "Azure Bluet",
+    "Blue Orchid",
     "Cornflower",
-    "Lily_of_the_Valley",
-    "Oxeye_Daisy",
+    "Lily of the Valley",
+    "Oxeye Daisy",
     "Lilac",
     "Peony",
-    "Large_Fern",
-    "Short_Grass",
-    "Short_Dry_Grass",
-    "Tall_Grass",
-    "Tall_Dry_Grass"
+    "Large Fern",
+    "Short Grass",
+    "Short Dry Grass",
+    "Tall Grass",
+    "Tall Dry Grass"
 ]
+
+
+HARDCODED_IMAGE_OVERWRITES = {
+    "Amethyst Cluster": "https://minecraft.wiki/images/Amethyst_Cluster_%28U%29_JE1_BE2.png",
+    "Eyeblossom": "https://minecraft.wiki/images/Open_Eyeblossom_JE1_BE1.png",
+    "Ladder": "https://minecraft.wiki/images/Ladder_%28texture%29_JE3_BE2.png",
+    "Leaf Litter": "https://minecraft.wiki/images/Leaf_Litter_4_%28S%29_JE2_BE2.png",
+    "Nether Wart": "https://minecraft.wiki/images/Nether_Wart_Age_3_JE8.png",
+    "Pink Petals": "https://minecraft.wiki/images/Pink_Petals_4_%28S%29_JE2.png",
+    "Wildflowers": "https://minecraft.wiki/images/Wildflowers_4_%28S%29_JE1.png"
+}
 
 
 FIXED_RENEWABLE_VALUES = {
@@ -165,19 +176,25 @@ def normalize_blocks() -> None:
 
     normalized_blocks = {}
 
-    for block_name in sorted(blocks.keys()):
-        if block_name in REMOVED_BLOCKS:
+    for raw_block_name in sorted(blocks.keys()):
+        if raw_block_name in REMOVED_BLOCKS:
             continue
 
-        block_data = blocks[block_name]
-        normalized_name = block_name.strip().lower().replace(" ", "_")
+        block_data = blocks[raw_block_name]
+        normalized_name = raw_block_name.strip().lower().replace(" ", "_")
 
         p = DataParser(block_data)
 
+        # Replace some automatic images with better ones
+        if raw_block_name in HARDCODED_IMAGE_OVERWRITES:
+            image_url = HARDCODED_IMAGE_OVERWRITES[raw_block_name]
+        else:
+            image_url = p.get_raw("image")
+
         try:
             new_block_data : dict[str, Any] = {
-                "name": block_name,
-                "image_url": p.get_raw("image"),
+                "name": raw_block_name,
+                "image_url": image_url,
 
                 "blast_resistance": p.extract_first_number("blast resistance"),
                 "fire_catch": p.extract_first_yes_no_partial("catches fire from lava", hardcoded_values_dict=FIXED_FIRE_CATCH_VALUES),
@@ -192,7 +209,7 @@ def normalize_blocks() -> None:
                 "transparent": p.extract_first_yes_no_partial("transparent", hardcoded_values_dict=FIXED_TRANSPARENT_VALUES),
             }
         except KeyError as e:
-            logger.error(f'Key Error "{e}" occurred for "{block_name}" with data: "{block_data}"')
+            logger.error(f'Key Error "{e}" occurred for "{raw_block_name}" with data: "{block_data}"')
             return
 
         normalized_blocks[normalized_name] = new_block_data

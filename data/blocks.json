@@ -1,6 +1,6 @@
 {
     "activator_rail": {
-        "name": "Activator_Rail",
+        "name": "Activator Rail",
         "image_url": "https://minecraft.wiki/images/thumb/Activator_Rail_%28NS%29_JE2_BE2.png/150px-Activator_Rail_%28NS%29_JE2_BE2.png",
         "blast_resistance": 0.7,
         "fire_catch": false,
@@ -17,8 +17,8 @@
         "transparent": true
     },
     "amethyst_cluster": {
-        "name": "Amethyst_Cluster",
-        "image_url": "https://minecraft.wiki/images/thumb/Small_Amethyst_Bud_%28U%29_JE1_BE2.png/150px-Small_Amethyst_Bud_%28U%29_JE1_BE2.png",
+        "name": "Amethyst Cluster",
+        "image_url": "https://minecraft.wiki/images/Amethyst_Cluster_%28U%29_JE1_BE2.png",
         "blast_resistance": 1.5,
         "fire_catch": false,
         "flammable": false,
@@ -34,7 +34,7 @@
         "transparent": true
     },
     "ancient_debris": {
-        "name": "Ancient_Debris",
+        "name": "Ancient Debris",
         "image_url": "https://minecraft.wiki/images/thumb/Ancient_Debris_JE1_BE1.png/150px-Ancient_Debris_JE1_BE1.png",
         "blast_resistance": 1200.0,
         "fire_catch": false,
@@ -68,7 +68,7 @@
         "transparent": false
     },
     "andesite_slab": {
-        "name": "Andesite_Slab",
+        "name": "Andesite Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Andesite_Slab_JE2_BE2.png/150px-Andesite_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -85,7 +85,7 @@
         "transparent": "Partial"
     },
     "andesite_stairs": {
-        "name": "Andesite_Stairs",
+        "name": "Andesite Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Andesite_Stairs_%28N%29_JE2_BE1.png/150px-Andesite_Stairs_%28N%29_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -102,7 +102,7 @@
         "transparent": "Partial"
     },
     "andesite_wall": {
-        "name": "Andesite_Wall",
+        "name": "Andesite Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Andesite_Wall_%28ewU%29_JE2.png/150px-Andesite_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -170,7 +170,7 @@
         "transparent": true
     },
     "bamboo_mosaic": {
-        "name": "Bamboo_Mosaic",
+        "name": "Bamboo Mosaic",
         "image_url": "https://minecraft.wiki/images/thumb/Bamboo_Mosaic_JE1_BE1.png/150px-Bamboo_Mosaic_JE1_BE1.png",
         "blast_resistance": 3.0,
         "fire_catch": true,
@@ -187,7 +187,7 @@
         "transparent": false
     },
     "bamboo_mosaic_slab": {
-        "name": "Bamboo_Mosaic_Slab",
+        "name": "Bamboo Mosaic Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Bamboo_Mosaic_Slab_JE1_BE1.png/150px-Bamboo_Mosaic_Slab_JE1_BE1.png",
         "blast_resistance": 3.0,
         "fire_catch": true,
@@ -204,7 +204,7 @@
         "transparent": "Partial"
     },
     "bamboo_mosaic_stairs": {
-        "name": "Bamboo_Mosaic_Stairs",
+        "name": "Bamboo Mosaic Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Bamboo_Mosaic_Stairs_JE1_BE1.png/150px-Bamboo_Mosaic_Stairs_JE1_BE1.png",
         "blast_resistance": 3.0,
         "fire_catch": true,
@@ -340,7 +340,7 @@
         "transparent": false
     },
     "bee_nest": {
-        "name": "Bee_Nest",
+        "name": "Bee Nest",
         "image_url": "https://minecraft.wiki/images/thumb/Bee_Nest_%28S%29_JE1.png/150px-Bee_Nest_%28S%29_JE1.png",
         "blast_resistance": 0.3,
         "fire_catch": true,
@@ -391,7 +391,7 @@
         "transparent": true
     },
     "big_dripleaf": {
-        "name": "Big_Dripleaf",
+        "name": "Big Dripleaf",
         "image_url": "https://minecraft.wiki/images/thumb/Big_Dripleaf_%28S%29_JE2.png/150px-Big_Dripleaf_%28S%29_JE2.png",
         "blast_resistance": 0.1,
         "fire_catch": false,
@@ -425,7 +425,7 @@
         "transparent": false
     },
     "blackstone_slab": {
-        "name": "Blackstone_Slab",
+        "name": "Blackstone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Blackstone_Slab_JE3.png/150px-Blackstone_Slab_JE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -442,7 +442,7 @@
         "transparent": "Partial"
     },
     "blackstone_stairs": {
-        "name": "Blackstone_Stairs",
+        "name": "Blackstone Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Blackstone_Stairs_JE3.png/150px-Blackstone_Stairs_JE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -459,7 +459,7 @@
         "transparent": "Partial"
     },
     "blackstone_wall": {
-        "name": "Blackstone_Wall",
+        "name": "Blackstone Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Blackstone_Wall_%28ewU%29_JE3.png/150px-Blackstone_Wall_%28ewU%29_JE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -476,7 +476,7 @@
         "transparent": true
     },
     "blast_furnace": {
-        "name": "Blast_Furnace",
+        "name": "Blast Furnace",
         "image_url": "https://minecraft.wiki/images/thumb/Blast_Furnace_%28S%29_JE1.png/150px-Blast_Furnace_%28S%29_JE1.png",
         "blast_resistance": 3.5,
         "fire_catch": false,
@@ -492,25 +492,8 @@
         ],
         "transparent": "Partial"
     },
-    "block_of_copper": {
-        "name": "Block_of_Copper",
-        "image_url": "https://minecraft.wiki/images/thumb/Block_of_Copper_JE1_BE1.png/150px-Block_of_Copper_JE1_BE1.png",
-        "blast_resistance": 6.0,
-        "fire_catch": false,
-        "flammable": false,
-        "hardness": 3.0,
-        "initial_release": "1.17",
-        "luminous": false,
-        "map_color": "COLOR_ORANGE",
-        "renewable": true,
-        "stackable": 64,
-        "tool": [
-            "Pickaxe"
-        ],
-        "transparent": false
-    },
     "block_of_amethyst": {
-        "name": "Block_of_Amethyst",
+        "name": "Block of Amethyst",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Amethyst_JE3_BE1.png/150px-Block_of_Amethyst_JE3_BE1.png",
         "blast_resistance": 1.5,
         "fire_catch": false,
@@ -527,7 +510,7 @@
         "transparent": "Partial"
     },
     "block_of_bamboo": {
-        "name": "Block_of_Bamboo",
+        "name": "Block of Bamboo",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Bamboo_%28UD%29_JE3_BE2.png/150px-Block_of_Bamboo_%28UD%29_JE3_BE2.png",
         "blast_resistance": 2.0,
         "fire_catch": true,
@@ -544,7 +527,7 @@
         "transparent": false
     },
     "block_of_coal": {
-        "name": "Block_of_Coal",
+        "name": "Block of Coal",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Coal_JE3_BE2.png/150px-Block_of_Coal_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -560,8 +543,25 @@
         ],
         "transparent": false
     },
+    "block_of_copper": {
+        "name": "Block of Copper",
+        "image_url": "https://minecraft.wiki/images/thumb/Block_of_Copper_JE1_BE1.png/150px-Block_of_Copper_JE1_BE1.png",
+        "blast_resistance": 6.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 3.0,
+        "initial_release": "1.17",
+        "luminous": false,
+        "map_color": "COLOR_ORANGE",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Pickaxe"
+        ],
+        "transparent": false
+    },
     "block_of_diamond": {
-        "name": "Block_of_Diamond",
+        "name": "Block of Diamond",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Diamond_JE5_BE3.png/150px-Block_of_Diamond_JE5_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -578,7 +578,7 @@
         "transparent": false
     },
     "block_of_emerald": {
-        "name": "Block_of_Emerald",
+        "name": "Block of Emerald",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Emerald_JE4_BE3.png/150px-Block_of_Emerald_JE4_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -595,7 +595,7 @@
         "transparent": false
     },
     "block_of_gold": {
-        "name": "Block_of_Gold",
+        "name": "Block of Gold",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Gold_JE6_BE3.png/150px-Block_of_Gold_JE6_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -612,7 +612,7 @@
         "transparent": false
     },
     "block_of_iron": {
-        "name": "Block_of_Iron",
+        "name": "Block of Iron",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Iron_JE4_BE3.png/150px-Block_of_Iron_JE4_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -629,7 +629,7 @@
         "transparent": false
     },
     "block_of_lapis_lazuli": {
-        "name": "Block_of_Lapis_Lazuli",
+        "name": "Block of Lapis Lazuli",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Lapis_Lazuli_JE3_BE3.png/150px-Block_of_Lapis_Lazuli_JE3_BE3.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -646,7 +646,7 @@
         "transparent": false
     },
     "block_of_netherite": {
-        "name": "Block_of_Netherite",
+        "name": "Block of Netherite",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Netherite_JE1_BE1.png/150px-Block_of_Netherite_JE1_BE1.png",
         "blast_resistance": 1200.0,
         "fire_catch": false,
@@ -663,7 +663,7 @@
         "transparent": false
     },
     "block_of_quartz": {
-        "name": "Block_of_Quartz",
+        "name": "Block of Quartz",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Quartz_JE4_BE4.png/150px-Block_of_Quartz_JE4_BE4.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -680,7 +680,7 @@
         "transparent": false
     },
     "block_of_raw_copper": {
-        "name": "Block_of_Raw_Copper",
+        "name": "Block of Raw Copper",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Raw_Copper_JE2_BE2.png/150px-Block_of_Raw_Copper_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -697,7 +697,7 @@
         "transparent": false
     },
     "block_of_raw_gold": {
-        "name": "Block_of_Raw_Gold",
+        "name": "Block of Raw Gold",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Raw_Gold_JE3_BE2.png/150px-Block_of_Raw_Gold_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -714,7 +714,7 @@
         "transparent": false
     },
     "block_of_raw_iron": {
-        "name": "Block_of_Raw_Iron",
+        "name": "Block of Raw Iron",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Raw_Iron_JE3_BE2.png/150px-Block_of_Raw_Iron_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -731,7 +731,7 @@
         "transparent": false
     },
     "block_of_redstone": {
-        "name": "Block_of_Redstone",
+        "name": "Block of Redstone",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Redstone_JE2_BE2.png/150px-Block_of_Redstone_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -748,7 +748,7 @@
         "transparent": "Partial"
     },
     "block_of_resin": {
-        "name": "Block_of_Resin",
+        "name": "Block of Resin",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Resin_JE1_BE1.png/150px-Block_of_Resin_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -765,7 +765,7 @@
         "transparent": false
     },
     "block_of_stripped_bamboo": {
-        "name": "Block_of_Stripped_Bamboo",
+        "name": "Block of Stripped Bamboo",
         "image_url": "https://minecraft.wiki/images/thumb/Block_of_Stripped_Bamboo_%28UD%29_JE3_BE2.png/150px-Block_of_Stripped_Bamboo_%28UD%29_JE3_BE2.png",
         "blast_resistance": 2.0,
         "fire_catch": true,
@@ -782,7 +782,7 @@
         "transparent": false
     },
     "blue_ice": {
-        "name": "Blue_Ice",
+        "name": "Blue Ice",
         "image_url": "https://minecraft.wiki/images/thumb/Blue_Ice_JE1.png/150px-Blue_Ice_JE1.png",
         "blast_resistance": 2.8,
         "fire_catch": false,
@@ -799,7 +799,7 @@
         "transparent": false
     },
     "bone_block": {
-        "name": "Bone_Block",
+        "name": "Bone Block",
         "image_url": "https://minecraft.wiki/images/thumb/Bone_Block_%28UD%29_JE2_BE2.png/150px-Bone_Block_%28UD%29_JE2_BE2.png",
         "blast_resistance": 2.0,
         "fire_catch": false,
@@ -833,7 +833,7 @@
         "transparent": false
     },
     "brewing_stand": {
-        "name": "Brewing_Stand",
+        "name": "Brewing Stand",
         "image_url": "https://minecraft.wiki/images/thumb/Brewing_Stand_%28empty%29_JE10.png/150px-Brewing_Stand_%28empty%29_JE10.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -850,7 +850,7 @@
         "transparent": true
     },
     "brick_slab": {
-        "name": "Brick_Slab",
+        "name": "Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Brick_Slab_JE3_BE2.png/150px-Brick_Slab_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -867,7 +867,7 @@
         "transparent": "Partial"
     },
     "brick_stairs": {
-        "name": "Brick_Stairs",
+        "name": "Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Brick_Stairs_%28N%29_JE5_BE2.png/150px-Brick_Stairs_%28N%29_JE5_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -884,7 +884,7 @@
         "transparent": "Partial"
     },
     "brick_wall": {
-        "name": "Brick_Wall",
+        "name": "Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Brick_Wall_%28ewU%29_JE1.png/150px-Brick_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -918,7 +918,7 @@
         "transparent": false
     },
     "brown_mushroom": {
-        "name": "Brown_Mushroom",
+        "name": "Brown Mushroom",
         "image_url": "https://minecraft.wiki/images/thumb/Brown_Mushroom_JE9.png/150px-Brown_Mushroom_JE9.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -935,7 +935,7 @@
         "transparent": true
     },
     "budding_amethyst": {
-        "name": "Budding_Amethyst",
+        "name": "Budding Amethyst",
         "image_url": "https://minecraft.wiki/images/thumb/Budding_Amethyst_JE3_BE1.png/150px-Budding_Amethyst_JE3_BE1.png",
         "blast_resistance": 1.5,
         "fire_catch": false,
@@ -986,7 +986,7 @@
         "transparent": true
     },
     "cactus_flower": {
-        "name": "Cactus_Flower",
+        "name": "Cactus Flower",
         "image_url": "https://minecraft.wiki/images/thumb/Cactus_Flower_JE1_BE1.png/150px-Cactus_Flower_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -1037,7 +1037,7 @@
         "transparent": false
     },
     "calibrated_sculk_sensor": {
-        "name": "Calibrated_Sculk_Sensor",
+        "name": "Calibrated Sculk Sensor",
         "image_url": "https://minecraft.wiki/images/thumb/Calibrated_Sculk_Sensor_JE2.gif/150px-Calibrated_Sculk_Sensor_JE2.gif",
         "blast_resistance": 1.5,
         "fire_catch": false,
@@ -1105,7 +1105,7 @@
         "transparent": true
     },
     "cartography_table": {
-        "name": "Cartography_Table",
+        "name": "Cartography Table",
         "image_url": "https://minecraft.wiki/images/thumb/Cartography_Table_JE3_BE2.png/150px-Cartography_Table_JE3_BE2.png",
         "blast_resistance": 2.5,
         "fire_catch": true,
@@ -1122,7 +1122,7 @@
         "transparent": false
     },
     "carved_pumpkin": {
-        "name": "Carved_Pumpkin",
+        "name": "Carved Pumpkin",
         "image_url": "https://minecraft.wiki/images/thumb/Carved_Pumpkin_%28S%29_JE5.png/150px-Carved_Pumpkin_%28S%29_JE5.png",
         "blast_resistance": 1.0,
         "fire_catch": false,
@@ -1172,25 +1172,8 @@
         ],
         "transparent": true
     },
-    "chiseled_copper": {
-        "name": "Chiseled_Copper",
-        "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Copper_JE1_BE1.png/150px-Chiseled_Copper_JE1_BE1.png",
-        "blast_resistance": 6.0,
-        "fire_catch": false,
-        "flammable": false,
-        "hardness": 3.0,
-        "initial_release": "1.20.3",
-        "luminous": false,
-        "map_color": "COLOR_ORANGE",
-        "renewable": true,
-        "stackable": 64,
-        "tool": [
-            "Pickaxe"
-        ],
-        "transparent": false
-    },
     "chiseled_bookshelf": {
-        "name": "Chiseled_Bookshelf",
+        "name": "Chiseled Bookshelf",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Bookshelf_%28S_0%29_JE2.png/150px-Chiseled_Bookshelf_%28S_0%29_JE2.png",
         "blast_resistance": 1.5,
         "fire_catch": "Partial",
@@ -1207,7 +1190,7 @@
         "transparent": false
     },
     "chiseled_cinnabar": {
-        "name": "Chiseled_Cinnabar",
+        "name": "Chiseled Cinnabar",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Cinnabar_JE2_BE2.png/150px-Chiseled_Cinnabar_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1223,8 +1206,25 @@
         ],
         "transparent": false
     },
+    "chiseled_copper": {
+        "name": "Chiseled Copper",
+        "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Copper_JE1_BE1.png/150px-Chiseled_Copper_JE1_BE1.png",
+        "blast_resistance": 6.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 3.0,
+        "initial_release": "1.20.3",
+        "luminous": false,
+        "map_color": "COLOR_ORANGE",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Pickaxe"
+        ],
+        "transparent": false
+    },
     "chiseled_deepslate": {
-        "name": "Chiseled_Deepslate",
+        "name": "Chiseled Deepslate",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Deepslate_JE2_BE1.png/150px-Chiseled_Deepslate_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1241,7 +1241,7 @@
         "transparent": false
     },
     "chiseled_nether_bricks": {
-        "name": "Chiseled_Nether_Bricks",
+        "name": "Chiseled Nether Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Nether_Bricks_JE3_BE3.png/150px-Chiseled_Nether_Bricks_JE3_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1258,7 +1258,7 @@
         "transparent": false
     },
     "chiseled_polished_blackstone": {
-        "name": "Chiseled_Polished_Blackstone",
+        "name": "Chiseled Polished Blackstone",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Polished_Blackstone_JE1_BE1.png/150px-Chiseled_Polished_Blackstone_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1275,7 +1275,7 @@
         "transparent": false
     },
     "chiseled_quartz_block": {
-        "name": "Chiseled_Quartz_Block",
+        "name": "Chiseled Quartz Block",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Quartz_Block_%28UD%29_JE2_BE2.png/150px-Chiseled_Quartz_Block_%28UD%29_JE2_BE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -1292,7 +1292,7 @@
         "transparent": false
     },
     "chiseled_red_sandstone": {
-        "name": "Chiseled_Red_Sandstone",
+        "name": "Chiseled Red Sandstone",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Red_Sandstone_JE4_BE2.png/150px-Chiseled_Red_Sandstone_JE4_BE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -1309,7 +1309,7 @@
         "transparent": false
     },
     "chiseled_resin_bricks": {
-        "name": "Chiseled_Resin_Bricks",
+        "name": "Chiseled Resin Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Resin_Bricks_JE2_BE3.png/150px-Chiseled_Resin_Bricks_JE2_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1326,7 +1326,7 @@
         "transparent": false
     },
     "chiseled_sandstone": {
-        "name": "Chiseled_Sandstone",
+        "name": "Chiseled Sandstone",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Sandstone_JE5_BE2.png/150px-Chiseled_Sandstone_JE5_BE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -1343,7 +1343,7 @@
         "transparent": false
     },
     "chiseled_stone_bricks": {
-        "name": "Chiseled_Stone_Bricks",
+        "name": "Chiseled Stone Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Stone_Bricks_JE3_BE2.png/150px-Chiseled_Stone_Bricks_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1360,7 +1360,7 @@
         "transparent": false
     },
     "chiseled_sulfur": {
-        "name": "Chiseled_Sulfur",
+        "name": "Chiseled Sulfur",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Sulfur_JE2_BE2.png/150px-Chiseled_Sulfur_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1377,7 +1377,7 @@
         "transparent": false
     },
     "chiseled_tuff": {
-        "name": "Chiseled_Tuff",
+        "name": "Chiseled Tuff",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Tuff_JE1_BE1.png/150px-Chiseled_Tuff_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1394,7 +1394,7 @@
         "transparent": false
     },
     "chiseled_tuff_bricks": {
-        "name": "Chiseled_Tuff_Bricks",
+        "name": "Chiseled Tuff Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Chiseled_Tuff_Bricks_JE1_BE1.png/150px-Chiseled_Tuff_Bricks_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1411,7 +1411,7 @@
         "transparent": false
     },
     "chorus_flower": {
-        "name": "Chorus_Flower",
+        "name": "Chorus Flower",
         "image_url": "https://minecraft.wiki/images/thumb/Chorus_Flower_JE2_BE2.png/150px-Chorus_Flower_JE2_BE2.png",
         "blast_resistance": 0.4,
         "fire_catch": false,
@@ -1428,7 +1428,7 @@
         "transparent": true
     },
     "chorus_plant": {
-        "name": "Chorus_Plant",
+        "name": "Chorus Plant",
         "image_url": "https://minecraft.wiki/images/thumb/Chorus_Plant_JE2_BE2.png/150px-Chorus_Plant_JE2_BE2.png",
         "blast_resistance": 0.4,
         "fire_catch": false,
@@ -1462,7 +1462,7 @@
         "transparent": false
     },
     "cinnabar_brick_slab": {
-        "name": "Cinnabar_Brick_Slab",
+        "name": "Cinnabar Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Slab_JE2_BE2.png/150px-Cinnabar_Brick_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1479,7 +1479,7 @@
         "transparent": "Partial"
     },
     "cinnabar_brick_stairs": {
-        "name": "Cinnabar_Brick_Stairs",
+        "name": "Cinnabar Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Stairs_%28N%29_JE2_BE2.png/150px-Cinnabar_Brick_Stairs_%28N%29_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1496,7 +1496,7 @@
         "transparent": "Partial"
     },
     "cinnabar_brick_wall": {
-        "name": "Cinnabar_Brick_Wall",
+        "name": "Cinnabar Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Cinnabar_Brick_Wall_%28ewU%29_JE2.png/150px-Cinnabar_Brick_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1513,7 +1513,7 @@
         "transparent": true
     },
     "cinnabar_bricks": {
-        "name": "Cinnabar_Bricks",
+        "name": "Cinnabar Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Cinnabar_Bricks_JE2_BE2.png/150px-Cinnabar_Bricks_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1530,7 +1530,7 @@
         "transparent": false
     },
     "cinnabar_slab": {
-        "name": "Cinnabar_Slab",
+        "name": "Cinnabar Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Cinnabar_Slab_JE1_BE1.png/150px-Cinnabar_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1547,7 +1547,7 @@
         "transparent": "Partial"
     },
     "cinnabar_stairs": {
-        "name": "Cinnabar_Stairs",
+        "name": "Cinnabar Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Cinnabar_Stairs_%28N%29_JE1_BE1.png/150px-Cinnabar_Stairs_%28N%29_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1564,7 +1564,7 @@
         "transparent": "Partial"
     },
     "cinnabar_wall": {
-        "name": "Cinnabar_Wall",
+        "name": "Cinnabar Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Cinnabar_Wall_%28ewU%29_JE1.png/150px-Cinnabar_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1598,7 +1598,7 @@
         "transparent": false
     },
     "coal_ore": {
-        "name": "Coal_Ore",
+        "name": "Coal Ore",
         "image_url": "https://minecraft.wiki/images/thumb/Coal_Ore_JE5_BE4.png/150px-Coal_Ore_JE5_BE4.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -1615,7 +1615,7 @@
         "transparent": false
     },
     "coarse_dirt": {
-        "name": "Coarse_Dirt",
+        "name": "Coarse Dirt",
         "image_url": "https://minecraft.wiki/images/thumb/Coarse_Dirt.png/150px-Coarse_Dirt.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -1632,7 +1632,7 @@
         "transparent": false
     },
     "cobbled_deepslate": {
-        "name": "Cobbled_Deepslate",
+        "name": "Cobbled Deepslate",
         "image_url": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate.png/150px-Cobbled_Deepslate.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1649,7 +1649,7 @@
         "transparent": false
     },
     "cobbled_deepslate_slab": {
-        "name": "Cobbled_Deepslate_Slab",
+        "name": "Cobbled Deepslate Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate_Slab_JE3_BE1.png/150px-Cobbled_Deepslate_Slab_JE3_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1666,7 +1666,7 @@
         "transparent": "Partial"
     },
     "cobbled_deepslate_stairs": {
-        "name": "Cobbled_Deepslate_Stairs",
+        "name": "Cobbled Deepslate Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate_Stairs_JE3_BE1.png/150px-Cobbled_Deepslate_Stairs_JE3_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1683,7 +1683,7 @@
         "transparent": "Partial"
     },
     "cobbled_deepslate_wall": {
-        "name": "Cobbled_Deepslate_Wall",
+        "name": "Cobbled Deepslate Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Cobbled_Deepslate_Wall_%28ewU%29_JE3.png/150px-Cobbled_Deepslate_Wall_%28ewU%29_JE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1717,7 +1717,7 @@
         "transparent": false
     },
     "cobblestone_slab": {
-        "name": "Cobblestone_Slab",
+        "name": "Cobblestone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Cobblestone_Slab_JE4_BE3.png/150px-Cobblestone_Slab_JE4_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1734,7 +1734,7 @@
         "transparent": "Partial"
     },
     "cobblestone_stairs": {
-        "name": "Cobblestone_Stairs",
+        "name": "Cobblestone Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Cobblestone_Stairs_%28N%29_JE6_BE6.png/150px-Cobblestone_Stairs_%28N%29_JE6_BE6.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1751,7 +1751,7 @@
         "transparent": "Partial"
     },
     "cobblestone_wall": {
-        "name": "Cobblestone_Wall",
+        "name": "Cobblestone Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Cobblestone_Wall_%28ewU%29_JE4.png/150px-Cobblestone_Wall_%28ewU%29_JE4.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1802,7 +1802,7 @@
         "transparent": true
     },
     "command_block": {
-        "name": "Command_Block",
+        "name": "Command Block",
         "image_url": "https://minecraft.wiki/images/thumb/Impulse_Command_Block.gif/150px-Impulse_Command_Block.gif",
         "blast_resistance": 3600000.0,
         "fire_catch": false,
@@ -1887,7 +1887,7 @@
         "transparent": true
     },
     "copper_bars": {
-        "name": "Copper_Bars",
+        "name": "Copper Bars",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Bars_%28EW%29_JE1.png/150px-Copper_Bars_%28EW%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1904,7 +1904,7 @@
         "transparent": true
     },
     "copper_bulb": {
-        "name": "Copper_Bulb",
+        "name": "Copper Bulb",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Bulb_JE1_BE1.png/150px-Copper_Bulb_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1921,7 +1921,7 @@
         "transparent": false
     },
     "copper_chain": {
-        "name": "Copper_Chain",
+        "name": "Copper Chain",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Chain_%28UD%29_JE1.png/150px-Copper_Chain_%28UD%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1938,7 +1938,7 @@
         "transparent": true
     },
     "copper_chest": {
-        "name": "Copper_Chest",
+        "name": "Copper Chest",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Chest_%28S%29_JE2.gif/150px-Copper_Chest_%28S%29_JE2.gif",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1955,7 +1955,7 @@
         "transparent": true
     },
     "copper_door": {
-        "name": "Copper_Door",
+        "name": "Copper Door",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Door_JE3_BE3.png/150px-Copper_Door_JE3_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1972,7 +1972,7 @@
         "transparent": "Partial"
     },
     "copper_golem_statue": {
-        "name": "Copper_Golem_Statue",
+        "name": "Copper Golem Statue",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Golem_Statue_BE1.png/150px-Copper_Golem_Statue_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -1989,7 +1989,7 @@
         "transparent": true
     },
     "copper_grate": {
-        "name": "Copper_Grate",
+        "name": "Copper Grate",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Grate_JE1_BE1.png/150px-Copper_Grate_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2006,7 +2006,7 @@
         "transparent": true
     },
     "copper_lantern": {
-        "name": "Copper_Lantern",
+        "name": "Copper Lantern",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Lantern_JE2.gif/150px-Copper_Lantern_JE2.gif",
         "blast_resistance": 3.5,
         "fire_catch": false,
@@ -2023,7 +2023,7 @@
         "transparent": true
     },
     "copper_ore": {
-        "name": "Copper_Ore",
+        "name": "Copper Ore",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Ore_JE2_BE2.png/150px-Copper_Ore_JE2_BE2.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -2040,7 +2040,7 @@
         "transparent": false
     },
     "copper_torch": {
-        "name": "Copper_Torch",
+        "name": "Copper Torch",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Torch_JE2.gif/150px-Copper_Torch_JE2.gif",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -2057,7 +2057,7 @@
         "transparent": true
     },
     "copper_trapdoor": {
-        "name": "Copper_Trapdoor",
+        "name": "Copper Trapdoor",
         "image_url": "https://minecraft.wiki/images/thumb/Copper_Trapdoor_JE2_BE2.png/150px-Copper_Trapdoor_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2125,7 +2125,7 @@
         "transparent": true
     },
     "cracked_deepslate_bricks": {
-        "name": "Cracked_Deepslate_Bricks",
+        "name": "Cracked Deepslate Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Cracked_Deepslate_Bricks_JE1_BE1.png/150px-Cracked_Deepslate_Bricks_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2142,7 +2142,7 @@
         "transparent": false
     },
     "cracked_deepslate_tiles": {
-        "name": "Cracked_Deepslate_Tiles",
+        "name": "Cracked Deepslate Tiles",
         "image_url": "https://minecraft.wiki/images/thumb/Cracked_Deepslate_Tiles_JE1_BE1.png/150px-Cracked_Deepslate_Tiles_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2159,7 +2159,7 @@
         "transparent": false
     },
     "cracked_nether_bricks": {
-        "name": "Cracked_Nether_Bricks",
+        "name": "Cracked Nether Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Cracked_Nether_Bricks_JE2_BE2.png/150px-Cracked_Nether_Bricks_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2176,7 +2176,7 @@
         "transparent": false
     },
     "cracked_polished_blackstone_bricks": {
-        "name": "Cracked_Polished_Blackstone_Bricks",
+        "name": "Cracked Polished Blackstone Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Cracked_Polished_Blackstone_Bricks_JE2_BE2.png/150px-Cracked_Polished_Blackstone_Bricks_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2193,7 +2193,7 @@
         "transparent": false
     },
     "cracked_stone_bricks": {
-        "name": "Cracked_Stone_Bricks",
+        "name": "Cracked Stone Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Cracked_Stone_Bricks_JE3_BE2.png/150px-Cracked_Stone_Bricks_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2227,7 +2227,7 @@
         "transparent": false
     },
     "crafting_table": {
-        "name": "Crafting_Table",
+        "name": "Crafting Table",
         "image_url": "https://minecraft.wiki/images/thumb/Crafting_Table_JE4_BE3.png/150px-Crafting_Table_JE4_BE3.png",
         "blast_resistance": 2.5,
         "fire_catch": true,
@@ -2244,7 +2244,7 @@
         "transparent": false
     },
     "creaking_heart": {
-        "name": "Creaking_Heart",
+        "name": "Creaking Heart",
         "image_url": "https://minecraft.wiki/images/thumb/Creaking_Heart_JE2_BE2.png/150px-Creaking_Heart_JE2_BE2.png",
         "blast_resistance": 10.0,
         "fire_catch": false,
@@ -2261,7 +2261,7 @@
         "transparent": false
     },
     "creeper_head": {
-        "name": "Creeper_Head",
+        "name": "Creeper Head",
         "image_url": "https://minecraft.wiki/images/thumb/Creeper_Head_%28S%29_JE1.png/150px-Creeper_Head_%28S%29_JE1.png",
         "blast_resistance": 1.0,
         "fire_catch": false,
@@ -2278,7 +2278,7 @@
         "transparent": true
     },
     "crimson_fungus": {
-        "name": "Crimson_Fungus",
+        "name": "Crimson Fungus",
         "image_url": "https://minecraft.wiki/images/thumb/Crimson_Fungus_JE1_BE1.png/150px-Crimson_Fungus_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -2295,7 +2295,7 @@
         "transparent": true
     },
     "crimson_nylium": {
-        "name": "Crimson_Nylium",
+        "name": "Crimson Nylium",
         "image_url": "https://minecraft.wiki/images/thumb/Crimson_Nylium_JE1_BE1.png/150px-Crimson_Nylium_JE1_BE1.png",
         "blast_resistance": 0.4,
         "fire_catch": false,
@@ -2312,7 +2312,7 @@
         "transparent": false
     },
     "crimson_roots": {
-        "name": "Crimson_Roots",
+        "name": "Crimson Roots",
         "image_url": "https://minecraft.wiki/images/thumb/Crimson_Roots_JE1_BE1.png/150px-Crimson_Roots_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": true,
@@ -2329,7 +2329,7 @@
         "transparent": true
     },
     "crying_obsidian": {
-        "name": "Crying_Obsidian",
+        "name": "Crying Obsidian",
         "image_url": "https://minecraft.wiki/images/thumb/Crying_Obsidian_JE1_BE1.png/150px-Crying_Obsidian_JE1_BE1.png",
         "blast_resistance": 1200.0,
         "fire_catch": false,
@@ -2346,7 +2346,7 @@
         "transparent": false
     },
     "cut_copper": {
-        "name": "Cut_Copper",
+        "name": "Cut Copper",
         "image_url": "https://minecraft.wiki/images/thumb/Cut_Copper_JE2_BE1.png/150px-Cut_Copper_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2363,7 +2363,7 @@
         "transparent": false
     },
     "cut_copper_slab": {
-        "name": "Cut_Copper_Slab",
+        "name": "Cut Copper Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Cut_Copper_Slab_JE2_BE1.png/150px-Cut_Copper_Slab_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2380,7 +2380,7 @@
         "transparent": "Partial"
     },
     "cut_copper_stairs": {
-        "name": "Cut_Copper_Stairs",
+        "name": "Cut Copper Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Cut_Copper_Stairs_%28N%29_JE2_BE1.png/150px-Cut_Copper_Stairs_%28N%29_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2397,7 +2397,7 @@
         "transparent": "Partial"
     },
     "cut_red_sandstone": {
-        "name": "Cut_Red_Sandstone",
+        "name": "Cut Red Sandstone",
         "image_url": "https://minecraft.wiki/images/thumb/Cut_Red_Sandstone_JE4_BE2.png/150px-Cut_Red_Sandstone_JE4_BE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -2414,7 +2414,7 @@
         "transparent": false
     },
     "cut_red_sandstone_slab": {
-        "name": "Cut_Red_Sandstone_Slab",
+        "name": "Cut Red Sandstone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Cut_Red_Sandstone_Slab_JE1_BE1.png/150px-Cut_Red_Sandstone_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2431,7 +2431,7 @@
         "transparent": "Partial"
     },
     "cut_sandstone": {
-        "name": "Cut_Sandstone",
+        "name": "Cut Sandstone",
         "image_url": "https://minecraft.wiki/images/thumb/Cut_Sandstone_JE5_BE2.png/150px-Cut_Sandstone_JE5_BE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -2448,7 +2448,7 @@
         "transparent": false
     },
     "cut_sandstone_slab": {
-        "name": "Cut_Sandstone_Slab",
+        "name": "Cut Sandstone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Cut_Sandstone_Slab_JE1_BE1.png/150px-Cut_Sandstone_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2482,7 +2482,7 @@
         "transparent": true
     },
     "dark_prismarine": {
-        "name": "Dark_Prismarine",
+        "name": "Dark Prismarine",
         "image_url": "https://minecraft.wiki/images/thumb/Dark_Prismarine_JE2_BE2.png/150px-Dark_Prismarine_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2499,7 +2499,7 @@
         "transparent": false
     },
     "dark_prismarine_slab": {
-        "name": "Dark_Prismarine_Slab",
+        "name": "Dark Prismarine Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Dark_Prismarine_Slab_JE2_BE2.png/150px-Dark_Prismarine_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2516,7 +2516,7 @@
         "transparent": "Partial"
     },
     "dark_prismarine_stairs": {
-        "name": "Dark_Prismarine_Stairs",
+        "name": "Dark Prismarine Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Dark_Prismarine_Stairs_%28N%29_JE2_BE2.png/150px-Dark_Prismarine_Stairs_%28N%29_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2533,7 +2533,7 @@
         "transparent": "Partial"
     },
     "daylight_detector": {
-        "name": "Daylight_Detector",
+        "name": "Daylight Detector",
         "image_url": "https://minecraft.wiki/images/thumb/Daylight_Detector_JE1_BE1.png/150px-Daylight_Detector_JE1_BE1.png",
         "blast_resistance": 0.2,
         "fire_catch": true,
@@ -2601,7 +2601,7 @@
         "transparent": true
     },
     "dead_bush": {
-        "name": "Dead_Bush",
+        "name": "Dead Bush",
         "image_url": "https://minecraft.wiki/images/thumb/Dead_Bush_JE6_BE4.png/150px-Dead_Bush_JE6_BE4.png",
         "blast_resistance": 0.0,
         "fire_catch": true,
@@ -2618,7 +2618,7 @@
         "transparent": true
     },
     "decorated_pot": {
-        "name": "Decorated_Pot",
+        "name": "Decorated Pot",
         "image_url": "https://minecraft.wiki/images/thumb/Decorated_Pot_%28N%29_JE2_BE2.png/150px-Decorated_Pot_%28N%29_JE2_BE2.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -2652,7 +2652,7 @@
         "transparent": false
     },
     "deepslate_brick_slab": {
-        "name": "Deepslate_Brick_Slab",
+        "name": "Deepslate Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Deepslate_Brick_Slab_JE2.png/150px-Deepslate_Brick_Slab_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2669,7 +2669,7 @@
         "transparent": "Partial"
     },
     "deepslate_brick_stairs": {
-        "name": "Deepslate_Brick_Stairs",
+        "name": "Deepslate Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Deepslate_Brick_Stairs_JE2.png/150px-Deepslate_Brick_Stairs_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2686,7 +2686,7 @@
         "transparent": "Partial"
     },
     "deepslate_brick_wall": {
-        "name": "Deepslate_Brick_Wall",
+        "name": "Deepslate Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Deepslate_Brick_Wall_%28ewU%29_JE2.png/150px-Deepslate_Brick_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2703,7 +2703,7 @@
         "transparent": true
     },
     "deepslate_bricks": {
-        "name": "Deepslate_Bricks",
+        "name": "Deepslate Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Deepslate_Bricks_JE2_BE1.png/150px-Deepslate_Bricks_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2720,7 +2720,7 @@
         "transparent": false
     },
     "deepslate_tile_slab": {
-        "name": "Deepslate_Tile_Slab",
+        "name": "Deepslate Tile Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Deepslate_Tile_Slab_JE2.png/150px-Deepslate_Tile_Slab_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2737,7 +2737,7 @@
         "transparent": "Partial"
     },
     "deepslate_tile_stairs": {
-        "name": "Deepslate_Tile_Stairs",
+        "name": "Deepslate Tile Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Deepslate_Tile_Stairs_JE2_BE1.png/150px-Deepslate_Tile_Stairs_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2754,7 +2754,7 @@
         "transparent": "Partial"
     },
     "deepslate_tile_wall": {
-        "name": "Deepslate_Tile_Wall",
+        "name": "Deepslate Tile Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Deepslate_Tile_Wall_%28ewU%29_JE2.png/150px-Deepslate_Tile_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2771,7 +2771,7 @@
         "transparent": true
     },
     "deepslate_tiles": {
-        "name": "Deepslate_Tiles",
+        "name": "Deepslate Tiles",
         "image_url": "https://minecraft.wiki/images/thumb/Deepslate_Tiles_JE2_BE1.png/150px-Deepslate_Tiles_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2788,7 +2788,7 @@
         "transparent": false
     },
     "detector_rail": {
-        "name": "Detector_Rail",
+        "name": "Detector Rail",
         "image_url": "https://minecraft.wiki/images/thumb/Detector_Rail_%28NS%29_JE2_BE2.png/150px-Detector_Rail_%28NS%29_JE2_BE2.png",
         "blast_resistance": 0.7,
         "fire_catch": false,
@@ -2805,7 +2805,7 @@
         "transparent": true
     },
     "diamond_ore": {
-        "name": "Diamond_Ore",
+        "name": "Diamond Ore",
         "image_url": "https://minecraft.wiki/images/thumb/Diamond_Ore_JE5_BE5.png/150px-Diamond_Ore_JE5_BE5.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -2839,7 +2839,7 @@
         "transparent": false
     },
     "diorite_slab": {
-        "name": "Diorite_Slab",
+        "name": "Diorite Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Diorite_Slab_JE3_BE2.png/150px-Diorite_Slab_JE3_BE2.png",
         "blast_resistance": 200.0,
         "fire_catch": false,
@@ -2856,7 +2856,7 @@
         "transparent": "Partial"
     },
     "diorite_stairs": {
-        "name": "Diorite_Stairs",
+        "name": "Diorite Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Diorite_Stairs_%28N%29_JE3_BE2.png/150px-Diorite_Stairs_%28N%29_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2873,7 +2873,7 @@
         "transparent": "Partial"
     },
     "diorite_wall": {
-        "name": "Diorite_Wall",
+        "name": "Diorite Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Diorite_Wall_%28ewU%29_JE3.png/150px-Diorite_Wall_%28ewU%29_JE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2907,7 +2907,7 @@
         "transparent": false
     },
     "dirt_path": {
-        "name": "Dirt_Path",
+        "name": "Dirt Path",
         "image_url": "https://minecraft.wiki/images/thumb/Dirt_Path_JE4_BE3.png/150px-Dirt_Path_JE4_BE3.png",
         "blast_resistance": 0.65,
         "fire_catch": false,
@@ -2940,25 +2940,8 @@
         ],
         "transparent": false
     },
-    "dragon_head": {
-        "name": "Dragon_Head",
-        "image_url": "https://minecraft.wiki/images/thumb/Dragon_Head_%28S%29_JE1.png/150px-Dragon_Head_%28S%29_JE1.png",
-        "blast_resistance": 1.0,
-        "fire_catch": false,
-        "flammable": false,
-        "hardness": 1.0,
-        "initial_release": "1.9",
-        "luminous": false,
-        "map_color": "NONE",
-        "renewable": false,
-        "stackable": 64,
-        "tool": [
-            "Any"
-        ],
-        "transparent": true
-    },
     "dragon_egg": {
-        "name": "Dragon_Egg",
+        "name": "Dragon Egg",
         "image_url": "https://minecraft.wiki/images/thumb/Dragon_Egg_JE5.png/150px-Dragon_Egg_JE5.png",
         "blast_resistance": 9.0,
         "fire_catch": false,
@@ -2974,8 +2957,25 @@
         ],
         "transparent": true
     },
+    "dragon_head": {
+        "name": "Dragon Head",
+        "image_url": "https://minecraft.wiki/images/thumb/Dragon_Head_%28S%29_JE1.png/150px-Dragon_Head_%28S%29_JE1.png",
+        "blast_resistance": 1.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 1.0,
+        "initial_release": "1.9",
+        "luminous": false,
+        "map_color": "NONE",
+        "renewable": false,
+        "stackable": 64,
+        "tool": [
+            "Any"
+        ],
+        "transparent": true
+    },
     "dried_ghast": {
-        "name": "Dried_Ghast",
+        "name": "Dried Ghast",
         "image_url": "https://minecraft.wiki/images/thumb/Dried_Ghast_%28S%29_JE1_BE1.png/150px-Dried_Ghast_%28S%29_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -2992,7 +2992,7 @@
         "transparent": true
     },
     "dried_kelp_block": {
-        "name": "Dried_Kelp_Block",
+        "name": "Dried Kelp Block",
         "image_url": "https://minecraft.wiki/images/thumb/Dried_Kelp_Block_JE1_BE2.png/150px-Dried_Kelp_Block_JE1_BE2.png",
         "blast_resistance": 2.5,
         "fire_catch": false,
@@ -3009,7 +3009,7 @@
         "transparent": false
     },
     "dripstone_block": {
-        "name": "Dripstone_Block",
+        "name": "Dripstone Block",
         "image_url": "https://minecraft.wiki/images/thumb/Dripstone_Block_JE1_BE1.png/150px-Dripstone_Block_JE1_BE1.png",
         "blast_resistance": 1.0,
         "fire_catch": false,
@@ -3043,7 +3043,7 @@
         "transparent": false
     },
     "emerald_ore": {
-        "name": "Emerald_Ore",
+        "name": "Emerald Ore",
         "image_url": "https://minecraft.wiki/images/thumb/Emerald_Ore_JE4_BE3.png/150px-Emerald_Ore_JE4_BE3.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -3060,7 +3060,7 @@
         "transparent": false
     },
     "enchanting_table": {
-        "name": "Enchanting_Table",
+        "name": "Enchanting Table",
         "image_url": "https://minecraft.wiki/images/thumb/Enchanting_Table.gif/150px-Enchanting_Table.gif",
         "blast_resistance": 1200.0,
         "fire_catch": false,
@@ -3077,7 +3077,7 @@
         "transparent": true
     },
     "end_portal_frame": {
-        "name": "End_Portal_Frame",
+        "name": "End Portal Frame",
         "image_url": "https://minecraft.wiki/images/thumb/End_Portal_Frame_%28S%29_JE7.png/150px-End_Portal_Frame_%28S%29_JE7.png",
         "blast_resistance": 3600000.0,
         "fire_catch": false,
@@ -3094,7 +3094,7 @@
         "transparent": "Partial"
     },
     "end_rod": {
-        "name": "End_Rod",
+        "name": "End Rod",
         "image_url": "https://minecraft.wiki/images/thumb/End_Rod_%28U%29_JE2_BE2.png/150px-End_Rod_%28U%29_JE2_BE2.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -3111,7 +3111,7 @@
         "transparent": true
     },
     "end_stone": {
-        "name": "End_Stone",
+        "name": "End Stone",
         "image_url": "https://minecraft.wiki/images/thumb/End_Stone_JE3_BE2.png/150px-End_Stone_JE3_BE2.png",
         "blast_resistance": 9.0,
         "fire_catch": false,
@@ -3128,7 +3128,7 @@
         "transparent": false
     },
     "end_stone_brick_slab": {
-        "name": "End_Stone_Brick_Slab",
+        "name": "End Stone Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/End_Stone_Brick_Slab_JE1_BE2.png/150px-End_Stone_Brick_Slab_JE1_BE2.png",
         "blast_resistance": 9.0,
         "fire_catch": false,
@@ -3145,7 +3145,7 @@
         "transparent": "Partial"
     },
     "end_stone_brick_stairs": {
-        "name": "End_Stone_Brick_Stairs",
+        "name": "End Stone Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/End_Stone_Brick_Stairs_%28N%29_JE1_BE2.png/150px-End_Stone_Brick_Stairs_%28N%29_JE1_BE2.png",
         "blast_resistance": 9.0,
         "fire_catch": false,
@@ -3162,7 +3162,7 @@
         "transparent": "Partial"
     },
     "end_stone_brick_wall": {
-        "name": "End_Stone_Brick_Wall",
+        "name": "End Stone Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/End_Stone_Brick_Wall_%28ewU%29_JE1.png/150px-End_Stone_Brick_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 9.0,
         "fire_catch": false,
@@ -3179,7 +3179,7 @@
         "transparent": true
     },
     "end_stone_bricks": {
-        "name": "End_Stone_Bricks",
+        "name": "End Stone Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/End_Stone_Bricks_JE2_BE2.png/150px-End_Stone_Bricks_JE2_BE2.png",
         "blast_resistance": 9.0,
         "fire_catch": false,
@@ -3196,7 +3196,7 @@
         "transparent": false
     },
     "ender_chest": {
-        "name": "Ender_Chest",
+        "name": "Ender Chest",
         "image_url": "https://minecraft.wiki/images/thumb/Ender_Chest_JE2_BE2.gif/150px-Ender_Chest_JE2_BE2.gif",
         "blast_resistance": 600.0,
         "fire_catch": false,
@@ -3214,7 +3214,7 @@
     },
     "eyeblossom": {
         "name": "Eyeblossom",
-        "image_url": "https://minecraft.wiki/images/thumb/Closed_Eyeblossom_JE1.png/150px-Closed_Eyeblossom_JE1.png",
+        "image_url": "https://minecraft.wiki/images/Open_Eyeblossom_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
         "flammable": true,
@@ -3298,7 +3298,7 @@
         "transparent": true
     },
     "firefly_bush": {
-        "name": "Firefly_Bush",
+        "name": "Firefly Bush",
         "image_url": "https://minecraft.wiki/images/thumb/Firefly_Bush_JE1.gif/150px-Firefly_Bush_JE1.gif",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -3315,7 +3315,7 @@
         "transparent": true
     },
     "fletching_table": {
-        "name": "Fletching_Table",
+        "name": "Fletching Table",
         "image_url": "https://minecraft.wiki/images/thumb/Fletching_Table_JE2_BE1.png/150px-Fletching_Table_JE2_BE1.png",
         "blast_resistance": 2.5,
         "fire_catch": true,
@@ -3332,7 +3332,7 @@
         "transparent": false
     },
     "flower_pot": {
-        "name": "Flower_Pot",
+        "name": "Flower Pot",
         "image_url": "https://minecraft.wiki/images/thumb/Flower_Pot_JE3.png/150px-Flower_Pot_JE3.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -3349,7 +3349,7 @@
         "transparent": true
     },
     "flowering_azalea": {
-        "name": "Flowering_Azalea",
+        "name": "Flowering Azalea",
         "image_url": "https://minecraft.wiki/images/thumb/Flowering_Azalea_JE2_BE2.png/150px-Flowering_Azalea_JE2_BE2.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -3417,7 +3417,7 @@
         "transparent": "Partial"
     },
     "gilded_blackstone": {
-        "name": "Gilded_Blackstone",
+        "name": "Gilded Blackstone",
         "image_url": "https://minecraft.wiki/images/thumb/Gilded_Blackstone_JE2_BE2.png/150px-Gilded_Blackstone_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -3451,7 +3451,7 @@
         "transparent": true
     },
     "glass_pane": {
-        "name": "Glass_Pane",
+        "name": "Glass Pane",
         "image_url": "https://minecraft.wiki/images/thumb/Glass_Pane_%28EW%29_JE12.png/150px-Glass_Pane_%28EW%29_JE12.png",
         "blast_resistance": 0.3,
         "fire_catch": false,
@@ -3502,7 +3502,7 @@
         "transparent": true
     },
     "glow_lichen": {
-        "name": "Glow_Lichen",
+        "name": "Glow Lichen",
         "image_url": "https://minecraft.wiki/images/thumb/Glow_Lichen_%28D%29_JE2.png/150px-Glow_Lichen_%28D%29_JE2.png",
         "blast_resistance": 0.2,
         "fire_catch": true,
@@ -3536,7 +3536,7 @@
         "transparent": true
     },
     "gold_ore": {
-        "name": "Gold_Ore",
+        "name": "Gold Ore",
         "image_url": "https://minecraft.wiki/images/thumb/Gold_Ore_JE7_BE4.png/150px-Gold_Ore_JE7_BE4.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -3553,7 +3553,7 @@
         "transparent": false
     },
     "golden_dandelion": {
-        "name": "Golden_Dandelion",
+        "name": "Golden Dandelion",
         "image_url": "https://minecraft.wiki/images/thumb/Golden_Dandelion_JE1_BE1.png/150px-Golden_Dandelion_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -3587,7 +3587,7 @@
         "transparent": false
     },
     "granite_slab": {
-        "name": "Granite_Slab",
+        "name": "Granite Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Granite_Slab_JE1_BE1.png/150px-Granite_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -3604,7 +3604,7 @@
         "transparent": "Partial"
     },
     "granite_stairs": {
-        "name": "Granite_Stairs",
+        "name": "Granite Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Granite_Stairs_%28N%29_JE1_BE1.png/150px-Granite_Stairs_%28N%29_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -3621,7 +3621,7 @@
         "transparent": "Partial"
     },
     "granite_wall": {
-        "name": "Granite_Wall",
+        "name": "Granite Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Granite_Wall_%28ewU%29_JE1.png/150px-Granite_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -3638,7 +3638,7 @@
         "transparent": true
     },
     "grass_block": {
-        "name": "Grass_Block",
+        "name": "Grass Block",
         "image_url": "https://minecraft.wiki/images/thumb/Grass_Block_JE7_BE6.png/150px-Grass_Block_JE7_BE6.png",
         "blast_resistance": 0.6,
         "fire_catch": false,
@@ -3706,7 +3706,7 @@
         "transparent": true
     },
     "hanging_roots": {
-        "name": "Hanging_Roots",
+        "name": "Hanging Roots",
         "image_url": "https://minecraft.wiki/images/thumb/Hanging_Roots_JE2_BE2.png/150px-Hanging_Roots_JE2_BE2.png",
         "blast_resistance": 0.0,
         "fire_catch": true,
@@ -3723,7 +3723,7 @@
         "transparent": true
     },
     "hay_bale": {
-        "name": "Hay_Bale",
+        "name": "Hay Bale",
         "image_url": "https://minecraft.wiki/images/thumb/Hay_Bale_%28UD%29_JE2_BE2.png/150px-Hay_Bale_%28UD%29_JE2_BE2.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -3740,7 +3740,7 @@
         "transparent": false
     },
     "heavy_core": {
-        "name": "Heavy_Core",
+        "name": "Heavy Core",
         "image_url": "https://minecraft.wiki/images/thumb/Heavy_Core_JE1_BE1.png/150px-Heavy_Core_JE1_BE1.png",
         "blast_resistance": 1200.0,
         "fire_catch": false,
@@ -3757,7 +3757,7 @@
         "transparent": true
     },
     "heavy_weighted_pressure_plate": {
-        "name": "Heavy_Weighted_Pressure_Plate",
+        "name": "Heavy Weighted Pressure Plate",
         "image_url": "https://minecraft.wiki/images/thumb/Heavy_Weighted_Pressure_Plate_JE2_BE2.png/150px-Heavy_Weighted_Pressure_Plate_JE2_BE2.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -3774,7 +3774,7 @@
         "transparent": true
     },
     "honey_block": {
-        "name": "Honey_Block",
+        "name": "Honey Block",
         "image_url": "https://minecraft.wiki/images/thumb/Honey_Block_JE1_BE2.png/150px-Honey_Block_JE1_BE2.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -3791,7 +3791,7 @@
         "transparent": "Partial"
     },
     "honeycomb_block": {
-        "name": "Honeycomb_Block",
+        "name": "Honeycomb Block",
         "image_url": "https://minecraft.wiki/images/thumb/Honeycomb_Block_JE1_BE1.png/150px-Honeycomb_Block_JE1_BE1.png",
         "blast_resistance": 0.6,
         "fire_catch": false,
@@ -3858,25 +3858,8 @@
         ],
         "transparent": false
     },
-    "iron_ore": {
-        "name": "Iron_Ore",
-        "image_url": "https://minecraft.wiki/images/thumb/Iron_Ore_JE6_BE4.png/150px-Iron_Ore_JE6_BE4.png",
-        "blast_resistance": 3.0,
-        "fire_catch": false,
-        "flammable": false,
-        "hardness": 3.0,
-        "initial_release": "pre-alpha",
-        "luminous": false,
-        "map_color": "STONE",
-        "renewable": false,
-        "stackable": 64,
-        "tool": [
-            "Pickaxe"
-        ],
-        "transparent": false
-    },
     "iron_bars": {
-        "name": "Iron_Bars",
+        "name": "Iron Bars",
         "image_url": "https://minecraft.wiki/images/thumb/Iron_Bars_%28EW%29_JE9.png/150px-Iron_Bars_%28EW%29_JE9.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -3893,7 +3876,7 @@
         "transparent": true
     },
     "iron_chain": {
-        "name": "Iron_Chain",
+        "name": "Iron Chain",
         "image_url": "https://minecraft.wiki/images/thumb/Iron_Chain_%28UD%29_JE2.png/150px-Iron_Chain_%28UD%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -3910,7 +3893,7 @@
         "transparent": true
     },
     "iron_door": {
-        "name": "Iron_Door",
+        "name": "Iron Door",
         "image_url": "https://minecraft.wiki/images/thumb/Iron_Door_JE5.png/150px-Iron_Door_JE5.png",
         "blast_resistance": 5.0,
         "fire_catch": false,
@@ -3926,8 +3909,25 @@
         ],
         "transparent": "Partial"
     },
+    "iron_ore": {
+        "name": "Iron Ore",
+        "image_url": "https://minecraft.wiki/images/thumb/Iron_Ore_JE6_BE4.png/150px-Iron_Ore_JE6_BE4.png",
+        "blast_resistance": 3.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 3.0,
+        "initial_release": "pre-alpha",
+        "luminous": false,
+        "map_color": "STONE",
+        "renewable": false,
+        "stackable": 64,
+        "tool": [
+            "Pickaxe"
+        ],
+        "transparent": false
+    },
     "iron_trapdoor": {
-        "name": "Iron_Trapdoor",
+        "name": "Iron Trapdoor",
         "image_url": "https://minecraft.wiki/images/thumb/Iron_Trapdoor_JE3_BE2.png/150px-Iron_Trapdoor_JE3_BE2.png",
         "blast_resistance": 5.0,
         "fire_catch": false,
@@ -3944,7 +3944,7 @@
         "transparent": true
     },
     "jack_o'lantern": {
-        "name": "Jack_o'Lantern",
+        "name": "Jack o'Lantern",
         "image_url": "https://minecraft.wiki/images/thumb/Jack_o%27Lantern_%28S%29_JE4.png/150px-Jack_o%27Lantern_%28S%29_JE4.png",
         "blast_resistance": 1.0,
         "fire_catch": false,
@@ -3961,7 +3961,7 @@
         "transparent": "Partial"
     },
     "jigsaw_block": {
-        "name": "Jigsaw_Block",
+        "name": "Jigsaw Block",
         "image_url": "https://minecraft.wiki/images/thumb/Jigsaw_Block_%28S%29_JE3_BE2.png/150px-Jigsaw_Block_%28S%29_JE3_BE2.png",
         "blast_resistance": 3600000.0,
         "fire_catch": false,
@@ -4013,7 +4013,7 @@
     },
     "ladder": {
         "name": "Ladder",
-        "image_url": "https://minecraft.wiki/images/thumb/Ladder_%28S%29_JE4.png/150px-Ladder_%28S%29_JE4.png",
+        "image_url": "https://minecraft.wiki/images/Ladder_%28texture%29_JE3_BE2.png",
         "blast_resistance": 0.4,
         "fire_catch": false,
         "flammable": false,
@@ -4046,7 +4046,7 @@
         "transparent": true
     },
     "lapis_lazuli_ore": {
-        "name": "Lapis_Lazuli_Ore",
+        "name": "Lapis Lazuli Ore",
         "image_url": "https://minecraft.wiki/images/thumb/Lapis_Lazuli_Ore_JE4_BE4.png/150px-Lapis_Lazuli_Ore_JE4_BE4.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -4063,8 +4063,8 @@
         "transparent": false
     },
     "leaf_litter": {
-        "name": "Leaf_Litter",
-        "image_url": "https://minecraft.wiki/images/thumb/Leaf_Litter_1_%28S%29_JE2_BE2.png/150px-Leaf_Litter_1_%28S%29_JE2_BE2.png",
+        "name": "Leaf Litter",
+        "image_url": "https://minecraft.wiki/images/Leaf_Litter_4_%28S%29_JE2_BE2.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
         "flammable": true,
@@ -4131,7 +4131,7 @@
         "transparent": true
     },
     "light_weighted_pressure_plate": {
-        "name": "Light_Weighted_Pressure_Plate",
+        "name": "Light Weighted Pressure Plate",
         "image_url": "https://minecraft.wiki/images/thumb/Light_Weighted_Pressure_Plate_JE3_BE2.png/150px-Light_Weighted_Pressure_Plate_JE3_BE2.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -4148,7 +4148,7 @@
         "transparent": true
     },
     "lightning_rod": {
-        "name": "Lightning_Rod",
+        "name": "Lightning Rod",
         "image_url": "https://minecraft.wiki/images/thumb/Lightning_Rod_%28U%29_JE3.png/150px-Lightning_Rod_%28U%29_JE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4165,7 +4165,7 @@
         "transparent": true
     },
     "lily_pad": {
-        "name": "Lily_Pad",
+        "name": "Lily Pad",
         "image_url": "https://minecraft.wiki/images/thumb/Lily_Pad_%28on_the_water%29.png/150px-Lily_Pad_%28on_the_water%29.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -4233,7 +4233,7 @@
         "transparent": false
     },
     "magma_block": {
-        "name": "Magma_Block",
+        "name": "Magma Block",
         "image_url": "https://minecraft.wiki/images/thumb/Magma_Block_JE2.gif/150px-Magma_Block_JE2.gif",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -4250,7 +4250,7 @@
         "transparent": false
     },
     "mangrove_propagule": {
-        "name": "Mangrove_Propagule",
+        "name": "Mangrove Propagule",
         "image_url": "https://minecraft.wiki/images/thumb/Mangrove_Propagule_JE1_BE1.png/150px-Mangrove_Propagule_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -4267,7 +4267,7 @@
         "transparent": true
     },
     "mangrove_roots": {
-        "name": "Mangrove_Roots",
+        "name": "Mangrove Roots",
         "image_url": "https://minecraft.wiki/images/thumb/Mangrove_Roots_JE2.png/150px-Mangrove_Roots_JE2.png",
         "blast_resistance": 0.7,
         "fire_catch": true,
@@ -4301,7 +4301,7 @@
         "transparent": false
     },
     "monster_spawner": {
-        "name": "Monster_Spawner",
+        "name": "Monster Spawner",
         "image_url": "https://minecraft.wiki/images/thumb/Monster_Spawner_JE4.png/150px-Monster_Spawner_JE4.png",
         "blast_resistance": 5.0,
         "fire_catch": false,
@@ -4318,7 +4318,7 @@
         "transparent": "Partial"
     },
     "moss_block": {
-        "name": "Moss_Block",
+        "name": "Moss Block",
         "image_url": "https://minecraft.wiki/images/thumb/Moss_Block_JE1_BE1.png/150px-Moss_Block_JE1_BE1.png",
         "blast_resistance": 0.1,
         "fire_catch": false,
@@ -4335,7 +4335,7 @@
         "transparent": false
     },
     "moss_carpet": {
-        "name": "Moss_Carpet",
+        "name": "Moss Carpet",
         "image_url": "https://minecraft.wiki/images/thumb/Moss_Carpet.png/150px-Moss_Carpet.png",
         "blast_resistance": 0.1,
         "fire_catch": false,
@@ -4352,7 +4352,7 @@
         "transparent": true
     },
     "mossy_cobblestone": {
-        "name": "Mossy_Cobblestone",
+        "name": "Mossy Cobblestone",
         "image_url": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_JE4_BE2.png/150px-Mossy_Cobblestone_JE4_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4369,7 +4369,7 @@
         "transparent": false
     },
     "mossy_cobblestone_slab": {
-        "name": "Mossy_Cobblestone_Slab",
+        "name": "Mossy Cobblestone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_Slab_JE2_BE2.png/150px-Mossy_Cobblestone_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4386,7 +4386,7 @@
         "transparent": "Partial"
     },
     "mossy_cobblestone_stairs": {
-        "name": "Mossy_Cobblestone_Stairs",
+        "name": "Mossy Cobblestone Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_Stairs_%28N%29_JE2_BE1.png/150px-Mossy_Cobblestone_Stairs_%28N%29_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4403,7 +4403,7 @@
         "transparent": "Partial"
     },
     "mossy_cobblestone_wall": {
-        "name": "Mossy_Cobblestone_Wall",
+        "name": "Mossy Cobblestone Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Mossy_Cobblestone_Wall_%28ewU%29_JE4.png/150px-Mossy_Cobblestone_Wall_%28ewU%29_JE4.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4420,7 +4420,7 @@
         "transparent": true
     },
     "mossy_stone_brick_slab": {
-        "name": "Mossy_Stone_Brick_Slab",
+        "name": "Mossy Stone Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Mossy_Stone_Brick_Slab_JE2_BE2.png/150px-Mossy_Stone_Brick_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4437,7 +4437,7 @@
         "transparent": "Partial"
     },
     "mossy_stone_brick_stairs": {
-        "name": "Mossy_Stone_Brick_Stairs",
+        "name": "Mossy Stone Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Mossy_Stone_Brick_Stairs_%28N%29_JE2_BE1.png/150px-Mossy_Stone_Brick_Stairs_%28N%29_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4454,7 +4454,7 @@
         "transparent": "Partial"
     },
     "mossy_stone_brick_wall": {
-        "name": "Mossy_Stone_Brick_Wall",
+        "name": "Mossy Stone Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Mossy_Stone_Brick_Wall_%28ewU%29_JE2.png/150px-Mossy_Stone_Brick_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4471,7 +4471,7 @@
         "transparent": true
     },
     "mossy_stone_bricks": {
-        "name": "Mossy_Stone_Bricks",
+        "name": "Mossy Stone Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Mossy_Stone_Bricks_JE3_BE2.png/150px-Mossy_Stone_Bricks_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4505,7 +4505,7 @@
         "transparent": false
     },
     "mud_brick_slab": {
-        "name": "Mud_Brick_Slab",
+        "name": "Mud Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Mud_Brick_Slab_JE1_BE1.png/150px-Mud_Brick_Slab_JE1_BE1.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -4522,7 +4522,7 @@
         "transparent": "Partial"
     },
     "mud_brick_stairs": {
-        "name": "Mud_Brick_Stairs",
+        "name": "Mud Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Mud_Brick_Stairs_JE1_BE1.png/150px-Mud_Brick_Stairs_JE1_BE1.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -4539,7 +4539,7 @@
         "transparent": "Partial"
     },
     "mud_brick_wall": {
-        "name": "Mud_Brick_Wall",
+        "name": "Mud Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Mud_Brick_Wall_%28ewU%29_JE1.png/150px-Mud_Brick_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -4556,7 +4556,7 @@
         "transparent": true
     },
     "mud_bricks": {
-        "name": "Mud_Bricks",
+        "name": "Mud Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Mud_Bricks_JE1_BE1.png/150px-Mud_Bricks_JE1_BE1.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -4573,7 +4573,7 @@
         "transparent": false
     },
     "muddy_mangrove_roots": {
-        "name": "Muddy_Mangrove_Roots",
+        "name": "Muddy Mangrove Roots",
         "image_url": "https://minecraft.wiki/images/thumb/Muddy_Mangrove_Roots_JE1_BE1.png/150px-Muddy_Mangrove_Roots_JE1_BE1.png",
         "blast_resistance": 0.7,
         "fire_catch": false,
@@ -4624,7 +4624,7 @@
         "transparent": false
     },
     "nether_brick_fence": {
-        "name": "Nether_Brick_Fence",
+        "name": "Nether Brick Fence",
         "image_url": "https://minecraft.wiki/images/thumb/Nether_Brick_Fence_%28EW%29_JE8.png/150px-Nether_Brick_Fence_%28EW%29_JE8.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4641,7 +4641,7 @@
         "transparent": true
     },
     "nether_brick_slab": {
-        "name": "Nether_Brick_Slab",
+        "name": "Nether Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Nether_Brick_Slab_JE4_BE5.png/150px-Nether_Brick_Slab_JE4_BE5.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4658,7 +4658,7 @@
         "transparent": "Partial"
     },
     "nether_brick_stairs": {
-        "name": "Nether_Brick_Stairs",
+        "name": "Nether Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Nether_Brick_Stairs_%28N%29_JE6_BE5.png/150px-Nether_Brick_Stairs_%28N%29_JE6_BE5.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4675,7 +4675,7 @@
         "transparent": "Partial"
     },
     "nether_brick_wall": {
-        "name": "Nether_Brick_Wall",
+        "name": "Nether Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Nether_Brick_Wall_%28ewU%29_JE3.png/150px-Nether_Brick_Wall_%28ewU%29_JE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4692,7 +4692,7 @@
         "transparent": true
     },
     "nether_bricks": {
-        "name": "Nether_Bricks",
+        "name": "Nether Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Nether_Bricks_JE4_BE5.png/150px-Nether_Bricks_JE4_BE5.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4709,7 +4709,7 @@
         "transparent": false
     },
     "nether_gold_ore": {
-        "name": "Nether_Gold_Ore",
+        "name": "Nether Gold Ore",
         "image_url": "https://minecraft.wiki/images/thumb/Nether_Gold_Ore_JE2_BE1.png/150px-Nether_Gold_Ore_JE2_BE1.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -4726,7 +4726,7 @@
         "transparent": false
     },
     "nether_quartz_ore": {
-        "name": "Nether_Quartz_Ore",
+        "name": "Nether Quartz Ore",
         "image_url": "https://minecraft.wiki/images/thumb/Nether_Quartz_Ore_JE3_BE2.png/150px-Nether_Quartz_Ore_JE3_BE2.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -4743,7 +4743,7 @@
         "transparent": false
     },
     "nether_sprouts": {
-        "name": "Nether_Sprouts",
+        "name": "Nether Sprouts",
         "image_url": "https://minecraft.wiki/images/thumb/Nether_Sprouts_JE2_BE2.png/150px-Nether_Sprouts_JE2_BE2.png",
         "blast_resistance": 0.0,
         "fire_catch": true,
@@ -4760,8 +4760,8 @@
         "transparent": true
     },
     "nether_wart": {
-        "name": "Nether_Wart",
-        "image_url": "https://minecraft.wiki/images/thumb/Nether_Wart_Age_0_JE8.png/150px-Nether_Wart_Age_0_JE8.png",
+        "name": "Nether Wart",
+        "image_url": "https://minecraft.wiki/images/Nether_Wart_Age_3_JE8.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
         "flammable": false,
@@ -4777,7 +4777,7 @@
         "transparent": true
     },
     "nether_wart_block": {
-        "name": "Nether_Wart_Block",
+        "name": "Nether Wart Block",
         "image_url": "https://minecraft.wiki/images/thumb/Nether_Wart_Block_JE3.png/160px-Nether_Wart_Block_JE3.png",
         "blast_resistance": 1.0,
         "fire_catch": false,
@@ -4811,7 +4811,7 @@
         "transparent": false
     },
     "note_block": {
-        "name": "Note_Block",
+        "name": "Note Block",
         "image_url": "https://minecraft.wiki/images/thumb/Note_Block_JE2_BE2.png/150px-Note_Block_JE2_BE2.png",
         "blast_resistance": 0.8,
         "fire_catch": true,
@@ -4862,7 +4862,7 @@
         "transparent": false
     },
     "packed_ice": {
-        "name": "Packed_Ice",
+        "name": "Packed Ice",
         "image_url": "https://minecraft.wiki/images/thumb/Packed_Ice_JE2_BE3.png/150px-Packed_Ice_JE2_BE3.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -4879,7 +4879,7 @@
         "transparent": false
     },
     "packed_mud": {
-        "name": "Packed_Mud",
+        "name": "Packed Mud",
         "image_url": "https://minecraft.wiki/images/thumb/Packed_Mud_JE1_BE1.png/150px-Packed_Mud_JE1_BE1.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -4896,7 +4896,7 @@
         "transparent": false
     },
     "pale_hanging_moss": {
-        "name": "Pale_Hanging_Moss",
+        "name": "Pale Hanging Moss",
         "image_url": "https://minecraft.wiki/images/thumb/Pale_Hanging_Moss_JE1_BE1.png/150px-Pale_Hanging_Moss_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": true,
@@ -4913,7 +4913,7 @@
         "transparent": true
     },
     "pale_moss_block": {
-        "name": "Pale_Moss_Block",
+        "name": "Pale Moss Block",
         "image_url": "https://minecraft.wiki/images/thumb/Pale_Moss_Block_JE1_BE1.png/150px-Pale_Moss_Block_JE1_BE1.png",
         "blast_resistance": 0.1,
         "fire_catch": true,
@@ -4930,7 +4930,7 @@
         "transparent": false
     },
     "pale_moss_carpet": {
-        "name": "Pale_Moss_Carpet",
+        "name": "Pale Moss Carpet",
         "image_url": "https://minecraft.wiki/images/thumb/Pale_Moss_Carpet_JE1_BE1.png/150px-Pale_Moss_Carpet_JE1_BE1.png",
         "blast_resistance": 0.1,
         "fire_catch": true,
@@ -4947,7 +4947,7 @@
         "transparent": true
     },
     "petrified_oak_slab": {
-        "name": "Petrified_Oak_Slab",
+        "name": "Petrified Oak Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Oak_Slab_JE3_BE2.png/150px-Oak_Slab_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -4964,7 +4964,7 @@
         "transparent": "Partial"
     },
     "piglin_head": {
-        "name": "Piglin_Head",
+        "name": "Piglin Head",
         "image_url": "https://minecraft.wiki/images/thumb/Piglin_Head_%28S%29_JE1.png/150px-Piglin_Head_%28S%29_JE1.png",
         "blast_resistance": 1.0,
         "fire_catch": false,
@@ -4981,8 +4981,8 @@
         "transparent": true
     },
     "pink_petals": {
-        "name": "Pink_Petals",
-        "image_url": "https://minecraft.wiki/images/thumb/Pink_Petals_1_%28S%29_JE2.png/150px-Pink_Petals_1_%28S%29_JE2.png",
+        "name": "Pink Petals",
+        "image_url": "https://minecraft.wiki/images/Pink_Petals_4_%28S%29_JE2.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
         "flammable": true,
@@ -5015,7 +5015,7 @@
         "transparent": false
     },
     "pitcher_plant": {
-        "name": "Pitcher_Plant",
+        "name": "Pitcher Plant",
         "image_url": "https://minecraft.wiki/images/thumb/Pitcher_Plant_JE1_BE1.png/150px-Pitcher_Plant_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": true,
@@ -5049,7 +5049,7 @@
         "transparent": false
     },
     "player_head": {
-        "name": "Player_Head",
+        "name": "Player Head",
         "image_url": "https://minecraft.wiki/images/thumb/Player_Head_%28S%29_JE2.png/150px-Player_Head_%28S%29_JE2.png",
         "blast_resistance": 1.0,
         "fire_catch": false,
@@ -5083,7 +5083,7 @@
         "transparent": false
     },
     "pointed_dripstone": {
-        "name": "Pointed_Dripstone",
+        "name": "Pointed Dripstone",
         "image_url": "https://minecraft.wiki/images/thumb/Pointed_Dripstone_Base_%28D%29_JE1_BE1.png/150px-Pointed_Dripstone_Base_%28D%29_JE1_BE1.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -5100,7 +5100,7 @@
         "transparent": true
     },
     "polished_andesite": {
-        "name": "Polished_Andesite",
+        "name": "Polished Andesite",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Andesite_JE2_BE2.png/150px-Polished_Andesite_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5117,7 +5117,7 @@
         "transparent": false
     },
     "polished_andesite_slab": {
-        "name": "Polished_Andesite_Slab",
+        "name": "Polished Andesite Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Andesite_Slab_JE2_BE2.png/150px-Polished_Andesite_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5134,7 +5134,7 @@
         "transparent": "Partial"
     },
     "polished_andesite_stairs": {
-        "name": "Polished_Andesite_Stairs",
+        "name": "Polished Andesite Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Andesite_Stairs_%28N%29_JE2_BE1.png/150px-Polished_Andesite_Stairs_%28N%29_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5151,7 +5151,7 @@
         "transparent": "Partial"
     },
     "polished_basalt": {
-        "name": "Polished_Basalt",
+        "name": "Polished Basalt",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Basalt_%28UD%29_JE1_BE1.png/150px-Polished_Basalt_%28UD%29_JE1_BE1.png",
         "blast_resistance": 4.2,
         "fire_catch": false,
@@ -5168,7 +5168,7 @@
         "transparent": false
     },
     "polished_blackstone": {
-        "name": "Polished_Blackstone",
+        "name": "Polished Blackstone",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_JE1_BE1.png/150px-Polished_Blackstone_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5185,7 +5185,7 @@
         "transparent": false
     },
     "polished_blackstone_brick_slab": {
-        "name": "Polished_Blackstone_Brick_Slab",
+        "name": "Polished Blackstone Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Brick_Slab_JE1_BE1.png/150px-Polished_Blackstone_Brick_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5202,7 +5202,7 @@
         "transparent": "Partial"
     },
     "polished_blackstone_brick_stairs": {
-        "name": "Polished_Blackstone_Brick_Stairs",
+        "name": "Polished Blackstone Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Brick_Stairs_%28N%29_JE1_BE1.png/150px-Polished_Blackstone_Brick_Stairs_%28N%29_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5219,7 +5219,7 @@
         "transparent": "Partial"
     },
     "polished_blackstone_brick_wall": {
-        "name": "Polished_Blackstone_Brick_Wall",
+        "name": "Polished Blackstone Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Brick_Wall_%28ewU%29_JE2.png/150px-Polished_Blackstone_Brick_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5236,7 +5236,7 @@
         "transparent": true
     },
     "polished_blackstone_bricks": {
-        "name": "Polished_Blackstone_Bricks",
+        "name": "Polished Blackstone Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Bricks_JE2_BE2.png/150px-Polished_Blackstone_Bricks_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5253,7 +5253,7 @@
         "transparent": false
     },
     "polished_blackstone_button": {
-        "name": "Polished_Blackstone_Button",
+        "name": "Polished Blackstone Button",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Button_JE2.png/150px-Polished_Blackstone_Button_JE2.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -5270,7 +5270,7 @@
         "transparent": true
     },
     "polished_blackstone_pressure_plate": {
-        "name": "Polished_Blackstone_Pressure_Plate",
+        "name": "Polished Blackstone Pressure Plate",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Pressure_Plate_JE1_BE1.png/150px-Polished_Blackstone_Pressure_Plate_JE1_BE1.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -5287,7 +5287,7 @@
         "transparent": true
     },
     "polished_blackstone_slab": {
-        "name": "Polished_Blackstone_Slab",
+        "name": "Polished Blackstone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Slab_JE1_BE1.png/150px-Polished_Blackstone_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5304,7 +5304,7 @@
         "transparent": "Partial"
     },
     "polished_blackstone_stairs": {
-        "name": "Polished_Blackstone_Stairs",
+        "name": "Polished Blackstone Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Stairs_%28N%29_JE1_BE1.png/150px-Polished_Blackstone_Stairs_%28N%29_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5321,7 +5321,7 @@
         "transparent": "Partial"
     },
     "polished_blackstone_wall": {
-        "name": "Polished_Blackstone_Wall",
+        "name": "Polished Blackstone Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Blackstone_Wall_%28ewU%29_JE1.png/150px-Polished_Blackstone_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5338,7 +5338,7 @@
         "transparent": true
     },
     "polished_cinnabar": {
-        "name": "Polished_Cinnabar",
+        "name": "Polished Cinnabar",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_JE2_BE2.png/150px-Polished_Cinnabar_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5355,7 +5355,7 @@
         "transparent": false
     },
     "polished_cinnabar_slab": {
-        "name": "Polished_Cinnabar_Slab",
+        "name": "Polished Cinnabar Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Slab_JE2_BE2.png/150px-Polished_Cinnabar_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5372,7 +5372,7 @@
         "transparent": "Partial"
     },
     "polished_cinnabar_stairs": {
-        "name": "Polished_Cinnabar_Stairs",
+        "name": "Polished Cinnabar Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Stairs_%28N%29_JE2_BE2.png/150px-Polished_Cinnabar_Stairs_%28N%29_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5389,7 +5389,7 @@
         "transparent": "Partial"
     },
     "polished_cinnabar_wall": {
-        "name": "Polished_Cinnabar_Wall",
+        "name": "Polished Cinnabar Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Cinnabar_Wall_%28ewU%29_JE2.png/150px-Polished_Cinnabar_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5406,7 +5406,7 @@
         "transparent": true
     },
     "polished_deepslate": {
-        "name": "Polished_Deepslate",
+        "name": "Polished Deepslate",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Deepslate_JE2_BE1.png/150px-Polished_Deepslate_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5423,7 +5423,7 @@
         "transparent": false
     },
     "polished_deepslate_slab": {
-        "name": "Polished_Deepslate_Slab",
+        "name": "Polished Deepslate Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Deepslate_Slab_JE2.png/150px-Polished_Deepslate_Slab_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5440,7 +5440,7 @@
         "transparent": "Partial"
     },
     "polished_deepslate_stairs": {
-        "name": "Polished_Deepslate_Stairs",
+        "name": "Polished Deepslate Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Deepslate_Stairs_JE2.png/150px-Polished_Deepslate_Stairs_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5457,7 +5457,7 @@
         "transparent": "Partial"
     },
     "polished_deepslate_wall": {
-        "name": "Polished_Deepslate_Wall",
+        "name": "Polished Deepslate Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Deepslate_Wall_%28ewU%29_JE2.png/150px-Polished_Deepslate_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5474,7 +5474,7 @@
         "transparent": true
     },
     "polished_diorite": {
-        "name": "Polished_Diorite",
+        "name": "Polished Diorite",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Diorite_JE2_BE2.png/150px-Polished_Diorite_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5491,7 +5491,7 @@
         "transparent": false
     },
     "polished_diorite_slab": {
-        "name": "Polished_Diorite_Slab",
+        "name": "Polished Diorite Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Diorite_Slab_JE2_BE2.png/150px-Polished_Diorite_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5508,7 +5508,7 @@
         "transparent": "Partial"
     },
     "polished_diorite_stairs": {
-        "name": "Polished_Diorite_Stairs",
+        "name": "Polished Diorite Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Diorite_Stairs_%28N%29_JE2_BE2.png/150px-Polished_Diorite_Stairs_%28N%29_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5525,7 +5525,7 @@
         "transparent": "Partial"
     },
     "polished_granite": {
-        "name": "Polished_Granite",
+        "name": "Polished Granite",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Granite_JE2_BE2.png/150px-Polished_Granite_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5542,7 +5542,7 @@
         "transparent": false
     },
     "polished_granite_slab": {
-        "name": "Polished_Granite_Slab",
+        "name": "Polished Granite Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Granite_Slab_JE1_BE1.png/150px-Polished_Granite_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5559,7 +5559,7 @@
         "transparent": "Partial"
     },
     "polished_granite_stairs": {
-        "name": "Polished_Granite_Stairs",
+        "name": "Polished Granite Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Granite_Stairs_%28N%29_JE1_BE1.png/150px-Polished_Granite_Stairs_%28N%29_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5576,7 +5576,7 @@
         "transparent": "Partial"
     },
     "polished_sulfur": {
-        "name": "Polished_Sulfur",
+        "name": "Polished Sulfur",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Sulfur_JE2_BE2.png/150px-Polished_Sulfur_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5593,7 +5593,7 @@
         "transparent": false
     },
     "polished_sulfur_slab": {
-        "name": "Polished_Sulfur_Slab",
+        "name": "Polished Sulfur Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Slab_JE2_BE2.png/150px-Polished_Sulfur_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5610,7 +5610,7 @@
         "transparent": "Partial"
     },
     "polished_sulfur_stairs": {
-        "name": "Polished_Sulfur_Stairs",
+        "name": "Polished Sulfur Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Stairs_%28N%29_JE2_BE2.png/150px-Polished_Sulfur_Stairs_%28N%29_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5627,12 +5627,12 @@
         "transparent": "Partial"
     },
     "polished_sulfur_wall": {
-        "name": "Polished_Sulfur_Wall",
+        "name": "Polished Sulfur Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Sulfur_Wall_%28ewU%29_JE2.png/150px-Polished_Sulfur_Wall_%28ewU%29_JE2.png",
-        "blast_resistance": 0.0,
+        "blast_resistance": 6.0,
         "fire_catch": false,
         "flammable": false,
-        "hardness": 0.0,
+        "hardness": 1.5,
         "initial_release": "26.2",
         "luminous": false,
         "map_color": "COLOR_YELLOW",
@@ -5644,7 +5644,7 @@
         "transparent": true
     },
     "polished_tuff": {
-        "name": "Polished_Tuff",
+        "name": "Polished Tuff",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Tuff_JE1_BE1.png/150px-Polished_Tuff_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5661,7 +5661,7 @@
         "transparent": false
     },
     "polished_tuff_slab": {
-        "name": "Polished_Tuff_Slab",
+        "name": "Polished Tuff Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Tuff_Slab_JE1_BE1.png/150px-Polished_Tuff_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5678,7 +5678,7 @@
         "transparent": "Partial"
     },
     "polished_tuff_stairs": {
-        "name": "Polished_Tuff_Stairs",
+        "name": "Polished Tuff Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Tuff_Stairs_JE1_BE1.png/150px-Polished_Tuff_Stairs_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5695,7 +5695,7 @@
         "transparent": "Partial"
     },
     "polished_tuff_wall": {
-        "name": "Polished_Tuff_Wall",
+        "name": "Polished Tuff Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Polished_Tuff_Wall_%28ewU%29_JE1.png/150px-Polished_Tuff_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5729,7 +5729,7 @@
         "transparent": true
     },
     "potent_sulfur": {
-        "name": "Potent_Sulfur",
+        "name": "Potent Sulfur",
         "image_url": "https://minecraft.wiki/images/thumb/Potent_Sulfur_JE1_BE1.png/150px-Potent_Sulfur_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5746,7 +5746,7 @@
         "transparent": false
     },
     "powder_snow": {
-        "name": "Powder_Snow",
+        "name": "Powder Snow",
         "image_url": "https://minecraft.wiki/images/thumb/Powder_Snow_JE1_BE1.png/150px-Powder_Snow_JE1_BE1.png",
         "blast_resistance": 0.25,
         "fire_catch": false,
@@ -5763,7 +5763,7 @@
         "transparent": true
     },
     "powered_rail": {
-        "name": "Powered_Rail",
+        "name": "Powered Rail",
         "image_url": "https://minecraft.wiki/images/thumb/Powered_Rail_%28NS%29_JE2_BE2.png/150px-Powered_Rail_%28NS%29_JE2_BE2.png",
         "blast_resistance": 0.7,
         "fire_catch": false,
@@ -5797,7 +5797,7 @@
         "transparent": false
     },
     "prismarine_brick_slab": {
-        "name": "Prismarine_Brick_Slab",
+        "name": "Prismarine Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Prismarine_Brick_Slab_JE2_BE2.png/150px-Prismarine_Brick_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5814,7 +5814,7 @@
         "transparent": "Partial"
     },
     "prismarine_brick_stairs": {
-        "name": "Prismarine_Brick_Stairs",
+        "name": "Prismarine Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Prismarine_Brick_Stairs_%28N%29_JE2_BE2.png/150px-Prismarine_Brick_Stairs_%28N%29_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5831,7 +5831,7 @@
         "transparent": "Partial"
     },
     "prismarine_bricks": {
-        "name": "Prismarine_Bricks",
+        "name": "Prismarine Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Prismarine_Bricks_JE2_BE2.png/150px-Prismarine_Bricks_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5848,7 +5848,7 @@
         "transparent": false
     },
     "prismarine_slab": {
-        "name": "Prismarine_Slab",
+        "name": "Prismarine Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Prismarine_Slab_JE2_BE2.png/150px-Prismarine_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5865,7 +5865,7 @@
         "transparent": "Partial"
     },
     "prismarine_stairs": {
-        "name": "Prismarine_Stairs",
+        "name": "Prismarine Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Prismarine_Stairs_%28N%29_JE2_BE2.gif/150px-Prismarine_Stairs_%28N%29_JE2_BE2.gif",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5882,7 +5882,7 @@
         "transparent": "Partial"
     },
     "prismarine_wall": {
-        "name": "Prismarine_Wall",
+        "name": "Prismarine Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Prismarine_Wall_%28ewU%29_JE1.png/150px-Prismarine_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5916,7 +5916,7 @@
         "transparent": "Partial"
     },
     "purpur_block": {
-        "name": "Purpur_Block",
+        "name": "Purpur Block",
         "image_url": "https://minecraft.wiki/images/thumb/Purpur_Block_JE2_BE2.png/150px-Purpur_Block_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5933,7 +5933,7 @@
         "transparent": false
     },
     "purpur_pillar": {
-        "name": "Purpur_Pillar",
+        "name": "Purpur Pillar",
         "image_url": "https://minecraft.wiki/images/thumb/Purpur_Pillar_%28UD%29_JE3_BE2.png/150px-Purpur_Pillar_%28UD%29_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5950,7 +5950,7 @@
         "transparent": false
     },
     "purpur_slab": {
-        "name": "Purpur_Slab",
+        "name": "Purpur Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Purpur_Slab_JE2_BE2.png/150px-Purpur_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5967,7 +5967,7 @@
         "transparent": "Partial"
     },
     "purpur_stairs": {
-        "name": "Purpur_Stairs",
+        "name": "Purpur Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Purpur_Stairs_%28N%29_JE2_BE2.png/150px-Purpur_Stairs_%28N%29_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -5984,7 +5984,7 @@
         "transparent": "Partial"
     },
     "quartz_bricks": {
-        "name": "Quartz_Bricks",
+        "name": "Quartz Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Quartz_Bricks_JE2.png/150px-Quartz_Bricks_JE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -6001,7 +6001,7 @@
         "transparent": false
     },
     "quartz_pillar": {
-        "name": "Quartz_Pillar",
+        "name": "Quartz Pillar",
         "image_url": "https://minecraft.wiki/images/thumb/Quartz_Pillar_%28UD%29_JE3_BE2.png/150px-Quartz_Pillar_%28UD%29_JE3_BE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -6018,7 +6018,7 @@
         "transparent": false
     },
     "quartz_slab": {
-        "name": "Quartz_Slab",
+        "name": "Quartz Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Quartz_Slab_JE3_BE3.png/150px-Quartz_Slab_JE3_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6035,7 +6035,7 @@
         "transparent": "Partial"
     },
     "quartz_stairs": {
-        "name": "Quartz_Stairs",
+        "name": "Quartz Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Quartz_Stairs_%28N%29_JE3.png/150px-Quartz_Stairs_%28N%29_JE3.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -6069,7 +6069,7 @@
         "transparent": true
     },
     "red_mushroom": {
-        "name": "Red_Mushroom",
+        "name": "Red Mushroom",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Mushroom_JE9.png/150px-Red_Mushroom_JE9.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -6086,7 +6086,7 @@
         "transparent": true
     },
     "red_nether_brick_slab": {
-        "name": "Red_Nether_Brick_Slab",
+        "name": "Red Nether Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Nether_Brick_Slab_JE3_BE3.png/150px-Red_Nether_Brick_Slab_JE3_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6103,7 +6103,7 @@
         "transparent": "Partial"
     },
     "red_nether_brick_stairs": {
-        "name": "Red_Nether_Brick_Stairs",
+        "name": "Red Nether Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Nether_Brick_Stairs_%28N%29_JE3_BE3.png/150px-Red_Nether_Brick_Stairs_%28N%29_JE3_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6120,7 +6120,7 @@
         "transparent": "Partial"
     },
     "red_nether_brick_wall": {
-        "name": "Red_Nether_Brick_Wall",
+        "name": "Red Nether Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Nether_Brick_Wall_%28ewU%29_JE3.png/150px-Red_Nether_Brick_Wall_%28ewU%29_JE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6137,7 +6137,7 @@
         "transparent": true
     },
     "red_nether_bricks": {
-        "name": "Red_Nether_Bricks",
+        "name": "Red Nether Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Nether_Bricks_JE4_BE3.png/150px-Red_Nether_Bricks_JE4_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6154,7 +6154,7 @@
         "transparent": false
     },
     "red_sand": {
-        "name": "Red_Sand",
+        "name": "Red Sand",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Sand_JE3_BE2.png/150px-Red_Sand_JE3_BE2.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -6171,7 +6171,7 @@
         "transparent": false
     },
     "red_sandstone": {
-        "name": "Red_Sandstone",
+        "name": "Red Sandstone",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Sandstone_JE4_BE2.png/150px-Red_Sandstone_JE4_BE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -6188,7 +6188,7 @@
         "transparent": false
     },
     "red_sandstone_slab": {
-        "name": "Red_Sandstone_Slab",
+        "name": "Red Sandstone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Sandstone_Slab_JE4_BE2.png/150px-Red_Sandstone_Slab_JE4_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6205,7 +6205,7 @@
         "transparent": "Partial"
     },
     "red_sandstone_stairs": {
-        "name": "Red_Sandstone_Stairs",
+        "name": "Red Sandstone Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Sandstone_Stairs_%28N%29_JE4_BE2.png/150px-Red_Sandstone_Stairs_%28N%29_JE4_BE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -6222,7 +6222,7 @@
         "transparent": "Partial"
     },
     "red_sandstone_wall": {
-        "name": "Red_Sandstone_Wall",
+        "name": "Red Sandstone Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Red_Sandstone_Wall_%28ewU%29_JE2.png/150px-Red_Sandstone_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -6255,42 +6255,8 @@
         ],
         "transparent": true
     },
-    "redstone_ore": {
-        "name": "Redstone_Ore",
-        "image_url": "https://minecraft.wiki/images/thumb/Redstone_Ore_JE4_BE3.png/150px-Redstone_Ore_JE4_BE3.png",
-        "blast_resistance": 3.0,
-        "fire_catch": false,
-        "flammable": false,
-        "hardness": 3.0,
-        "initial_release": "Alpha 1.0.1",
-        "luminous": "Depends",
-        "map_color": "STONE",
-        "renewable": false,
-        "stackable": 64,
-        "tool": [
-            "Pickaxe"
-        ],
-        "transparent": false
-    },
-    "redstone_torch": {
-        "name": "Redstone_Torch",
-        "image_url": "https://minecraft.wiki/images/thumb/Redstone_Torch_JE5.png/150px-Redstone_Torch_JE5.png",
-        "blast_resistance": 0.0,
-        "fire_catch": false,
-        "flammable": false,
-        "hardness": 0.0,
-        "initial_release": "Alpha 1.0.1",
-        "luminous": "Depends",
-        "map_color": "NONE",
-        "renewable": true,
-        "stackable": 64,
-        "tool": [
-            "Any"
-        ],
-        "transparent": true
-    },
     "redstone_comparator": {
-        "name": "Redstone_Comparator",
+        "name": "Redstone Comparator",
         "image_url": "https://minecraft.wiki/images/thumb/Redstone_Comparator_%28S%29_JE5.png/150px-Redstone_Comparator_%28S%29_JE5.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -6307,7 +6273,7 @@
         "transparent": true
     },
     "redstone_lamp": {
-        "name": "Redstone_Lamp",
+        "name": "Redstone Lamp",
         "image_url": "https://minecraft.wiki/images/thumb/Redstone_Lamp_JE3_BE2.png/150px-Redstone_Lamp_JE3_BE2.png",
         "blast_resistance": 0.3,
         "fire_catch": false,
@@ -6323,8 +6289,25 @@
         ],
         "transparent": false
     },
+    "redstone_ore": {
+        "name": "Redstone Ore",
+        "image_url": "https://minecraft.wiki/images/thumb/Redstone_Ore_JE4_BE3.png/150px-Redstone_Ore_JE4_BE3.png",
+        "blast_resistance": 3.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 3.0,
+        "initial_release": "Alpha 1.0.1",
+        "luminous": "Depends",
+        "map_color": "STONE",
+        "renewable": false,
+        "stackable": 64,
+        "tool": [
+            "Pickaxe"
+        ],
+        "transparent": false
+    },
     "redstone_repeater": {
-        "name": "Redstone_Repeater",
+        "name": "Redstone Repeater",
         "image_url": "https://minecraft.wiki/images/thumb/Redstone_Repeater_%28S%29_JE5_BE2.png/150px-Redstone_Repeater_%28S%29_JE5_BE2.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -6340,8 +6323,25 @@
         ],
         "transparent": true
     },
+    "redstone_torch": {
+        "name": "Redstone Torch",
+        "image_url": "https://minecraft.wiki/images/thumb/Redstone_Torch_JE5.png/150px-Redstone_Torch_JE5.png",
+        "blast_resistance": 0.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 0.0,
+        "initial_release": "Alpha 1.0.1",
+        "luminous": "Depends",
+        "map_color": "NONE",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Any"
+        ],
+        "transparent": true
+    },
     "reinforced_deepslate": {
-        "name": "Reinforced_Deepslate",
+        "name": "Reinforced Deepslate",
         "image_url": "https://minecraft.wiki/images/thumb/Reinforced_Deepslate_JE1_BE1.png/150px-Reinforced_Deepslate_JE1_BE1.png",
         "blast_resistance": 1200.0,
         "fire_catch": false,
@@ -6358,7 +6358,7 @@
         "transparent": false
     },
     "resin_brick_slab": {
-        "name": "Resin_Brick_Slab",
+        "name": "Resin Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Resin_Brick_Slab_JE1_BE2.png/150px-Resin_Brick_Slab_JE1_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6375,7 +6375,7 @@
         "transparent": "Partial"
     },
     "resin_brick_stairs": {
-        "name": "Resin_Brick_Stairs",
+        "name": "Resin Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Resin_Brick_Stairs_JE1_BE2.png/150px-Resin_Brick_Stairs_JE1_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6392,7 +6392,7 @@
         "transparent": "Partial"
     },
     "resin_brick_wall": {
-        "name": "Resin_Brick_Wall",
+        "name": "Resin Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Resin_Brick_Wall_%28ewU%29_JE1.png/150px-Resin_Brick_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6409,7 +6409,7 @@
         "transparent": true
     },
     "resin_bricks": {
-        "name": "Resin_Bricks",
+        "name": "Resin Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Resin_Bricks_JE1_BE2.png/150px-Resin_Bricks_JE1_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6426,7 +6426,7 @@
         "transparent": false
     },
     "resin_clump": {
-        "name": "Resin_Clump",
+        "name": "Resin Clump",
         "image_url": "https://minecraft.wiki/images/thumb/Resin_Clump_JE1_BE1.png/150px-Resin_Clump_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": true,
@@ -6443,7 +6443,7 @@
         "transparent": true
     },
     "respawn_anchor": {
-        "name": "Respawn_Anchor",
+        "name": "Respawn Anchor",
         "image_url": "https://minecraft.wiki/images/thumb/Respawn_Anchor_%280%29_JE1.png/150px-Respawn_Anchor_%280%29_JE1.png",
         "blast_resistance": 1200.0,
         "fire_catch": false,
@@ -6460,7 +6460,7 @@
         "transparent": false
     },
     "rooted_dirt": {
-        "name": "Rooted_Dirt",
+        "name": "Rooted Dirt",
         "image_url": "https://minecraft.wiki/images/thumb/Rooted_Dirt_JE1_BE1.png/150px-Rooted_Dirt_JE1_BE1.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -6477,7 +6477,7 @@
         "transparent": false
     },
     "rose_bush": {
-        "name": "Rose_Bush",
+        "name": "Rose Bush",
         "image_url": "https://minecraft.wiki/images/thumb/Rose_Bush_JE4_BE3.png/150px-Rose_Bush_JE4_BE3.png",
         "blast_resistance": 0.0,
         "fire_catch": true,
@@ -6528,7 +6528,7 @@
         "transparent": false
     },
     "sandstone_slab": {
-        "name": "Sandstone_Slab",
+        "name": "Sandstone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Sandstone_Slab_JE5_BE6.png/150px-Sandstone_Slab_JE5_BE6.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6545,7 +6545,7 @@
         "transparent": "Partial"
     },
     "sandstone_stairs": {
-        "name": "Sandstone_Stairs",
+        "name": "Sandstone Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Sandstone_Stairs_%28N%29_JE6_BE3.png/150px-Sandstone_Stairs_%28N%29_JE6_BE3.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -6562,7 +6562,7 @@
         "transparent": "Partial"
     },
     "sandstone_wall": {
-        "name": "Sandstone_Wall",
+        "name": "Sandstone Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Sandstone_Wall_%28ewU%29_JE2.png/150px-Sandstone_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 0.8,
         "fire_catch": false,
@@ -6630,7 +6630,7 @@
         "transparent": false
     },
     "sculk_catalyst": {
-        "name": "Sculk_Catalyst",
+        "name": "Sculk Catalyst",
         "image_url": "https://minecraft.wiki/images/thumb/Sculk_Catalyst_JE1.png/150px-Sculk_Catalyst_JE1.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -6647,7 +6647,7 @@
         "transparent": false
     },
     "sculk_sensor": {
-        "name": "Sculk_Sensor",
+        "name": "Sculk Sensor",
         "image_url": "https://minecraft.wiki/images/thumb/Sculk_Sensor_JE1.gif/150px-Sculk_Sensor_JE1.gif",
         "blast_resistance": 1.5,
         "fire_catch": false,
@@ -6664,7 +6664,7 @@
         "transparent": true
     },
     "sculk_shrieker": {
-        "name": "Sculk_Shrieker",
+        "name": "Sculk Shrieker",
         "image_url": "https://minecraft.wiki/images/thumb/Sculk_Shrieker_JE2_BE3.gif/150px-Sculk_Shrieker_JE2_BE3.gif",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -6681,7 +6681,7 @@
         "transparent": false
     },
     "sculk_vein": {
-        "name": "Sculk_Vein",
+        "name": "Sculk Vein",
         "image_url": "https://minecraft.wiki/images/thumb/Sculk_Vein_JE1_BE1.gif/150px-Sculk_Vein_JE1_BE1.gif",
         "blast_resistance": 0.2,
         "fire_catch": false,
@@ -6698,7 +6698,7 @@
         "transparent": true
     },
     "sea_lantern": {
-        "name": "Sea_Lantern",
+        "name": "Sea Lantern",
         "image_url": "https://minecraft.wiki/images/thumb/Sea_Lantern_JE1.gif/150px-Sea_Lantern_JE1.gif",
         "blast_resistance": 0.3,
         "fire_catch": false,
@@ -6715,7 +6715,7 @@
         "transparent": "Partial"
     },
     "sea_pickle": {
-        "name": "Sea_Pickle",
+        "name": "Sea Pickle",
         "image_url": "https://minecraft.wiki/images/thumb/Sea_Pickle_1_JE1_BE1.png/150px-Sea_Pickle_1_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -6783,13 +6783,13 @@
         "transparent": false
     },
     "shulker_box": {
-        "name": "Shulker_Box",
+        "name": "Shulker Box",
         "image_url": "https://minecraft.wiki/images/thumb/Shulker_Box_JE1_BE1.png/150px-Shulker_Box_JE1_BE1.png",
         "blast_resistance": 2.0,
         "fire_catch": false,
         "flammable": false,
         "hardness": 2.0,
-        "initial_release": "1.13",
+        "initial_release": "1.11",
         "luminous": false,
         "map_color": "COLOR_PURPLE",
         "renewable": true,
@@ -6817,7 +6817,7 @@
         "transparent": true
     },
     "skeleton_skull": {
-        "name": "Skeleton_Skull",
+        "name": "Skeleton Skull",
         "image_url": "https://minecraft.wiki/images/thumb/Skeleton_Skull_%28S%29_JE2.png/150px-Skeleton_Skull_%28S%29_JE2.png",
         "blast_resistance": 1.0,
         "fire_catch": false,
@@ -6834,7 +6834,7 @@
         "transparent": true
     },
     "slime_block": {
-        "name": "Slime_Block",
+        "name": "Slime Block",
         "image_url": "https://minecraft.wiki/images/thumb/Slime_Block_JE2_BE3.png/150px-Slime_Block_JE2_BE3.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -6851,7 +6851,7 @@
         "transparent": "Partial"
     },
     "small_dripleaf": {
-        "name": "Small_Dripleaf",
+        "name": "Small Dripleaf",
         "image_url": "https://minecraft.wiki/images/thumb/Small_Dripleaf_%28two_blocks_tall%29_%28E%29_JE4.png/150px-Small_Dripleaf_%28two_blocks_tall%29_%28E%29_JE4.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -6868,7 +6868,7 @@
         "transparent": true
     },
     "smithing_table": {
-        "name": "Smithing_Table",
+        "name": "Smithing Table",
         "image_url": "https://minecraft.wiki/images/thumb/Smithing_Table_JE2_BE2.png/150px-Smithing_Table_JE2_BE2.png",
         "blast_resistance": 2.5,
         "fire_catch": true,
@@ -6919,7 +6919,7 @@
         "transparent": false
     },
     "smooth_basalt": {
-        "name": "Smooth_Basalt",
+        "name": "Smooth Basalt",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Basalt_JE1_BE1.png/150px-Smooth_Basalt_JE1_BE1.png",
         "blast_resistance": 4.2,
         "fire_catch": false,
@@ -6936,7 +6936,7 @@
         "transparent": false
     },
     "smooth_quartz_slab": {
-        "name": "Smooth_Quartz_Slab",
+        "name": "Smooth Quartz Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Quartz_Slab_JE2_BE2.png/150px-Smooth_Quartz_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6953,7 +6953,7 @@
         "transparent": "Partial"
     },
     "smooth_quartz_stairs": {
-        "name": "Smooth_Quartz_Stairs",
+        "name": "Smooth Quartz Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Quartz_Stairs_%28N%29_JE2_BE1.png/150px-Smooth_Quartz_Stairs_%28N%29_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6970,7 +6970,7 @@
         "transparent": "Partial"
     },
     "smooth_red_sandstone": {
-        "name": "Smooth_Red_Sandstone",
+        "name": "Smooth Red Sandstone",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Red_Sandstone_JE4_BE2.png/150px-Smooth_Red_Sandstone_JE4_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -6987,7 +6987,7 @@
         "transparent": false
     },
     "smooth_red_sandstone_slab": {
-        "name": "Smooth_Red_Sandstone_Slab",
+        "name": "Smooth Red Sandstone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Red_Sandstone_Slab_JE3_BE2.png/150px-Smooth_Red_Sandstone_Slab_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7004,7 +7004,7 @@
         "transparent": "Partial"
     },
     "smooth_red_sandstone_stairs": {
-        "name": "Smooth_Red_Sandstone_Stairs",
+        "name": "Smooth Red Sandstone Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Red_Sandstone_Stairs_%28N%29_JE3_BE1.png/150px-Smooth_Red_Sandstone_Stairs_%28N%29_JE3_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7021,7 +7021,7 @@
         "transparent": "Partial"
     },
     "smooth_sandstone": {
-        "name": "Smooth_Sandstone",
+        "name": "Smooth Sandstone",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Sandstone_JE7_BE2.png/150px-Smooth_Sandstone_JE7_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7038,7 +7038,7 @@
         "transparent": false
     },
     "smooth_sandstone_slab": {
-        "name": "Smooth_Sandstone_Slab",
+        "name": "Smooth Sandstone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Sandstone_Slab_JE3_BE2.png/150px-Smooth_Sandstone_Slab_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7055,7 +7055,7 @@
         "transparent": "Partial"
     },
     "smooth_sandstone_stairs": {
-        "name": "Smooth_Sandstone_Stairs",
+        "name": "Smooth Sandstone Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Sandstone_Stairs_%28N%29_JE4_BE2.png/150px-Smooth_Sandstone_Stairs_%28N%29_JE4_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7072,7 +7072,7 @@
         "transparent": "Partial"
     },
     "smooth_stone": {
-        "name": "Smooth_Stone",
+        "name": "Smooth Stone",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Stone_JE2_BE2.png/150px-Smooth_Stone_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7089,7 +7089,7 @@
         "transparent": false
     },
     "smooth_stone_slab": {
-        "name": "Smooth_Stone_Slab",
+        "name": "Smooth Stone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Smooth_Stone_Slab_JE2_BE2.png/150px-Smooth_Stone_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7106,7 +7106,7 @@
         "transparent": "Partial"
     },
     "sniffer_egg": {
-        "name": "Sniffer_Egg",
+        "name": "Sniffer Egg",
         "image_url": "https://minecraft.wiki/images/thumb/Sniffer_Egg_JE1_BE1.png/150px-Sniffer_Egg_JE1_BE1.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -7140,7 +7140,7 @@
         "transparent": true
     },
     "snow_block": {
-        "name": "Snow_Block",
+        "name": "Snow Block",
         "image_url": "https://minecraft.wiki/images/thumb/Snow_Block_JE2_BE2.png/150px-Snow_Block_JE2_BE2.png",
         "blast_resistance": 0.2,
         "fire_catch": false,
@@ -7156,25 +7156,8 @@
         ],
         "transparent": false
     },
-    "soul_torch": {
-        "name": "Soul_Torch",
-        "image_url": "https://minecraft.wiki/images/thumb/Soul_Torch.gif/150px-Soul_Torch.gif",
-        "blast_resistance": 0.0,
-        "fire_catch": false,
-        "flammable": false,
-        "hardness": 0.0,
-        "initial_release": "1.16",
-        "luminous": true,
-        "map_color": "NONE",
-        "renewable": true,
-        "stackable": 64,
-        "tool": [
-            "Any"
-        ],
-        "transparent": true
-    },
     "soul_campfire": {
-        "name": "Soul_Campfire",
+        "name": "Soul Campfire",
         "image_url": "https://minecraft.wiki/images/thumb/Soul_Campfire_JE1_BE1.gif/150px-Soul_Campfire_JE1_BE1.gif",
         "blast_resistance": 2.0,
         "fire_catch": true,
@@ -7191,7 +7174,7 @@
         "transparent": true
     },
     "soul_fire": {
-        "name": "Soul_Fire",
+        "name": "Soul Fire",
         "image_url": "https://minecraft.wiki/images/thumb/Soul_Fire_JE1.gif/150px-Soul_Fire_JE1.gif",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -7208,7 +7191,7 @@
         "transparent": "Partial"
     },
     "soul_lantern": {
-        "name": "Soul_Lantern",
+        "name": "Soul Lantern",
         "image_url": "https://minecraft.wiki/images/thumb/Soul_Lantern_JE2_BE1.gif/150px-Soul_Lantern_JE2_BE1.gif",
         "blast_resistance": 3.5,
         "fire_catch": false,
@@ -7225,7 +7208,7 @@
         "transparent": true
     },
     "soul_sand": {
-        "name": "Soul_Sand",
+        "name": "Soul Sand",
         "image_url": "https://minecraft.wiki/images/thumb/Soul_Sand_JE2_BE2.png/150px-Soul_Sand_JE2_BE2.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -7242,7 +7225,7 @@
         "transparent": false
     },
     "soul_soil": {
-        "name": "Soul_Soil",
+        "name": "Soul Soil",
         "image_url": "https://minecraft.wiki/images/thumb/Soul_Soil_JE1_BE1.png/150px-Soul_Soil_JE1_BE1.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -7257,6 +7240,23 @@
             "Shovel"
         ],
         "transparent": false
+    },
+    "soul_torch": {
+        "name": "Soul Torch",
+        "image_url": "https://minecraft.wiki/images/thumb/Soul_Torch.gif/150px-Soul_Torch.gif",
+        "blast_resistance": 0.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 0.0,
+        "initial_release": "1.16",
+        "luminous": true,
+        "map_color": "NONE",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Any"
+        ],
+        "transparent": true
     },
     "sponge": {
         "name": "Sponge",
@@ -7276,7 +7276,7 @@
         "transparent": false
     },
     "spore_blossom": {
-        "name": "Spore_Blossom",
+        "name": "Spore Blossom",
         "image_url": "https://minecraft.wiki/images/thumb/Spore_Blossom_JE1.png/150px-Spore_Blossom_JE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -7344,7 +7344,7 @@
         "transparent": false
     },
     "sticky_piston": {
-        "name": "Sticky_Piston",
+        "name": "Sticky Piston",
         "image_url": "https://minecraft.wiki/images/thumb/Sticky_Piston_%28U%29_JE3.gif/150px-Sticky_Piston_%28U%29_JE3.gif",
         "blast_resistance": 1.5,
         "fire_catch": false,
@@ -7378,7 +7378,7 @@
         "transparent": false
     },
     "stone_brick_slab": {
-        "name": "Stone_Brick_Slab",
+        "name": "Stone Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Stone_Brick_Slab_JE3_BE2.png/150px-Stone_Brick_Slab_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7395,7 +7395,7 @@
         "transparent": "Partial"
     },
     "stone_brick_stairs": {
-        "name": "Stone_Brick_Stairs",
+        "name": "Stone Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Stone_Brick_Stairs_%28N%29_JE5_BE2.png/150px-Stone_Brick_Stairs_%28N%29_JE5_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7412,7 +7412,7 @@
         "transparent": "Partial"
     },
     "stone_brick_wall": {
-        "name": "Stone_Brick_Wall",
+        "name": "Stone Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Stone_Brick_Wall_%28ewU%29_JE2.png/150px-Stone_Brick_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7429,7 +7429,7 @@
         "transparent": true
     },
     "stone_bricks": {
-        "name": "Stone_Bricks",
+        "name": "Stone Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Stone_Bricks_JE3_BE2.png/150px-Stone_Bricks_JE3_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7446,7 +7446,7 @@
         "transparent": false
     },
     "stone_button": {
-        "name": "Stone_Button",
+        "name": "Stone Button",
         "image_url": "https://minecraft.wiki/images/thumb/Stone_Button_JE6.png/150px-Stone_Button_JE6.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -7463,7 +7463,7 @@
         "transparent": true
     },
     "stone_pressure_plate": {
-        "name": "Stone_Pressure_Plate",
+        "name": "Stone Pressure Plate",
         "image_url": "https://minecraft.wiki/images/thumb/Stone_Pressure_Plate_JE5_BE2.png/150px-Stone_Pressure_Plate_JE5_BE2.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -7480,7 +7480,7 @@
         "transparent": true
     },
     "stone_slab": {
-        "name": "Stone_Slab",
+        "name": "Stone Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Stone_Slab_JE2_BE1.png/150px-Stone_Slab_JE2_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7497,7 +7497,7 @@
         "transparent": "Partial"
     },
     "stone_stairs": {
-        "name": "Stone_Stairs",
+        "name": "Stone Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Stone_Stairs_%28N%29_JE2_BE2.png/150px-Stone_Stairs_%28N%29_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7582,7 +7582,7 @@
         "transparent": false
     },
     "structure_block": {
-        "name": "Structure_Block",
+        "name": "Structure Block",
         "image_url": "https://minecraft.wiki/images/thumb/Structure_Block_JE2_BE1.png/150px-Structure_Block_JE2_BE1.png",
         "blast_resistance": 3600000.0,
         "fire_catch": false,
@@ -7599,7 +7599,7 @@
         "transparent": false
     },
     "structure_void": {
-        "name": "Structure_Void",
+        "name": "Structure Void",
         "image_url": "https://minecraft.wiki/images/thumb/Structure_Void_%28item%29_JE2.png/150px-Structure_Void_%28item%29_JE2.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -7616,7 +7616,7 @@
         "transparent": true
     },
     "sugar_cane": {
-        "name": "Sugar_Cane",
+        "name": "Sugar Cane",
         "image_url": "https://minecraft.wiki/images/thumb/Sugar_Cane.png/150px-Sugar_Cane.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -7650,7 +7650,7 @@
         "transparent": false
     },
     "sulfur_brick_slab": {
-        "name": "Sulfur_Brick_Slab",
+        "name": "Sulfur Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Slab_JE2_BE2.png/150px-Sulfur_Brick_Slab_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7667,7 +7667,7 @@
         "transparent": "Partial"
     },
     "sulfur_brick_stairs": {
-        "name": "Sulfur_Brick_Stairs",
+        "name": "Sulfur Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Stairs_%28N%29_JE2_BE2.png/150px-Sulfur_Brick_Stairs_%28N%29_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7684,7 +7684,7 @@
         "transparent": "Partial"
     },
     "sulfur_brick_wall": {
-        "name": "Sulfur_Brick_Wall",
+        "name": "Sulfur Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Sulfur_Brick_Wall_%28ewU%29_JE2.png/150px-Sulfur_Brick_Wall_%28ewU%29_JE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7701,7 +7701,7 @@
         "transparent": true
     },
     "sulfur_bricks": {
-        "name": "Sulfur_Bricks",
+        "name": "Sulfur Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Sulfur_Bricks_JE2_BE2.png/150px-Sulfur_Bricks_JE2_BE2.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7718,7 +7718,7 @@
         "transparent": false
     },
     "sulfur_slab": {
-        "name": "Sulfur_Slab",
+        "name": "Sulfur Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Sulfur_Slab_JE1_BE1.png/150px-Sulfur_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7735,7 +7735,7 @@
         "transparent": "Partial"
     },
     "sulfur_spike": {
-        "name": "Sulfur_Spike",
+        "name": "Sulfur Spike",
         "image_url": "https://minecraft.wiki/images/thumb/Sulfur_Spike_Base_%28D%29_JE1.png/150px-Sulfur_Spike_Base_%28D%29_JE1.png",
         "blast_resistance": 3.0,
         "fire_catch": false,
@@ -7752,7 +7752,7 @@
         "transparent": true
     },
     "sulfur_stairs": {
-        "name": "Sulfur_Stairs",
+        "name": "Sulfur Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Sulfur_Stairs_%28N%29_JE1_BE1.png/150px-Sulfur_Stairs_%28N%29_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -7769,8 +7769,8 @@
         "transparent": "Partial"
     },
     "sulfur_wall": {
-        "name": "Sulfur_Wall",
-        "image_url": "https://minecraft.wiki/images/thumb/Sulfur_Wall_%28ewU%29_BE1.png/150px-Sulfur_Wall_%28ewU%29_BE1.png",
+        "name": "Sulfur Wall",
+        "image_url": "https://minecraft.wiki/images/thumb/Sulfur_Wall_%28ewU%29_JE1.png/150px-Sulfur_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
         "flammable": false,
@@ -7803,7 +7803,7 @@
         "transparent": true
     },
     "suspicious_gravel": {
-        "name": "Suspicious_Gravel",
+        "name": "Suspicious Gravel",
         "image_url": "https://minecraft.wiki/images/thumb/Suspicious_Gravel_JE1_BE1_%28dusted_0%29.png/150px-Suspicious_Gravel_JE1_BE1_%28dusted_0%29.png",
         "blast_resistance": 0.25,
         "fire_catch": false,
@@ -7820,7 +7820,7 @@
         "transparent": false
     },
     "suspicious_sand": {
-        "name": "Suspicious_Sand",
+        "name": "Suspicious Sand",
         "image_url": "https://minecraft.wiki/images/thumb/Suspicious_Sand_%28dusted_0%29_JE1_BE1.png/150px-Suspicious_Sand_%28dusted_0%29_JE1_BE1.png",
         "blast_resistance": 0.25,
         "fire_catch": false,
@@ -7905,7 +7905,7 @@
         "transparent": false
     },
     "test_block": {
-        "name": "Test_Block",
+        "name": "Test Block",
         "image_url": "https://minecraft.wiki/images/thumb/Test_Block_start_JE2.png/150px-Test_Block_start_JE2.png",
         "blast_resistance": 3600000.0,
         "fire_catch": false,
@@ -7922,7 +7922,7 @@
         "transparent": false
     },
     "test_instance_block": {
-        "name": "Test_Instance_Block",
+        "name": "Test Instance Block",
         "image_url": "https://minecraft.wiki/images/thumb/Test_Instance_Block_JE2.png/150px-Test_Instance_Block_JE2.png",
         "blast_resistance": 3600000.0,
         "fire_catch": false,
@@ -7939,7 +7939,7 @@
         "transparent": false
     },
     "tinted_glass": {
-        "name": "Tinted_Glass",
+        "name": "Tinted Glass",
         "image_url": "https://minecraft.wiki/images/thumb/Tinted_Glass_JE2_BE1.png/150px-Tinted_Glass_JE2_BE1.png",
         "blast_resistance": 0.3,
         "fire_catch": false,
@@ -7990,7 +7990,7 @@
         "transparent": true
     },
     "trapped_chest": {
-        "name": "Trapped_Chest",
+        "name": "Trapped Chest",
         "image_url": "https://minecraft.wiki/images/thumb/Trapped_Chest.gif/150px-Trapped_Chest.gif",
         "blast_resistance": 2.5,
         "fire_catch": false,
@@ -8007,7 +8007,7 @@
         "transparent": true
     },
     "trial_spawner": {
-        "name": "Trial_Spawner",
+        "name": "Trial Spawner",
         "image_url": "https://minecraft.wiki/images/thumb/Active_Trial_Spawner_JE4_BE3.png/150px-Active_Trial_Spawner_JE4_BE3.png",
         "blast_resistance": 50.0,
         "fire_catch": false,
@@ -8024,7 +8024,7 @@
         "transparent": "Partial"
     },
     "tripwire_hook": {
-        "name": "Tripwire_Hook",
+        "name": "Tripwire Hook",
         "image_url": "https://minecraft.wiki/images/thumb/Tripwire_Hook_%28S%29_JE6.png/150px-Tripwire_Hook_%28S%29_JE6.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -8058,7 +8058,7 @@
         "transparent": false
     },
     "tuff_brick_slab": {
-        "name": "Tuff_Brick_Slab",
+        "name": "Tuff Brick Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Tuff_Brick_Slab_JE3_BE3.png/150px-Tuff_Brick_Slab_JE3_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -8075,7 +8075,7 @@
         "transparent": "Partial"
     },
     "tuff_brick_stairs": {
-        "name": "Tuff_Brick_Stairs",
+        "name": "Tuff Brick Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Tuff_Brick_Stairs_JE3_BE3.png/150px-Tuff_Brick_Stairs_JE3_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -8092,7 +8092,7 @@
         "transparent": "Partial"
     },
     "tuff_brick_wall": {
-        "name": "Tuff_Brick_Wall",
+        "name": "Tuff Brick Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Tuff_Brick_Wall_%28ewU%29_JE3.png/150px-Tuff_Brick_Wall_%28ewU%29_JE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -8109,7 +8109,7 @@
         "transparent": true
     },
     "tuff_bricks": {
-        "name": "Tuff_Bricks",
+        "name": "Tuff Bricks",
         "image_url": "https://minecraft.wiki/images/thumb/Tuff_Bricks_JE3_BE3.png/150px-Tuff_Bricks_JE3_BE3.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -8126,7 +8126,7 @@
         "transparent": false
     },
     "tuff_slab": {
-        "name": "Tuff_Slab",
+        "name": "Tuff Slab",
         "image_url": "https://minecraft.wiki/images/thumb/Tuff_Slab_JE1_BE1.png/150px-Tuff_Slab_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -8143,7 +8143,7 @@
         "transparent": "Partial"
     },
     "tuff_stairs": {
-        "name": "Tuff_Stairs",
+        "name": "Tuff Stairs",
         "image_url": "https://minecraft.wiki/images/thumb/Tuff_Stairs_JE1_BE1.png/150px-Tuff_Stairs_JE1_BE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -8160,7 +8160,7 @@
         "transparent": "Partial"
     },
     "tuff_wall": {
-        "name": "Tuff_Wall",
+        "name": "Tuff Wall",
         "image_url": "https://minecraft.wiki/images/thumb/Tuff_Wall_%28ewU%29_JE1.png/150px-Tuff_Wall_%28ewU%29_JE1.png",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -8194,7 +8194,7 @@
         "transparent": true
     },
     "turtle_egg": {
-        "name": "Turtle_Egg",
+        "name": "Turtle Egg",
         "image_url": "https://minecraft.wiki/images/thumb/Turtle_Egg_1_JE2.png/150px-Turtle_Egg_1_JE2.png",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -8211,7 +8211,7 @@
         "transparent": true
     },
     "twisting_vines": {
-        "name": "Twisting_Vines",
+        "name": "Twisting Vines",
         "image_url": "https://minecraft.wiki/images/thumb/Twisting_Vines_JE1_BE1.png/150px-Twisting_Vines_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -8262,7 +8262,7 @@
         "transparent": true
     },
     "warped_fungus": {
-        "name": "Warped_Fungus",
+        "name": "Warped Fungus",
         "image_url": "https://minecraft.wiki/images/thumb/Warped_Fungus_JE1_BE1.png/150px-Warped_Fungus_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -8279,7 +8279,7 @@
         "transparent": true
     },
     "warped_nylium": {
-        "name": "Warped_Nylium",
+        "name": "Warped Nylium",
         "image_url": "https://minecraft.wiki/images/thumb/Warped_Nylium_JE1_BE1.png/150px-Warped_Nylium_JE1_BE1.png",
         "blast_resistance": 0.4,
         "fire_catch": false,
@@ -8296,7 +8296,7 @@
         "transparent": false
     },
     "warped_roots": {
-        "name": "Warped_Roots",
+        "name": "Warped Roots",
         "image_url": "https://minecraft.wiki/images/thumb/Warped_Roots_JE1_BE1.png/150px-Warped_Roots_JE1_BE1.png",
         "blast_resistance": 0.0,
         "fire_catch": true,
@@ -8313,7 +8313,7 @@
         "transparent": true
     },
     "warped_wart_block": {
-        "name": "Warped_Wart_Block",
+        "name": "Warped Wart Block",
         "image_url": "https://minecraft.wiki/images/thumb/Warped_Wart_Block_JE1_BE1.png/160px-Warped_Wart_Block_JE1_BE1.png",
         "blast_resistance": 1.0,
         "fire_catch": false,
@@ -8330,7 +8330,7 @@
         "transparent": false
     },
     "weeping_vines": {
-        "name": "Weeping_Vines",
+        "name": "Weeping Vines",
         "image_url": "https://minecraft.wiki/images/thumb/Weeping_Vines_Plant_JE1.png/150px-Weeping_Vines_Plant_JE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -8348,7 +8348,7 @@
     },
     "wildflowers": {
         "name": "Wildflowers",
-        "image_url": "https://minecraft.wiki/images/thumb/Wildflowers_1_%28S%29_JE1.png/150px-Wildflowers_1_%28S%29_JE1.png",
+        "image_url": "https://minecraft.wiki/images/Wildflowers_4_%28S%29_JE1.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
         "flammable": true,
@@ -8363,25 +8363,8 @@
         ],
         "transparent": true
     },
-    "wither_skeleton_skull": {
-        "name": "Wither_Skeleton_Skull",
-        "image_url": "https://minecraft.wiki/images/thumb/Wither_Skeleton_Skull_%28S%29_JE2.png/150px-Wither_Skeleton_Skull_%28S%29_JE2.png",
-        "blast_resistance": 1.0,
-        "fire_catch": false,
-        "flammable": false,
-        "hardness": 1.0,
-        "initial_release": "1.4.2",
-        "luminous": false,
-        "map_color": "NONE",
-        "renewable": true,
-        "stackable": 64,
-        "tool": [
-            "Any"
-        ],
-        "transparent": false
-    },
     "wither_rose": {
-        "name": "Wither_Rose",
+        "name": "Wither Rose",
         "image_url": "https://minecraft.wiki/images/thumb/Wither_Rose_JE1_BE3.png/150px-Wither_Rose_JE1_BE3.png",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -8396,6 +8379,23 @@
             "Any"
         ],
         "transparent": true
+    },
+    "wither_skeleton_skull": {
+        "name": "Wither Skeleton Skull",
+        "image_url": "https://minecraft.wiki/images/thumb/Wither_Skeleton_Skull_%28S%29_JE2.png/150px-Wither_Skeleton_Skull_%28S%29_JE2.png",
+        "blast_resistance": 1.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 1.0,
+        "initial_release": "1.4.2",
+        "luminous": false,
+        "map_color": "NONE",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Any"
+        ],
+        "transparent": false
     },
     "wood": {
         "name": "Wood",
@@ -8551,7 +8551,7 @@
         "transparent": false
     },
     "zombie_head": {
-        "name": "Zombie_Head",
+        "name": "Zombie Head",
         "image_url": "https://minecraft.wiki/images/thumb/Zombie_Head_%28S%29_JE2.png/150px-Zombie_Head_%28S%29_JE2.png",
         "blast_resistance": 1.0,
         "fire_catch": false,

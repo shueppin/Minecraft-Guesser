@@ -70,6 +70,9 @@ def download_all_elements_from_table(output_file_name: str, table_page_title: st
                     continue
                 name = redirected_page  # Change the name
 
+            # Remove the underscores from the name to have consistency
+            name = name.replace("_", " ")
+
             if name in elements_dict:
                 logger.warning(f'Skipping "{name}" as it already exists')
                 progress_bar.update(1)
