@@ -1,6 +1,10 @@
 import logging
 import re
-from data_scraper.cleanup_text import remove_escaped_chars
+from data_scraper.cleanup_text import remove_problem_chars
+
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(format="%(levelname)s %(name)s: %(message)s")
 
 
 def _remove_edition_keywords(text: str) -> str:
@@ -78,7 +82,7 @@ def extract_first_yes_no_partial(text: str, hardcoded_values_dict: dict=None) ->
     if text in hardcoded_values_dict:
         return hardcoded_values_dict[text]
 
-    java_edition_part = get_java_edition_part(remove_escaped_chars(text)).lower()
+    java_edition_part = get_java_edition_part(remove_problem_chars(text)).lower()
 
     """Extract first status token among Yes/No/Partial."""
     match = re.search(r"(Yes|No|Partial)", java_edition_part, flags=re.IGNORECASE)
@@ -96,7 +100,7 @@ def extract_first_number(text: str) -> float:
     return float(match.group(0)) if match else 0.0
 
 
-def extract_all_from_word_list(text: str, word_list: list, case_sensitive=True) -> list:
+def extract_all_from_word_list(text: str, word_list: list, case_sensitive=True, output_unknown_if_empty=True) -> list:
     output = []
 
     if case_sensitive:
@@ -108,12 +112,18 @@ def extract_all_from_word_list(text: str, word_list: list, case_sensitive=True) 
             if word.lower() in text.lower():
                 output.append(word)
 
-    return output
+    if output_unknown_if_empty:
+        if output:
+            return output
+        else:
+            return ["Unknown"]
+    else:
+        return output
 
 
 def extract_stack_size(text: str) -> int:
     """Extract stack size from patterns like 'Yes (64)' -> 64."""
-    java_edition_part = get_java_edition_part(remove_escaped_chars(text))
+    java_edition_part = get_java_edition_part(remove_problem_chars(text))
     match = re.search(r"\((\d+)\)", java_edition_part)
     return int(match.group(1)) if match else 1
 
@@ -130,7 +140,7 @@ class DataParser:
             return ""
         output: str = self.data_dict.get(key, "")
         if not output:
-            logging.warning(f"Key {key} not found in {self.data_dict}")
+            logger.warning(f'Key "{key}" not found in {self.data_dict}')
             return ""
         return str(output)
 
