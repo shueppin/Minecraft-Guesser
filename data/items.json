@@ -15,7 +15,7 @@
         "name": "Apple",
         "image_url": "https://minecraft.wiki/images/Apple_JE3_BE3.png",
         "initial_release": "pre-alpha",
-        "drops_from_block": false,
+        "drops_from_block": true,
         "obtaining": [
             "Container loot",
             "Trading"
@@ -214,7 +214,7 @@
         "name": "Book",
         "image_url": "https://minecraft.wiki/images/Book_JE2_BE2.png",
         "initial_release": "Alpha 1.0.11",
-        "drops_from_block": false,
+        "drops_from_block": true,
         "obtaining": [
             "Container loot",
             "Crafting",
@@ -2422,7 +2422,7 @@
         "name": "Melon Slice",
         "image_url": "https://minecraft.wiki/images/Melon_Slice_JE2_BE2.png",
         "initial_release": "Beta 1.8",
-        "drops_from_block": false,
+        "drops_from_block": true,
         "obtaining": [
             "None"
         ],
@@ -3733,7 +3733,7 @@
         "name": "Stick",
         "image_url": "https://minecraft.wiki/images/Stick_JE1_BE1.png",
         "initial_release": "pre-alpha",
-        "drops_from_block": false,
+        "drops_from_block": true,
         "obtaining": [
             "Container loot",
             "Crafting",

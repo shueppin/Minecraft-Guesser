@@ -103,8 +103,8 @@ def extract_obtaining(text: str, item_name: str) -> list:
     return sorted(list(obtaining_values))
 
 
-def extract_is_from_block(text: str) -> bool:
-    if "Breaking" in text or "Farming" in text or "Mining" in text:
+def extract_drops_from_block(text: str) -> bool:
+    if "Breaking" in text or "Farming" in text or "Mining" in text or "Block loot" in text:
         return True
     return False
 
@@ -142,7 +142,7 @@ def normalize_items():
                 "image_url": image_url,
                 "initial_release": p.get_raw("version"),
 
-                "drops_from_block": extract_is_from_block(p.get_raw("toc obtaining")),
+                "drops_from_block": extract_drops_from_block(p.get_raw("toc obtaining")),
                 "obtaining": extract_obtaining(p.get_raw("toc obtaining"), raw_item_name),
                 "rarity": p.extract_first_from_word_list("rarity tier", RARITY_VALUES, unknown_value="Common"),
                 "renewable": p.extract_first_yes_no_partial("renewable", hardcoded_values_dict=FIXED_RENEWABLE_VALUES),

@@ -4,7 +4,8 @@ A guessing game where you identify Minecraft mobs, items, and blocks. Get hints 
 
 Visit it on [https://shueppin.github.io/Minecraft-Guesser/](https://shueppin.github.io/Minecraft-Guesser/).
 
-This project is inspired by and uses data from [mcdle.net](https://mcdle.net).
+The data of this project is obtained from the [Minecraft wiki](https://minecraft.wiki).  
+This project is inspired by [mcdle.net](https://mcdle.net).
 
 
 ## Features
@@ -29,4 +30,4 @@ This project is inspired by and uses data from [mcdle.net](https://mcdle.net).
 
 ## Attribution
 
-This project is inspired by and uses data from [mcdle.net](https://mcdle.net). Consider visiting and supporting them!
+Big thanks to the [Minecraft wiki](https://minecraft.wiki) for providing the data and their API.
