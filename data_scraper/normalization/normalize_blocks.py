@@ -195,12 +195,12 @@ def normalize_blocks() -> None:
             new_block_data : dict[str, Any] = {
                 "name": raw_block_name,
                 "image_url": image_url,
+                "initial_release": p.get_raw("version"),
 
                 "blast_resistance": p.extract_first_number("blast resistance"),
                 "fire_catch": p.extract_first_yes_no_partial("catches fire from lava", hardcoded_values_dict=FIXED_FIRE_CATCH_VALUES),
                 "flammable": p.extract_first_yes_no_partial("flammable", hardcoded_values_dict=FIXED_FLAMMABLE_VALUES),
                 "hardness": p.extract_first_number("hardness"),
-                "initial_release": p.get_raw("version"),
                 "luminous": LUMINOUS_VALUES[p.get_raw("luminous")],
                 "map_color": extract_map_color(p.get_raw("map color")),
                 "renewable": p.extract_first_yes_no_partial("renewable", hardcoded_values_dict=FIXED_RENEWABLE_VALUES),

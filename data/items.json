@@ -1,0 +1,4225 @@
+{
+    "amethyst_shard": {
+        "name": "Amethyst Shard",
+        "image_url": "https://minecraft.wiki/images/Amethyst_Shard_JE2_BE1.png",
+        "initial_release": "1.17",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "apple": {
+        "name": "Apple",
+        "image_url": "https://minecraft.wiki/images/Apple_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "armadillo_scute": {
+        "name": "Armadillo Scute",
+        "image_url": "https://minecraft.wiki/images/Armadillo_Scute_JE2_BE2.png",
+        "initial_release": "1.20.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "arrow": {
+        "name": "Arrow",
+        "image_url": "https://minecraft.wiki/images/Arrow_%28item%29_JE1_BE1.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "baked_potato": {
+        "name": "Baked Potato",
+        "image_url": "https://minecraft.wiki/images/Baked_Potato_JE4_BE2.png",
+        "initial_release": "1.4.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "beetroot": {
+        "name": "Beetroot",
+        "image_url": "https://minecraft.wiki/images/Beetroot_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": true,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "beetroot_seeds": {
+        "name": "Beetroot Seeds",
+        "image_url": "https://minecraft.wiki/images/Beetroot_Seeds_JE3_BE3.png",
+        "initial_release": "1.9",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "beetroot_soup": {
+        "name": "Beetroot Soup",
+        "image_url": "https://minecraft.wiki/images/Beetroot_Soup_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "black_dye": {
+        "name": "Black Dye",
+        "image_url": "https://minecraft.wiki/images/Black_Dye_JE2_BE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "blaze_powder": {
+        "name": "Blaze Powder",
+        "image_url": "https://minecraft.wiki/images/Blaze_Powder_JE2_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "blaze_rod": {
+        "name": "Blaze Rod",
+        "image_url": "https://minecraft.wiki/images/Blaze_Rod_JE1_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "blue_dye": {
+        "name": "Blue Dye",
+        "image_url": "https://minecraft.wiki/images/Blue_Dye_JE2_BE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "boat": {
+        "name": "Boat",
+        "image_url": "https://minecraft.wiki/images/thumb/Oak_Boat_JE4_BE2.png/160px-Oak_Boat_JE4_BE2.png",
+        "initial_release": "Alpha 1.0.6",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "boat_with_chest": {
+        "name": "Boat with Chest",
+        "image_url": "https://minecraft.wiki/images/thumb/Oak_Boat_with_Chest_JE2_BE1.png/160px-Oak_Boat_with_Chest_JE2_BE1.png",
+        "initial_release": "1.19",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bone": {
+        "name": "Bone",
+        "image_url": "https://minecraft.wiki/images/Bone_JE3_BE2.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Fishing",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "bone_meal": {
+        "name": "Bone Meal",
+        "image_url": "https://minecraft.wiki/images/Bone_Meal_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "book": {
+        "name": "Book",
+        "image_url": "https://minecraft.wiki/images/Book_JE2_BE2.png",
+        "initial_release": "Alpha 1.0.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "book_and_quill": {
+        "name": "Book and Quill",
+        "image_url": "https://minecraft.wiki/images/Book_and_Quill_JE2_BE2.png",
+        "initial_release": "1.3.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bordure_indented_banner_pattern": {
+        "name": "Bordure Indented Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Bordure_Indented_Banner_Pattern_JE1_BE2.png",
+        "initial_release": "1.21.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bottle_o'_enchanting": {
+        "name": "Bottle o' Enchanting",
+        "image_url": "https://minecraft.wiki/images/Bottle_o%27_Enchanting.gif",
+        "initial_release": "1.2.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Trading"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 64
+    },
+    "bow": {
+        "name": "Bow",
+        "image_url": "https://minecraft.wiki/images/Bow_JE2_BE1.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Fishing",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bowl": {
+        "name": "Bowl",
+        "image_url": "https://minecraft.wiki/images/Bowl_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Fishing",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "bread": {
+        "name": "Bread",
+        "image_url": "https://minecraft.wiki/images/Bread_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "breeze_rod": {
+        "name": "Breeze Rod",
+        "image_url": "https://minecraft.wiki/images/Breeze_Rod_JE1_BE1.png",
+        "initial_release": "1.20.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "brick": {
+        "name": "Brick",
+        "image_url": "https://minecraft.wiki/images/Brick_JE2_BE2.png",
+        "initial_release": "Alpha 1.0.11",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Smelting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "brown_dye": {
+        "name": "Brown Dye",
+        "image_url": "https://minecraft.wiki/images/Brown_Dye_JE2_BE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "brush": {
+        "name": "Brush",
+        "image_url": "https://minecraft.wiki/images/Brush_JE1_BE1.png",
+        "initial_release": "1.19.4",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bucket": {
+        "name": "Bucket",
+        "image_url": "https://minecraft.wiki/images/Bucket_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 16
+    },
+    "bucket_of_axolotl": {
+        "name": "Bucket of Axolotl",
+        "image_url": "https://minecraft.wiki/images/Bucket_of_Axolotl_JE1_BE1.png",
+        "initial_release": "1.17",
+        "drops_from_block": false,
+        "obtaining": [
+            "Other"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bucket_of_cod": {
+        "name": "Bucket of Cod",
+        "image_url": "https://minecraft.wiki/images/Bucket_of_Cod_JE2_BE3.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Other",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bucket_of_pufferfish": {
+        "name": "Bucket of Pufferfish",
+        "image_url": "https://minecraft.wiki/images/Bucket_of_Pufferfish_JE2_BE2.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot",
+            "Other",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bucket_of_salmon": {
+        "name": "Bucket of Salmon",
+        "image_url": "https://minecraft.wiki/images/Bucket_of_Salmon_JE2_BE3.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Other"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bucket_of_sulfur_cube": {
+        "name": "Bucket of Sulfur Cube",
+        "image_url": "https://minecraft.wiki/images/Bucket_of_Sulfur_Cube_JE1_BE1.png",
+        "initial_release": "26.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Other"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bucket_of_tadpole": {
+        "name": "Bucket of Tadpole",
+        "image_url": "https://minecraft.wiki/images/Bucket_of_Tadpole_JE1_BE1.png",
+        "initial_release": "1.19",
+        "drops_from_block": false,
+        "obtaining": [
+            "Other"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bucket_of_tropical_fish": {
+        "name": "Bucket of Tropical Fish",
+        "image_url": "https://minecraft.wiki/images/Bucket_of_Tropical_Fish_JE3_BE3.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot",
+            "Other",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "bundle": {
+        "name": "Bundle",
+        "image_url": "https://minecraft.wiki/images/Bundle_JE2_BE2.png",
+        "initial_release": "1.17",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "carrot": {
+        "name": "Carrot",
+        "image_url": "https://minecraft.wiki/images/Carrot_JE3_BE2.png",
+        "initial_release": "1.4.2",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "carrot_on_a_stick": {
+        "name": "Carrot on a Stick",
+        "image_url": "https://minecraft.wiki/images/Carrot_on_a_Stick_JE2_BE2.png",
+        "initial_release": "1.4.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "chainmail_boots": {
+        "name": "Chainmail Boots",
+        "image_url": "https://minecraft.wiki/images/thumb/Chainmail_Boots_JE2_BE2.png/160px-Chainmail_Boots_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "chainmail_chestplate": {
+        "name": "Chainmail Chestplate",
+        "image_url": "https://minecraft.wiki/images/thumb/Chainmail_Chestplate_JE3_BE2.png/160px-Chainmail_Chestplate_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "chainmail_helmet": {
+        "name": "Chainmail Helmet",
+        "image_url": "https://minecraft.wiki/images/thumb/Chainmail_Helmet_JE3_BE2.png/160px-Chainmail_Helmet_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "chainmail_leggings": {
+        "name": "Chainmail Leggings",
+        "image_url": "https://minecraft.wiki/images/thumb/Chainmail_Leggings_JE2_BE2.png/160px-Chainmail_Leggings_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "charcoal": {
+        "name": "Charcoal",
+        "image_url": "https://minecraft.wiki/images/Charcoal_JE4_BE4.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": true,
+        "obtaining": [
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "chorus_fruit": {
+        "name": "Chorus Fruit",
+        "image_url": "https://minecraft.wiki/images/Chorus_Fruit_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": true,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "clay_ball": {
+        "name": "Clay Ball",
+        "image_url": "https://minecraft.wiki/images/Clay_Ball_JE2_BE2.png",
+        "initial_release": "Alpha 1.0.11",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "clock": {
+        "name": "Clock",
+        "image_url": "https://minecraft.wiki/images/Clock_JE3_BE3.gif",
+        "initial_release": "Alpha 1.2.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "coal": {
+        "name": "Coal",
+        "image_url": "https://minecraft.wiki/images/Coal_JE4_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "cocoa_beans": {
+        "name": "Cocoa Beans",
+        "image_url": "https://minecraft.wiki/images/thumb/Cocoa_Age_0_%28S%29_JE5.png/150px-Cocoa_Age_0_%28S%29_JE5.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Fishing"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "compass": {
+        "name": "Compass",
+        "image_url": "https://minecraft.wiki/images/Compass_JE3_BE3.gif",
+        "initial_release": "Alpha 1.1.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "cooked_chicken": {
+        "name": "Cooked Chicken",
+        "image_url": "https://minecraft.wiki/images/Cooked_Chicken_JE3_BE3.png",
+        "initial_release": "Beta 1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Smelting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "cooked_cod": {
+        "name": "Cooked Cod",
+        "image_url": "https://minecraft.wiki/images/Cooked_Cod_JE4_BE3.png",
+        "initial_release": "Alpha 1.2.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Smelting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "cooked_mutton": {
+        "name": "Cooked Mutton",
+        "image_url": "https://minecraft.wiki/images/Cooked_Mutton_JE3_BE2.png",
+        "initial_release": "1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot",
+            "Smelting",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "cooked_porkchop": {
+        "name": "Cooked Porkchop",
+        "image_url": "https://minecraft.wiki/images/Cooked_Porkchop_JE4_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Smelting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "cooked_rabbit": {
+        "name": "Cooked Rabbit",
+        "image_url": "https://minecraft.wiki/images/Cooked_Rabbit_JE3_BE2.png",
+        "initial_release": "1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot",
+            "Smelting",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "cooked_salmon": {
+        "name": "Cooked Salmon",
+        "image_url": "https://minecraft.wiki/images/Cooked_Salmon_JE2_BE2.png",
+        "initial_release": "1.7.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Smelting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "cookie": {
+        "name": "Cookie",
+        "image_url": "https://minecraft.wiki/images/Cookie_JE2_BE2.png",
+        "initial_release": "Beta 1.4",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "copper_axe": {
+        "name": "Copper Axe",
+        "image_url": "https://minecraft.wiki/images/Copper_Axe_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "copper_boots": {
+        "name": "Copper Boots",
+        "image_url": "https://minecraft.wiki/images/thumb/Copper_Boots_JE1_BE1.png/160px-Copper_Boots_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "copper_chestplate": {
+        "name": "Copper Chestplate",
+        "image_url": "https://minecraft.wiki/images/thumb/Copper_Chestplate_JE1_BE1.png/160px-Copper_Chestplate_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "copper_helmet": {
+        "name": "Copper Helmet",
+        "image_url": "https://minecraft.wiki/images/thumb/Copper_Helmet_JE1_BE1.png/160px-Copper_Helmet_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "copper_hoe": {
+        "name": "Copper Hoe",
+        "image_url": "https://minecraft.wiki/images/Copper_Hoe_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "copper_horse_armor": {
+        "name": "Copper Horse Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Copper_Horse_Armor_JE1_BE1.png/160px-Copper_Horse_Armor_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "copper_ingot": {
+        "name": "Copper Ingot",
+        "image_url": "https://minecraft.wiki/images/Copper_Ingot_JE2_BE1.png",
+        "initial_release": "1.17",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "copper_leggings": {
+        "name": "Copper Leggings",
+        "image_url": "https://minecraft.wiki/images/thumb/Copper_Leggings_JE1_BE1.png/160px-Copper_Leggings_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "copper_nautilus_armor": {
+        "name": "Copper Nautilus Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Copper_Nautilus_Armor_JE1_BE2.png/160px-Copper_Nautilus_Armor_JE1_BE2.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "copper_nugget": {
+        "name": "Copper Nugget",
+        "image_url": "https://minecraft.wiki/images/Copper_Nugget_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "copper_pickaxe": {
+        "name": "Copper Pickaxe",
+        "image_url": "https://minecraft.wiki/images/Copper_Pickaxe_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "copper_shovel": {
+        "name": "Copper Shovel",
+        "image_url": "https://minecraft.wiki/images/Copper_Shovel_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "copper_spear": {
+        "name": "Copper Spear",
+        "image_url": "https://minecraft.wiki/images/Held_Copper_Spear_JE2_BE1.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "copper_sword": {
+        "name": "Copper Sword",
+        "image_url": "https://minecraft.wiki/images/Copper_Sword_JE1_BE1.png",
+        "initial_release": "1.21.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "creeper_charge_banner_pattern": {
+        "name": "Creeper Charge Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Creeper_Charge_Banner_Pattern_JE2_BE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "crossbow": {
+        "name": "Crossbow",
+        "image_url": "https://minecraft.wiki/images/Crossbow.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "cyan_dye": {
+        "name": "Cyan Dye",
+        "image_url": "https://minecraft.wiki/images/Cyan_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "debug_stick": {
+        "name": "Debug Stick",
+        "image_url": "https://minecraft.wiki/images/Debug_Stick.gif",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Epic",
+        "renewable": false,
+        "stackable": 1
+    },
+    "diamond": {
+        "name": "Diamond",
+        "image_url": "https://minecraft.wiki/images/Diamond_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 64
+    },
+    "diamond_axe": {
+        "name": "Diamond Axe",
+        "image_url": "https://minecraft.wiki/images/Diamond_Axe_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "diamond_boots": {
+        "name": "Diamond Boots",
+        "image_url": "https://minecraft.wiki/images/thumb/Diamond_Boots_JE2_BE2.png/160px-Diamond_Boots_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "diamond_chestplate": {
+        "name": "Diamond Chestplate",
+        "image_url": "https://minecraft.wiki/images/thumb/Diamond_Chestplate_JE3_BE2.png/160px-Diamond_Chestplate_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "diamond_helmet": {
+        "name": "Diamond Helmet",
+        "image_url": "https://minecraft.wiki/images/thumb/Diamond_Helmet_JE2_BE2.png/160px-Diamond_Helmet_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "diamond_hoe": {
+        "name": "Diamond Hoe",
+        "image_url": "https://minecraft.wiki/images/Diamond_Hoe_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "diamond_horse_armor": {
+        "name": "Diamond Horse Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Diamond_Horse_Armor_JE4_BE3.png/160px-Diamond_Horse_Armor_JE4_BE3.png",
+        "initial_release": "1.6.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "diamond_leggings": {
+        "name": "Diamond Leggings",
+        "image_url": "https://minecraft.wiki/images/thumb/Diamond_Leggings_JE2_BE2.png/160px-Diamond_Leggings_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "diamond_nautilus_armor": {
+        "name": "Diamond Nautilus Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Diamond_Nautilus_Armor_JE1_BE2.png/160px-Diamond_Nautilus_Armor_JE1_BE2.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "diamond_pickaxe": {
+        "name": "Diamond Pickaxe",
+        "image_url": "https://minecraft.wiki/images/Diamond_Pickaxe_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "diamond_shovel": {
+        "name": "Diamond Shovel",
+        "image_url": "https://minecraft.wiki/images/Diamond_Shovel_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "diamond_spear": {
+        "name": "Diamond Spear",
+        "image_url": "https://minecraft.wiki/images/Held_Diamond_Spear_JE2_BE1.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "diamond_sword": {
+        "name": "Diamond Sword",
+        "image_url": "https://minecraft.wiki/images/Diamond_Sword_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "disc_fragment": {
+        "name": "Disc Fragment",
+        "image_url": "https://minecraft.wiki/images/Disc_Fragment_5_JE1_BE1.png",
+        "initial_release": "1.19",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 64
+    },
+    "dragon's_breath": {
+        "name": "Dragon's Breath",
+        "image_url": "https://minecraft.wiki/images/Dragon%27s_Breath_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 64
+    },
+    "dried_kelp": {
+        "name": "Dried Kelp",
+        "image_url": "https://minecraft.wiki/images/Dried_Kelp_JE1_BE2.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "echo_shard": {
+        "name": "Echo Shard",
+        "image_url": "https://minecraft.wiki/images/Echo_Shard_JE1_BE1.png",
+        "initial_release": "1.19",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 64
+    },
+    "egg": {
+        "name": "Egg",
+        "image_url": "https://minecraft.wiki/images/Egg_JE2_BE2.png",
+        "initial_release": "Alpha 1.0.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 16
+    },
+    "elytra": {
+        "name": "Elytra",
+        "image_url": "https://minecraft.wiki/images/thumb/Elytra_JE2_BE2.png/160px-Elytra_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Epic",
+        "renewable": false,
+        "stackable": 1
+    },
+    "emerald": {
+        "name": "Emerald",
+        "image_url": "https://minecraft.wiki/images/Emerald_JE3_BE3.png",
+        "initial_release": "1.3.1",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Smelting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "enchanted_book": {
+        "name": "Enchanted Book",
+        "image_url": "https://minecraft.wiki/images/Enchanted_Book.gif",
+        "initial_release": "1.4.6",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Container loot",
+            "Fishing",
+            "Trading"
+        ],
+        "rarity": "Rare",
+        "renewable": "Partial",
+        "stackable": 1
+    },
+    "enchanted_golden_apple": {
+        "name": "Enchanted Golden Apple",
+        "image_url": "https://minecraft.wiki/images/Enchanted_Golden_Apple_JE2_BE2.gif",
+        "initial_release": "1.3.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Rare",
+        "renewable": false,
+        "stackable": 64
+    },
+    "end_crystal": {
+        "name": "End Crystal",
+        "image_url": "https://minecraft.wiki/images/End_Crystal_%28item%29_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "ender_pearl": {
+        "name": "Ender Pearl",
+        "image_url": "https://minecraft.wiki/images/Ender_Pearl_JE3_BE2.png",
+        "initial_release": "Beta 1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Container loot",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 16
+    },
+    "explorer_map": {
+        "name": "Explorer Map",
+        "image_url": "https://minecraft.wiki/images/Ocean_Explorer_Map_JE2.png",
+        "initial_release": "1.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": "Partial",
+        "stackable": 64
+    },
+    "eye_of_ender": {
+        "name": "Eye of Ender",
+        "image_url": "https://minecraft.wiki/images/Eye_of_Ender_JE2_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "feather": {
+        "name": "Feather",
+        "image_url": "https://minecraft.wiki/images/Feather_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Cat gifts",
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "fermented_spider_eye": {
+        "name": "Fermented Spider Eye",
+        "image_url": "https://minecraft.wiki/images/Fermented_Spider_Eye_JE2_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "field_masoned_banner_pattern": {
+        "name": "Field Masoned Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Field_Masoned_Banner_Pattern_JE1_BE2.png",
+        "initial_release": "1.21.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "fire_charge": {
+        "name": "Fire Charge",
+        "image_url": "https://minecraft.wiki/images/Fire_Charge_JE2_BE2.png",
+        "initial_release": "1.2.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "firework_rocket": {
+        "name": "Firework Rocket",
+        "image_url": "https://minecraft.wiki/images/Firework_Rocket_JE2_BE2.png",
+        "initial_release": "1.4.6",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": "Partial",
+        "stackable": 64
+    },
+    "firework_star": {
+        "name": "Firework Star",
+        "image_url": "https://minecraft.wiki/images/Invicon_White_Firework_Star.png",
+        "initial_release": "1.4.6",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": "Partial",
+        "stackable": 64
+    },
+    "fishing_rod": {
+        "name": "Fishing Rod",
+        "image_url": "https://minecraft.wiki/images/Fishing_Rod_JE2_BE2.png",
+        "initial_release": "Alpha 1.1.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Fishing",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "flint": {
+        "name": "Flint",
+        "image_url": "https://minecraft.wiki/images/Flint_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "flint_and_steel": {
+        "name": "Flint and Steel",
+        "image_url": "https://minecraft.wiki/images/Flint_and_Steel_JE4_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "flow_banner_pattern": {
+        "name": "Flow Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Flow_Banner_Pattern_JE2_BE2.png",
+        "initial_release": "1.20.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Rare",
+        "renewable": false,
+        "stackable": 1
+    },
+    "flower_charge_banner_pattern": {
+        "name": "Flower Charge Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Flower_Charge_Banner_Pattern_JE2_BE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "ghast_tear": {
+        "name": "Ghast Tear",
+        "image_url": "https://minecraft.wiki/images/Ghast_Tear_JE2_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "glass_bottle": {
+        "name": "Glass Bottle",
+        "image_url": "https://minecraft.wiki/images/Glass_Bottle_JE2_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "glistering_melon_slice": {
+        "name": "Glistering Melon Slice",
+        "image_url": "https://minecraft.wiki/images/Glistering_Melon_Slice_JE3_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "globe_banner_pattern": {
+        "name": "Globe Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Globe_Banner_Pattern_JE2_BE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "glow_berries": {
+        "name": "Glow Berries",
+        "image_url": "https://minecraft.wiki/images/Glow_Berries_JE1_BE1.png",
+        "initial_release": "1.17",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "glow_ink_sac": {
+        "name": "Glow Ink Sac",
+        "image_url": "https://minecraft.wiki/images/Glow_Ink_Sac_JE1_BE1.png",
+        "initial_release": "1.17",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "glow_item_frame": {
+        "name": "Glow Item Frame",
+        "image_url": "https://minecraft.wiki/images/thumb/Glow_Item_Frame_JE1_BE3.png/150px-Glow_Item_Frame_JE1_BE3.png",
+        "initial_release": "1.17",
+        "drops_from_block": true,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "glowstone_dust": {
+        "name": "Glowstone Dust",
+        "image_url": "https://minecraft.wiki/images/Glowstone_Dust_JE2_BE2.png",
+        "initial_release": "Alpha 1.2.0",
+        "drops_from_block": true,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "goat_horn": {
+        "name": "Goat Horn",
+        "image_url": "https://minecraft.wiki/images/Goat_Horn_JE1_BE1.png",
+        "initial_release": "1.19",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "gold_ingot": {
+        "name": "Gold Ingot",
+        "image_url": "https://minecraft.wiki/images/Gold_Ingot_JE4_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "gold_nugget": {
+        "name": "Gold Nugget",
+        "image_url": "https://minecraft.wiki/images/Gold_Nugget_JE3_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "golden_apple": {
+        "name": "Golden Apple",
+        "image_url": "https://minecraft.wiki/images/Golden_Apple_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "golden_axe": {
+        "name": "Golden Axe",
+        "image_url": "https://minecraft.wiki/images/Golden_Axe_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "golden_boots": {
+        "name": "Golden Boots",
+        "image_url": "https://minecraft.wiki/images/thumb/Golden_Boots_JE2_BE2.png/160px-Golden_Boots_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "golden_carrot": {
+        "name": "Golden Carrot",
+        "image_url": "https://minecraft.wiki/images/Golden_Carrot_JE4_BE2.png",
+        "initial_release": "1.4.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "golden_chestplate": {
+        "name": "Golden Chestplate",
+        "image_url": "https://minecraft.wiki/images/thumb/Golden_Chestplate_JE2_BE2.png/160px-Golden_Chestplate_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "golden_helmet": {
+        "name": "Golden Helmet",
+        "image_url": "https://minecraft.wiki/images/thumb/Golden_Helmet_JE2_BE2.png/160px-Golden_Helmet_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "golden_hoe": {
+        "name": "Golden Hoe",
+        "image_url": "https://minecraft.wiki/images/Golden_Hoe_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "golden_horse_armor": {
+        "name": "Golden Horse Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Golden_Horse_Armor_JE4_BE3.png/160px-Golden_Horse_Armor_JE4_BE3.png",
+        "initial_release": "1.6.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "golden_leggings": {
+        "name": "Golden Leggings",
+        "image_url": "https://minecraft.wiki/images/thumb/Golden_Leggings_JE2_BE2.png/160px-Golden_Leggings_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "golden_nautilus_armor": {
+        "name": "Golden Nautilus Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Golden_Nautilus_Armor_JE1_BE2.png/160px-Golden_Nautilus_Armor_JE1_BE2.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "golden_pickaxe": {
+        "name": "Golden Pickaxe",
+        "image_url": "https://minecraft.wiki/images/Golden_Pickaxe_JE4_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "golden_shovel": {
+        "name": "Golden Shovel",
+        "image_url": "https://minecraft.wiki/images/Golden_Shovel_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "golden_spear": {
+        "name": "Golden Spear",
+        "image_url": "https://minecraft.wiki/images/Held_Golden_Spear_JE2_BE1.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "golden_sword": {
+        "name": "Golden Sword",
+        "image_url": "https://minecraft.wiki/images/Golden_Sword_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "gray_dye": {
+        "name": "Gray Dye",
+        "image_url": "https://minecraft.wiki/images/Gray_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "green_dye": {
+        "name": "Green Dye",
+        "image_url": "https://minecraft.wiki/images/Green_Dye_JE4_BE4.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Smelting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "gunpowder": {
+        "name": "Gunpowder",
+        "image_url": "https://minecraft.wiki/images/Gunpowder_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "guster_banner_pattern": {
+        "name": "Guster Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Guster_Banner_Pattern_JE2_BE2.png",
+        "initial_release": "1.20.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Rare",
+        "renewable": false,
+        "stackable": 1
+    },
+    "harness": {
+        "name": "Harness",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Ghast_Harness_Goggles_Up.png/160px-White_Ghast_Harness_Goggles_Up.png",
+        "initial_release": "1.21.6",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "heart_of_the_sea": {
+        "name": "Heart of the Sea",
+        "image_url": "https://minecraft.wiki/images/Heart_of_the_Sea_JE1_BE2.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 64
+    },
+    "honey_bottle": {
+        "name": "Honey Bottle",
+        "image_url": "https://minecraft.wiki/images/Honey_Bottle_JE1_BE2.png",
+        "initial_release": "1.15",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 16
+    },
+    "honeycomb": {
+        "name": "Honeycomb",
+        "image_url": "https://minecraft.wiki/images/Honeycomb_JE2_BE2.png",
+        "initial_release": "1.15",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "ink_sac": {
+        "name": "Ink Sac",
+        "image_url": "https://minecraft.wiki/images/Ink_Sac_JE2_BE2.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Fishing",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "iron_axe": {
+        "name": "Iron Axe",
+        "image_url": "https://minecraft.wiki/images/Iron_Axe_JE5_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "iron_boots": {
+        "name": "Iron Boots",
+        "image_url": "https://minecraft.wiki/images/thumb/Iron_Boots_JE2_BE2.png/160px-Iron_Boots_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "iron_chestplate": {
+        "name": "Iron Chestplate",
+        "image_url": "https://minecraft.wiki/images/thumb/Iron_Chestplate_JE2_BE2.png/160px-Iron_Chestplate_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "iron_helmet": {
+        "name": "Iron Helmet",
+        "image_url": "https://minecraft.wiki/images/thumb/Iron_Helmet_JE2_BE2.png/160px-Iron_Helmet_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "iron_hoe": {
+        "name": "Iron Hoe",
+        "image_url": "https://minecraft.wiki/images/Iron_Hoe_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "iron_horse_armor": {
+        "name": "Iron Horse Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Iron_Horse_Armor_JE5_BE3.png/160px-Iron_Horse_Armor_JE5_BE3.png",
+        "initial_release": "1.6.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "iron_ingot": {
+        "name": "Iron Ingot",
+        "image_url": "https://minecraft.wiki/images/Iron_Ingot_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "iron_leggings": {
+        "name": "Iron Leggings",
+        "image_url": "https://minecraft.wiki/images/thumb/Iron_Leggings_JE2_BE2.png/160px-Iron_Leggings_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "iron_nautilus_armor": {
+        "name": "Iron Nautilus Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Iron_Nautilus_Armor_JE1_BE2.png/160px-Iron_Nautilus_Armor_JE1_BE2.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "iron_nugget": {
+        "name": "Iron Nugget",
+        "image_url": "https://minecraft.wiki/images/Iron_Nugget_JE1_BE1.png",
+        "initial_release": "1.11.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Container loot",
+            "Crafting",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "iron_pickaxe": {
+        "name": "Iron Pickaxe",
+        "image_url": "https://minecraft.wiki/images/Iron_Pickaxe_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "iron_shovel": {
+        "name": "Iron Shovel",
+        "image_url": "https://minecraft.wiki/images/Iron_Shovel_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "iron_spear": {
+        "name": "Iron Spear",
+        "image_url": "https://minecraft.wiki/images/Held_Iron_Spear_JE2_BE1.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "iron_sword": {
+        "name": "Iron Sword",
+        "image_url": "https://minecraft.wiki/images/Iron_Sword_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "item_frame": {
+        "name": "Item Frame",
+        "image_url": "https://minecraft.wiki/images/thumb/Item_Frame_%28S%29_JE2_BE2.png/150px-Item_Frame_%28S%29_JE2_BE2.png",
+        "initial_release": "1.4.2",
+        "drops_from_block": true,
+        "obtaining": [
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "kelp": {
+        "name": "Kelp",
+        "image_url": "https://minecraft.wiki/images/Kelp_%28item%29_JE1_BE2.png",
+        "initial_release": "1.13",
+        "drops_from_block": true,
+        "obtaining": [
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "knowledge_book": {
+        "name": "Knowledge Book",
+        "image_url": "https://minecraft.wiki/images/Knowledge_Book_JE2.png",
+        "initial_release": "1.12",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Epic",
+        "renewable": false,
+        "stackable": 1
+    },
+    "lapis_lazuli": {
+        "name": "Lapis Lazuli",
+        "image_url": "https://minecraft.wiki/images/Lapis_Lazuli_JE2_BE2.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Smelting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "lava_bucket": {
+        "name": "Lava Bucket",
+        "image_url": "https://minecraft.wiki/images/Lava_Bucket_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Other"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "lead": {
+        "name": "Lead",
+        "image_url": "https://minecraft.wiki/images/Lead_JE2_BE2.png",
+        "initial_release": "1.6.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "leather": {
+        "name": "Leather",
+        "image_url": "https://minecraft.wiki/images/Leather_JE2_BE2.png",
+        "initial_release": "Alpha 1.0.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Container loot",
+            "Crafting",
+            "Fishing",
+            "Mob loot",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "leather_boots": {
+        "name": "Leather Boots",
+        "image_url": "https://minecraft.wiki/images/thumb/Leather_Boots_JE3_BE2.png/160px-Leather_Boots_JE3_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Fishing",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "leather_cap": {
+        "name": "Leather Cap",
+        "image_url": "https://minecraft.wiki/images/thumb/Leather_Cap_JE4_BE2.png/160px-Leather_Cap_JE4_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "leather_horse_armor": {
+        "name": "Leather Horse Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Leather_Horse_Armor_JE2.png/160px-Leather_Horse_Armor_JE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "leather_pants": {
+        "name": "Leather Pants",
+        "image_url": "https://minecraft.wiki/images/thumb/Leather_Pants_JE4_BE2.png/160px-Leather_Pants_JE4_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "leather_tunic": {
+        "name": "Leather Tunic",
+        "image_url": "https://minecraft.wiki/images/thumb/Leather_Tunic_JE4_BE2.png/160px-Leather_Tunic_JE4_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "light_blue_dye": {
+        "name": "Light Blue Dye",
+        "image_url": "https://minecraft.wiki/images/Light_Blue_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "light_gray_dye": {
+        "name": "Light Gray Dye",
+        "image_url": "https://minecraft.wiki/images/Light_Gray_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "lime_dye": {
+        "name": "Lime Dye",
+        "image_url": "https://minecraft.wiki/images/Lime_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Smelting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "lingering_potion": {
+        "name": "Lingering Potion",
+        "image_url": "https://minecraft.wiki/images/Lingering_Water_Bottle_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Brewing",
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "mace": {
+        "name": "Mace",
+        "image_url": "https://minecraft.wiki/images/Mace_JE1_BE1.png",
+        "initial_release": "1.20.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Epic",
+        "renewable": false,
+        "stackable": 1
+    },
+    "magenta_dye": {
+        "name": "Magenta Dye",
+        "image_url": "https://minecraft.wiki/images/Magenta_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "magma_cream": {
+        "name": "Magma Cream",
+        "image_url": "https://minecraft.wiki/images/Magma_Cream_JE3_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "map": {
+        "name": "Map",
+        "image_url": "https://minecraft.wiki/images/thumb/Map_Zoom_4.png/160px-Map_Zoom_4.png",
+        "initial_release": "Beta 1.6",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "melon_seeds": {
+        "name": "Melon Seeds",
+        "image_url": "https://minecraft.wiki/images/Melon_Seeds_JE2_BE2.png",
+        "initial_release": "Beta 1.8",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "melon_slice": {
+        "name": "Melon Slice",
+        "image_url": "https://minecraft.wiki/images/Melon_Slice_JE2_BE2.png",
+        "initial_release": "Beta 1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "milk_bucket": {
+        "name": "Milk Bucket",
+        "image_url": "https://minecraft.wiki/images/Milk_Bucket_JE2_BE2.png",
+        "initial_release": "Alpha 1.0.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "minecart": {
+        "name": "Minecart",
+        "image_url": "https://minecraft.wiki/images/thumb/Minecart_JE4_BE2.png/160px-Minecart_JE4_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "minecart_with_chest": {
+        "name": "Minecart with Chest",
+        "image_url": "https://minecraft.wiki/images/thumb/Minecart_with_Chest_JE4_BE2.png/160px-Minecart_with_Chest_JE4_BE2.png",
+        "initial_release": "Alpha 1.0.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "minecart_with_command_block": {
+        "name": "Minecart with Command Block",
+        "image_url": "https://minecraft.wiki/images/thumb/Minecart_with_Command_Block.gif/160px-Minecart_with_Command_Block.gif",
+        "initial_release": "1.7.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Epic",
+        "renewable": false,
+        "stackable": 1
+    },
+    "minecart_with_furnace": {
+        "name": "Minecart with Furnace",
+        "image_url": "https://minecraft.wiki/images/thumb/Minecart_with_Furnace_JE3.png/160px-Minecart_with_Furnace_JE3.png",
+        "initial_release": "Alpha 1.0.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "minecart_with_hopper": {
+        "name": "Minecart with Hopper",
+        "image_url": "https://minecraft.wiki/images/thumb/Minecart_with_Hopper_JE2_BE2.png/160px-Minecart_with_Hopper_JE2_BE2.png",
+        "initial_release": "1.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "minecart_with_tnt": {
+        "name": "Minecart with TNT",
+        "image_url": "https://minecraft.wiki/images/thumb/Minecart_with_TNT_JE2_BE2.png/160px-Minecart_with_TNT_JE2_BE2.png",
+        "initial_release": "1.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "mushroom_stew": {
+        "name": "Mushroom Stew",
+        "image_url": "https://minecraft.wiki/images/Mushroom_Stew_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_11": {
+        "name": "Music Disc 11",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_11_JE2_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_13": {
+        "name": "Music Disc 13",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_13_JE1_BE1.png",
+        "initial_release": "Alpha 1.0.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_5": {
+        "name": "Music Disc 5",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_5_JE1_BE1.png",
+        "initial_release": "1.19",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 1
+    },
+    "music_disc_bounce": {
+        "name": "Music Disc Bounce",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_Bounce_JE1_BE1.png",
+        "initial_release": "26.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 1
+    },
+    "music_disc_creator": {
+        "name": "Music Disc Creator",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_Creator_JE1_BE1.png",
+        "initial_release": "1.21",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Rare",
+        "renewable": false,
+        "stackable": 1
+    },
+    "music_disc_creator_(music_box)": {
+        "name": "Music Disc Creator (Music Box)",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_Creator_%28Music_Box%29_JE1_BE1.png",
+        "initial_release": "1.21",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 1
+    },
+    "music_disc_lava_chicken": {
+        "name": "Music Disc Lava Chicken",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_Lava_Chicken_JE1_BE1.png",
+        "initial_release": "1.21.7",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Rare",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_pigstep": {
+        "name": "Music Disc Pigstep",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_Pigstep_JE1_BE1.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Rare",
+        "renewable": false,
+        "stackable": 1
+    },
+    "music_disc_precipice": {
+        "name": "Music Disc Precipice",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_Precipice_JE1_BE1.png",
+        "initial_release": "1.21",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 1
+    },
+    "music_disc_relic": {
+        "name": "Music Disc Relic",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_Relic_JE1_BE1.png",
+        "initial_release": "1.20",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 1
+    },
+    "music_disc_tears": {
+        "name": "Music Disc Tears",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_Tears_JE1_BE1.png",
+        "initial_release": "1.21.6",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_blocks": {
+        "name": "Music Disc blocks",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_blocks_JE1_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_cat": {
+        "name": "Music Disc cat",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_cat_JE1_BE1.png",
+        "initial_release": "Alpha 1.0.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_chirp": {
+        "name": "Music Disc chirp",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_chirp_JE1_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_far": {
+        "name": "Music Disc far",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_far_JE1_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_mall": {
+        "name": "Music Disc mall",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_mall_JE1_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_mellohi": {
+        "name": "Music Disc mellohi",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_mellohi_JE1_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_otherside": {
+        "name": "Music Disc otherside",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_otherside_JE1_BE1.png",
+        "initial_release": "1.18",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Rare",
+        "renewable": false,
+        "stackable": 1
+    },
+    "music_disc_stal": {
+        "name": "Music Disc stal",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_stal_JE1_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_strad": {
+        "name": "Music Disc strad",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_strad_JE1_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_wait": {
+        "name": "Music Disc wait",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_wait_JE1_BE1.png",
+        "initial_release": "1.4.3",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "music_disc_ward": {
+        "name": "Music Disc ward",
+        "image_url": "https://minecraft.wiki/images/Music_Disc_ward_JE1_BE1.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "name_tag": {
+        "name": "Name Tag",
+        "image_url": "https://minecraft.wiki/images/Name_Tag_JE3_BE2.png",
+        "initial_release": "1.6.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Fishing",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "nautilus_shell": {
+        "name": "Nautilus Shell",
+        "image_url": "https://minecraft.wiki/images/Nautilus_Shell_JE1_BE2.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Fishing",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 64
+    },
+    "nether_brick": {
+        "name": "Nether Brick",
+        "image_url": "https://minecraft.wiki/images/Nether_Brick_JE2_BE2.png",
+        "initial_release": "1.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "nether_quartz": {
+        "name": "Nether Quartz",
+        "image_url": "https://minecraft.wiki/images/Nether_Quartz_JE2_BE2.png",
+        "initial_release": "1.5",
+        "drops_from_block": true,
+        "obtaining": [
+            "Bartering",
+            "Container loot",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "nether_star": {
+        "name": "Nether Star",
+        "image_url": "https://minecraft.wiki/images/Nether_Star.gif",
+        "initial_release": "1.4.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Rare",
+        "renewable": true,
+        "stackable": 64
+    },
+    "nether_wart": {
+        "name": "Nether Wart",
+        "image_url": "https://minecraft.wiki/images/thumb/Nether_Wart_Age_0_JE8.png/150px-Nether_Wart_Age_0_JE8.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "netherite_axe": {
+        "name": "Netherite Axe",
+        "image_url": "https://minecraft.wiki/images/Netherite_Axe_JE2_BE2.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_boots": {
+        "name": "Netherite Boots",
+        "image_url": "https://minecraft.wiki/images/thumb/Netherite_Boots_JE2_BE1.png/160px-Netherite_Boots_JE2_BE1.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_chestplate": {
+        "name": "Netherite Chestplate",
+        "image_url": "https://minecraft.wiki/images/thumb/Netherite_Chestplate_JE2_BE1.png/160px-Netherite_Chestplate_JE2_BE1.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_helmet": {
+        "name": "Netherite Helmet",
+        "image_url": "https://minecraft.wiki/images/thumb/Netherite_Helmet_JE2_BE1.png/160px-Netherite_Helmet_JE2_BE1.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_hoe": {
+        "name": "Netherite Hoe",
+        "image_url": "https://minecraft.wiki/images/Netherite_Hoe_JE2_BE2.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_horse_armor": {
+        "name": "Netherite Horse Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Netherite_Horse_Armor_JE2_BE1.png/160px-Netherite_Horse_Armor_JE2_BE1.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_ingot": {
+        "name": "Netherite Ingot",
+        "image_url": "https://minecraft.wiki/images/Netherite_Ingot_JE1_BE2.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 64
+    },
+    "netherite_leggings": {
+        "name": "Netherite Leggings",
+        "image_url": "https://minecraft.wiki/images/thumb/Netherite_Leggings_JE3_BE2.png/160px-Netherite_Leggings_JE3_BE2.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_nautilus_armor": {
+        "name": "Netherite Nautilus Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Netherite_Nautilus_Armor_JE1_BE2.png/160px-Netherite_Nautilus_Armor_JE1_BE2.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_pickaxe": {
+        "name": "Netherite Pickaxe",
+        "image_url": "https://minecraft.wiki/images/Netherite_Pickaxe_JE3_BE2.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_scrap": {
+        "name": "Netherite Scrap",
+        "image_url": "https://minecraft.wiki/images/Netherite_Scrap_JE2_BE1.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 64
+    },
+    "netherite_shovel": {
+        "name": "Netherite Shovel",
+        "image_url": "https://minecraft.wiki/images/Netherite_Shovel_JE2_BE1.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_spear": {
+        "name": "Netherite Spear",
+        "image_url": "https://minecraft.wiki/images/Held_Netherite_Spear_JE2_BE1.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_sword": {
+        "name": "Netherite Sword",
+        "image_url": "https://minecraft.wiki/images/Netherite_Sword_JE2_BE2.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 1
+    },
+    "netherite_upgrade": {
+        "name": "Netherite Upgrade",
+        "image_url": "https://minecraft.wiki/images/Netherite_Upgrade_Smithing_Template_JE1_BE1.png",
+        "initial_release": "1.19.4",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 64
+    },
+    "ominous_bottle": {
+        "name": "Ominous Bottle",
+        "image_url": "https://minecraft.wiki/images/Ominous_Bottle_JE1_BE1.png",
+        "initial_release": "1.20.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 64
+    },
+    "ominous_trial_key": {
+        "name": "Ominous Trial Key",
+        "image_url": "https://minecraft.wiki/images/Ominous_Trial_Key_JE1_BE1.png",
+        "initial_release": "1.20.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "orange_dye": {
+        "name": "Orange Dye",
+        "image_url": "https://minecraft.wiki/images/Orange_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "painting": {
+        "name": "Painting",
+        "image_url": "https://minecraft.wiki/images/Painting_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": true,
+        "obtaining": [
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "paper": {
+        "name": "Paper",
+        "image_url": "https://minecraft.wiki/images/Paper_JE2_BE2.png",
+        "initial_release": "Alpha 1.0.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "phantom_membrane": {
+        "name": "Phantom Membrane",
+        "image_url": "https://minecraft.wiki/images/Phantom_Membrane_JE2_BE2.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Cat gifts",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "pink_dye": {
+        "name": "Pink Dye",
+        "image_url": "https://minecraft.wiki/images/Pink_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "pitcher_pod": {
+        "name": "Pitcher Pod",
+        "image_url": "https://minecraft.wiki/images/Pitcher_Pod_JE1_BE1.png",
+        "initial_release": "1.20",
+        "drops_from_block": true,
+        "obtaining": [
+            "Other"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "poisonous_potato": {
+        "name": "Poisonous Potato",
+        "image_url": "https://minecraft.wiki/images/Poisonous_Potato_JE3_BE2.png",
+        "initial_release": "1.4.2",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "popped_chorus_fruit": {
+        "name": "Popped Chorus Fruit",
+        "image_url": "https://minecraft.wiki/images/Popped_Chorus_Fruit_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "potato": {
+        "name": "Potato",
+        "image_url": "https://minecraft.wiki/images/Potato_JE3_BE2.png",
+        "initial_release": "1.4.2",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "potion": {
+        "name": "Potion",
+        "image_url": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Brewing",
+            "Container loot",
+            "Fishing",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "powder_snow_bucket": {
+        "name": "Powder Snow Bucket",
+        "image_url": "https://minecraft.wiki/images/Powder_Snow_Bucket_JE1_BE1.png",
+        "initial_release": "1.17",
+        "drops_from_block": false,
+        "obtaining": [
+            "Other"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "prismarine_crystals": {
+        "name": "Prismarine Crystals",
+        "image_url": "https://minecraft.wiki/images/Prismarine_Crystals_JE2_BE2.png",
+        "initial_release": "1.8",
+        "drops_from_block": true,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "prismarine_shard": {
+        "name": "Prismarine Shard",
+        "image_url": "https://minecraft.wiki/images/Prismarine_Shard_JE2_BE2.png",
+        "initial_release": "1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "pufferfish_(item)": {
+        "name": "Pufferfish (item)",
+        "image_url": "https://minecraft.wiki/images/Pufferfish_%28item%29_JE5_BE2.png",
+        "initial_release": "1.7.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Fishing",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "pumpkin_pie": {
+        "name": "Pumpkin Pie",
+        "image_url": "https://minecraft.wiki/images/Pumpkin_Pie_JE2_BE2.png",
+        "initial_release": "1.4.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "pumpkin_seeds": {
+        "name": "Pumpkin Seeds",
+        "image_url": "https://minecraft.wiki/images/Pumpkin_Seeds_JE1_BE1.png",
+        "initial_release": "Beta 1.8",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "purple_dye": {
+        "name": "Purple Dye",
+        "image_url": "https://minecraft.wiki/images/Purple_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "rabbit_hide": {
+        "name": "Rabbit Hide",
+        "image_url": "https://minecraft.wiki/images/Rabbit_Hide_JE3_BE2.png",
+        "initial_release": "1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Cat gifts",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "rabbit_stew": {
+        "name": "Rabbit Stew",
+        "image_url": "https://minecraft.wiki/images/Rabbit_Stew_JE3_BE2.png",
+        "initial_release": "1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "rabbit's_foot": {
+        "name": "Rabbit's Foot",
+        "image_url": "https://minecraft.wiki/images/Rabbit%27s_Foot_JE3_BE2.png",
+        "initial_release": "1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Cat gifts",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "raw_beef": {
+        "name": "Raw Beef",
+        "image_url": "https://minecraft.wiki/images/Raw_Beef_JE4_BE3.png",
+        "initial_release": "Beta 1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "raw_chicken": {
+        "name": "Raw Chicken",
+        "image_url": "https://minecraft.wiki/images/Raw_Chicken_JE3_BE3.png",
+        "initial_release": "Beta 1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Cat gifts",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "raw_cod": {
+        "name": "Raw Cod",
+        "image_url": "https://minecraft.wiki/images/Raw_Cod_JE4_BE2.png",
+        "initial_release": "Alpha 1.2.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Fishing",
+            "Mob loot",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "raw_copper": {
+        "name": "Raw Copper",
+        "image_url": "https://minecraft.wiki/images/Raw_Copper_JE3_BE2.png",
+        "initial_release": "1.17",
+        "drops_from_block": true,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 64
+    },
+    "raw_gold": {
+        "name": "Raw Gold",
+        "image_url": "https://minecraft.wiki/images/Raw_Gold_JE3_BE2.png",
+        "initial_release": "1.17",
+        "drops_from_block": true,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 64
+    },
+    "raw_iron": {
+        "name": "Raw Iron",
+        "image_url": "https://minecraft.wiki/images/Raw_Iron_JE3_BE2.png",
+        "initial_release": "1.17",
+        "drops_from_block": true,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 64
+    },
+    "raw_mutton": {
+        "name": "Raw Mutton",
+        "image_url": "https://minecraft.wiki/images/Raw_Mutton_JE3_BE2.png",
+        "initial_release": "1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "raw_porkchop": {
+        "name": "Raw Porkchop",
+        "image_url": "https://minecraft.wiki/images/Raw_Porkchop_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "raw_rabbit": {
+        "name": "Raw Rabbit",
+        "image_url": "https://minecraft.wiki/images/Raw_Rabbit_JE3_BE2.png",
+        "initial_release": "1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "raw_salmon": {
+        "name": "Raw Salmon",
+        "image_url": "https://minecraft.wiki/images/Raw_Salmon_JE2_BE2.png",
+        "initial_release": "1.7.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Fishing",
+            "Mob loot",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "recovery_compass": {
+        "name": "Recovery Compass",
+        "image_url": "https://minecraft.wiki/images/Recovery_Compass_JE1_BE1.gif",
+        "initial_release": "1.19",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 64
+    },
+    "red_dye": {
+        "name": "Red Dye",
+        "image_url": "https://minecraft.wiki/images/Red_Dye_JE4_BE4.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "resin_brick": {
+        "name": "Resin Brick",
+        "image_url": "https://minecraft.wiki/images/Resin_Brick_JE1_BE1.png",
+        "initial_release": "1.21.4",
+        "drops_from_block": false,
+        "obtaining": [
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "resin_clump": {
+        "name": "Resin Clump",
+        "image_url": "https://minecraft.wiki/images/thumb/Resin_Clump_JE1_BE1.png/150px-Resin_Clump_JE1_BE1.png",
+        "initial_release": "1.21.4",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "rotten_flesh": {
+        "name": "Rotten Flesh",
+        "image_url": "https://minecraft.wiki/images/Rotten_Flesh_JE3_BE2.png",
+        "initial_release": "Beta 1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Cat gifts",
+            "Container loot",
+            "Fishing",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "saddle": {
+        "name": "Saddle",
+        "image_url": "https://minecraft.wiki/images/thumb/Saddle_%28Pig%29_JE2_BE2.png/160px-Saddle_%28Pig%29_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Fishing",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "shears": {
+        "name": "Shears",
+        "image_url": "https://minecraft.wiki/images/Shears_JE2_BE2.png",
+        "initial_release": "Beta 1.7",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "shield": {
+        "name": "Shield",
+        "image_url": "https://minecraft.wiki/images/thumb/Shield_JE2_BE1.png/160px-Shield_JE2_BE1.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "shulker_shell": {
+        "name": "Shulker Shell",
+        "image_url": "https://minecraft.wiki/images/Shulker_Shell_JE2_BE2.png",
+        "initial_release": "1.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "skull_charge_banner_pattern": {
+        "name": "Skull Charge Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Skull_Charge_Banner_Pattern_JE2_BE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Rare",
+        "renewable": true,
+        "stackable": 1
+    },
+    "slimeball": {
+        "name": "Slimeball",
+        "image_url": "https://minecraft.wiki/images/Slimeball_JE2_BE2.png",
+        "initial_release": "Alpha 1.0.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "snout_banner_pattern": {
+        "name": "Snout Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Snout_Banner_Pattern_JE2_BE2.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": false,
+        "stackable": 1
+    },
+    "snowball": {
+        "name": "Snowball",
+        "image_url": "https://minecraft.wiki/images/Snowball_JE3_BE3.png",
+        "initial_release": "Alpha 1.0.5",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 16
+    },
+    "spawn_egg": {
+        "name": "Spawn Egg",
+        "image_url": "https://minecraft.wiki/images/Creeper_Spawn_Egg_JE3_BE2.png",
+        "initial_release": "1.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": false,
+        "stackable": 64
+    },
+    "spectral_arrow": {
+        "name": "Spectral Arrow",
+        "image_url": "https://minecraft.wiki/images/Spectral_Arrow_%28item%29_JE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "spider_eye": {
+        "name": "Spider Eye",
+        "image_url": "https://minecraft.wiki/images/Spider_Eye_JE2_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "splash_potion": {
+        "name": "Splash Potion",
+        "image_url": "https://minecraft.wiki/images/Splash_Water_Bottle_JE2_BE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Brewing",
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "spyglass": {
+        "name": "Spyglass",
+        "image_url": "https://minecraft.wiki/images/thumb/Spyglass_JE2_BE1.png/160px-Spyglass_JE2_BE1.png",
+        "initial_release": "1.17",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "steak": {
+        "name": "Steak",
+        "image_url": "https://minecraft.wiki/images/Steak_JE4_BE3.png",
+        "initial_release": "Beta 1.8",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Smelting",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "stick": {
+        "name": "Stick",
+        "image_url": "https://minecraft.wiki/images/Stick_JE1_BE1.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Fishing",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "stone_axe": {
+        "name": "Stone Axe",
+        "image_url": "https://minecraft.wiki/images/Stone_Axe_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "stone_hoe": {
+        "name": "Stone Hoe",
+        "image_url": "https://minecraft.wiki/images/Stone_Hoe_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "stone_pickaxe": {
+        "name": "Stone Pickaxe",
+        "image_url": "https://minecraft.wiki/images/Stone_Pickaxe_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "stone_shovel": {
+        "name": "Stone Shovel",
+        "image_url": "https://minecraft.wiki/images/Stone_Shovel_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "stone_spear": {
+        "name": "Stone Spear",
+        "image_url": "https://minecraft.wiki/images/Held_Stone_Spear_JE2_BE1.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "stone_sword": {
+        "name": "Stone Sword",
+        "image_url": "https://minecraft.wiki/images/Stone_Sword_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "string": {
+        "name": "String",
+        "image_url": "https://minecraft.wiki/images/thumb/Tripwire_%28NESW%29.png/150px-Tripwire_%28NESW%29.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": true,
+        "obtaining": [
+            "Bartering",
+            "Cat gifts",
+            "Container loot",
+            "Fishing",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "sugar": {
+        "name": "Sugar",
+        "image_url": "https://minecraft.wiki/images/Sugar_JE2_BE2.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "suspicious_stew": {
+        "name": "Suspicious Stew",
+        "image_url": "https://minecraft.wiki/images/Suspicious_Stew_JE1_BE1.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "sweet_berries": {
+        "name": "Sweet Berries",
+        "image_url": "https://minecraft.wiki/images/thumb/Sweet_Berry_Bush_Age_0_JE1_BE1.png/150px-Sweet_Berry_Bush_Age_0_JE1_BE1.png",
+        "initial_release": "1.14",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "thing_banner_pattern": {
+        "name": "Thing Banner Pattern",
+        "image_url": "https://minecraft.wiki/images/Thing_Banner_Pattern_JE2_BE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Rare",
+        "renewable": false,
+        "stackable": 1
+    },
+    "tipped_arrow": {
+        "name": "Tipped Arrow",
+        "image_url": "https://minecraft.wiki/images/Arrow_of_Splashing_JE2.png",
+        "initial_release": "1.9",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "torchflower_seeds": {
+        "name": "Torchflower Seeds",
+        "image_url": "https://minecraft.wiki/images/Torchflower_Seeds_JE1_BE1.png",
+        "initial_release": "1.19.4",
+        "drops_from_block": true,
+        "obtaining": [
+            "Other"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "totem_of_undying": {
+        "name": "Totem of Undying",
+        "image_url": "https://minecraft.wiki/images/Totem_of_Undying_JE2_BE2.png",
+        "initial_release": "1.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Uncommon",
+        "renewable": true,
+        "stackable": 1
+    },
+    "trial_key": {
+        "name": "Trial Key",
+        "image_url": "https://minecraft.wiki/images/Trial_Key_JE2_BE2.png",
+        "initial_release": "1.20.3",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "trident": {
+        "name": "Trident",
+        "image_url": "https://minecraft.wiki/images/Trident_%28item%29_JE2_BE1.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Mob loot"
+        ],
+        "rarity": "Rare",
+        "renewable": true,
+        "stackable": 1
+    },
+    "tropical_fish_(item)": {
+        "name": "Tropical Fish (item)",
+        "image_url": "https://minecraft.wiki/images/Tropical_Fish_JE2_BE2.png",
+        "initial_release": "1.7.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Fishing",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "turtle_egg": {
+        "name": "Turtle Egg",
+        "image_url": "https://minecraft.wiki/images/Turtle_Egg_%28item%29_JE2_BE2.png",
+        "initial_release": "1.13",
+        "drops_from_block": true,
+        "obtaining": [
+            "None"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "turtle_scute": {
+        "name": "Turtle Scute",
+        "image_url": "https://minecraft.wiki/images/Turtle_Scute_JE1_BE1.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "turtle_shell": {
+        "name": "Turtle Shell",
+        "image_url": "https://minecraft.wiki/images/thumb/Turtle_Shell_JE1_BE1.png/160px-Turtle_Shell_JE1_BE1.png",
+        "initial_release": "1.13",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "warped_fungus_on_a_stick": {
+        "name": "Warped Fungus on a Stick",
+        "image_url": "https://minecraft.wiki/images/Warped_Fungus_on_a_Stick_JE1_BE1.png",
+        "initial_release": "1.16",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "water_bottle": {
+        "name": "Water Bottle",
+        "image_url": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
+        "initial_release": "1.0.0",
+        "drops_from_block": false,
+        "obtaining": [
+            "Bartering",
+            "Fishing"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "water_bucket": {
+        "name": "Water Bucket",
+        "image_url": "https://minecraft.wiki/images/Water_Bucket_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Other",
+            "Smelting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "wheat": {
+        "name": "Wheat",
+        "image_url": "https://minecraft.wiki/images/Wheat_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "wheat_seeds": {
+        "name": "Wheat Seeds",
+        "image_url": "https://minecraft.wiki/images/Wheat_Seeds_JE1_BE1.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Mob loot",
+            "Trading",
+            "Villager gifts"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "white_dye": {
+        "name": "White Dye",
+        "image_url": "https://minecraft.wiki/images/White_Dye_JE2_BE2.png",
+        "initial_release": "1.14",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "wind_charge": {
+        "name": "Wind Charge",
+        "image_url": "https://minecraft.wiki/images/Wind_Charge_%28item%29_JE1_BE1.png",
+        "initial_release": "1.20.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "wolf_armor": {
+        "name": "Wolf Armor",
+        "image_url": "https://minecraft.wiki/images/thumb/Wolf_Armor_%28model%29_JE2_BE2.png/160px-Wolf_Armor_%28model%29_JE2_BE2.png",
+        "initial_release": "1.20.5",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting",
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "wooden_axe": {
+        "name": "Wooden Axe",
+        "image_url": "https://minecraft.wiki/images/Wooden_Axe_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "wooden_hoe": {
+        "name": "Wooden Hoe",
+        "image_url": "https://minecraft.wiki/images/Wooden_Hoe_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "wooden_pickaxe": {
+        "name": "Wooden Pickaxe",
+        "image_url": "https://minecraft.wiki/images/Wooden_Pickaxe_JE3_BE3.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "wooden_shovel": {
+        "name": "Wooden Shovel",
+        "image_url": "https://minecraft.wiki/images/Wooden_Shovel_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "wooden_spear": {
+        "name": "Wooden Spear",
+        "image_url": "https://minecraft.wiki/images/Held_Wooden_Spear_JE2_BE1.png",
+        "initial_release": "1.21.11",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "wooden_sword": {
+        "name": "Wooden Sword",
+        "image_url": "https://minecraft.wiki/images/Wooden_Sword_JE2_BE2.png",
+        "initial_release": "pre-alpha",
+        "drops_from_block": false,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 1
+    },
+    "written_book": {
+        "name": "Written Book",
+        "image_url": "https://minecraft.wiki/images/Written_Book_JE2_BE2.gif",
+        "initial_release": "1.3.1",
+        "drops_from_block": false,
+        "obtaining": [
+            "Other"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 16
+    },
+    "yellow_dye": {
+        "name": "Yellow Dye",
+        "image_url": "https://minecraft.wiki/images/Yellow_Dye_JE3_BE3.png",
+        "initial_release": "Beta 1.2",
+        "drops_from_block": false,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    }
+}
