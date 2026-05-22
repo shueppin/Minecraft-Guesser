@@ -28,7 +28,7 @@
         "health": 12,
         "height": 0.65,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -52,7 +52,8 @@
         "health": 14,
         "height": 0.42,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Biome"
@@ -71,7 +72,8 @@
         "health": 6,
         "height": 0.9,
         "classification": [
-            "Other"
+            "Animal",
+            "Animal-adjacent"
         ],
         "spawn": [
             "Light level"
@@ -88,7 +90,8 @@
         "health": 10,
         "height": 0.6,
         "classification": [
-            "Other"
+            "Animal",
+            "Arthropod"
         ],
         "spawn": [
             "Block"
@@ -105,7 +108,7 @@
         "health": 20,
         "height": 1.8,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Light level",
@@ -124,7 +127,8 @@
         "health": 16,
         "height": 1.99,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Jockey",
@@ -145,7 +149,7 @@
         "health": 30,
         "height": 1.77,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Spawner"
@@ -162,7 +166,7 @@
         "health": 32,
         "height": 2.375,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Structure"
@@ -181,7 +185,9 @@
         "health": 32,
         "height": 2.375,
         "classification": [
-            "Other"
+            "Animal",
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Light level"
@@ -198,7 +204,7 @@
         "health": 10,
         "height": 0.7,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Structure"
@@ -215,7 +221,8 @@
         "health": 12,
         "height": 0.5,
         "classification": [
-            "Other"
+            "Arthropod",
+            "Monster"
         ],
         "spawn": [
             "Spawner"
@@ -234,7 +241,7 @@
         "health": 4,
         "height": 0.7,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Grass",
@@ -253,7 +260,8 @@
         "health": 3,
         "height": 0.3,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Biome"
@@ -296,7 +304,7 @@
         "health": 10,
         "height": 1.4,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Grass",
@@ -315,7 +323,7 @@
         "health": 1,
         "height": 2.7,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Block"
@@ -332,7 +340,7 @@
         "health": 20,
         "height": 1.7,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Light level",
@@ -351,7 +359,8 @@
         "health": 10,
         "height": 0.6,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Biome"
@@ -374,7 +383,7 @@
         "health": 15,
         "height": 1.5,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -398,7 +407,8 @@
         "health": 20,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Conversion",
@@ -430,7 +440,8 @@
         "health": 80,
         "height": 1.9975,
         "classification": [
-            "Other"
+            "Aquatic",
+            "Monster"
         ],
         "spawn": [
             "Structure"
@@ -447,7 +458,7 @@
         "health": 200,
         "height": 8.0,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Boss",
@@ -467,7 +478,7 @@
         "health": 40,
         "height": 2.9,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Light level"
@@ -488,7 +499,8 @@
         "health": 8,
         "height": 0.3,
         "classification": [
-            "Other"
+            "Arthropod",
+            "Monster"
         ],
         "spawn": [
             "Ender Pearl"
@@ -505,7 +517,8 @@
         "health": 24,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Illager",
+            "Monster"
         ],
         "spawn": [
             "Raiding"
@@ -525,7 +538,7 @@
         "health": 10,
         "height": 0.7,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -548,7 +561,7 @@
         "health": 10,
         "height": 0.5,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Conversion"
@@ -568,7 +581,7 @@
         "health": 10,
         "height": 4.0,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Biome"
@@ -589,7 +602,7 @@
         "health": 100,
         "height": 12.0,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Commands"
@@ -606,7 +619,8 @@
         "health": 10,
         "height": 0.8,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Light level",
@@ -624,7 +638,7 @@
         "health": 10,
         "height": 1.3,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -645,7 +659,8 @@
         "health": 30,
         "height": 0.85,
         "classification": [
-            "Other"
+            "Aquatic",
+            "Monster"
         ],
         "spawn": [
             "Structure"
@@ -662,7 +677,7 @@
         "health": 20,
         "height": 4.0,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Block"
@@ -679,7 +694,8 @@
         "health": 40,
         "height": 1.4,
         "classification": [
-            "Other"
+            "Animal",
+            "Monster"
         ],
         "spawn": [
             "Structure"
@@ -698,7 +714,7 @@
         "health": 15,
         "height": 1.6,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Structure"
@@ -721,7 +737,8 @@
         "health": 20,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Light level",
@@ -740,7 +757,8 @@
         "health": 32,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Illager",
+            "Monster"
         ],
         "spawn": [
             "Commands"
@@ -777,7 +795,7 @@
         "health": 15,
         "height": 1.87,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -801,7 +819,7 @@
         "health": 16,
         "height": 2.08,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Spawner",
@@ -822,7 +840,7 @@
         "health": 10,
         "height": 1.4,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -841,7 +859,7 @@
         "health": 15,
         "height": 1.6,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Conversion",
@@ -860,7 +878,8 @@
         "health": 15,
         "height": 0.95,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Biome"
@@ -887,7 +906,8 @@
         "health": 10,
         "height": 0.7,
         "classification": [
-            "Other"
+            "Animal",
+            "Monster"
         ],
         "spawn": [
             "Biome"
@@ -909,7 +929,7 @@
         "health": 20,
         "height": 1.25,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -930,7 +950,8 @@
         "health": 16,
         "height": 1.99,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Jockey",
@@ -948,7 +969,7 @@
         "health": 6,
         "height": 0.9,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -969,7 +990,8 @@
         "health": 20,
         "height": 0.5,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Light level"
@@ -986,7 +1008,7 @@
         "health": 10,
         "height": 0.9,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Grass",
@@ -1005,7 +1027,7 @@
         "health": 16,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Structure"
@@ -1025,7 +1047,7 @@
         "health": 50,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Structure"
@@ -1043,7 +1065,8 @@
         "health": 24,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Illager",
+            "Monster"
         ],
         "spawn": [
             "Raiding",
@@ -1062,7 +1085,7 @@
         "health": 30,
         "height": 1.4,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -1088,7 +1111,8 @@
         "health": 3,
         "height": 0.35,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Biome"
@@ -1110,7 +1134,7 @@
         "health": 3,
         "height": 0.5,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -1146,7 +1170,7 @@
         "health": 100,
         "height": 2.2,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Raiding"
@@ -1163,7 +1187,8 @@
         "health": 3,
         "height": 0.2,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Biome"
@@ -1191,7 +1216,7 @@
         "health": 8,
         "height": 1.3,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Grass",
@@ -1209,7 +1234,7 @@
         "health": 30,
         "height": 1.0,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Structure"
@@ -1226,7 +1251,8 @@
         "health": 8,
         "height": 0.3,
         "classification": [
-            "Other"
+            "Arthropod",
+            "Monster"
         ],
         "spawn": [
             "Block",
@@ -1245,7 +1271,8 @@
         "health": 20,
         "height": 1.99,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Jockey",
@@ -1268,7 +1295,9 @@
         "health": 15,
         "height": 1.6,
         "classification": [
-            "Other"
+            "Animal",
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Lightning"
@@ -1285,7 +1314,7 @@
         "health": 16,
         "height": 2.08,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Effect",
@@ -1307,7 +1336,7 @@
         "health": 14,
         "height": 1.75,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Hatching"
@@ -1341,7 +1370,8 @@
         "health": 16,
         "height": 0.9,
         "classification": [
-            "Other"
+            "Arthropod",
+            "Monster"
         ],
         "spawn": [
             "Light level",
@@ -1359,7 +1389,8 @@
         "health": 10,
         "height": 0.8,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Biome"
@@ -1379,7 +1410,8 @@
         "health": 20,
         "height": 1.99,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Conversion",
@@ -1409,7 +1441,7 @@
         "health": 20,
         "height": 1.7,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -1434,7 +1466,8 @@
         "health": 8,
         "height": 0.98,
         "classification": [
-            "Other"
+            "Animal",
+            "Monster"
         ],
         "spawn": [
             "Biome"
@@ -1453,7 +1486,8 @@
         "health": 6,
         "height": 0.3,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Hatching"
@@ -1470,7 +1504,7 @@
         "health": 15,
         "height": 1.87,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Overworld"
@@ -1487,7 +1521,8 @@
         "health": 3,
         "height": 0.4,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Biome"
@@ -1510,7 +1545,8 @@
         "health": 30,
         "height": 0.4,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic"
         ],
         "spawn": [
             "Hatching"
@@ -1529,7 +1565,7 @@
         "health": 14,
         "height": 0.8,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Summoning"
@@ -1564,7 +1600,8 @@
         "health": 24,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Illager",
+            "Monster"
         ],
         "spawn": [
             "Raiding"
@@ -1600,7 +1637,7 @@
         "health": 500,
         "height": 2.9,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Block"
@@ -1617,7 +1654,7 @@
         "health": 26,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Monster"
         ],
         "spawn": [
             "Light level",
@@ -1637,7 +1674,8 @@
         "health": 300,
         "height": 3.5,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Player action"
@@ -1654,7 +1692,8 @@
         "health": 20,
         "height": 2.4,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Conversion",
@@ -1673,7 +1712,7 @@
         "health": 8,
         "height": 0.85,
         "classification": [
-            "Other"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -1700,7 +1739,9 @@
         "health": 40,
         "height": 1.4,
         "classification": [
-            "Other"
+            "Animal",
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Conversion"
@@ -1717,7 +1758,8 @@
         "health": 20,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Conversion",
@@ -1738,7 +1780,9 @@
         "health": 25,
         "height": 1.6,
         "classification": [
-            "Other"
+            "Animal",
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Light level"
@@ -1764,7 +1808,10 @@
         "health": 15,
         "height": 0.95,
         "classification": [
-            "Other"
+            "Animal",
+            "Aquatic",
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Structure"
@@ -1792,7 +1839,8 @@
         "health": 20,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Conversion",
@@ -1812,7 +1860,8 @@
         "health": 20,
         "height": 1.95,
         "classification": [
-            "Other"
+            "Monster",
+            "Undead"
         ],
         "spawn": [
             "Block",
