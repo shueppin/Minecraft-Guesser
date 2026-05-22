@@ -622,7 +622,7 @@
     },
     "cocoa_beans": {
         "name": "Cocoa Beans",
-        "image_url": "https://minecraft.wiki/images/thumb/Cocoa_Age_0_%28S%29_JE5.png/150px-Cocoa_Age_0_%28S%29_JE5.png",
+        "image_url": "https://minecraft.wiki/images/Cocoa_Beans_JE4_BE3.png",
         "initial_release": "Beta 1.2",
         "drops_from_block": true,
         "obtaining": [
@@ -2879,7 +2879,7 @@
         "initial_release": "1.16",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -2891,7 +2891,7 @@
         "initial_release": "1.16",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -2903,7 +2903,7 @@
         "initial_release": "1.16",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -2915,7 +2915,7 @@
         "initial_release": "1.16",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -2927,7 +2927,7 @@
         "initial_release": "1.16",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -2964,7 +2964,7 @@
         "initial_release": "1.16",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -2976,7 +2976,7 @@
         "initial_release": "1.21.11",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -2988,7 +2988,7 @@
         "initial_release": "1.16",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -3013,7 +3013,7 @@
         "initial_release": "1.16",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -3037,7 +3037,7 @@
         "initial_release": "1.16",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -3909,7 +3909,7 @@
         ],
         "rarity": "Common",
         "renewable": true,
-        "stackable": 1
+        "stackable": 64
     },
     "torchflower_seeds": {
         "name": "Torchflower Seeds",

@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-from normalization_helper import DataParser, extract_all_from_word_list
+from normalization_helper import DataParser, extract_all_from_word_list, get_java_edition_part, extract_first_number
 
 
 actual_dir = Path(__file__).resolve().parent
@@ -35,6 +35,7 @@ HARDCODED_IMAGE_OVERWRITES = {
     "Spectral Arrow": "https://minecraft.wiki/images/Spectral_Arrow_%28item%29_JE2.png",
     "Wind Charge": "https://minecraft.wiki/images/Wind_Charge_%28item%29_JE1_BE1.png",
     "End Crystal": "https://minecraft.wiki/images/End_Crystal_%28item%29_JE2_BE2.png",
+    "Cocoa Beans": "https://minecraft.wiki/images/Cocoa_Beans_JE4_BE3.png",
 }
 
 
@@ -61,6 +62,7 @@ TEMPORARY_OBTAINING_VALUES = [
     "Mob loot",
     "Smelting",
     "Trading",
+    "Upgrading",
     "Villager gifts"
 ]
 
@@ -108,6 +110,13 @@ def extract_drops_from_block(text: str) -> bool:
         return True
     return False
 
+
+def extract_stack_size(text: str) -> int:
+    java_edition_part = get_java_edition_part(text)
+    number = extract_first_number(java_edition_part, default_value=1)
+    return int(number)
+
+
 def normalize_items():
     with INPUT_PATH.open("r", encoding="utf-8") as f:
         items = json.load(f)
@@ -146,7 +155,7 @@ def normalize_items():
                 "obtaining": extract_obtaining(p.get_raw("toc obtaining"), raw_item_name),
                 "rarity": p.extract_first_from_word_list("rarity tier", RARITY_VALUES, unknown_value="Common"),
                 "renewable": p.extract_first_yes_no_partial("renewable", hardcoded_values_dict=FIXED_RENEWABLE_VALUES),
-                "stackable": p.extract_stack_size("stackable"),
+                "stackable": extract_stack_size(p.get_raw("stackable")),
             }
         except KeyError as e:
             print(f'Key Error occurred for "{raw_item_name}" with data: {item_data}')

@@ -110,10 +110,10 @@ def extract_first_from_word_list(text: str, word_list: list, case_sensitive = Fa
     return match.group(1)
 
 
-def extract_first_number(text: str) -> float:
+def extract_first_number(text: str, default_value: float | int = 0) -> float:
     text = text.replace(",", "")  # Fixes values like 1,200 to be 1200
     match = re.search(r"\d+(?:\.\d+)?", text)
-    return float(match.group(0)) if match else 0.0
+    return float(match.group(0)) if match else default_value
 
 
 def extract_all_from_word_list(text: str, word_list: list, case_sensitive=True, unknown_value="Unknown") -> list:
@@ -134,13 +134,6 @@ def extract_all_from_word_list(text: str, word_list: list, case_sensitive=True, 
         return [unknown_value]
 
 
-def extract_stack_size(text: str) -> int:
-    """Extract stack size from patterns like 'Yes (64)' -> 64."""
-    java_edition_part = get_java_edition_part(remove_problem_chars(text))
-    match = re.search(r"\((\d+)\)", java_edition_part)
-    return int(match.group(1)) if match else 1
-
-
 class DataParser:
     """
     This is a wrapper for important functions that can now be accessed simply using the key
@@ -158,14 +151,11 @@ class DataParser:
     def extract_all_from_word_list(self, key: str, word_list: list, case_sensitive=True, unknown_value="Unknown") -> list:
         return extract_all_from_word_list(self.get_raw(key), word_list, case_sensitive=case_sensitive, unknown_value=unknown_value)
 
-    def extract_first_number(self, key: str) -> float:
-        return extract_first_number(self.get_raw(key))
+    def extract_first_number(self, key: str, default_value: float | int = 0) -> float:
+        return extract_first_number(self.get_raw(key), default_value=default_value)
 
     def extract_first_yes_no_partial(self, key: str, hardcoded_values_dict: dict[str, str] = None) -> str:
         return extract_first_yes_no_partial(self.get_raw(key), hardcoded_values_dict)
-
-    def extract_stack_size(self, key: str) -> int:
-        return extract_stack_size(self.get_raw(key))
 
     def extract_first_from_word_list(self, key: str, word_list: list, case_sensitive=False, unknown_value="Unknown") -> str:
         return extract_first_from_word_list(self.get_raw(key), word_list, case_sensitive=case_sensitive, unknown_value=unknown_value)
