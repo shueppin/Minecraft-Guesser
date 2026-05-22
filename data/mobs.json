@@ -12,6 +12,7 @@
             "Other"
         ],
         "spawn": [
+            "Biome",
             "Structure"
         ],
         "biomes": [
@@ -131,6 +132,7 @@
             "Undead"
         ],
         "spawn": [
+            "Biome",
             "Jockey",
             "Spawner"
         ],
@@ -169,6 +171,7 @@
             "Animal"
         ],
         "spawn": [
+            "Biome",
             "Structure"
         ],
         "biomes": [
@@ -225,6 +228,7 @@
             "Monster"
         ],
         "spawn": [
+            "Biome",
             "Spawner"
         ],
         "biomes": [
@@ -411,6 +415,7 @@
             "Undead"
         ],
         "spawn": [
+            "Biome",
             "Conversion",
             "Reinforcement",
             "Structure"
@@ -481,6 +486,7 @@
             "Monster"
         ],
         "spawn": [
+            "Biome",
             "Light level"
         ],
         "biomes": [
@@ -521,6 +527,7 @@
             "Monster"
         ],
         "spawn": [
+            "Biome",
             "Raiding"
         ],
         "biomes": [
@@ -564,6 +571,7 @@
             "Animal"
         ],
         "spawn": [
+            "Biome",
             "Conversion"
         ],
         "biomes": [
@@ -698,6 +706,7 @@
             "Monster"
         ],
         "spawn": [
+            "Biome",
             "Structure"
         ],
         "biomes": [
@@ -717,6 +726,7 @@
             "Animal"
         ],
         "spawn": [
+            "Biome",
             "Structure"
         ],
         "biomes": [
@@ -822,6 +832,7 @@
             "Monster"
         ],
         "spawn": [
+            "Biome",
             "Spawner",
             "Structure"
         ],
@@ -1030,6 +1041,7 @@
             "Monster"
         ],
         "spawn": [
+            "Biome",
             "Structure"
         ],
         "biomes": [
@@ -1275,6 +1287,7 @@
             "Undead"
         ],
         "spawn": [
+            "Biome",
             "Jockey",
             "Light level",
             "Spawner",
@@ -1317,6 +1330,7 @@
             "Monster"
         ],
         "spawn": [
+            "Biome",
             "Effect",
             "Overworld",
             "Spawner"
@@ -1414,6 +1428,7 @@
             "Undead"
         ],
         "spawn": [
+            "Biome",
             "Conversion",
             "Jockey",
             "Light level",
@@ -1549,6 +1564,7 @@
             "Aquatic"
         ],
         "spawn": [
+            "Biome",
             "Hatching"
         ],
         "biomes": [
@@ -1604,6 +1620,7 @@
             "Monster"
         ],
         "spawn": [
+            "Biome",
             "Raiding"
         ],
         "biomes": [
@@ -1785,6 +1802,7 @@
             "Undead"
         ],
         "spawn": [
+            "Biome",
             "Light level"
         ],
         "biomes": [
@@ -1814,6 +1832,7 @@
             "Undead"
         ],
         "spawn": [
+            "Biome",
             "Structure"
         ],
         "biomes": [
@@ -1864,6 +1883,7 @@
             "Undead"
         ],
         "spawn": [
+            "Biome",
             "Block",
             "Conversion",
             "Jockey",

@@ -107,11 +107,11 @@ def extract_spawn_and_biomes(text: str, mob_name: str) -> tuple[list[str], list[
     # Remove the filler lines
     spawn.discard("")
 
+    if len(biomes) > 0:
+        spawn.add("Biome")
+
     if len(spawn) == 0:
-        if len(biomes) > 0:
-            spawn.add("Biome")
-        else:
-            spawn.add("Unknown")
+        spawn.add("Unknown")
 
     return sorted(list(spawn)), sorted(list(biomes))
 
