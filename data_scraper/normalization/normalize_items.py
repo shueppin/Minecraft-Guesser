@@ -108,7 +108,7 @@ def extract_is_from_block(text: str) -> bool:
         return True
     return False
 
-def normalize_items() -> None:
+def normalize_items():
     with INPUT_PATH.open("r", encoding="utf-8") as f:
         items = json.load(f)
 
@@ -147,7 +147,7 @@ def normalize_items() -> None:
                 "rarity": p.extract_first_from_word_list("rarity tier", RARITY_VALUES, unknown_value="Common"),
                 "renewable": p.extract_first_yes_no_partial("renewable", hardcoded_values_dict=FIXED_RENEWABLE_VALUES),
                 "stackable": p.extract_stack_size("stackable"),
-                }
+            }
         except KeyError as e:
             print(f'Key Error occurred for "{raw_item_name}" with data: {item_data}')
             return

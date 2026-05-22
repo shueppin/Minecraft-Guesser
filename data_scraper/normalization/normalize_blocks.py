@@ -4,7 +4,8 @@ from pathlib import Path
 from typing import Any
 import re
 
-from normalization_helper import DataParser, remove_problem_chars
+from data_scraper.cleanup_text import remove_problem_chars
+from normalization_helper import DataParser
 
 
 logger = logging.getLogger(__name__)
@@ -170,7 +171,7 @@ def extract_map_color(text: str) -> str:
     return ""
 
 
-def normalize_blocks() -> None:
+def normalize_blocks():
     with INPUT_PATH.open("r", encoding="utf-8") as f:
         blocks = json.load(f)
 
