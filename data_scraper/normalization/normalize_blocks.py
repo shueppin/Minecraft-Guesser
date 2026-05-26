@@ -177,6 +177,13 @@ def extract_stack_size(text: str) -> int:
     return int(number)
 
 
+def extract_tool(parser: DataParser) -> list:
+    if parser.get_raw("tool"):
+        return parser.extract_all_from_word_list("tool", word_list=TOOL_VALUES)
+    else:
+        return parser.extract_all_from_word_list("tools", word_list=TOOL_VALUES)
+
+
 def normalize_blocks():
     with INPUT_PATH.open("r", encoding="utf-8") as f:
         blocks = json.load(f)
@@ -212,7 +219,7 @@ def normalize_blocks():
                 "map_color": extract_map_color(p.get_raw("map color")),
                 "renewable": p.extract_first_yes_no_partial("renewable", hardcoded_values_dict=FIXED_RENEWABLE_VALUES),
                 "stackable": extract_stack_size(p.get_raw("stackable")),
-                "tool": p.extract_all_from_word_list("tool", word_list=TOOL_VALUES) or p.extract_all_from_word_list("tools", word_list=TOOL_VALUES),
+                "tool": extract_tool(p),
                 "transparent": p.extract_first_yes_no_partial("transparent", hardcoded_values_dict=FIXED_TRANSPARENT_VALUES),
             }
         except KeyError as e:

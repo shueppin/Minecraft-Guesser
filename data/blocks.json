@@ -165,7 +165,8 @@
         "renewable": true,
         "stackable": 64,
         "tool": [
-            "Unknown"
+            "Axe",
+            "Sword"
         ],
         "transparent": true
     },
@@ -1780,7 +1781,8 @@
         "renewable": true,
         "stackable": 64,
         "tool": [
-            "Unknown"
+            "Shears",
+            "Sword"
         ],
         "transparent": "Partial"
     },
@@ -3514,7 +3516,8 @@
         "renewable": true,
         "stackable": 64,
         "tool": [
-            "Unknown"
+            "Axe",
+            "Shears"
         ],
         "transparent": true
     },
@@ -4092,7 +4095,9 @@
         "renewable": true,
         "stackable": 64,
         "tool": [
-            "Unknown"
+            "Hoe",
+            "Shears",
+            "Sword"
         ],
         "transparent": "Partial"
     },
@@ -4296,7 +4301,8 @@
         "renewable": true,
         "stackable": 64,
         "tool": [
-            "Unknown"
+            "Axe",
+            "Sword"
         ],
         "transparent": false
     },
@@ -7815,7 +7821,8 @@
         "renewable": false,
         "stackable": 64,
         "tool": [
-            "Unknown"
+            "Brush",
+            "Shovel"
         ],
         "transparent": false
     },
@@ -7832,7 +7839,8 @@
         "renewable": false,
         "stackable": 64,
         "tool": [
-            "Unknown"
+            "Brush",
+            "Shovel"
         ],
         "transparent": false
     },
