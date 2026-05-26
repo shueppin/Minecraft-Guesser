@@ -10,10 +10,11 @@ This project is inspired by [mcdle.net](https://mcdle.net).
 
 ## Features
 
-- **Three Game Modes**: Guess mobs, items, or blocks
+- **Multiple Game Modes**: Guess mobs, items, or blocks
 - **Wiki Integration**: Look up information while playing
 - **Rating System**: Track your performance and scores (based on the number of guesses and how many wiki-helps you use)
-- **Responsive Web Interface**: Play in your browser
+- **Responsive Web Interface**: Play the game in your browser
+- **Java Solver**: It contains a proof-of-concept of a solver, for local use
 
 
 ## Quick Start
