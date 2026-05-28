@@ -352,7 +352,7 @@ function compareField(field, value, target) {
     }
 
     if (field === 'rarity') {  // Compare the rarities, if they are not the same
-        const rarities = ["common", "uncommon", "rare", "epic"];
+        const rarities = ["Common", "Uncommon", "Rare", "Epic"];
         const value_index = rarities.indexOf(value);
         const target_index = rarities.indexOf(target);
 
