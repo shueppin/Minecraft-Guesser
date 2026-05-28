@@ -1179,7 +1179,7 @@
         "initial_release": "1.9",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Other"
         ],
         "rarity": "Uncommon",
         "renewable": true,
@@ -1549,7 +1549,7 @@
     },
     "glow_item_frame": {
         "name": "Glow Item Frame",
-        "image_url": "https://minecraft.wiki/images/thumb/Glow_Item_Frame_JE1_BE3.png/150px-Glow_Item_Frame_JE1_BE3.png",
+        "image_url": "https://minecraft.wiki/images/Glow_Item_Frame_%28item%29_JE1_BE1.png",
         "initial_release": "1.17",
         "drops_from_block": true,
         "obtaining": [
@@ -2124,7 +2124,7 @@
     },
     "item_frame": {
         "name": "Item Frame",
-        "image_url": "https://minecraft.wiki/images/thumb/Item_Frame_%28S%29_JE2_BE2.png/150px-Item_Frame_%28S%29_JE2_BE2.png",
+        "image_url": "https://minecraft.wiki/images/Item_Frame_%28item%29_JE1_BE1.png",
         "initial_release": "1.4.2",
         "drops_from_block": true,
         "obtaining": [
@@ -2939,7 +2939,7 @@
         "initial_release": "1.21.11",
         "drops_from_block": false,
         "obtaining": [
-            "Container loot"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -3025,7 +3025,7 @@
         "initial_release": "1.21.11",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Upgrading"
         ],
         "rarity": "Common",
         "renewable": false,
@@ -3245,7 +3245,7 @@
         "initial_release": "1.8",
         "drops_from_block": false,
         "obtaining": [
-            "None"
+            "Mob Loot"
         ],
         "rarity": "Common",
         "renewable": true,
@@ -3497,6 +3497,23 @@
             "Crafting",
             "Mob loot",
             "Trading"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 64
+    },
+    "redstone_dust": {
+        "name": "Redstone Dust",
+        "image_url": "https://minecraft.wiki/images/Redstone_Dust_JE2_BE2.png",
+        "initial_release": "Alpha 1.0.1",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting",
+            "Mob loot",
+            "Smelting",
+            "Trading",
+            "Villager gifts"
         ],
         "rarity": "Common",
         "renewable": true,
@@ -3830,7 +3847,7 @@
     },
     "string": {
         "name": "String",
-        "image_url": "https://minecraft.wiki/images/thumb/Tripwire_%28NESW%29.png/150px-Tripwire_%28NESW%29.png",
+        "image_url": "https://minecraft.wiki/images/String_JE2_BE2.png",
         "initial_release": "pre-alpha",
         "drops_from_block": true,
         "obtaining": [

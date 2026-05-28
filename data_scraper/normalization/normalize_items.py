@@ -36,6 +36,10 @@ HARDCODED_IMAGE_OVERWRITES = {
     "Wind Charge": "https://minecraft.wiki/images/Wind_Charge_%28item%29_JE1_BE1.png",
     "End Crystal": "https://minecraft.wiki/images/End_Crystal_%28item%29_JE2_BE2.png",
     "Cocoa Beans": "https://minecraft.wiki/images/Cocoa_Beans_JE4_BE3.png",
+    "String": "https://minecraft.wiki/images/String_JE2_BE2.png",
+    "Item Frame": "https://minecraft.wiki/images/Item_Frame_%28item%29_JE1_BE1.png",
+    "Glow Item Frame": "https://minecraft.wiki/images/Glow_Item_Frame_%28item%29_JE1_BE1.png",
+    "Redstone Dust": "https://minecraft.wiki/images/Redstone_Dust_JE2_BE2.png"
 }
 
 
@@ -60,6 +64,7 @@ TEMPORARY_OBTAINING_VALUES = [
     "Generated loot",  # Later replaced with "Container loot"
     "Interacting",  # Later replaced with "Other"
     "Mob loot",
+    "Mob Loot",
     "Smelting",
     "Trading",
     "Upgrading",
@@ -81,6 +86,12 @@ def extract_obtaining(text: str, item_name: str) -> list:
         obtaining_values.add("Other")
     elif item_name.startswith("Bucket of"):
         obtaining_values.add("Other")
+    elif item_name == "Dragon's Breath":
+        obtaining_values.add("Other")
+    elif item_name == "Netherite Spear":
+        obtaining_values.add("Upgrading")
+    elif item_name == "Netherite Horse Armor":
+        obtaining_values.add("Upgrading")
     elif "Horse Armor" in item_name:
         obtaining_values.add("Container loot")
 

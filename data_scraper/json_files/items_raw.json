@@ -2440,7 +2440,7 @@
     },
     "Debug Stick": {
         "image": "https://minecraft.wiki/images/Debug_Stick.gif",
-        "rarity tier": "Epic\nCommon",
+        "rarity tier": "Epic",
         "renewable": "No",
         "stackable": "No",
         "version": "1.13",
@@ -3108,7 +3108,7 @@
     "Goat Horn": {
         "image": "https://minecraft.wiki/images/Goat_Horn_JE1_BE1.png",
         "rarity tier": "Uncommon",
-        "use cooldown": "7 seconds (140 ticks)",
+        "use cooldown": "7 seconds (140 ticks) on all the horns held by the player simultaneously",
         "renewable": "Yes",
         "stackable": "No",
         "version": "1.19",
@@ -4049,5 +4049,21 @@
         "stackable": "No",
         "version": "26.2",
         "toc obtaining": "Generated loot"
+    },
+    "Redstone Dust": {
+        "image": "https://minecraft.wiki/images/thumb/Inactive_Redstone_Wire_%28NESW%29_JE4.png/150px-Inactive_Redstone_Wire_%28NESW%29_JE4.png",
+        "renewable": "Yes",
+        "stackable": "Yes (64)",
+        "tool": "Any tool",
+        "blast resistance": "0",
+        "hardness": "0",
+        "luminous": "No",
+        "transparent": "Yes",
+        "flammable": "No",
+        "catches fire from lava": "No",
+        "map color": "0 NONE",
+        "note block instrument": "Default (Harp)",
+        "version": "Alpha 1.0.1",
+        "toc obtaining": "Breaking\nMining\nNatural generation\nMob loot\nGenerated loot\nCrafting\nSmelting\nTrading\nVillager gifts"
     }
 }

@@ -18,7 +18,7 @@ OUTPUT_DIR = (actual_dir / ".." / "json_files").resolve()
 SAVE_EVERY = 20
 
 
-def download_all_elements_from_table(output_file_name: str, table_page_title: str, table_name_key: str, element_table_of_contents_keys: list=None):
+def download_all_elements_from_table(output_file_name: str, table_page_title: str, table_name_key: str, element_table_of_contents_keys: list=None, additional_elements: dict[str, str]=None) -> None:
     """
     First opens the List with all the elements and the version, then gets the data of every individual element. Finally stores this data in a file.
 
@@ -26,6 +26,7 @@ def download_all_elements_from_table(output_file_name: str, table_page_title: st
     :param table_page_title: Title of the table of the page where the table with all the elements and versions can be found. Example: https://minecraft.wiki/w/List_of_mobs_by_version
     :param table_name_key: Key of the first column of the table (like "blocks", "items", ...)
     :param element_table_of_contents_keys: Keys that should be extracted from the table of contents from each individual element (like "Obtaining", "History", ...)
+    :param additional_elements: Additional elements that should be added to the table. It is a dictionary, with the key being the wiki page title and the value the resolved version.
     """
 
     output_file_path = OUTPUT_DIR / output_file_name
@@ -48,6 +49,10 @@ def download_all_elements_from_table(output_file_name: str, table_page_title: st
         print("You can find a detailed version history at the bottom of https://minecraft.wiki/w/Java_Edition_version_history/Development_versions")
         print("Unresolved versions: \n" + "\n".join(sorted(unresolved_versions)))
         return
+
+    # Add additional elements
+    if additional_elements:
+        existing_elements.update(additional_elements)
 
     # Go through all existing elements with their version and process them
     elements_dict: dict[str, dict[str, Any]] = {}
@@ -111,7 +116,7 @@ if __name__ == '__main__':
     download_all_elements_from_table("blocks_raw.json", "List_of_blocks_by_version", "block")
 
     print("\n\nDownloading items...")
-    download_all_elements_from_table("items_raw.json", "List_of_items_by_version", "item", ["Obtaining"])
+    download_all_elements_from_table("items_raw.json", "List_of_items_by_version", "item", ["Obtaining"], {"Redstone_Dust": "Alpha 1.0.1"})
 
     print("\n\nDownloading mobs...")
     download_all_elements_from_table("mobs_raw.json", "List_of_mobs_by_version", "mob")
