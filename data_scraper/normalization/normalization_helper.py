@@ -112,7 +112,7 @@ def extract_first_from_word_list(text: str, word_list: list, case_sensitive = Fa
 
 def extract_first_number(text: str, default_value: float | int = 0) -> float:
     text = text.replace(",", "")  # Fixes values like 1,200 to be 1200
-    match = re.search(r"\d+(?:\.\d+)?", text)
+    match = re.search(r"-?\d+(?:\.\d+)?", text)
     return float(match.group(0)) if match else default_value
 
 

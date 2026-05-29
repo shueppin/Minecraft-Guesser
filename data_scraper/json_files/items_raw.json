@@ -3108,7 +3108,7 @@
     "Goat Horn": {
         "image": "https://minecraft.wiki/images/Goat_Horn_JE1_BE1.png",
         "rarity tier": "Uncommon",
-        "use cooldown": "7 seconds (140 ticks) on all the horns held by the player simultaneously",
+        "use cooldown": "7 seconds (140 ticks)",
         "renewable": "Yes",
         "stackable": "No",
         "version": "1.19",
@@ -4065,5 +4065,16 @@
         "note block instrument": "Default (Harp)",
         "version": "Alpha 1.0.1",
         "toc obtaining": "Breaking\nMining\nNatural generation\nMob loot\nGenerated loot\nCrafting\nSmelting\nTrading\nVillager gifts"
+    },
+    "Armor Stand": {
+        "image": "https://minecraft.wiki/images/thumb/Armor_Stand_JE5.png/100px-Armor_Stand_JE5.png",
+        "rarity tier": "Common",
+        "renewable": "Yes",
+        "stackable": "JE: Yes (16)\nBE: Yes (64)",
+        "flammable item?": "Yes",
+        "size": "Normal:\n\nHeight: 1.975 blocks\n\nWidth: 0.5 blocks\n\nSmall:\n\nHeight: 0.9875 blocks\n\nWidth: 0.25 blocks",
+        "health points": "JE: 20HP x 10\nBE: 6HP",
+        "version": "1.8",
+        "toc obtaining": "Breaking\nNatural generation\nCrafting"
     }
 }

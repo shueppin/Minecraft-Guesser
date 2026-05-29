@@ -113,10 +113,10 @@ def download_all_elements_from_table(output_file_name: str, table_page_title: st
 
 if __name__ == '__main__':
     print("\n\nDownloading blocks...")
-    download_all_elements_from_table("blocks_raw.json", "List_of_blocks_by_version", "block")
+    download_all_elements_from_table("blocks_raw.json", "List_of_blocks_by_version", "block", additional_elements={"Light_(block)": "1.17"})
 
     print("\n\nDownloading items...")
-    download_all_elements_from_table("items_raw.json", "List_of_items_by_version", "item", ["Obtaining"], {"Redstone_Dust": "Alpha 1.0.1"})
+    download_all_elements_from_table("items_raw.json", "List_of_items_by_version", "item", ["Obtaining"], {"Redstone_Dust": "Alpha 1.0.1", "Armor_Stand": "1.8"})
 
     print("\n\nDownloading mobs...")
     download_all_elements_from_table("mobs_raw.json", "List_of_mobs_by_version", "mob")

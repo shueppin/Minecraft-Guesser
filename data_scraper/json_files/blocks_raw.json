@@ -955,7 +955,7 @@
         "version": "Alpha 1.0.11"
     },
     "Sugar Cane": {
-        "image": "https://minecraft.wiki/images/thumb/Sugar_Cane.png/150px-Sugar_Cane.png",
+        "image": "https://minecraft.wiki/images/thumb/Sugar_Cane_JE2_BE2.png/150px-Sugar_Cane_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "Any tool",
@@ -2625,7 +2625,7 @@
         "luminous": "No",
         "transparent": "Yes",
         "waterloggable": "JE: No\nBE: Yes",
-        "flammable": "Yes (JE: 60, BE & edu: 30)",
+        "flammable": "Yes (JE: 60, BE & Edu: 30)",
         "catches fire from lava": "Yes",
         "map color": "16 colors\n\n8 SNOW\n\n\n22 COLOR_LIGHT_GRAY\n\n\n21 COLOR_GRAY\n\n\n29 COLOR_BLACK\n\n\n26 COLOR_BROWN\n\n\n28 COLOR_RED\n\n\n15 COLOR_ORANGE\n\n\n18 COLOR_YELLOW\n\n\n19 COLOR_LIGHT_GREEN\n\n\n27 COLOR_GREEN\n\n\n23 COLOR_CYAN\n\n\n17 COLOR_LIGHT_BLUE\n\n\n25 COLOR_BLUE\n\n\n24 COLOR_PURPLE\n\n\n16 COLOR_MAGENTA\n\n\n20 COLOR_PINK",
         "note block instrument": "Default (Harp)",
@@ -3420,7 +3420,7 @@
     },
     "Dirt Path": {
         "image": "https://minecraft.wiki/images/thumb/Dirt_Path_JE4_BE3.png/150px-Dirt_Path_JE4_BE3.png",
-        "renewable": "JE: No\nBE: Yes",
+        "renewable": "Yes",
         "stackable": "Yes (64)",
         "tool": "https://minecraft.wiki/images/SlotSprite_Shovel_Required.png",
         "blast resistance": "0.65",
@@ -4894,7 +4894,7 @@
         "catches fire from lava": "No",
         "map color": "6 METAL",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.9"
+        "version": "1.14"
     },
     "Jigsaw Block": {
         "image": "https://minecraft.wiki/images/thumb/Jigsaw_Block_%28S%29_JE3_BE2.png/150px-Jigsaw_Block_%28S%29_JE3_BE2.png",
@@ -4911,7 +4911,7 @@
         "catches fire from lava": "No",
         "map color": "22 COLOR_LIGHT_GRAY",
         "note block instrument": "Default (Harp)",
-        "version": "1.14.9"
+        "version": "1.14"
     },
     "Sweet Berries": {
         "image": "https://minecraft.wiki/images/thumb/Sweet_Berry_Bush_Age_0_JE1_BE1.png/150px-Sweet_Berry_Bush_Age_0_JE1_BE1.png",
@@ -5652,6 +5652,7 @@
         "catches fire from lava": "No",
         "map color": "29 COLOR_BLACK",
         "note block instrument": "Bass Drum",
+        "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "1.16"
     },
     "Polished Blackstone Brick Slab": {
@@ -8271,6 +8272,7 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
+        "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "26.2"
     },
     "Polished Sulfur Stairs": {
@@ -8334,6 +8336,7 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
+        "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "26.2"
     },
     "Sulfur Brick Stairs": {
@@ -8397,6 +8400,7 @@
         "catches fire from lava": "No",
         "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
+        "sulfur cube archetype": "Slow Bouncy\nRegular",
         "version": "26.2"
     },
     "Potent Sulfur": {
@@ -8410,7 +8414,7 @@
         "transparent": "No",
         "flammable": "No",
         "catches fire from lava": "No",
-        "map color": "18 COLOR_YELLOW",
+        "map color": "30 GOLD",
         "note block instrument": "Bass Drum",
         "version": "26.2"
     },
@@ -8426,8 +8430,25 @@
         "waterloggable": "Yes",
         "flammable": "No",
         "catches fire from lava": "No",
-        "map color": "48 TERRACOTTA_BROWN",
+        "map color": "18 COLOR_YELLOW",
         "note block instrument": "Bass Drum",
         "version": "26.2"
+    },
+    "Light (block)": {
+        "image": "https://minecraft.wiki/images/thumb/Light_15_JE3.png/150px-Light_15_JE3.png",
+        "rarity tier": "Epic\nCommon",
+        "renewable": "No",
+        "stackable": "Yes (64)",
+        "tool": "None",
+        "blast resistance": "3,600,000.75",
+        "hardness": "-1",
+        "luminous": "See Usage",
+        "transparent": "Yes",
+        "waterloggable": "Yes",
+        "flammable": "No",
+        "catches fire from lava": "No",
+        "map color": "No waterlogging:\n0 NONE\nWaterlogging::\n12 WATER",
+        "note block instrument": "Default (Harp)",
+        "version": "1.17"
     }
 }

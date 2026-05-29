@@ -36,6 +36,18 @@
         "renewable": true,
         "stackable": 64
     },
+    "armor_stand": {
+        "name": "Armor Stand",
+        "image_url": "https://minecraft.wiki/images/thumb/Armor_Stand_JE5.png/100px-Armor_Stand_JE5.png",
+        "initial_release": "1.8",
+        "drops_from_block": true,
+        "obtaining": [
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 16
+    },
     "arrow": {
         "name": "Arrow",
         "image_url": "https://minecraft.wiki/images/Arrow_%28item%29_JE1_BE1.png",
