@@ -40,6 +40,21 @@ a:hover {
     align-items: center;
 }
 
+.github-link {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    color: white;
+    opacity: 0.8;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    z-index: 1000;
+}
+
+.github-link:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
 .home-container {
     text-align: center;
     padding: 50px;
