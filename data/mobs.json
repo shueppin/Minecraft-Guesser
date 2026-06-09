@@ -1713,7 +1713,6 @@
             "Undead"
         ],
         "spawn": [
-            "Conversion",
             "Structure"
         ],
         "biomes": []

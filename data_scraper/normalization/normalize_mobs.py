@@ -78,6 +78,7 @@ def extract_spawn_and_biomes(text: str, mob_name: str) -> tuple[list[str], list[
         "sculk": "Block",
         "player": "Player action",
         "horse trap": "Summoning",
+        "wither": "",  # Ignore this, from the wither, before setting the Conversion label, because they only spawn in bedrock edition from the wither
         "when": "Conversion",  # Thinks like growing up or being in a dimension too long
 
         # The following are elements which should be ignored because they are filler lines
@@ -86,7 +87,6 @@ def extract_spawn_and_biomes(text: str, mob_name: str) -> tuple[list[str], list[
         "breed": "",
         "regular": "",
         "wandering trader": "",
-        "wither": "",
         "overworld": "",
     }
 
