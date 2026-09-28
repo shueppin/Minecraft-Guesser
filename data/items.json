@@ -111,6 +111,7 @@
         "initial_release": "1.9",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting"
         ],
         "rarity": "Common",
@@ -295,6 +296,7 @@
         "initial_release": "pre-alpha",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Fishing",
             "Mob loot"
@@ -535,7 +537,7 @@
             "Trading",
             "Villager gifts"
         ],
-        "rarity": "Common",
+        "rarity": "Uncommon",
         "renewable": true,
         "stackable": 1
     },
@@ -769,6 +771,7 @@
         "initial_release": "1.21.9",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting"
         ],
         "rarity": "Common",
@@ -781,6 +784,7 @@
         "initial_release": "1.21.9",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Mob loot"
         ],
@@ -794,6 +798,7 @@
         "initial_release": "1.21.9",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Mob loot"
         ],
@@ -844,6 +849,7 @@
         "initial_release": "1.17",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Mob loot",
             "Smelting"
@@ -858,6 +864,7 @@
         "initial_release": "1.21.9",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Mob loot"
         ],
@@ -933,6 +940,7 @@
         "initial_release": "1.21.9",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting"
         ],
         "rarity": "Common",
@@ -965,6 +973,19 @@
         "rarity": "Common",
         "renewable": true,
         "stackable": 1
+    },
+    "cushion": {
+        "name": "Cushion",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Cushion_JE1.png/160px-White_Cushion_JE1.png",
+        "initial_release": "26.3",
+        "drops_from_block": true,
+        "obtaining": [
+            "Container loot",
+            "Crafting"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 16
     },
     "cyan_dye": {
         "name": "Cyan Dye",
@@ -1319,7 +1340,7 @@
     },
     "explorer_map": {
         "name": "Explorer Map",
-        "image_url": "https://minecraft.wiki/images/Ocean_Explorer_Map_JE2.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Explorer_map_held.png/160px-Explorer_map_held.png",
         "initial_release": "1.11",
         "drops_from_block": false,
         "obtaining": [
@@ -1327,7 +1348,7 @@
             "Trading"
         ],
         "rarity": "Common",
-        "renewable": "Partial",
+        "renewable": true,
         "stackable": 64
     },
     "eye_of_ender": {
@@ -1502,6 +1523,7 @@
         "initial_release": "1.0.0",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Mob loot"
         ],
@@ -2282,6 +2304,7 @@
         "initial_release": "pre-alpha",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Mob loot",
             "Trading"
@@ -2296,6 +2319,7 @@
         "initial_release": "pre-alpha",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Mob loot",
             "Trading"
@@ -2350,7 +2374,7 @@
     },
     "lingering_potion": {
         "name": "Lingering Potion",
-        "image_url": "https://minecraft.wiki/images/Lingering_Water_Bottle_JE2_BE2.png",
+        "image_url": "https://minecraft.wiki/images/Lingering_Water_Bottle_JE2.png",
         "initial_release": "1.9",
         "drops_from_block": false,
         "obtaining": [
@@ -2393,6 +2417,7 @@
         "initial_release": "1.0.0",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Mob loot"
         ],
@@ -2814,6 +2839,7 @@
             "Container loot",
             "Crafting",
             "Fishing",
+            "Mob loot",
             "Trading"
         ],
         "rarity": "Common",
@@ -3212,7 +3238,7 @@
     },
     "potion": {
         "name": "Potion",
-        "image_url": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
+        "image_url": "https://minecraft.wiki/images/Water_Bottle_JE2.png",
         "initial_release": "1.9",
         "drops_from_block": false,
         "obtaining": [
@@ -3245,6 +3271,7 @@
         "initial_release": "1.8",
         "drops_from_block": true,
         "obtaining": [
+            "Container loot",
             "Mob loot"
         ],
         "rarity": "Common",
@@ -3282,6 +3309,7 @@
         "initial_release": "1.4.2",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting",
             "Trading",
             "Villager gifts"
@@ -3326,6 +3354,7 @@
         "drops_from_block": false,
         "obtaining": [
             "Cat gifts",
+            "Container loot",
             "Mob loot"
         ],
         "rarity": "Common",
@@ -3719,7 +3748,7 @@
     },
     "splash_potion": {
         "name": "Splash Potion",
-        "image_url": "https://minecraft.wiki/images/Splash_Water_Bottle_JE2_BE2.png",
+        "image_url": "https://minecraft.wiki/images/Splash_Water_Bottle_JE2.png",
         "initial_release": "1.9",
         "drops_from_block": false,
         "obtaining": [
@@ -3737,6 +3766,7 @@
         "initial_release": "1.17",
         "drops_from_block": false,
         "obtaining": [
+            "Container loot",
             "Crafting"
         ],
         "rarity": "Common",
@@ -4053,7 +4083,7 @@
     },
     "water_bottle": {
         "name": "Water Bottle",
-        "image_url": "https://minecraft.wiki/images/Water_Bottle_JE2_BE2.png",
+        "image_url": "https://minecraft.wiki/images/Water_Bottle_JE2.png",
         "initial_release": "1.0.0",
         "drops_from_block": false,
         "obtaining": [

@@ -1,4 +1,23 @@
 {
+    "acacia_leaves": {
+        "name": "Acacia Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Acacia_Leaves.png/150px-Acacia_Leaves.png",
+        "initial_release": "1.7.2",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "PLANT",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
+    },
     "activator_rail": {
         "name": "Activator Rail",
         "image_url": "https://minecraft.wiki/images/thumb/Activator_Rail_%28NS%29_JE2_BE2.png/150px-Activator_Rail_%28NS%29_JE2_BE2.png",
@@ -151,6 +170,25 @@
             "Any"
         ],
         "transparent": true
+    },
+    "azalea_leaves": {
+        "name": "Azalea Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Azalea_Leaves.png/150px-Azalea_Leaves.png",
+        "initial_release": "1.17",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "PLANT",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
     },
     "bamboo": {
         "name": "Bamboo",
@@ -333,7 +371,7 @@
         "hardness": -1.0,
         "luminous": false,
         "map_color": "STONE",
-        "renewable": false,
+        "renewable": true,
         "stackable": 64,
         "tool": [
             "None"
@@ -407,6 +445,25 @@
             "Axe"
         ],
         "transparent": true
+    },
+    "birch_leaves": {
+        "name": "Birch Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Birch_Leaves.png/150px-Birch_Leaves.png",
+        "initial_release": "Beta 1.2",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "PLANT",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
     },
     "blackstone": {
         "name": "Blackstone",
@@ -1156,6 +1213,25 @@
         ],
         "transparent": true
     },
+    "cherry_leaves": {
+        "name": "Cherry Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Cherry_Leaves_JE2.png/150px-Cherry_Leaves_JE2.png",
+        "initial_release": "1.19.4",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "COLOR_PINK",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
+    },
     "chest": {
         "name": "Chest",
         "image_url": "https://minecraft.wiki/images/thumb/Chest.gif/150px-Chest.gif",
@@ -1856,7 +1932,7 @@
     },
     "concrete_powder": {
         "name": "Concrete Powder",
-        "image_url": "https://minecraft.wiki/images/thumb/White_Concrete_Powder.png/150px-White_Concrete_Powder.png",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Concrete_Powder_JE1_BE1.png/150px-White_Concrete_Powder_JE1_BE1.png",
         "initial_release": "1.12",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -1870,6 +1946,40 @@
             "Shovel"
         ],
         "transparent": false
+    },
+    "concrete_slab": {
+        "name": "Concrete Slab",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Concrete_Slab_JE1_BE1.png/150px-White_Concrete_Slab_JE1_BE1.png",
+        "initial_release": "26.3",
+        "blast_resistance": 1.8,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 1.8,
+        "luminous": false,
+        "map_color": "COLORS",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Pickaxe"
+        ],
+        "transparent": "Partial"
+    },
+    "concrete_stairs": {
+        "name": "Concrete Stairs",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Concrete_Stairs_%28N%29_JE1_BE1.png/150px-White_Concrete_Stairs_%28N%29_JE1_BE1.png",
+        "initial_release": "26.3",
+        "blast_resistance": 1.8,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 1.8,
+        "luminous": false,
+        "map_color": "COLORS",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Pickaxe"
+        ],
+        "transparent": "Partial"
     },
     "conduit": {
         "name": "Conduit",
@@ -1975,7 +2085,7 @@
     },
     "copper_golem_statue": {
         "name": "Copper Golem Statue",
-        "image_url": "https://minecraft.wiki/images/thumb/Copper_Golem_Statue_BE1.png/150px-Copper_Golem_Statue_BE1.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Copper_Golem_Statue_JE1.png/150px-Copper_Golem_Statue_JE1.png",
         "initial_release": "1.21.9",
         "blast_resistance": 6.0,
         "fire_catch": false,
@@ -2482,6 +2592,25 @@
             "Any"
         ],
         "transparent": true
+    },
+    "dark_oak_leaves": {
+        "name": "Dark Oak Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Dark_Oak_Leaves.png/150px-Dark_Oak_Leaves.png",
+        "initial_release": "1.7.2",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "PLANT",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
     },
     "dark_prismarine": {
         "name": "Dark Prismarine",
@@ -3078,6 +3207,40 @@
         ],
         "transparent": true
     },
+    "end_gateway_(block)": {
+        "name": "End Gateway (block)",
+        "image_url": "https://minecraft.wiki/images/thumb/End_Gateway_JE5.gif/150px-End_Gateway_JE5.gif",
+        "initial_release": "1.9",
+        "blast_resistance": 3600000.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": -1.0,
+        "luminous": true,
+        "map_color": "COLOR_BLACK",
+        "renewable": false,
+        "stackable": 64,
+        "tool": [
+            "None"
+        ],
+        "transparent": false
+    },
+    "end_portal_(block)": {
+        "name": "End Portal (block)",
+        "image_url": "https://minecraft.wiki/images/thumb/End_Portal_JE8.gif/150px-End_Portal_JE8.gif",
+        "initial_release": "1.0.0",
+        "blast_resistance": 3600000.0,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": -1.0,
+        "luminous": true,
+        "map_color": "COLOR_BLACK",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "None"
+        ],
+        "transparent": true
+    },
     "end_portal_frame": {
         "name": "End Portal Frame",
         "image_url": "https://minecraft.wiki/images/thumb/End_Portal_Frame_%28S%29_JE7.png/150px-End_Portal_Frame_%28S%29_JE7.png",
@@ -3505,7 +3668,7 @@
     },
     "glow_lichen": {
         "name": "Glow Lichen",
-        "image_url": "https://minecraft.wiki/images/thumb/Glow_Lichen_%28D%29_JE2.png/150px-Glow_Lichen_%28D%29_JE2.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Glow_Lichen_%28N%29_JE1.png/150px-Glow_Lichen_%28N%29_JE1.png",
         "initial_release": "1.17",
         "blast_resistance": 0.2,
         "fire_catch": true,
@@ -3727,7 +3890,7 @@
     },
     "hay_bale": {
         "name": "Hay Bale",
-        "image_url": "https://minecraft.wiki/images/thumb/Hay_Bale_%28UD%29_JE2_BE2.png/150px-Hay_Bale_%28UD%29_JE2_BE2.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Hay_Bale_%28UD%29_JE3_BE3.png/150px-Hay_Bale_%28UD%29_JE3_BE3.png",
         "initial_release": "1.6.1",
         "blast_resistance": 0.5,
         "fire_catch": false,
@@ -3997,6 +4160,25 @@
         ],
         "transparent": false
     },
+    "jungle_leaves": {
+        "name": "Jungle Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Jungle_Leaves.png/150px-Jungle_Leaves.png",
+        "initial_release": "1.2.1",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "PLANT",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
+    },
     "kelp": {
         "name": "Kelp",
         "image_url": "https://minecraft.wiki/images/Kelp_JE3_BE2.gif",
@@ -4081,25 +4263,6 @@
             "Any"
         ],
         "transparent": true
-    },
-    "leaves": {
-        "name": "Leaves",
-        "image_url": "https://minecraft.wiki/images/thumb/Oak_Leaves.png/150px-Oak_Leaves.png",
-        "initial_release": "pre-alpha",
-        "blast_resistance": 0.2,
-        "fire_catch": true,
-        "flammable": true,
-        "hardness": 0.2,
-        "luminous": false,
-        "map_color": "PLANT",
-        "renewable": true,
-        "stackable": 64,
-        "tool": [
-            "Hoe",
-            "Shears",
-            "Sword"
-        ],
-        "transparent": "Partial"
     },
     "lectern": {
         "name": "Lectern",
@@ -4188,7 +4351,7 @@
     },
     "lily_pad": {
         "name": "Lily Pad",
-        "image_url": "https://minecraft.wiki/images/thumb/Lily_Pad_%28on_the_water%29.png/150px-Lily_Pad_%28on_the_water%29.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Lily_Pad_JE3.png/150px-Lily_Pad_JE3.png",
         "initial_release": "1.0.0",
         "blast_resistance": 0.0,
         "fire_catch": false,
@@ -4270,6 +4433,25 @@
             "Pickaxe"
         ],
         "transparent": false
+    },
+    "mangrove_leaves": {
+        "name": "Mangrove Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Mangrove_Leaves.png/150px-Mangrove_Leaves.png",
+        "initial_release": "1.19",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "PLANT",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
     },
     "mangrove_propagule": {
         "name": "Mangrove Propagule",
@@ -4850,6 +5032,25 @@
         ],
         "transparent": false
     },
+    "oak_leaves": {
+        "name": "Oak Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Oak_Leaves.png/150px-Oak_Leaves.png",
+        "initial_release": "pre-alpha",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "PLANT",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
+    },
     "observer": {
         "name": "Observer",
         "image_url": "https://minecraft.wiki/images/thumb/Observer_JE4_BE3.png/150px-Observer_JE4_BE3.png",
@@ -4968,6 +5169,25 @@
             "Hoe"
         ],
         "transparent": true
+    },
+    "pale_oak_leaves": {
+        "name": "Pale Oak Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Pale_Oak_Leaves_JE1.png/150px-Pale_Oak_Leaves_JE1.png",
+        "initial_release": "1.21.2",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "METAL",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
     },
     "petrified_oak_slab": {
         "name": "Petrified Oak Slab",
@@ -5734,6 +5954,25 @@
         ],
         "transparent": true
     },
+    "poplar_leaves": {
+        "name": "Poplar Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Red_Poplar_Leaves_JE1.png/150px-Red_Poplar_Leaves_JE1.png",
+        "initial_release": "26.3",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "COLOR_RED",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
+    },
     "poppy": {
         "name": "Poppy",
         "image_url": "https://minecraft.wiki/images/thumb/Poppy_JE8_BE2.png/150px-Poppy_JE8_BE2.png",
@@ -6261,6 +6500,23 @@
         ],
         "transparent": true
     },
+    "red_shrub": {
+        "name": "Red Shrub",
+        "image_url": "https://minecraft.wiki/images/thumb/Red_Shrub_JE1.png/150px-Red_Shrub_JE1.png",
+        "initial_release": "26.3",
+        "blast_resistance": 0.0,
+        "fire_catch": false,
+        "flammable": true,
+        "hardness": 0.0,
+        "luminous": false,
+        "map_color": "",
+        "renewable": true,
+        "stackable": 1,
+        "tool": [
+            "Any"
+        ],
+        "transparent": true
+    },
     "redstone_comparator": {
         "name": "Redstone Comparator",
         "image_url": "https://minecraft.wiki/images/thumb/Redstone_Comparator_%28S%29_JE5.png/150px-Redstone_Comparator_%28S%29_JE5.png",
@@ -6610,7 +6866,7 @@
         "flammable": false,
         "hardness": 0.0,
         "luminous": false,
-        "map_color": "PLANT",
+        "map_color": "COLOR_PINK",
         "renewable": true,
         "stackable": 64,
         "tool": [
@@ -6785,6 +7041,23 @@
         "stackable": 64,
         "tool": [
             "Axe"
+        ],
+        "transparent": true
+    },
+    "shelf_mushroom": {
+        "name": "Shelf Mushroom",
+        "image_url": "https://minecraft.wiki/images/thumb/Shelf_Mushroom_%28S%29_JE1.png/150px-Shelf_Mushroom_%28S%29_JE1.png",
+        "initial_release": "26.3",
+        "blast_resistance": 0.0,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.0,
+        "luminous": false,
+        "map_color": "",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Any"
         ],
         "transparent": true
     },
@@ -7315,6 +7588,25 @@
         ],
         "transparent": false
     },
+    "spruce_leaves": {
+        "name": "Spruce Leaves",
+        "image_url": "https://minecraft.wiki/images/thumb/Spruce_Leaves.png/150px-Spruce_Leaves.png",
+        "initial_release": "Beta 1.2",
+        "blast_resistance": 0.2,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "PLANT",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Hoe",
+            "Shears",
+            "Sword"
+        ],
+        "transparent": "Partial"
+    },
     "stained_glass": {
         "name": "Stained Glass",
         "image_url": "https://minecraft.wiki/images/thumb/White_Stained_Glass_JE3_BE3.png/150px-White_Stained_Glass_JE3_BE3.png",
@@ -7553,6 +7845,23 @@
         ],
         "transparent": false
     },
+    "straw_bed": {
+        "name": "Straw Bed",
+        "image_url": "https://minecraft.wiki/images/thumb/Straw_Bed_%28N%29_JE1.png/150px-Straw_Bed_%28N%29_JE1.png",
+        "initial_release": "26.3",
+        "blast_resistance": 0.2,
+        "fire_catch": "Unknown",
+        "flammable": "Unknown",
+        "hardness": 0.2,
+        "luminous": false,
+        "map_color": "COLOR_YELLOW",
+        "renewable": true,
+        "stackable": 16,
+        "tool": [
+            "Hoe"
+        ],
+        "transparent": true
+    },
     "string": {
         "name": "String",
         "image_url": "https://minecraft.wiki/images/thumb/Tripwire_%28NESW%29.png/150px-Tripwire_%28NESW%29.png",
@@ -7780,7 +8089,7 @@
         "initial_release": "26.2",
         "blast_resistance": 6.0,
         "fire_catch": false,
-        "flammable": "Unknown",
+        "flammable": false,
         "hardness": 1.5,
         "luminous": false,
         "map_color": "COLOR_YELLOW",
@@ -8574,6 +8883,40 @@
             "Shears"
         ],
         "transparent": false
+    },
+    "wool_slab": {
+        "name": "Wool Slab",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Wool_Slab_JE1_BE1.png/150px-White_Wool_Slab_JE1_BE1.png",
+        "initial_release": "26.3",
+        "blast_resistance": 0.8,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.8,
+        "luminous": false,
+        "map_color": "COLORS",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Shears"
+        ],
+        "transparent": "Partial"
+    },
+    "wool_stairs": {
+        "name": "Wool Stairs",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Wool_Stairs_%28N%29_JE1_BE1.png/150px-White_Wool_Stairs_%28N%29_JE1_BE1.png",
+        "initial_release": "26.3",
+        "blast_resistance": 0.8,
+        "fire_catch": true,
+        "flammable": true,
+        "hardness": 0.8,
+        "luminous": false,
+        "map_color": "COLORS",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Shears"
+        ],
+        "transparent": "Partial"
     },
     "zombie_head": {
         "name": "Zombie Head",

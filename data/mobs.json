@@ -89,7 +89,7 @@
             "Neutral"
         ],
         "health": 10,
-        "height": 0.6,
+        "height": 0.5,
         "classification": [
             "Animal",
             "Arthropod"
@@ -475,7 +475,7 @@
     },
     "enderman": {
         "name": "Enderman",
-        "image_url": "https://minecraft.wiki/images/thumb/Enderman_JE3_BE1.png/272px-Enderman_JE3_BE1.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Enderman_JE3.png/272px-Enderman_JE3.png",
         "initial_release": "Beta 1.8",
         "behavior": [
             "Neutral"
@@ -551,6 +551,7 @@
             "Biome"
         ],
         "biomes": [
+            "Dappled Forest",
             "Grove",
             "Old Growth Pine Taiga",
             "Old Growth Spruce Taiga",
@@ -602,7 +603,7 @@
     },
     "giant": {
         "name": "Giant",
-        "image_url": "https://minecraft.wiki/images/thumb/Zombie_JE3_BE2.png/295px-Zombie_JE3_BE2.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Zombie_JE5_BE2.png/295px-Zombie_JE5_BE2.png",
         "initial_release": "pre-alpha",
         "behavior": [
             "Unknown"
@@ -715,7 +716,7 @@
     },
     "horse": {
         "name": "Horse",
-        "image_url": "https://minecraft.wiki/images/thumb/Creamy_Horse.png/150px-Creamy_Horse.png",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Horse.png/150px-White_Horse.png",
         "initial_release": "1.6.1",
         "behavior": [
             "Passive"
@@ -739,7 +740,7 @@
     },
     "husk": {
         "name": "Husk",
-        "image_url": "https://minecraft.wiki/images/thumb/Husk_JE2_BE2.png/150px-Husk_JE2_BE2.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Husk_JE4_BE2.png/150px-Husk_JE4_BE2.png",
         "initial_release": "1.10",
         "behavior": [
             "Hostile"
@@ -797,7 +798,7 @@
     },
     "llama": {
         "name": "Llama",
-        "image_url": "https://minecraft.wiki/images/thumb/Creamy_Llama_JE2_BE2.png/150px-Creamy_Llama_JE2_BE2.png",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Llama_JE2_BE2.png/150px-White_Llama_JE2_BE2.png",
         "initial_release": "1.11",
         "behavior": [
             "Neutral"
@@ -912,13 +913,13 @@
         "image_url": "https://minecraft.wiki/images/thumb/Ocelot_JE2_BE2.png/150px-Ocelot_JE2_BE2.png",
         "initial_release": "1.2.1",
         "behavior": [
-            "Passive"
+            "Passive",
+            "Neutral"
         ],
         "health": 10,
         "height": 0.7,
         "classification": [
-            "Animal",
-            "Monster"
+            "Animal"
         ],
         "spawn": [
             "Biome"
@@ -1092,7 +1093,8 @@
         "initial_release": "1.10",
         "behavior": [
             "Passive",
-            "Neutral"
+            "Neutral",
+            "Hostile"
         ],
         "health": 30,
         "height": 1.4,
@@ -1153,6 +1155,7 @@
         ],
         "biomes": [
             "Cherry Grove",
+            "Dappled Forest",
             "Deep Frozen Ocean",
             "Desert",
             "Flower Forest",
@@ -1220,7 +1223,7 @@
     },
     "sheep": {
         "name": "Sheep",
-        "image_url": "https://minecraft.wiki/images/thumb/White_Sheep_JE4_BE7.png/150px-White_Sheep_JE4_BE7.png",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Sheep_JE5.png/150px-White_Sheep_JE5.png",
         "initial_release": "pre-alpha",
         "behavior": [
             "Passive"
@@ -1241,6 +1244,7 @@
         "image_url": "https://minecraft.wiki/images/thumb/Shulker_JE1_BE1.png/150px-Shulker_JE1_BE1.png",
         "initial_release": "1.9",
         "behavior": [
+            "Passive",
             "Hostile"
         ],
         "health": 30,
@@ -1416,7 +1420,7 @@
     },
     "stray": {
         "name": "Stray",
-        "image_url": "https://minecraft.wiki/images/thumb/Stray_JE2_BE4.png/100px-Stray_JE2_BE4.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Stray_JE2_BE4.png/150px-Stray_JE2_BE4.png",
         "initial_release": "1.10",
         "behavior": [
             "Hostile"
@@ -1511,7 +1515,7 @@
     },
     "trader_llama": {
         "name": "Trader Llama",
-        "image_url": "https://minecraft.wiki/images/thumb/Creamy_Trader_Llama.png/150px-Creamy_Trader_Llama.png",
+        "image_url": "https://minecraft.wiki/images/thumb/White_Trader_Llama.png/150px-White_Trader_Llama.png",
         "initial_release": "1.14",
         "behavior": [
             "Neutral"
@@ -1608,7 +1612,7 @@
     },
     "vindicator": {
         "name": "Vindicator",
-        "image_url": "https://minecraft.wiki/images/thumb/Vindicator_JE3_BE3.png/150px-Vindicator_JE3_BE3.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Vindicator_JE4.png/150px-Vindicator_JE4.png",
         "initial_release": "1.11",
         "behavior": [
             "Hostile"
@@ -1755,7 +1759,6 @@
         "health": 40,
         "height": 1.4,
         "classification": [
-            "Animal",
             "Monster",
             "Undead"
         ],
@@ -1766,7 +1769,7 @@
     },
     "zombie": {
         "name": "Zombie",
-        "image_url": "https://minecraft.wiki/images/thumb/Zombie_JE3_BE2.png/150px-Zombie_JE3_BE2.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Zombie_JE5_BE2.png/150px-Zombie_JE5_BE2.png",
         "initial_release": "pre-alpha",
         "behavior": [
             "Hostile"
@@ -1849,7 +1852,7 @@
     },
     "zombie_villager": {
         "name": "Zombie Villager",
-        "image_url": "https://minecraft.wiki/images/thumb/Plains_Zombie_Villager_Base_JE1_BE1.png/190px-Plains_Zombie_Villager_Base_JE1_BE1.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Plains_Zombie_Villager_Base_JE1.png/190px-Plains_Zombie_Villager_Base_JE1.png",
         "initial_release": "1.4.2",
         "behavior": [
             "Hostile"

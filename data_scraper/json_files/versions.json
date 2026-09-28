@@ -10,6 +10,7 @@
   "Classic 0.28": "pre-alpha",
   "Indev 0.31 20100114": "pre-alpha",
   "Indev 0.31 20091223-1457": "pre-alpha",
+  "Indev 0.31 20091223-1459": "pre-alpha",
   "Indev 0.31 20091231-2147": "pre-alpha",
   "Indev 0.31 20100109-1939": "pre-alpha",
   "Indev 0.31 20100110": "pre-alpha",
@@ -214,5 +215,9 @@
   "26.1 Snapshot 5": "26.1",
   "26.2-snapshot-1": "26.2",
   "26.2 Snapshot 3": "26.2",
-  "26.2 Snapshot 7": "26.2"
+  "26.2 Snapshot 7": "26.2",
+  "26.2-snapshot-3": "26.2",
+  "26.3 Snapshot 1": "26.3",
+  "26.3 Snapshot 3": "26.3",
+  "26.3 Snapshot 7": "26.3"
 }
