@@ -38,7 +38,7 @@ async function init() {
 
 function getDateSeed() {
     const d = new Date();
-    return `${d.getUTCFullYear()}-${d.getUTCMonth()}-${d.getUTCDate()}-${config.type}`;
+    return `${d.getUTCFullYear()}-${d.getUTCMonth() + 1}-${d.getUTCDate()}-${config.type}`;  // + 1 for month, because it displays only month from 0-11
 }
 
 function seededRandom(seed) {
@@ -73,7 +73,7 @@ function renderGuessTableHead() {
 }
 
 function storageKey() {
-    return `${config.type}-${getDateSeed()}`;
+    return `${getDateSeed()}`;  // This includes the type
 }
 
 function loadGuesses() {
