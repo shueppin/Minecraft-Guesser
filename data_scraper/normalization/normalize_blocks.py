@@ -108,7 +108,7 @@ FIXED_TRANSPARENT_VALUES = {
     'Double slab: No\n\nSingle slab: Partial (blocks light)\nYes': "Partial"
 }
 
-FIXED_FLAMMABLE_VALUES = hardcoded_values = {
+FIXED_FLAMMABLE_VALUES = {
     'Bamboo: Yes (60)\nShoot: No': "Partial",
     'No\n(burns indefinitely when manually ignited, top side only)': True,
     'No, but burns indefinitely on the top side as soul fire': True,
@@ -116,11 +116,13 @@ FIXED_FLAMMABLE_VALUES = hardcoded_values = {
     'No, but burns indefinitely when manually ignited on the top side only, creating soul fire': True,
     'Yes (JE: 60, BE & edu: 30)': True,
     'Yes (JE: 60, BE: 30)': True,
+    "JE: Drops when hit with fire\nBE: Yes": True,
 }
 
 FIXED_FIRE_CATCH_VALUES = {
     'JE: Yes, except  Crimson and  Warped Sign\nBE: Yes': "Partial",
     'Only in Java Edition': True,
+    'JE: Drops when hit with lava\nBE: Yes': True,
     # The following are for things like hanging signs and shelves
     'Yes\nJE: No\nBE: Yes': "Partial",
     'Yes\nNo': "Partial"

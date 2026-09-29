@@ -378,3 +378,17 @@ td {
         font-size: 34px;
     }
 }
+
+#possibleCount {
+    width: 100%;
+    box-sizing: border-box;
+    text-align: right;
+    margin: 0 0 6px 0;
+    padding: 0 4px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#possibleCountNumber {
+    font-size: 22px;
+}

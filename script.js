@@ -6,6 +6,7 @@ const searchResults = document.getElementById('searchResults');
 const guessTable = document.getElementById('guessTable');
 const scoreContainer = document.getElementById('scoreContainer');
 const searchHeader = document.getElementById('searchHeader');
+const possibleCountNumber = document.getElementById('possibleCountNumber');
 
 let allData = {};
 let mysteryKey = null;
@@ -29,6 +30,8 @@ async function init() {
     renderSearchHeader();
     renderGuessTableHead();
     loadGuesses();
+
+    updatePossibleCount();
 
     searchInput.addEventListener('input', updateSearchResults);
 }
@@ -201,6 +204,7 @@ function makeGuess(key) {
     saveGuesses();
 
     renderGuess(key);
+    updatePossibleCount();
 
     searchInput.value = '';
     searchResults.innerHTML = '';
@@ -421,6 +425,65 @@ function parseMinecraftVersion(version) {
         parseInt(parts[2] || 0)
     ];
 }
+
+
+function updatePossibleCount() {
+    if (!possibleCountNumber) return;
+
+    const possibleKeys = Object.keys(allData).filter(key => {
+        return isPossibleAnswer(allData[key]);
+    });
+
+    possibleCountNumber.textContent = possibleKeys.length;
+}
+
+
+function isPossibleAnswer(candidate) {
+
+    // With no guesses, every item is still possible.
+    if (guesses.length === 0) {
+        return true;
+    }
+
+    /*
+     * For every previous guess, determine what feedback that guess
+     * would produce if `candidate` were the mystery answer.
+     *
+     * IMPORTANT:
+     * The order must be:
+     *
+     *     guessed item -> candidate mystery item
+     *
+     * This is the same order used by renderGuess().
+     */
+    return guesses.every(guessKey => {
+
+        const guessObject = allData[guessKey];
+
+        return fieldConfig.every(({ key }) => {
+
+            // Feedback that was actually shown for this guess.
+            const actualFeedback = compareField(
+                key,
+                guessObject[key],
+                mysteryObject[key]
+            );
+
+            // Feedback that would be shown if `candidate` were the answer.
+            const candidateFeedback = compareField(
+                key,
+                guessObject[key],
+                candidate[key]
+            );
+
+            return (
+                actualFeedback.status === candidateFeedback.status &&
+                actualFeedback.arrow === candidateFeedback.arrow
+            );
+        });
+    });
+}
+
 
 function finishGame() {
 
