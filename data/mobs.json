@@ -134,6 +134,7 @@
         "spawn": [
             "Biome",
             "Jockey",
+            "Light level",
             "Spawner"
         ],
         "biomes": [
@@ -429,6 +430,7 @@
             "Dripstone Caves",
             "Frozen Ocean",
             "Frozen River",
+            "Ice Caves",
             "Lukewarm Ocean",
             "Ocean",
             "River",
@@ -455,7 +457,7 @@
     },
     "ender_dragon": {
         "name": "Ender Dragon",
-        "image_url": "https://minecraft.wiki/images/thumb/Ender_Dragon.gif/250px-Ender_Dragon.gif",
+        "image_url": "https://minecraft.wiki/images/thumb/Ender_Dragon_JE1_BE1.png/250px-Ender_Dragon_JE1_BE1.png",
         "initial_release": "1.0.0",
         "behavior": [
             "Hostile"
@@ -578,6 +580,37 @@
         "biomes": [
             "Mangrove Swamp",
             "Swamp"
+        ]
+    },
+    "frostbite": {
+        "name": "Frostbite",
+        "image_url": "https://minecraft.wiki/images/thumb/Frostbite_JE1_BE1.png/150px-Frostbite_JE1_BE1.png",
+        "initial_release": "26.4",
+        "behavior": [
+            "Hostile"
+        ],
+        "health": 24,
+        "height": 0,
+        "classification": [
+            "Monster",
+            "Undead"
+        ],
+        "spawn": [
+            "Biome",
+            "Conversion",
+            "Light level"
+        ],
+        "biomes": [
+            "Deep Frozen Ocean",
+            "Frozen Ocean",
+            "Frozen Peaks",
+            "Frozen River",
+            "Ice Caves",
+            "Ice Spikes",
+            "Jagged Peaks",
+            "Legacy Frozen Ocean",
+            "Snowy Plains",
+            "Snowy Slopes"
         ]
     },
     "ghast": {
@@ -913,8 +946,7 @@
         "image_url": "https://minecraft.wiki/images/thumb/Ocelot_JE2_BE2.png/150px-Ocelot_JE2_BE2.png",
         "initial_release": "1.2.1",
         "behavior": [
-            "Passive",
-            "Neutral"
+            "Passive"
         ],
         "health": 10,
         "height": 0.7,
@@ -1259,7 +1291,7 @@
     },
     "silverfish": {
         "name": "Silverfish",
-        "image_url": "https://minecraft.wiki/images/thumb/Silverfish_JE1_BE1.gif/200px-Silverfish_JE1_BE1.gif",
+        "image_url": "https://minecraft.wiki/images/thumb/Silverfish_JE1_BE1.png/200px-Silverfish_JE1_BE1.png",
         "initial_release": "Beta 1.8",
         "behavior": [
             "Hostile"
@@ -1443,6 +1475,7 @@
             "Frozen Ocean",
             "Frozen Peaks",
             "Frozen River",
+            "Ice Caves",
             "Ice Spikes",
             "Jagged Peaks",
             "Legacy Frozen Ocean",
@@ -1667,7 +1700,7 @@
     },
     "witch": {
         "name": "Witch",
-        "image_url": "https://minecraft.wiki/images/thumb/Witch_JE3.png/100px-Witch_JE3.png",
+        "image_url": "https://minecraft.wiki/images/thumb/Witch_JE4.png/100px-Witch_JE4.png",
         "initial_release": "1.4.2",
         "behavior": [
             "Hostile"

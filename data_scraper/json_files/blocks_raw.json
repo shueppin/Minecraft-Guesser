@@ -1877,7 +1877,7 @@
         "version": "1.0.0"
     },
     "End Portal (block)": {
-        "image": "https://minecraft.wiki/images/thumb/End_Portal_JE8.gif/150px-End_Portal_JE8.gif",
+        "image": "https://minecraft.wiki/images/thumb/End_Portal_JE7.gif/150px-End_Portal_JE7.gif",
         "renewable": "Yes",
         "stackable": "Yes (64)\nN/A",
         "tool": "None",
@@ -3571,7 +3571,7 @@
         "version": "1.9"
     },
     "Frosted Ice": {
-        "image": "https://minecraft.wiki/images/thumb/Frosted_Ice_JE2_BE2.png/150px-Frosted_Ice_JE2_BE2.png",
+        "image": "https://minecraft.wiki/images/thumb/Frosted_Ice_%28age_0%29_JE2_BE2.png/150px-Frosted_Ice_%28age_0%29_JE2_BE2.png",
         "renewable": "Yes",
         "stackable": "Yes (64)\n\nN/A",
         "tool": "Any tool",
@@ -8761,5 +8761,49 @@
         "map color": "16 colors\n\n8 SNOW\n\n\n22 COLOR_LIGHT_GRAY\n\n\n21 COLOR_GRAY\n\n\n29 COLOR_BLACK\n\n\n26 COLOR_BROWN\n\n\n28 COLOR_RED\n\n\n15 COLOR_ORANGE\n\n\n18 COLOR_YELLOW\n\n\n19 COLOR_LIGHT_GREEN\n\n\n27 COLOR_GREEN\n\n\n23 COLOR_CYAN\n\n\n17 COLOR_LIGHT_BLUE\n\n\n25 COLOR_BLUE\n\n\n24 COLOR_PURPLE\n\n\n16 COLOR_MAGENTA\n\n\n20 COLOR_PINK",
         "note block instrument": "JE: Bass Drum\nBE: Bass\nBE: Bass Drum",
         "version": "26.3"
+    },
+    "Icicle": {
+        "image": "https://minecraft.wiki/images/thumb/Attached_Icicle_Base_%28D%29_BE1.png/150px-Attached_Icicle_Base_%28D%29_BE1.png",
+        "rarity tier": "Common",
+        "renewable": "Yes",
+        "stackable": "Yes (64)",
+        "tool": "https://minecraft.wiki/images/SlotSprite_Pickaxe_Required.png",
+        "blast resistance": "0.5",
+        "hardness": "0.5",
+        "luminous": "No",
+        "transparent": "Partial",
+        "flammable": "No",
+        "catches fire from lava": "No",
+        "note block instrument": "Chime",
+        "version": "26.4"
+    },
+    "Ice Crystal": {
+        "image": "https://minecraft.wiki/images/thumb/Ice_Crystal_%28U%29_JE1.png/150px-Ice_Crystal_%28U%29_JE1.png",
+        "rarity tier": "Common",
+        "renewable": "JE: Yes\nBE: No",
+        "stackable": "Yes (64)",
+        "tool": "https://minecraft.wiki/images/SlotSprite_Pickaxe_Required.png",
+        "blast resistance": "1.5",
+        "hardness": "1.5",
+        "luminous": "Yes (4)",
+        "transparent": "Partial",
+        "flammable": "No",
+        "catches fire from lava": "No",
+        "note block instrument": "Chime",
+        "version": "26.4"
+    },
+    "Brittle Ice": {
+        "image": "https://minecraft.wiki/images/thumb/Brittle_Ice_%28age_0%29_JE1_BE1.png/150px-Brittle_Ice_%28age_0%29_JE1_BE1.png",
+        "renewable": "Yes",
+        "stackable": "Yes (64)",
+        "tool": "https://minecraft.wiki/images/SlotSprite_Pickaxe_Required.png",
+        "blast resistance": "0.5",
+        "hardness": "0.5",
+        "luminous": "No",
+        "transparent": "?",
+        "flammable": "No",
+        "catches fire from lava": "No",
+        "note block instrument": "Chime",
+        "version": "26.4"
     }
 }

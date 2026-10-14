@@ -1940,6 +1940,18 @@
         "renewable": true,
         "stackable": 64
     },
+    "ice_ball": {
+        "name": "Ice Ball",
+        "image_url": "https://minecraft.wiki/images/Ice_Ball_JE1_BE1.png",
+        "initial_release": "26.4",
+        "drops_from_block": false,
+        "obtaining": [
+            "Mob loot"
+        ],
+        "rarity": "Common",
+        "renewable": true,
+        "stackable": 16
+    },
     "ink_sac": {
         "name": "Ink Sac",
         "image_url": "https://minecraft.wiki/images/Ink_Sac_JE2_BE2.png",

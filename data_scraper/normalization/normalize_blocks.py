@@ -101,6 +101,7 @@ LUMINOUS_VALUES = {
     'Yes, when not inactive\nWaiting for players: 4\nActive: 8': "Depends",
     'Yes, when waterlogged\n1 sea pickle: 6\n2 sea pickles: 9\n3 sea pickles: 12\n4 sea pickles: 15': True,
     'See Usage': True,
+    'Yes (4)': True
 }
 
 FIXED_TRANSPARENT_VALUES = {

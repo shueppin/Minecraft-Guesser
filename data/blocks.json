@@ -975,6 +975,23 @@
         ],
         "transparent": false
     },
+    "brittle_ice": {
+        "name": "Brittle Ice",
+        "image_url": "https://minecraft.wiki/images/thumb/Brittle_Ice_%28age_0%29_JE1_BE1.png/150px-Brittle_Ice_%28age_0%29_JE1_BE1.png",
+        "initial_release": "26.4",
+        "blast_resistance": 0.5,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 0.5,
+        "luminous": false,
+        "map_color": "",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Pickaxe"
+        ],
+        "transparent": "Unknown"
+    },
     "brown_mushroom": {
         "name": "Brown Mushroom",
         "image_url": "https://minecraft.wiki/images/thumb/Brown_Mushroom_JE9.png/150px-Brown_Mushroom_JE9.png",
@@ -3226,7 +3243,7 @@
     },
     "end_portal_(block)": {
         "name": "End Portal (block)",
-        "image_url": "https://minecraft.wiki/images/thumb/End_Portal_JE8.gif/150px-End_Portal_JE8.gif",
+        "image_url": "https://minecraft.wiki/images/thumb/End_Portal_JE7.gif/150px-End_Portal_JE7.gif",
         "initial_release": "1.0.0",
         "blast_resistance": 3600000.0,
         "fire_catch": false,
@@ -4000,6 +4017,40 @@
         "hardness": 0.5,
         "luminous": false,
         "map_color": "ICE",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Pickaxe"
+        ],
+        "transparent": "Partial"
+    },
+    "ice_crystal": {
+        "name": "Ice Crystal",
+        "image_url": "https://minecraft.wiki/images/thumb/Ice_Crystal_%28U%29_JE1.png/150px-Ice_Crystal_%28U%29_JE1.png",
+        "initial_release": "26.4",
+        "blast_resistance": 1.5,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 1.5,
+        "luminous": true,
+        "map_color": "",
+        "renewable": true,
+        "stackable": 64,
+        "tool": [
+            "Pickaxe"
+        ],
+        "transparent": "Partial"
+    },
+    "icicle": {
+        "name": "Icicle",
+        "image_url": "https://minecraft.wiki/images/thumb/Attached_Icicle_Base_%28D%29_BE1.png/150px-Attached_Icicle_Base_%28D%29_BE1.png",
+        "initial_release": "26.4",
+        "blast_resistance": 0.5,
+        "fire_catch": false,
+        "flammable": false,
+        "hardness": 0.5,
+        "luminous": false,
+        "map_color": "",
         "renewable": true,
         "stackable": 64,
         "tool": [

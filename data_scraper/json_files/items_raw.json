@@ -4097,5 +4097,14 @@
         "size": "Height: 0.249 blocks\n\nWidth: 0.999 blocks",
         "version": "26.3",
         "toc obtaining": "Breaking\nCrafting\nNatural generation\nGenerated loot"
+    },
+    "Ice Ball": {
+        "image": "https://minecraft.wiki/images/Ice_Ball_JE1_BE1.png",
+        "rarity tier": "Common",
+        "renewable": "Yes",
+        "stackable": "Yes (16)",
+        "size": "Height: 0.25 blocks\nWidth: 0.25 blocks",
+        "version": "26.4",
+        "toc obtaining": "Mob loot"
     }
 }

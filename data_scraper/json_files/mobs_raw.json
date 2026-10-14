@@ -27,10 +27,9 @@
         "health points": "20HP x 10",
         "behavior": "Hostile",
         "mob type": "Undead\nMonster",
-        "attack strength": "Ranged:\n\nBow:\n\nIn Java Edition:\n\nEasy: 2HP - 4HP\n\nNormal: 3HP - 5HP\n\nHard: 4HP - 8HP\n\nIn Bedrock Edition:\n\n3HP - 5HP\n\n\n\nMelee:\n\nEasy and Normal: 2HP\n\nHard: 3HP",
+        "attack strength": "Ranged:\n\nBow:\n\nIn Java Edition:\n\nEasy: 2HP - 4HP\n\nNormal: 3HP - 5HP\n\nHard: 4HP - 8HP\n\nIn Bedrock Edition:\n\n3HP - 5HP (depending on velocity)\n\n\n\nMelee:\n\nEasy and Normal: 2HP\n\nHard: 3HP",
         "hitbox size": "In Java Edition:\nHeight: 1.99 blocks\nWidth: 0.6 blocks\n\nIn Bedrock Edition:\n\nHeight: 1.9 blocks\nWidth: 0.6 blocks",
-        "spawn": "Overworld:\n\nLight level of 0.\nRarely when a spider or cave spider spawns, as a spider jockey.\nWhen a skeleton horse trap is triggered, as a skeleton horseman.\nMonster Room: from monster spawners.\nTrial Chambers: from trial spawners.\nThe Nether: (Light level of 7 or less)\n\n\nSoul Sand Valley\nNether Fortress",
-        "natural equipment": "Bow (may be enchanted)\n\nArmor (occasionally, may be enchanted)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
+        "spawn": "Overworld:\n\nLight level 0 in applicable biomes.\nRarely when a spider or cave spider spawns, as a spider jockey.\nWhen a skeleton horse trap is triggered, as a skeleton horseman.\nMonster Room: from monster spawners.\nTrial Chambers: from trial spawners.\nThe Nether: (Light level of 7 or less)\n\n\nSoul Sand Valley\nNether Fortress",
         "version": "pre-alpha"
     },
     "Zombie": {
@@ -41,10 +40,9 @@
         "mob type": "Undead\nMonster",
         "attack strength": "Easy: 2.5HP x 1.25\nNormal: 3HP\nHard: 4.5HP x 2.25",
         "hitbox size": "Adult In Java Edition:\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nAdult In Bedrock Edition:\nHeight: 1.9 blocks\nWidth: 0.6 blocks\n\nBaby:\nHeight: 0.98 blocks\nWidth: 0.49 blocks",
-        "speed": "0.23\n0.35 (baby)",
+        "speed": "0.23\n0.345 (baby in Java Edition)\n0.35 (baby in Bedrock Edition)",
         "knockback resistance": "0%-5%",
-        "spawn": "At light level of 0.\nWhen a husk drowns.\nWhen a zombie horse spawns, as a zombie horseman.\nWhen another zombie spawns a reinforcement.\nWhen a zombie siege occurs.\nMonster Room: from monster spawners.\nTrial Chambers: from trial spawners.",
-        "natural equipment": "Iron Shovel (occasionally, right hand: 95%; left hand: 5% ; may be enchanted)\n\nIron Sword (occasionally, right hand: 95%; left hand: 5% ; may be enchanted)\n\nIron Spear (occasionally, right hand: 95%; left hand: 5% ; may be enchanted)\n\nDiamond Sword (occasionally in ominous trials, right hand: 95%; left hand: 5% ; may be enchanted)\n\nArmor (occasionally, may be enchanted)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
+        "spawn": "At light level 0 in applicable biomes.\nWhen a husk or frostbite is submerged in water.\nWhen a drowned is frozen in powder snow.\nWhen a zombie horse spawns, as a zombie horseman.\nWhen another zombie spawns a reinforcement.\nWhen a zombie siege occurs.\nMonster Room: from monster spawners.\nTrial Chambers: from trial spawners.",
         "version": "pre-alpha"
     },
     "Spider": {
@@ -132,9 +130,8 @@
         "mob type": "Undead\nMonster",
         "attack strength": "Armed:\n\nGolden Sword:\n\nIn Java Edition:\n\nEasy: 5HP\n\nNormal: 8HP\n\nHard: 12HP x 6\n\nIn Bedrock Edition:\n\nEasy: 5.5HP x 2.75\n\nNormal: 9HP\n\nHard: 13.5HP x 6.75\n\nGolden Axe:\n\nIn Java Edition:\n\nEasy: 6.5HP x 3.25\n\nNormal: 11HP x 5.5\n\nHard: 16.5HP x 8.25\n\nIn Bedrock Edition:\n\nEasy: 5HP\n\nNormal: 8HP\n\nHard: 12HP x 6\n\nGolden Spear:\n\nthe damage depends on the velocity\nMinimum:\nEasy: 6HP\nNormal: 10HP\nHard: 15HP x 7.5\n\n\nUnarmed:\nEasy: 3.5HP x 1.75\nNormal: 5HP\nHard: 7.5HP x 3.75",
         "hitbox size": "Adult In Java Edition:\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nAdult In Bedrock Edition:\nHeight: 1.9 blocks\nWidth: 0.6 blocks\n\nBaby:\nHeight: 0.98 blocks\nWidth: 0.49 blocks",
-        "speed": "0.23\n0.35 (As a baby on Java Edition or when angry on Bedrock Edition)\n0.24 (When angry on Java Edition)\n0.37 (When angry as a baby on Java Edition)",
-        "spawn": "Nether Wastes\nCrimson Forest\nNether Fortress\nRarely when an adult strider spawns, as a strider jockey.\nWhen lightning strikes within 4 blocks of a pig in the Overworld.\nNear a Nether portal in the Overworld.\nWhen a piglin or piglin brute is in the Overworld or in the End for 15 seconds.\nWhen another zombified piglin spawns a reinforcement.",
-        "natural equipment": "Golden Sword (95% or when zombified from a piglin wielding one, may be enchanted)\nGolden Spear (5% or when zombified from a piglin wielding one, may be enchanted)\nCrossbow (when zombified from a piglin wielding one, cannot use however)\nGolden Armor (when zombified from a piglin wearing some)\nGolden Axe (when zombified from a piglin brute)\nWarped Fungus on a Stick (when spawned as a strider jockey)",
+        "speed": "0.23\n0.345 (As a baby on Java Edition or when angry on Bedrock Edition)\n0.28 (As an angry adult on Java Edition)",
+        "spawn": "Nether Wastes\nCrimson Forest\nNether Fortress\nRarely when an adult strider spawns, as a strider jockey.\nWhen lightning strikes within 4 blocks of a pig in the Overworld.\nNear an active Nether portal in the Overworld.\nWhen a piglin or piglin brute is in the Overworld or the End for 15 seconds.\nWhen another zombified piglin spawns a reinforcement.",
         "version": "Alpha 1.2.0"
     },
     "Squid": {
@@ -183,7 +180,7 @@
         "version": "Beta 1.8"
     },
     "Silverfish": {
-        "image": "https://minecraft.wiki/images/thumb/Silverfish_JE1_BE1.gif/200px-Silverfish_JE1_BE1.gif",
+        "image": "https://minecraft.wiki/images/thumb/Silverfish_JE1_BE1.png/200px-Silverfish_JE1_BE1.png",
         "health points": "8HP",
         "behavior": "Hostile",
         "mob type": "Monster\nArthropod",
@@ -236,7 +233,6 @@
         "hitbox size": "In Java Edition:\n\nHeight: 1.9 blocks\nWidth: 0.7 blocks\nIn Bedrock Edition:\n\nHeight: 1.8 blocks\nWidth: 0.4 blocks",
         "speed": "0.2",
         "spawn": "When created by a player, enderman, or dispenser",
-        "natural equipment": "Carved Pumpkin",
         "usable items": "Lead\nName tag\nShears",
         "version": "1.0.0"
     },
@@ -251,7 +247,7 @@
         "version": "1.0.0"
     },
     "Ender Dragon": {
-        "image": "https://minecraft.wiki/images/thumb/Ender_Dragon.gif/250px-Ender_Dragon.gif",
+        "image": "https://minecraft.wiki/images/thumb/Ender_Dragon_JE1_BE1.png/250px-Ender_Dragon_JE1_BE1.png",
         "health points": "200HP x 100",
         "behavior": "Hostile",
         "mob type": "Monster",
@@ -264,7 +260,7 @@
     "Ocelot": {
         "image": "https://minecraft.wiki/images/thumb/Ocelot_JE2_BE2.png/150px-Ocelot_JE2_BE2.png",
         "health points": "10HP",
-        "behavior": "Neutral (Wild)\nPassive (Trusting)",
+        "behavior": "Passive",
         "mob type": "Animal",
         "attack strength": "3HP",
         "hitbox size": "Adult:\nHeight: 0.7 blocks\nWidth: 0.6 blocks\n\nBaby:\nHeight: 0.35 blocks\nWidth: 0.3 blocks",
@@ -296,10 +292,9 @@
         "mob type": "Undead\nMonster",
         "attack strength": "Easy: 2.5HP x 1.25\nNormal: 3HP\nHard: 4.5HP x 2.25",
         "hitbox size": "Adult In Java Edition:\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nAdult In Bedrock Edition:\nHeight: 1.9 blocks\nWidth: 0.6 blocks\n\nBaby:\nHeight: 0.98 blocks\nWidth: 0.49 blocks",
-        "speed": "0.23",
+        "speed": "0.23\n0.345 (baby in Java Edition)\n0.35 (baby in Bedrock Edition)",
         "knockback resistance": "0%-5%",
-        "spawn": "Light level of 0\nWhen a zombie kills a villager, see Spawning for more information.\nWhen another zombie villager spawns a reinforcement.\n\nAbandoned villages\nIgloo",
-        "natural equipment": "In Java Edition only:\n\nIron Shovel (occasionally, right hand: 95%; left hand: 5%; may be enchanted)\n\nIron Sword (occasionally, right hand: 95%; left hand: 5%; may be enchanted)\n\nIron Spear (occasionally, right hand: 95%; left hand: 5%; may be enchanted)\n\nArmor (occasionally, may be enchanted)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
+        "spawn": "Light level of 0 in applicable biomes.\nWhen a zombie (or variant) kills a villager, see Spawning for more information.\nWhen another zombie villager spawns a reinforcement.\n\nAbandoned villages\nIgloo (in basements)",
         "usable items": "Golden Apple (only with the Weakness effect)",
         "version": "1.4.2"
     },
@@ -309,7 +304,7 @@
         "armor points": "4 ()",
         "behavior": "Hostile",
         "mob type": "Undead\nMonster",
-        "attack strength": "Birth explosion:\nVaries by proximity; maximum:\n\nJava Edition:\n\nEasy: 35.5HP x 17.75\nNormal: 69HP x 34.5\nHard: 103.5HP x 51.75\nBedrock Edition:\n\nEasy: 37HP x 18.5\nNormal: 72HP x 36\nHard: 108HP x 54\n\n\n\nWither skull:\nJava Edition:\n\nEasy: 5HP\n\nNormal: 8HP\n\nHard: 12HP x 6\n\nExplosion: 5HP\n\nBedrock Edition:\n\nEasy: 3HP - 4HP\nNormal: 5HP - 6HP\nHard: 8HP - 9HP\n\n\n\nWither:\n\nNormal: Wither II for 10 seconds (1HP per sec)\ntotal 10HP\n\nHard: Wither II for 40 seconds (1HP per sec)\ntotal 40HP x 20\n\n\n\nDash attack:\n\nEasy: 8.5HP x 4.25\n\nNormal: 15HP x 7.5\n\nHard: 22.5HP x 11.25\n\n\n\nDeath explosion:\n\nVaries by proximity; maximum:\n\nEasy: 37HP x 18.5\nNormal: 72HP x 36\nHard: 108HP x 54\n\n\n\nHalf health explosion:\n\nVaries by proximity; maximum:\n\nEasy: 37HP x 18.5\nNormal: 72HP x 36\nHard 108HP x 54",
+        "attack strength": "Birth explosion:\nVaries by proximity; maximum:\n\nJava Edition:\n\nEasy: 35.5HP x 17.75\nNormal: 69HP x 34.5\nHard: 103.5HP x 51.75\nBedrock Edition:\n\nEasy: 37HP x 18.5\nNormal: 72HP x 36\nHard: 108HP x 54\n\n\n\nWither skull:\nJava Edition:\n\nEasy: 5HP\n\nNormal: 8HP\n\nHard: 12HP x 6\n\nExplosion: 5HP\n\nBedrock Edition:\nVaries by proximity:\n\nEasy: 3HP - 7.5HP x 3.75\nNormal: 5HP - 13HP x 6.5\nHard: 8HP - 19.5HP x 9.75\n\n\n\nWither:\n\nNormal: Wither II for 10 seconds (1HP per sec)\ntotal 10HP\n\nHard: Wither II for 40 seconds (1HP per sec)\ntotal 40HP x 20\n\n\n\nDash attack:\n\nEasy: 8.5HP x 4.25\n\nNormal: 15HP x 7.5\n\nHard: 22.5HP x 11.25\n\n\n\nDeath explosion:\n\nVaries by proximity; maximum:\n\nEasy: 37HP x 18.5\nNormal: 72HP x 36\nHard: 108HP x 54\n\n\n\nHalf health explosion:\n\nVaries by proximity; maximum:\n\nEasy: 37HP x 18.5\nNormal: 72HP x 36\nHard 108HP x 54",
         "hitbox size": "Java Edition:\n\nHeight: 3.5 blocks\nWidth: 0.9 blocks\nBedrock Edition:\n\nHeight: 3.0 blocks\nWidth: 1.0 blocks",
         "speed": "0.6",
         "spawn": "Built by player; 11 second spawn delay.",
@@ -324,7 +319,6 @@
         "hitbox size": "In Java Edition:\n\nHeight: 2.4 blocks\nWidth: 0.7 blocks\nIn Bedrock Edition:\n\nHeight: 2.412 blocks\nWidth: 0.864 blocks",
         "speed": "0.25 when idle and 0.3125 when attacking",
         "spawn": "Nether Fortress\nWhen a wither reaches half health.",
-        "natural equipment": "Stone Sword (right hand: 95%; left hand: 5% )\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
         "version": "1.4.2"
     },
     "Bat": {
@@ -338,7 +332,7 @@
         "version": "1.4.2"
     },
     "Witch": {
-        "image": "https://minecraft.wiki/images/thumb/Witch_JE3.png/100px-Witch_JE3.png",
+        "image": "https://minecraft.wiki/images/thumb/Witch_JE4.png/100px-Witch_JE4.png",
         "health points": "26HP x 13",
         "behavior": "Hostile",
         "mob type": "Monster",
@@ -346,7 +340,6 @@
         "hitbox size": "In Java Edition:\n\nHeight: 1.95 blocks\nWidth: 0.6 blocks\nIn Bedrock Edition:\n\nHeight: 1.9 blocks\nWidth: 0.6 blocks",
         "speed": "0.25",
         "spawn": "Light level of 0\n\nSwamp Hut\n\nWhen lightning strikes near a villager.\n\nRaids",
-        "natural equipment": "Potion of Healing\n\nPotion of Fire Resistance\n\nPotion of Swiftness\n\nPotion of Water Breathing",
         "version": "1.4.2"
     },
     "Horse": {
@@ -467,10 +460,9 @@
         "mob type": "Undead\nMonster",
         "attack strength": "Easy: 2.5HP x 1.25\nNormal: 3HP\nHard: 4.5HP x 2.25\nUnarmed attacks inflict Hunger based on regional difficulty.",
         "hitbox size": "Adult In Java Edition:\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nAdult In Bedrock Edition:\nHeight: 1.9 blocks\nWidth: 0.6 blocks\n\nBaby:\nHeight: 0.98 blocks\nWidth: 0.49 blocks",
-        "speed": "0.23\n0.35 (baby)",
+        "speed": "0.23\n0.345 (baby in Java Edition)\n0.35 (baby in Bedrock Edition)",
         "knockback resistance": "0%-5%",
-        "spawn": "Desert at night or during thunderstorms.\nWhen another husk spawns a reinforcement.\nTrial Chambers: from trial spawners.",
-        "natural equipment": "Iron Shovel (occasionally, right hand: 95%; left hand: 5% ; may be enchanted)\n\nIron Sword (occasionally, right hand: 95%; left hand: 5%\n; may be enchanted)\n\n\nIron Spear (occasionally, right hand: 95%; left hand: 5% ; may be enchanted)\n\nDiamond Sword (occasionally in ominous trials, right hand: 95%; left hand: 5% )\n\nArmor (occasionally, may be enchanted)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
+        "spawn": "Desert surface at night or during thunderstorms.\nWhen another husk spawns a reinforcement.\nTrial Chambers: from trial spawners.",
         "version": "1.10"
     },
     "Polar Bear": {
@@ -493,8 +485,7 @@
         "mob type": "Undead\nMonster",
         "attack strength": "Ranged:\n\nBow:\n\nIn Java Edition:\n\nEasy: 2HP - 4HP\n\nNormal: 3HP - 5HP\n\nHard: 4HP - 8HP\n\nIn Bedrock Edition:\n\n3HP - 5HP\n\n\nArrow of Slowness :\n\nSlowness for 30 seconds\n\n\n\nMelee:\n\nEasy: 2HP\n\nNormal: 2HP\n\nHard: 3HP\nSlowness for 9 seconds",
         "hitbox size": "In Java Edition:\n\nHeight: 1.99 Blocks\nWidth: 0.6 Blocks\n\nIn Bedrock Edition:\n\nHeight: 1.9 Blocks\nWidth: 0.6 Blocks",
-        "spawn": "At night or during thunderstorms:\nSnowy Plains\nIce Spikes\nFrozen Ocean\nDeep Frozen Ocean\nFrozen River\nLegacy Frozen Ocean\nSnowy Slopes\nJagged Peaks\nFrozen Peaks\nRarely when a spider or cave spider spawns in one of the above biomes, as a spider jockey.\nWhen a skeleton freezes.\nTrial Chambers: from trial spawners.",
-        "natural equipment": "Bow (right hand: 95%; left hand: 5% ; may be enchanted)\n\nArmor (occasionally, may be enchanted)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
+        "spawn": "At night or during thunderstorms in the following surface biomes:\nSnowy Plains\nIce Spikes\nFrozen Ocean\nDeep Frozen Ocean\nFrozen River\nLegacy Frozen Ocean\nSnowy Slopes\nJagged Peaks\nFrozen Peaks\nAt light level 0 in the following biomes:\nIce Caves\nRarely when a spider or cave spider spawns in one of the above biomes, as a spider jockey.\nWhen a skeleton is submerged in powder snow.\nTrial Chambers: from trial spawners.",
         "version": "1.10"
     },
     "Llama": {
@@ -518,7 +509,6 @@
         "hitbox size": "In Java Edition:\n\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nIn Bedrock Edition:\n\nHeight: 1.9 blocks\nWidth: 0.6 blocks",
         "speed": "5.612 blocks/sec",
         "spawn": "Woodland Mansion\n\nRaids",
-        "natural equipment": "Iron Axe (right hand: 95%; left hand: 5% ; may be enchanted)",
         "version": "1.11"
     },
     "Evoker": {
@@ -540,7 +530,6 @@
         "attack strength": "Armed:\n\nIron Sword:\n\nEasy: 5.5HP x 2.75\nNormal: 9HP\nHard: 13.5HP x 6.75\n\n\n\nUnarmed:\n\nIn Java Edition:\n\nEasy: 3HP\nNormal: 4HP\nHard: 6HP\n\nIn Bedrock Edition:\n\nEasy: 2.5HP x 1.25\n\nNormal: 3HP\n\nHard: 4.5HP x 2.25",
         "hitbox size": "Height: 0.8 blocks\nWidth: 0.4 blocks",
         "spawn": "Summoned by evokers",
-        "natural equipment": "Iron Sword\n(right hand: 95%; left hand: 5% ; may be enchanted)",
         "version": "1.11"
     },
     "Parrot": {
@@ -562,7 +551,6 @@
         "attack strength": "Bow:\n\nEasy and Normal: 2HP - 5HP\n\nHard: 3HP - 5HP",
         "speed": "0.5",
         "spawn": "By commands",
-        "natural equipment": "Bow (right hand: 95%; left hand: 5%)",
         "version": "1.12"
     },
     "Phantom": {
@@ -640,10 +628,9 @@
         "mob type": "Undead\nMonster",
         "attack strength": "Melee:\nEasy: 2.5HP x 1.25\nNormal: 3HP\nHard: 4.5HP x 2.25\n\nTrident:\n\nEasy: 6.5HP x 3.25\nNormal: 11HP x 5.5\nHard: 16.5HP x 8.25\n\n\nRanged:\n\nTrident:\n\nIn Java Edition:\nEasy: 5HP\nNormal: 8HP\nHard: 12HP x 6\nIn Bedrock Edition:\n8HP",
         "hitbox size": "Adult In Java Edition:\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nAdult In Bedrock Edition:\nHeight: 1.9 blocks\nWidth: 0.6 blocks\n\nGurgle:\nHeight: 0.98 blocks\nWidth: 0.49 blocks",
-        "speed": "0.23\n0.35 (gurgle)",
+        "speed": "0.23\n0.345 (gurgle in Java Edition)\n0.35 (gurgle in Bedrock Edition)",
         "knockback resistance": "0%-5%",
-        "spawn": "When a zombie drowns.\nWhen another drowned spawns a reinforcement.\nRiver\nFrozen River\nCold Ocean\nDeep Cold Ocean\nFrozen Ocean\nDeep Frozen Ocean\nLukewarm Ocean\nDeep Lukewarm Ocean\nOcean\nDeep Ocean\nWarm Ocean\nDripstone Caves\n\nOcean Ruins",
-        "natural equipment": "Trident (6.25% chance)\nFishing Rod (3.75% chance)\nNautilus Shell (3% chance in Java Edition and 8% chance in Bedrock Edition; only appears in offhand)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
+        "spawn": "When a zombie is submerged in water.\nWhen another drowned spawns a reinforcement.\nRiver\nFrozen River\nCold Ocean\nDeep Cold Ocean\nFrozen Ocean\nDeep Frozen Ocean\nLukewarm Ocean\nDeep Lukewarm Ocean\nOcean\nDeep Ocean\nWarm Ocean\nDripstone Caves\nIce Caves\nOcean Ruins upon world generation.",
         "version": "1.13"
     },
     "Dolphin": {
@@ -675,10 +662,9 @@
         "health points": "24HP x 12",
         "behavior": "Hostile\nPassive (broken crossbow)",
         "mob type": "Illager\nMonster",
-        "attack strength": "Ranged:\n\nCrossbow:\n\nIn Java Edition:\n\nEasy: 2HP - 3HP\nNormal: 3HP - 5HP\nHard: 5HP - 7HP\n\nIn Bedrock Edition:\n\nEasy: 3HP - 4HP\nNormal and Hard: 4HP\n\n\n\nMelee:\n\nEasy: 2.5HP x 1.25\n\nNormal: 3HP\n\nHard: 4.5HP x 2.25",
+        "attack strength": "Ranged:\n\nCrossbow:\n\nIn Java Edition:\n\nEasy: 2HP - 3HP\nNormal: 3HP - 5HP\nHard: 5HP - 7HP\n\nIn Bedrock Edition:\n\n3HP - 4HP\n\n\n\nMelee:\n\nEasy: 2.5HP x 1.25\n\nNormal: 3HP\n\nHard: 4.5HP x 2.25",
         "hitbox size": "In Java Edition:\n\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nIn Bedrock Edition:\n\nHeight: 1.9 blocks\nWidth: 0.6 blocks",
         "spawn": "Patrols\n\nPillager Outpost\n\nRaids",
-        "natural equipment": "Crossbow (right hand: 95%; left hand: 5% ; may be enchanted)",
         "version": "1.14"
     },
     "Ravager": {
@@ -737,7 +723,6 @@
         "hitbox size": "Adult:\nHeight: 0.7 blocks\nWidth: 0.6 blocks\n\nBaby:\nHeight: 0.42 blocks\nWidth: 0.36 blocks",
         "speed": "0.3",
         "spawn": "Grove\nSnowy Taiga\nOld Growth Pine Taiga\nOld Growth Spruce Taiga\nTaiga\nDappled Forest",
-        "natural equipment": "Emerald\n\nRabbit's Foot\n\nRabbit Hide\n\nEgg\n\nWheat\n\nLeather\n\nFeather",
         "usable items": "Glow Berries\nLead\nSweet Berries\nGolden Dandelion (baby only)",
         "version": "1.14"
     },
@@ -775,11 +760,10 @@
         "armor points": "0 ()",
         "behavior": "Neutral (adult)\nPassive (baby)",
         "mob type": "Monster",
-        "attack strength": "Melee:\n\nGolden Sword:\n\nIn Java Edition:\n\nEasy: 5HP\n\nNormal: 8HP\n\nHard: 12HP x 6\n\nIn Bedrock Edition:\n\nEasy: 5.5HP x 2.75\n\nNormal: 9HP\n\nHard: 13.5HP x 6.75\n\nGolden Spear:\nthe damage depends on the velocity\nMinimum:\n\nEasy: 6.5HP x 3.25\n\nNormal: 11HP x 5.5\n\nHard: 16.5HP x 8.25\n\nUnarmed:\n\nEasy: 3.5HP x 1.75\n\nNormal: 5HP\n\nHard: 7.5HP x 3.75\n\n\n\nRanged:\n\nCrossbow:\n\nIn Java Edition:\n\nEasy and Normal: 2HP to 5HP\n\nHard: 3HP to 5HP\n\nIn Bedrock Edition:",
+        "attack strength": "Melee:\n\nGolden Sword:\n\nIn Java Edition:\n\nEasy: 5HP\n\nNormal: 8HP\n\nHard: 12HP x 6\n\nIn Bedrock Edition:\n\nEasy: 5.5HP x 2.75\n\nNormal: 9HP\n\nHard: 13.5HP x 6.75\n\nGolden Spear:\nthe damage depends on the velocity\nMinimum:\n\nEasy: 6.5HP x 3.25\n\nNormal: 11HP x 5.5\n\nHard: 16.5HP x 8.25\n\nUnarmed:\n\nEasy: 3.5HP x 1.75\n\nNormal: 5HP\n\nHard: 7.5HP x 3.75\n\n\n\nRanged:\n\nCrossbow:\n\nIn Java Edition:\n\nEasy and Normal: 2HP to 5HP\n\nHard: 3HP to 5HP\n\nIn Bedrock Edition:\n\n3HP to 5HP",
         "hitbox size": "Adult In Java Edition:\nHeight: 1.95 blocks\nWidth: 0.6 blocks\n\nAdult In Bedrock Edition:\nHeight: 1.9 blocks\nWidth: 0.6 blocks\n\nBaby:\nHeight: 0.98 blocks\nWidth: 0.49 blocks",
         "speed": "0.35",
         "spawn": "Nether Wastes\nCrimson Forest\n\nBastion Remnant",
-        "natural equipment": "Golden Sword (45% of adults, right hand: 95%; left hand: 5% ; may be enchanted)\n\nCrossbow (50% of adults, right hand: 95%; left hand: 5% ; may be enchanted)\n\nGolden Spear (5% of adults, right hand: 95%; left hand: 5% ; may be enchanted)\n\nGolden Helmet (occasionally on adults, may be enchanted)\n\nGolden Chestplate\n(occasionally on adults, may be enchanted)\n\n\nGolden Leggings (occasionally on adults, may be enchanted)\n\nGolden Boots (occasionally on adults, may be enchanted)",
         "usable items": "Gold Ingot",
         "version": "1.16"
     },
@@ -791,7 +775,6 @@
         "hitbox size": "Adult:\nHeight: 1.7 blocks\nWidth: 0.9 blocks\n\nBaby:\nHeight: 0.85 blocks\nWidth: 0.45 blocks",
         "speed": "0.175",
         "spawn": "Lava sea\nDelta\nNether Wastes\nCrimson Forest\nWarped Forest\nSoul Sand Valley\nBasalt Deltas",
-        "natural equipment": "Saddle (as a strider jockey)",
         "usable items": "Saddle\nShears (when equipped with a saddle)\nWarped Fungus on a Stick\nLead\nName Tag\nWarped Fungus\nGolden Dandelion (baby only)",
         "version": "1.16"
     },
@@ -818,8 +801,7 @@
         "mob type": "Monster",
         "attack strength": "Armed:\n\nGolden Axe:\n\nIn Java Edition:\n\nEasy: 7.5HP x 3.75\n\nNormal: 13HP x 6.5\n\nHard: 19.5HP x 9.75\n\nIn Bedrock Edition:\n\nEasy: 6HP\n\nNormal: 10HP\n\nHard: 15HP x 7.5\n\n\n\nUnarmed:\n\nEasy: 4.5HP x 2.25\n\nNormal: 7HP\n\nHard: 10.5HP x 5.25",
         "hitbox size": "In Java Edition:\n\nHeight: 1.95 blocks\nWidth: 0.6 blocks\nIn Bedrock Edition:\n\nHeight: 1.9 blocks\nWidth: 0.6 blocks",
-        "spawn": "Bastion remnant",
-        "natural equipment": "Golden Axe (right hand: 95%; left hand: 5%; may be enchanted )",
+        "spawn": "Bastion Remnant",
         "version": "1.16.2"
     },
     "Axolotl": {
@@ -954,8 +936,7 @@
         "mob type": "Undead\nMonster",
         "attack strength": "Ranged:\n\nBow:\n\nIn Java Edition:\nEasy: 2HP - 4HP\n\nNormal: 3HP - 5HP\n\nHard: 4HP - 8HP\n\nIn Bedrock Edition:\n\n3HP - 5HP\n\n\nArrow of Poison:\n\nPoison for 4 seconds, dealing 3HP\n\n\n\nMelee:\n\nEasy and Normal: 2HP\n\nHard: 3HP",
         "hitbox size": "Java:\nHeight: 1.99 blocks\nWidth: 0.6 blocks\n\nBedrock:\nHeight: 1.9 blocks\nWidth: 0.6 blocks",
-        "spawn": "Swamp\nMangrove Swamp\nRarely when a spider or cave spider spawns in one of the above biomes, as a spider jockey.\nTrial Chambers: from trial spawners.",
-        "natural equipment": "Bow (right hand: 95%; left hand: 5%) ; may be enchanted)\n\nArmor (occasionally, may be enchanted)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
+        "spawn": "At light level 0 in the following biomes:\nSwamp\nMangrove Swamp\nRarely when a spider or cave spider spawns in one of the above biomes, as a spider jockey.\nTrial Chambers: from trial spawners.",
         "usable items": "Shears",
         "version": "1.20.5"
     },
@@ -978,14 +959,14 @@
         "hitbox size": "Happy Ghast:\nHeight and width: 4.0 blocks\nGhastling:\nHeight and width: 0.95 blocks",
         "speed": "0.05",
         "spawn": "When a dried ghast is rehydrated in water (as ghastling)",
-        "usable items": "Snowball\nGolden Dandelion (ghastling only)\nHarness\nShears (when equipped with a harness or leashed)\nLead",
+        "usable items": "Snowball\nGolden Dandelion (ghastling only)\nHarness\nShears (when equipped with a harness or leashed)\nName Tag\nLead",
         "version": "1.21.6"
     },
     "Copper Golem": {
         "image": "https://minecraft.wiki/images/thumb/Copper_Golem_JE1_BE1.png/100px-Copper_Golem_JE1_BE1.png",
         "health points": "12HP x 6",
         "behavior": "Passive",
-        "hitbox size": "Height: 0.98 blocks\nWidth: 0.49 blocks",
+        "hitbox size": "In Java Edition:\nHeight: 0.98 blocks\nWidth: 0.49 blocks\nIn Bedrock Edition:\nHeight: 0.98 blocks\nWidth: 0.6 blocks",
         "speed": "0.2",
         "spawn": "When built by the player.\nWhen a player uses an axe on an unwaxed and unoxidized copper golem statue.",
         "usable items": "Axe\n\nHoneycomb\n\nLead\n\nName Tag\n\nShears (when a flower is on its head)",
@@ -1037,8 +1018,7 @@
         "attack strength": "Ranged:\n\nBow:\n\nIn Java Edition:\nEasy: 2HP - 4HP\n\nNormal: 3HP - 5HP\n\nHard: 4HP - 8HP\n\nIn Bedrock Edition:\n\n3HP - 5HP\n\n\nArrow of Weakness:\n\nWeakness for 30 seconds\n\n\n\nMelee:\n\nEasy: 2HP\n\nNormal: 2HP\n\nHard: 3HP",
         "hitbox size": "Java:\nHeight: 1.99 blocks\nWidth: 0.6 blocks\n\nBedrock:\nHeight: 1.9 blocks\nWidth: 0.6 blocks",
         "speed": "0.25",
-        "spawn": "Desert at night or during thunderstorms.\nWhen a camel husk jockey spawns, as a passenger.\nRarely when a spider or cave spider spawns in a desert, as a spider jockey.",
-        "natural equipment": "Bow (right hand: 95%; left hand: 5% ; may be enchanted)\n\nArmor (occasionally, may be enchanted)\n\nCarved Pumpkin (22.5% chance, only during Halloween)\n\nJack o'Lantern (2.5% chance, only during Halloween)",
+        "spawn": "Desert surface at night or during thunderstorms.\nWhen a camel husk jockey spawns, as a passenger.\nRarely when a spider or cave spider spawns in a desert, as a spider jockey.",
         "version": "1.21.11"
     },
     "Sulfur Cube": {
@@ -1053,5 +1033,15 @@
         "spawn": "Sulfur Caves",
         "usable items": "Large:\nAbsorbable blocks\nShears (when it has absorbed a block)\nBucket\nLead (when it has absorbed a block)\nSmall:\n\nSlimeball\nGolden Dandelion",
         "version": "26.2"
+    },
+    "Frostbite": {
+        "image": "https://minecraft.wiki/images/thumb/Frostbite_JE1_BE1.png/150px-Frostbite_JE1_BE1.png",
+        "health points": "24HP x 12\n48HP x 24 to 120HP x 60 (leaders)",
+        "armor points": "2 ()",
+        "behavior": "Hostile",
+        "mob type": "Undead\nMonster",
+        "attack strength": "Melee:\nEasy: 2.5HP x 1.25\nNormal: 3HP\nHard: 4.5HP x 2.25\nInflicts Freezing for 3 seconds\nRanged:\n\nIce Ball:\nEasy: 1HP to 4HP\nNormal: 1HP to 4HP\nHard: 1HP to 4HP\nDamage scales by velocity on impact",
+        "spawn": "At night or during thunderstorms in the following surface biomes:\nSnowy Plains\nIce Spikes\nFrozen River\nFrozen Ocean\nDeep Frozen Ocean\nLegacy Frozen Ocean\nSnowy Slopes\nJagged Peaks\nFrozen Peaks\nAt light level 0 in the following biomes:\nIce Caves\nWhen a zombie or husk is submerged in powder snow.",
+        "version": "26.4"
     }
 }

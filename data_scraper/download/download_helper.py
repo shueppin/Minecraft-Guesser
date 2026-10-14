@@ -17,6 +17,7 @@ VERSIONS_JSON_PATH = (actual_dir / ".." / "json_files" / "versions.json").resolv
 
 BASE_URL = "https://minecraft.wiki"
 
+
 def _expand_and_clean_url(url: str) -> str:
     url = BASE_URL + url
     url = re.sub(r'[?#].*$', '', url)  # Remove the query at the end
